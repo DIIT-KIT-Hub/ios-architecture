@@ -1,0 +1,431 @@
+﻿TY  - JOUR
+AU  - García, RF
+TI  - Mvc: model–view–controller
+JF  - … Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9_2
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9069-9_2
+PY  - 2023///
+AB  - The Model-View-Controller (MVC) design pattern is widely used in iOS development. It is used to separate data management, user interface, and input handling concerns. The Model …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 5 cites: https://scholar.google.com/scholar?cites=11948814561476091672&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 5
+ER  - 
+
+TY  - HTML
+AU  - Dobrean, D
+AU  - Dioşan, L
+TI  - Detecting model view controller architectural layers using clustering in mobile codebases
+PB  - academia.edu
+UR  - https://www.academia.edu/download/107685281/98846.pdf
+UR  - https://www.academia.edu/download/107685281/98846.pdf
+PY  - 2020///
+AB  - … our approach we asked 2 senior iOS where three applications are … , precision the iOS platform and we are analyzing Swift code- … Since we have analyzed Swift codebases all the X …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 4 cites: https://scholar.google.com/scholar?cites=5380927271456000703&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 4
+ER  - 
+
+TY  - HTML
+AU  - Necula, S
+TI  - Exploring the model-view-controller (mvc) architecture: A broad analysis of market and technological applications
+PB  - preprints.org
+UR  - https://www.preprints.org/manuscript/202404.1860
+UR  - https://www.preprints.org/manuscript/202404.1860
+PY  - 2024///
+AB  - … Mobile Applications: MVC is employed in the development of mobile applications to manage complex user interfaces and data interactions, particularly in iOS Development. Apple’s iOS …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 39 cites: https://scholar.google.com/scholar?cites=6362643709332820360&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 39
+ER  - 
+
+TY  - JOUR
+AU  - Freeman, A
+TI  - The model/view/controller pattern
+JF  - Pro design patterns in swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-0394-1_27
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-0394-1_27
+PY  - 2014///
+AB  - … The Model/View/Controller (MVC) pattern has become increasingly prevalent in recent years and underpins a lot of modern software development, including iOS app projects. In this …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 6 cites: https://scholar.google.com/scholar?cites=9880733275961412083&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 6
+ER  - 
+
+TY  - JOUR
+AU  - Dobrean, D
+AU  - Dioşan, L
+TI  - Pathways for statically mining the Model-View-Controller software architecture on mobile applications: D. Dobrean, L. Dioşan
+JF  - Soft Computing
+PB  - Springer
+DO  - 10.1007/s00500-022-06908-0
+UR  - https://link.springer.com/article/10.1007/s00500-022-06908-0
+PY  - 2022///
+AB  - … In this part of the study, we focus on Swift codebases from the iOS platform, however, all our … The difference between iOS and other platforms would be the naming of components and …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 2 cites: https://scholar.google.com/scholar?cites=15913845185612122510&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Baruah, S
+AU  - Baruah, S
+TI  - Model-View-Controller Design Framework
+JF  - … iOS iCloud: Build High-Performance Apps with Swift
+PB  - Springer
+DO  - 10.1007/979-8-8688-0944-6_4
+UR  - https://link.springer.com/chapter/10.1007/979-8-8688-0944-6_4
+PY  - 2024///
+AB  - Abstract Model-View-Controller (MVC) architecture is one of the most popular design patterns used in software application development. Based on what function that code represents, …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Vennaro, E
+TI  - Model View Controller (MVC)
+JF  - iOS Development at Scale: App Architecture and …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9456-7_7
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9456-7_7
+PY  - 2023///
+AB  - In Chapter 6 , we discussed common foundational design patterns in iOS and how they help form the foundation of good architecture by helping you to structure your code and improve …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - PDF
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - Model View Controller in iOS mobile applications development.
+JF  - SEKE
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Dragos-Dobrean/publication/335151640_Model_View_Controller_in_iOS_mobile_applications_development/links/5d81f6c4458515cbd195a443/Model-View-Controller-in-iOS-mobile-applications-development.pdf
+UR  - https://www.researchgate.net/profile/Dragos-Dobrean/publication/335151640_Model_View_Controller_in_iOS_mobile_applications_development/links/5d81f6c4458515cbd195a443/Model-View-Controller-in-iOS-mobile-applications-development.pdf
+PY  - 2019///
+AB  - … Therefore, this paper focuses on showing that the Model View Controller (MVC) — one of the most common classical architectural patterns — can be used successfully for building …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 15 cites: https://scholar.google.com/scholar?cites=1191152595437426580&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 15
+ER  - 
+
+TY  - PDF
+AU  - Галака, ДС
+AU  - Резанова, ВГ
+TI  - Розроблення мобільного додатку з використанням паттерну Model-View-Controller
+JF  - Мехатронні системи: інновації та …
+PB  - er.knutd.edu.ua
+UR  - https://er.knutd.edu.ua/bitstream/123456789/28814/1/%D0%A2%D0%B5%D0%B7%D0%B8%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B5%D0%B9%20MSIE%202024-1-2-289-121-122.pdf
+UR  - https://er.knutd.edu.ua/bitstream/123456789/28814/1/%D0%A2%D0%B5%D0%B7%D0%B8%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B5%D0%B9%20MSIE%202024-1-2-289-121-122.pdf
+PY  - 2024///
+AB  - … кількох мобільних платформах (Android, iOS). Для спрощення розробки кросплатформенних … пристрої з операційною системою Android чи iOS. Мають бути виконані наступні …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - CITATION
+AU  - Ambani, D
+TI  - Model view controller (MVC): A latest mobile &web application development approaches
+JF  - … -An International Multidisciplinary Peer-Reviewed E …
+PY  - 2020///
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 6 cites: https://scholar.google.com/scholar?cites=16004770287869291025&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 6
+ER  - 
+
+TY  - PDF
+AU  - Thakur, RN
+TI  - The Role of Model-View Controller in Object Oriented Software Development Ram Naresh Thakur1 and US Pandey2
+JF  - architecture
+PB  - academia.edu
+UR  - https://www.academia.edu/download/102699297/21868.pdf
+UR  - https://www.academia.edu/download/102699297/21868.pdf
+PY  - 2019///
+AB  - … The MVC is very useful for developing Interactive and Dynamic Web Applications and iOS. With MVC, developers can trust on design patterns that are widely accepted as solutions for …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Guamán, D
+AU  - Delgado, S
+AU  - Pérez, J
+TI  - Classifying model-view-controller software applications using self-organizing maps
+JF  - IEEE Access
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9380344/
+UR  - https://ieeexplore.ieee.org/iel7/6287639/9312710/09380344.pdf
+PY  - 2021///
+AB  - … In this paper, we apply a novel unsupervised clustering technique, based on the well-known artificial neural network model Self-Organizing Maps, to classify Model-View-Controller (…
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 49 cites: https://scholar.google.com/scholar?cites=7710524401935257421&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 49
+ER  - 
+
+TY  - JOUR
+AU  - Arain, MH
+AU  - Memon, M
+AU  - Baloch, Z
+AU  - ...
+TI  - An Extensible Model-View-Controller (MVC)-Based Cross Platform Framework for Next-Generation AI-Enabled Email Applications
+JF  - International Journal of …
+PB  - ideas.repec.org
+UR  - https://ideas.repec.org/a/abq/ijist1/v8y2026i3p1397-1407.html
+PY  - 2026///
+AB  - … heterogeneous computing systems such as Android, iOS, and desktops. The traditional … demonstrated successful deployment across android, iOS, and desktop platforms using a …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - CITATION
+AU  - Thakur, RN
+AU  - Pandey, US
+TI  - The role of model-view controller in object oriented software development
+JF  - Nepal Journal of Multidisciplinary Research
+UR  - https://www.researchgate.net/profile/Thakur-12/publication/337128796_The_Role_of_Model-View_Controller_in_Object_Oriented_Software_Development/links/64f98d5b8ea93c20d224279f/The-Role-of-Model-View-Controller-in-Object-Oriented-Software-Development.pdf
+PY  - 2019///
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 34 cites: https://scholar.google.com/scholar?cites=18077034765066674278&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 34
+ER  - 
+
+TY  - CITATION
+AU  - Hodapp, D
+TI  - Model–View–ViewModel (MVVM). Architektur, Datenbindung in WPF und Vergleich mit dem Model–View–Controller (MVC)
+PB  - GRIN Verlag
+PY  - 2025///
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Tin, TT
+AU  - Yuan, CZ
+AU  - Selvaraj, KR
+TI  - Smart-Learning Networked Controllers for Centralized Air-Conditioning Systems Using Model-View-Controller Model
+JF  - International Visual Informatics Conference
+PB  - Springer
+DO  - 10.1007/978-3-319-70010-6_68
+UR  - https://link.springer.com/chapter/10.1007/978-3-319-70010-6_68
+UR  - https://www.researchgate.net/profile/Zhiyuan-Chen-7/publication/320687725_Smart-Learning_Networked_Controllers_for_Centralized_Air-Conditioning_Systems_Using_Model-View-Controller_Model/links/5fe50abb299bf140883f4065/Smart-Learning-Networked-Controllers-for-Centralized-Air-Conditioning-Systems-Using-Model-View-Controller-Model.pdf
+PY  - 2017///
+AB  - This paper presents a smart system iBeam which is a smart learning and networked air conditioning system designing by using a Model – View – Controller (MVC) model. This is a …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - PDF
+AU  - Schnetz, S
+TI  - Konzeption und Realisation einer responsiven Single-Page-Applikation nach dem Model-View-Controller-Ansatz unter Verwendung von Frameworks
+PB  - opus.hs-offenburg.de
+UR  - https://opus.hs-offenburg.de/files/251/Bachelorthesis_Schnetz.pdf
+UR  - https://opus.hs-offenburg.de/files/251/Bachelorthesis_Schnetz.pdf
+PY  - 2014///
+AB  - … Darüber hinaus kommt hier der Model-View-Controller-Ansatz zum tragen, denn die Programmlogik wird bei AngularJS in einem Controller ausgelagert. Das HTML-Dokument dient als …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Ramírez-Noriega, A
+AU  - Martínez-Ramírez, Y
+AU  - ...
+TI  - A software tool to generate a Model-View-Controller architecture based on the Entity-Relationship Model
+JF  - 2020 8th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9307798/
+PY  - 2020///
+AB  - … CONCLUSIONS This research presents a software tool to generate a Model-View-Controller (MVC) architecture taking as input an Entity-Relationship model. The experiment that was …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 19 cites: https://scholar.google.com/scholar?cites=6415067473497013574&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 19
+ER  - 
+
+TY  - JOUR
+AU  - Cortez, R
+AU  - Vazhenin, A
+TI  - Virtual model‐view‐controller design pattern: Extended MVC for service‐oriented architecture
+JF  - IEEJ Transactions on Electrical and …
+PB  - Wiley Online Library
+DO  - 10.1002/tee.22101
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22101
+PY  - 2015///
+AB  - … The focus of this study is on the formalization of a virtual model-viewcontroller (Virtual-MVC) design pattern to simplify the development of service-oriented applications for medium and …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 8 cites: https://scholar.google.com/scholar?cites=9463782317951169134&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 8
+ER  - 
+
+TY  - JOUR
+AU  - Kellezi, D
+AU  - Boegelund, C
+AU  - Meng, W
+TI  - Securing Open Banking with Model‐View‐Controller Architecture and OWASP
+JF  - … communications and mobile …
+PB  - Wiley Online Library
+DO  - 10.1155/2021/8028073
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1155/2021/8028073
+UR  - https://onlinelibrary.wiley.com/doi/pdf/10.1155/2021/8028073
+PY  - 2021///
+AB  - … Figure 2 describes two scenarios of requests made to the API. Both of them return a … For defining the architecture, we present a model based on the Model-ViewController architecture (…
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 30 cites: https://scholar.google.com/scholar?cites=8334096433177880595&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 30
+ER  - 
+
+TY  - JOUR
+AU  - Yuanxin, L
+AU  - Saearani, MFT
+TI  - DESIGN AND IMPLEMENTATION OF DANCESPORT VIDEO TEACHING SYSTEM BASED ON MODEL-VIEW-CONTROLLER (MVC)
+JF  - Greget: Jurnal Kreativitas dan Studi …
+PB  - jurnal.isi-ska.ac.id
+UR  - https://jurnal.isi-ska.ac.id/index.php/greget/article/view/6745
+UR  - https://jurnal.isi-ska.ac.id/index.php/greget/article/download/6745/4345
+PY  - 2025///
+AB  - … In this article, the author compares several existing frameworks and shows that MVC (Model-View-Controller) is the best and most important teaching system design framework for …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Hitchcock, A
+AU  - Sung, K
+TI  - Interactive Computer Graphics and Model-View-Controller Architecture
+JF  - Encyclopedia of Computer Graphics and Games
+PB  - Springer
+DO  - 10.1007/978-3-031-23161-2_223
+UR  - https://link.springer.com/content/pdf/10.1007/978-3-031-23161-2_223.pdf
+PY  - 2024///
+AB  - Hologram can record and reconstruct or playback an optical wavefront on the hologram plane. It uses interference between two waves, an object wave from the object to be recorded …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - CITATION
+AU  - Mariyanti, D
+AU  - Santosa, I
+AU  - Rahmanita, E
+TI  - Implementation of View Controller Model Architecture in Population Administration Service System
+JF  - information technology
+PY  - 2017///
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Kurniawan, FS
+AU  - Sari, DW
+AU  - ...
+TI  - Rancang Bangun Webgame Interaktif Pada Matakuliah Bahasa Inggris Maritim Menggunakan Model View Controller (MVC)
+JF  - Jurnal Informatika …
+PB  - ejournal.poltekharber.ac.id
+UR  - http://ejournal.poltekharber.ac.id/index.php/informatika/article/view/7931
+UR  - http://ejournal.poltekharber.ac.id/index.php/informatika/article/download/7931/3515
+PY  - 2025///
+AB  - … Webgame dibuat menggunakan arsitektur Model-View-Controller (MVC) pada framework … ke platform mobile native (Android/iOS) atau penggunaan game engine canggih seperti Unity …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14555864685583586856&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Peres, R
+AU  - Laso-Marsetti, F
+TI  - Model-view-controller (mvc) in ios: A modern approach
+JF  - abril de
+PY  - 2019///
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 6 cites: https://scholar.google.com/scholar?cites=15389862386899859022&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 6
+ER  - 
+
+TY  - JOUR
+AU  - Putri, SI
+AU  - Rofiq, M
+TI  - Perancangan Pemesanan Fasilitas Rumah Sakit Menggunakan Model View Controller (MVC) Berbasis Android
+JF  - SMATIKA JURNAL
+PB  - jurnal.ubhinus.ac.id
+UR  - https://jurnal.ubhinus.ac.id/index.php/SMATIKA/article/view/156
+UR  - https://jurnal.ubhinus.ac.id/index.php/SMATIKA/article/download/156/136
+PY  - 2017///
+AB  - … Implementasi MVC (Model View Controller) dengan CodeIgniter Framework, membuat system pada aplikasi menjadi lebih mudah untuk dikembangkan oleh pengembang berikutnya. …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=7123590196063666617&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - CITATION
+AU  - LASO-MARSETTI, F
+TI  - Model-View-Controller (MVC) in iOS–A Modern Approach. 2019
+PY  - 2020///
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7574824528031080719&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - CITATION
+AU  - Sillmann, T
+AU  - Sillmann, T
+TI  - MVC–Model-View-Controller
+JF  - Apps für iOS
+PY  - 2016///
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12275153620686444138&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - BOOK
+AU  - Zulkifli, ST Ridwan
+AU  - Kom, M
+AU  - Utami, LL
+AU  - Nurfadhilah, DS
+AU  - ...
+TI  - Hierarchical Model View Controller: Sebuah Metode Penjadwalan
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=uvhUEQAAQBAJ&oi=fnd&pg=PA1&dq=%22model+view+controller%22+ios%7Ciphone%7Cswift&ots=rBYa79wmFY&sig=S4BrK3w1vnopBoRef-3TJqxZdmA
+PY  - 2025///
+AB  - … Hierarchical Model View Controller (HMVC) dan penerapannya dalam sistem penjadwalan. … saat ini, dikembangkan khusus untuk sistem operasi mobile seperti Android dan iOS. …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Kim, S
+AU  - Choi, K
+TI  - Comparing model, view, and controller architecture and logical user interface model
+JF  - Advanced Science Letters
+PB  - ingentaconnect.com
+UR  - https://www.ingentaconnect.com/contentone/asp/asl/2016/00000022/00000011/art00019
+PY  - 2016///
+AB  - This paper compares MVC (Model, View, and Controller) architecture and logical UI (User Interface) model. Logical UI model is based on PELUM (Pattern and Event Based Logical UI …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1288773334412387768&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - JOUR
+AU  - Liputra, H
+AU  - Munir, A
+TI  - SISTEM KOMPUTERISASI PENGELOLAAN TUGAS AKHIR MAHASISWA MENGGUNAKAN KONSEP MODEL VIEW CONTROLLER PADA STMIK KHARISMA …
+JF  - JTRISTE
+PB  - jurnal.kharisma.ac.id
+UR  - https://jurnal.kharisma.ac.id/jtriste/article/view/26
+UR  - https://jurnal.kharisma.ac.id/jtriste/article/download/26/23
+PY  - 2017///
+AB  - … This research aims to build a computerized Management system of college student thesis by using Model View Controller concept at STMIK KHARISMA Makassar. For that aims, it is …
+M1  - Query date: 2026-09-22 17:36:27
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13466150654769050832&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - BOOK
+AU  - Kramer, F
+TI  - Implementierung eines Model-View-Controller-Modells zur Entwicklung einer grafischen Oberfläche zur Fernsteuerung eines Funktionsgenerators unter Verwendung …
+PB  - htwk-leipzig.qucosa.de
+UR  - https://htwk-leipzig.qucosa.de/id/qucosa:94804
+UR  - https://htwk-leipzig.qucosa.de/api/qucosa%3A94804/attachment/ATT-0/
+PY  - 2024///
+AB  - (DE) In dieser Arbeit habe ich eine Software entwickelt, mit der ein realer Funktionsgenerator ferngesteuert werden kann. Als Grundlage diente die Programmiersprache Python und …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
+TY  - JOUR
+AU  - Himawan, A
+TI  - … INFORMASI DAN MANAJEMEN LABORATORIUM PADA PROGRAM STUDI PENDIDIKAN BIOLOGI DENGAN METODE MVC (MODEL, VIEW, CONTROLLER)
+JF  - EduNaturalia: Jurnal Biologi dan Kependidikan …
+PB  - ejurnal.untan.ac.id
+UR  - http://ejurnal.untan.ac.id/index.php/EduNaturalia/article/view/88635
+PY  - 2025///
+AB  - … Implementation of MVC (Model-View-Controller) Concept in Develop Management Information System for Transportation Fees (Uang Jalan Operasional) and Revenue in Trucking …
+M1  - Query date: 2026-09-22 17:36:27
+ER  - 
+
