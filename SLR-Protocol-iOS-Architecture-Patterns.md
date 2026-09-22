@@ -63,7 +63,7 @@
 |---|---|---|---|
 | Основні | iOS, iOS app / application / development / software / platform | S | Омоніми: *IOS* = intraoral scanner, Cisco IOS → див. `AND NOT` у 4.2. «iOS» лишається в рядках, бо більшість Swift-робіт в анотації називають платформу, а не мову; мова перевіряється на скринінгу (IC1) |
 | Пристрої | iPhone, iPad | S | iPad також дає освітні/медичні статті — відсіюється на скринінгу |
-| Мова | Swift, Swift language, Swift programming, Apple Swift | S (лише як фраза) | Голе `Swift` у Scopus = гамма-обсерваторія Swift, Swift/T, SWIFT (банки), прикметник *swift* → у Scopus лише `"Swift language"`, `"Swift programming"`, `"Apple Swift"`, `SwiftUI`; у GS лише поруч з `intitle:` |
+| Мова | Swift, Swift language, Swift programming, Apple Swift | S (лише як фраза) | Голе `Swift` у Scopus = гамма-обсерваторія Swift, Swift/T, SWIFT (банки), прикметник *swift* → у Scopus лише `"Swift language"`, `"Swift programming"`, `"Apple Swift"`, `SwiftUI`; у GS — лише в полі *Title words* PoP |
 | Фреймворки | SwiftUI, UIKit, Cocoa Touch, Combine, Swift Concurrency | S (SwiftUI, UIKit) / V (інші) | SwiftUI важливий маркер сучасних робіт (MV/MVVM, TCA) |
 | Виробник | Apple, Apple platform | V | Надто загальні |
 | Поза межами (для розпізнавання на скринінгу) | Objective-C, Flutter, React Native, Xamarin, Kotlin Multiplatform, Ionic, .NET MAUI | V | Маркери EC3 |
@@ -75,7 +75,7 @@
 | Родові | software architecture, application architecture, app architecture, mobile architecture, architectur\* pattern\* (architecture pattern, architectural pattern), architectural style\*, architectural design, presentation layer, UI architecture | S | Ядро запиту Q2 (розд. 4.2) |
 | Суміжні | design pattern\*, structural pattern\*, state management | S (design pattern\*, state management) / V | GoF-патерни не наша тема, але статті design patterns in iOS часто містять MVC/MVVM |
 | MVC | MVC, Model-View-Controller, Model View Controller, Massive View Controller | S | |
-| MVP | MVP, Model-View-Presenter | S (Scopus) / обережно в GS | Омонім: *MVP* = minimum viable product → у GS лише повна назва або з `intitle:` |
+| MVP | MVP, Model-View-Presenter | S (Scopus) / обережно в GS | Омонім: *MVP* = minimum viable product → у GS лише повна назва або лише в полі *Title words* PoP |
 | MVVM | MVVM, Model-View-ViewModel, MVVM-C, ViewModel | S (перші три) / V (ViewModel) | |
 | VIPER | VIPER, View-Interactor-Presenter-Entity-Router | S | Омоніми: змії (viper), VIPER-протоколи → безпечно лише з платформним блоком |
 | Clean | Clean Architecture, Clean Swift, VIP (View-Interactor-Presenter), Onion Architecture, Hexagonal Architecture, Ports and Adapters, Layered Architecture | S (крім Layered, VIP) / V | «Layered» надто загальне; «VIP» — омонім |
@@ -206,60 +206,63 @@ TITLE-ABS-KEY ( ( "mobile app*" OR "mobile application*" OR "smartphone app*" OR
 3. Один раз для Q1 і Q2 додатково запустити рядок **без** блоку `AND NOT …` і записати різницю.
 4. *Select all* → *Export* → **RIS** → відмітити всі групи полів (Citation information, Bibliographical information, Abstract & keywords, Funding details, Other information).
 5. Зберегти як `search/raw/Scopus_Qn_<дата>.ris`, закомітити.
-6. Імпортувати у Zotero → колекція `01_Scopus/Qn`. Записати `N_imported` (має дорівнювати `N_found`; якщо ні, записати причину).
+6. Імпортувати у Zotero → колекція `01_Scopus/Qn`. Записати `N_exported` (кількість записів у RIS) і `N_imported` (кількість у колекції); обидва мають дорівнювати `N_found`; якщо ні — записати причину в «Примітку».
 
 ### 4.3. Google Scholar через Publish or Perish (виконує студент)
 
 #### 4.3.1. Що треба знати про Google Scholar, перш ніж щось запускати
 
-- **GS шукає у повному тексті.** Запит `"iOS" "MVVM"` поверне десятки тисяч записів, бо знайде будь-яку статтю, де обидва слова трапляються де завгодно (у списку літератури також). Тому **кожен наш запит має якір `intitle:`** — слово/фраза, що мусить бути в назві.
+- **GS шукає у повному тексті.** Запит `"iOS" "MVVM"` поверне десятки тисяч записів, бо знайде будь-яку статтю, де обидва слова трапляються де завгодно (у списку літератури також). Тому **кожен наш запит має якір у назві** — слово/фраза в полі *Title words* (в самому GS це оператор `intitle:`).
 - **GS показує максимум 1000 результатів** на запит, навіть якщо знайдено більше. Publish or Perish (PoP) теж не може отримати більше.
-- **Синтаксис, який працює:** `"точна фраза"`, `OR` (великими літерами), `intitle:слово`, `intitle:"фраза"`, `-слово` (виключення), `author:`, `source:`. **Не працює:** `*`, `AND` (і так мається на увазі), дужки для групування, `TITLE-ABS-KEY`, пошук лише в анотації.
+- **Синтаксис, який працює у Google Scholar:** `"точна фраза"`, `OR` (великими літерами), `intitle:слово`, `-слово` (виключення). **Не працює:** `*`, `AND` (і так мається на увазі), дужки для групування, `TITLE-ABS-KEY`, пошук лише в анотації.
+- **Publish or Perish не пропускає `intitle:`.** PoP збирає запит через параметри розширеного пошуку GS і екранує вміст поля *Keywords*: `intitle:iOS` там дає 0 результатів, `intitle: iOS` (з пробілом) — ігнорує оператор. Обмеження «в назві» в PoP задається окремим полем **Title words**. Тому кожен запит нижче записано у **два поля**: *Title words* (те, що має бути в назві) і *Keywords* (те, що будь-де в тексті). `OR` і лапки працюють в обох полях.
 - **Чому заборонено `-Android`, `-Flutter`, `-Objective-C`:** GS індексує повний текст, і майже кожна стаття про Swift/iOS хоч раз згадує Android або Objective-C (у вступі, у порівнянні). Такі оператори викидають релевантні роботи. Фільтрація платформи і мови лише на скринінгу (EC3).
-- **Пріоритет операторів:** `OR` з'єднує лише **сусідні** терміни. Запит `intitle:iOS MVVM OR "Model-View-ViewModel"` GS читає як `intitle:iOS AND (MVVM OR "Model-View-ViewModel")`. Тобто: усе, що не з'єднане `OR`, це `AND`.
+- **Пріоритет операторів:** `OR` з'єднує лише **сусідні** терміни. Запит з Keywords `MVVM OR "Model-View-ViewModel"` при Title words `iOS` GS читає як `iOS-у-назві AND (MVVM OR "Model-View-ViewModel")`. Тобто: усе, що не з'єднане `OR`, це `AND`.
 - **Регістр не важливий**: `iOS` = `ios` = `IOS`.
 
 #### 4.3.2. Перелік запитів
 
-Усі запити виконуються в PoP з такими параметрами: *Source: Google Scholar*; *Years: 2014 – 2026*; *Maximum number of results: 1000*; **рядок вставляється у поле «Keywords»** (PoP передає його в GS без змін, тому оператори `intitle:` працюють). Поля Authors / Publication / Title words порожні. Поле *Exclude* порожнє. Прапорці: *Include citations* увімкнено (записи типу [CITATION] без посилання все одно можуть бути реальними статтями; відсіємо на скринінгу), *Include patents* вимкнено.
+Усі запити виконуються в PoP з такими параметрами: *Source: Google Scholar*; *Years: 2014 – 2026*; *Maximum number of results: 1000*; *Include:* CITATION records ✔, Patents ✘, Only reviews ✘. Поля Authors / Publication name / ISSN — порожні. Запит вводиться у **два поля**: **Title words** і **Keywords** (див. 4.3.1); порожнє поле лишається порожнім.
 
 **A — платформа в назві, патерн будь-де** (найточніші запити)
 
-| ID | Рядок у поле Keywords | Що ловить | Issue |
-|---|---|---|---|
-| G01 | `intitle:iOS MVC OR "Model-View-Controller"` | iOS у назві; MVC у тексті | #17 |
-| G02 | `intitle:iOS MVVM OR "Model-View-ViewModel"` | | #18 |
-| G03 | `intitle:iOS MVP OR "Model-View-Presenter"` | *MVP* тут безпечний, бо iOS у назві | #19 |
-| G04 | `intitle:iOS VIPER` | | #19 |
-| G05 | `intitle:iOS "clean architecture" OR "clean swift" OR "hexagonal architecture" OR "onion architecture"` | | #20 |
-| G06 | `intitle:iOS "composable architecture" OR "unidirectional data flow" OR Redux OR Flux OR "Elm architecture" OR MVI OR MVU` | | #21 |
-| G07 | `intitle:iOS intitle:architecture` | Усі назви з обома словами — ловить роботи без названого патерну | #22 |
-| G08 | `intitle:SwiftUI` | Уся література про SwiftUI (її мало); архітектурні роботи відсіємо на скринінгу | #22 |
-| G09 | `intitle:Swift intitle:architecture` | Swift + архітектура в назві | #22 |
+| ID | Title words | Keywords | Що ловить | Issue |
+|---|---|---|---|---|
+| G01 | `iOS` | `MVC OR "Model-View-Controller"` | iOS у назві; MVC у тексті | #17 |
+| G02 | `iOS` | `MVVM OR "Model-View-ViewModel"` | | #18 |
+| G03 | `iOS` | `MVP OR "Model-View-Presenter"` | *MVP* тут безпечний, бо iOS у назві | #19 |
+| G04 | `iOS` | `VIPER` | | #19 |
+| G05 | `iOS` | `"clean architecture" OR "clean swift" OR "hexagonal architecture" OR "onion architecture"` | | #20 |
+| G06 | `iOS` | `"composable architecture" OR "unidirectional data flow" OR Redux OR Flux OR "Elm architecture" OR MVI OR MVU` | | #21 |
+| G07 | `iOS architecture` | *(порожньо)* | Обидва слова в назві — ловить роботи без названого патерну | #22 |
+| G08 | `SwiftUI` | *(порожньо)* | Уся література про SwiftUI (її мало); архітектурні роботи відсіємо на скринінгу | #22 |
+| G09 | `Swift architecture` | *(порожньо)* | Swift + архітектура в назві | #22 |
 
 **B — патерн у назві, платформа/мова будь-де** (ловить роботи типу «Evaluating MVVM for mobile apps», де iOS/Swift лише в тексті)
 
-| ID | Рядок у поле Keywords | Примітка | Issue |
-|---|---|---|---|
-| G10 | `intitle:MVC iOS OR iPhone OR Swift` | Буде шум від web-MVC (ASP.NET/Spring), що згадують iOS — це нормально, відсіюється за назвою | #17 |
-| G11 | `intitle:"Model-View-Controller" iOS OR iPhone OR Swift` | | #17 |
-| G12 | `intitle:MVVM iOS OR iPhone OR Swift` | | #18 |
-| G13 | `intitle:"Model-View-ViewModel" iOS OR iPhone OR Swift` | | #18 |
-| G14 | `intitle:"Model-View-Presenter" iOS OR iPhone OR Swift` | Голе `intitle:MVP` **не** використовуємо (minimum viable product) | #19 |
-| G15 | `intitle:VIPER iOS OR iPhone` | Без `Swift` (прикметник *swift* у статтях про змій) | #19 |
-| G16 | `intitle:"clean architecture" iOS OR iPhone OR Swift` | | #20 |
-| G17 | `intitle:"composable architecture"` | Уся література про TCA — її мало, беремо все | #21 |
-| G18 | `intitle:"unidirectional data flow"` | Те саме | #21 |
-| G19 | `intitle:Redux iOS OR iPhone OR Swift` | Шум від React/JS — нормально | #21 |
-| G20 | `intitle:"Elm architecture" OR intitle:"Model-View-Update" OR intitle:"Model-View-Intent"` | Якщо PoP повертає 0 — запустити три `intitle:` окремо | #21 |
+| ID | Title words | Keywords | Примітка | Issue |
+|---|---|---|---|---|
+| G10 | `MVC` | `iOS OR iPhone OR Swift` | Буде шум від web-MVC (ASP.NET/Spring), що згадують iOS — це нормально, відсіюється за назвою | #17 |
+| G11 | `"Model-View-Controller"` | `iOS OR iPhone OR Swift` | | #17 |
+| G12 | `MVVM` | `iOS OR iPhone OR Swift` | | #18 |
+| G13 | `"Model-View-ViewModel"` | `iOS OR iPhone OR Swift` | | #18 |
+| G14 | `"Model-View-Presenter"` | `iOS OR iPhone OR Swift` | Голе `MVP` у назві **не** використовуємо (minimum viable product) | #19 |
+| G15 | `VIPER` | `iOS OR iPhone` | Без `Swift` (прикметник *swift* у статтях про змій) | #19 |
+| G16 | `"clean architecture"` | `iOS OR iPhone OR Swift` | | #20 |
+| G17 | `"composable architecture"` | *(порожньо)* | Уся література про TCA — її мало, беремо все | #21 |
+| G18 | `"unidirectional data flow"` | *(порожньо)* | Те саме | #21 |
+| G19 | `Redux` | `iOS OR iPhone OR Swift` | Шум від React/JS — нормально | #21 |
+| G20 | `"Elm architecture" OR "Model-View-Update" OR "Model-View-Intent"` | *(порожньо)* | Якщо PoP повертає 0 — запустити три фрази окремо (G20a/b/c) | #21 |
 
 **C — порівняльні/оглядові роботи без прив'язки до одного патерну**
 
-| ID | Рядок у поле Keywords | Примітка | Issue |
-|---|---|---|---|
-| G21 | `intitle:architecture intitle:mobile MVC OR MVVM OR MVP OR VIPER OR "clean architecture"` | «архітектура» і «mobile» в назві, будь-який патерн у тексті | #22 |
-| G22 | `intitle:comparison OR intitle:comparative MVC OR MVVM OR MVP OR VIPER iOS` | Порівняння патернів, де iOS у тексті | #22 |
-| G23 | `intitle:"architectural patterns" OR intitle:"architecture patterns" iOS OR iPhone OR Swift` | | #22 |
+| ID | Title words | Keywords | Примітка | Issue |
+|---|---|---|---|---|
+| G21 | `architecture mobile` | `MVC OR MVVM OR MVP OR VIPER OR "clean architecture"` | «архітектура» і «mobile» в назві, будь-який патерн у тексті | #22 |
+| G22 | `comparison OR comparative` | `MVC OR MVVM OR MVP OR VIPER iOS` | Порівняння патернів, де iOS у тексті | #22 |
+| G23 | `"architectural patterns" OR "architecture patterns"` | `iOS OR iPhone OR Swift` | | #22 |
+
+**Контрольна перевірка (один раз, на G01, до експорту).** PoP може обмежувати назвою або лише *Title words* (потрібний нам режим), або обидва поля разом. Відкрити 10 перших результатів G01: якщо є роботи, де «iOS» у назві, а «MVC» лише в тексті — усе гаразд. Якщо в усіх результатах обидва слова в назві — PoP обмежив назвою все; тоді для тирів A і B у *Title words* лишається лише якір (`iOS` / назва патерну), *Keywords* — порожньо, набір ділиться за роками (4.3.3), а патерн відсіюється на скринінгу. Результат перевірки записується тут одним реченням: *«PoP (версія …): режим … »*.
 
 #### 4.3.3. Що робити, якщо запит повертає ≥ 980 результатів
 
@@ -279,13 +282,13 @@ GS «обрізає» видачу на 1000. Щоб не втратити за�
 #### 4.3.4. Порядок виконання одного запиту (чек-лист для студента)
 
 1. Відкрити PoP → *New Google Scholar search*.
-2. Вставити рядок у *Keywords*; *Years* 2014–2026; *Max results* 1000; прапорці як у 4.3.2.
+2. Заповнити *Title words* і *Keywords* за таблицею 4.3.2; *Years* 2014–2026; *Max results* 1000; прапорці як у 4.3.2.
 3. *Search*. Дочекатися, поки лічильник зупиниться.
-4. Записати в журнал `N_found` (число, яке PoP показує як «Results»/«Papers»).
+4. Записати в журнал `N_found` (число, яке PoP показує як «Results»/«Papers»); у колонку «Обмеження» — роки та `PoP: Title words + Keywords`.
 5. Якщо `N_found ≥ 980` → виконати 4.3.3 замість кроків 6–8.
-6. *File → Save results as… → RIS* → `search/raw/GS_Gnn_<дата>.ris`.
-7. Імпорт у Zotero → колекція `02_GoogleScholar/Gnn`. Записати `N_imported`.
-8. Контрольна перевірка (раз, для G01 і G12): відкрити scholar.google.com, вставити той самий рядок, увімкнути «Custom range 2014–2026» і порівняти порядок величини результатів з PoP. Якщо GS у браузері показує в рази менше — оператори не передалися; повторити з рядком у полі *Title words* (без `intitle:`) і зафіксувати це в журналі.
+6. *File → Save results as… → RIS* → `search/raw/GS_Gnn_<дата>.ris`. Записати `N_exported` (кількість записів у файлі; PoP показує її при збереженні).
+7. Імпорт у Zotero → колекція `02_GoogleScholar/Gnn`. Записати `N_imported` (кількість записів у колекції після імпорту; у нормі = `N_exported`; різницю — в «Примітку»).
+8. Контрольна перевірка режиму PoP — один раз, для G01 (див. кінець 4.3.2).
 9. Закомітити RIS і оновлений журнал.
 
 ### 4.4. Журнал пошуку (search log)
@@ -299,7 +302,7 @@ GS «обрізає» видачу на 1000. Щоб не втратити за�
 | | Scopus | Q2 | 2014–2026; NOT-блок | | | | | Ментор | |
 | | Scopus | Q2 | 2014–2026; без NOT-блоку (контроль) | | — | — | — | Ментор | |
 | | Scopus | Q3 | 2014–2026 | | | | | Ментор | |
-| 2026-09-21 | GS/PoP | G01 | 2014–2026 | 699 | 699 | 699 | `GS_G01_2026-09-21.ris` | Студент | |
+| 2026-09-21 | GS/PoP | G01 | 2014–2026; PoP: Title words + Keywords | 699 | 699 | 699 | `GS_G01_2026-09-21.ris` | Студент | |
 | | GS/PoP | G02 | | | | | | Студент | |
 | | … | … | | | | | | | |
 | 2026-09-22 | GS/PoP | G10 | 2014–2026 | 126 | 126 | 126 | `GS_G10_2026-09-22.ris` | Студент | |
