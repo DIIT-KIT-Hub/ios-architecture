@@ -1,0 +1,1554 @@
+﻿TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - … Then you’ll look at the MVC as one of the best known and used patterns. You’ll see how … From there, you’ll discover the first evolution of the MVC model: the MVP, which introduces a …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - PDF
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - An Analysis System for Mobile Applications MVC Software Architectures.
+JF  - ICSOFT
+PB  - academia.edu
+UR  - https://www.academia.edu/download/107685253/78278.pdf
+UR  - https://www.academia.edu/download/107685253/78278.pdf
+PY  - 2019///
+AB  - … MVC pattern are violated. Every rule violation is detected and highlighted. After this step we can say whether or not the codebase respects the MVC … Since we inspect iOS codebases, for …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 9 cites: https://scholar.google.com/scholar?cites=16668208845084254986&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 9
+ER  - 
+
+TY  - JOUR
+AU  - García, RF
+TI  - Mvc: model–view–controller
+JF  - … Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9_2
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9069-9_2
+PY  - 2023///
+AB  - … When initially creating our project, for the MVC architecture, with the name MVC-MyToDos, we will see that two folders have been created, MVC-MyToDosTests and MVC-…
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 5 cites: https://scholar.google.com/scholar?cites=11948814561476091672&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 5
+ER  - 
+
+TY  - JOUR
+AU  - Pranata, A Adi
+AU  - Selviandro, N
+AU  - Adrian, M
+TI  - Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development∗
+JF  - Proceedings of the 2022 5th …
+PB  - dl.acm.org
+DO  - 10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/abs/10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/pdf/10.1145/3520084.3520097
+PY  - 2022///
+AB  - … in the iOS platform. However, according to the literature, the implementation of the MVC pattern violates … In this paper, we propose the modification of the MVC architectural pattern in iOS …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=972346116264678306&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - HTML
+AU  - Necula, S
+TI  - Exploring the model-view-controller (mvc) architecture: A broad analysis of market and technological applications
+PB  - preprints.org
+UR  - https://www.preprints.org/manuscript/202404.1860
+UR  - https://www.preprints.org/manuscript/202404.1860
+PY  - 2024///
+AB  - … Mobile Applications: MVC is employed in the development of mobile applications to … , particularly in iOS Development. Apple’s iOS frameworks use MVC extensively to structure …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 39 cites: https://scholar.google.com/scholar?cites=6362643709332820360&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 39
+ER  - 
+
+TY  - JOUR
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - Comparing Automatic Approaches for Mvc Architecture Detection in Ios Codebases
+JF  - Available at SSRN 4025203
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025203
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4025203
+AB  - … Because our empirical validation is performed in the context of iOS applications and Apple’s flavour of MVC which can be viewed as a linear layered architectural pattern, we describe in …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Vennaro, E
+TI  - Model View Controller (MVC)
+JF  - iOS Development at Scale: App Architecture and …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9456-7_7
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9456-7_7
+PY  - 2023///
+AB  - … This chapter focuses on the MVC pattern and is the first deep dive into this type of … Figure 7-2 outlines an MVC hierarchy for our Photo Stream application which we will apply our MVC …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - Thakur, RN
+AU  - Pandey, US
+AU  - Chatterjee, JM
+TI  - Study of mobile application development using MVC framework
+JF  - Journal of Information …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/82051163/2_Thakur_2013-17.pdf
+UR  - https://www.academia.edu/download/82051163/2_Thakur_2013-17.pdf
+PY  - 2019///
+AB  - … In this study we investigate the advantage of using MVC Framework when building Mobile … two platforms, iOS and Android Devices, and discusses how to apply the MVC Framework in …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 4 cites: https://scholar.google.com/scholar?cites=12018318311982723301&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - PDF
+AU  - Aljamea, M
+AU  - Alkandari, M
+TI  - MMVMi: A validation model for MVC and MVVM design patterns in iOS applications
+JF  - IAENG Int. J. Comput. Sci
+PB  - iaeng.org
+UR  - https://www.iaeng.org/IJCS/issues_v45/issue_3/IJCS_45_3_03.pdf
+UR  - https://www.iaeng.org/IJCS/issues_v45/issue_3/IJCS_45_3_03.pdf
+PY  - 2018///
+AB  - … common design patterns in iOS development field: Model View Controller (MVC) and Model … with MVC design pattern. Then, it introduces a validation model that detects MVC problems, …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 36 cites: https://scholar.google.com/scholar?cites=11320826897853503977&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 36
+ER  - 
+
+TY  - JOUR
+AU  - Dobrean, D
+AU  - Dioşan, L
+TI  - On What Kind of Applications Can Clustering Be Used for Inferring MVC Architectural Layers?
+JF  - International Conference on Information Systems …
+PB  - Springer
+DO  - 10.1007/978-3-031-32418-5_7
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-32418-5_7
+UR  - https://www.researchgate.net/profile/Dragos-Dobrean/publication/379773242_On_What_Kind_of_Applications_Can_Clustering_Be_Used_for_Inferring_MVC_Architectural_Layers/links/672a278d2326b47637c9dfaf/On-What-Kind-of-Applications-Can-Clustering-Be-Used-for-Inferring-MVC-Architectural-Layers.pdf
+PY  - 2022///
+AB  - … Because our empirical validation is performed in the context of three iOS applications and Apple’s flavour of MVC which can be viewed as a linear layered architectural pattern, we …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - Sokolova, K
+AU  - Lemercier, M
+AU  - Garcia, L
+AU  - ...
+TI  - Towards high quality mobile applications: Android passive MVC architecture
+JF  - … Journal On Advances …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Karina-Sokolova/publication/286936519_Towards_High_Quality_Mobile_Applications_Android_Passive_MVC_Architecture/links/5671751a08aececfd555391c/Towards-High-Quality-Mobile-Applications-Android-Passive-MVC-Architecture.pdf
+UR  - https://www.researchgate.net/profile/Karina-Sokolova/publication/286936519_Towards_High_Quality_Mobile_Applications_Android_Passive_MVC_Architecture/links/5671751a08aececfd555391c/Towards-High-Quality-Mobile-Applications-Android-Passive-MVC-Architecture.pdf
+PY  - 2014///
+AB  - … iOS developers use specific language called Objective C to create mobile applications. … for mobile iOS application is an adapted Passive MVC. Like the original Passive MVC, the iOS …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 20 cites: https://scholar.google.com/scholar?cites=14602041092560852226&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 20
+ER  - 
+
+TY  - CITATION
+AU  - Ambani, D
+TI  - Model view controller (MVC): A latest mobile &web application development approaches
+JF  - … -An International Multidisciplinary Peer-Reviewed E …
+PY  - 2020///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 6 cites: https://scholar.google.com/scholar?cites=16004770287869291025&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 6
+ER  - 
+
+TY  - CITATION
+AU  - Souza, AAB
+TI  - Análise comparativa de arquiteturas mobile para aplicações iOS: MVC, MVVM e VIP-C
+PY  - 2026///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - 胡辉
+TI  - IOS 环境下使用 MVC 模式进行 APP 开发的设计思路探索
+JF  - 数字技术与应用
+PY  - 2015///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15720031939425518657&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - PDF
+AU  - Lou, T
+TI  - A comparison of Android native app architecture MVC, MVP and MVVM
+JF  - Eindhoven University of Technology
+PB  - research.tue.nl
+UR  - https://research.tue.nl/files/48628529/Lou_2016.pdf
+UR  - https://research.tue.nl/files/48628529/Lou_2016.pdf
+PY  - 2016///
+AB  - … That is, MVP and MVVM are better than MVC on the selected three criteria. But for MVP and MVVM, there is no evidence showing that one is superior to another. These two …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 80 cites: https://scholar.google.com/scholar?cites=1803893916514794777&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 80
+ER  - 
+
+TY  - CITATION
+AU  - 이숙희
+TI  - MVC 기반의 모바일 앱 개발방법
+JF  - 산업기술연구소 논문집
+PB  - 서경대학교 산업기술연구소
+PY  - 2014///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Freeman, A
+TI  - Pro Asp. net core MVC
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=iEQWDQAAQBAJ&oi=fnd&pg=PR5&dq=mvc+ios%7Ciphone%7Cswift&ots=tM-I8oC0do&sig=qABbaYyumJqMF1gz-R9ELD8uQMk
+PY  - 2016///
+AB  - … MVC is now updated for ASP.NET Core MVC. It contains detailed explanations of the new Core MVC … This book puts ASP.NET Core MVC into context and dives deep into the tools and …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 148 cites: https://scholar.google.com/scholar?cites=8713363096520462748&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 148
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, Y
+TI  - MVC Algorithm Design of Smart Mobile Marketing Micro-Classroom System based on Android SDK Technology
+JF  - … Conference on Sustainable Computing and Data …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9760889/
+PY  - 2022///
+AB  - … Then, the MVC framework is then applied, and the smart mobile marketing micro-classroom system is then implemented. Through the testing on different models, the designed systen is …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8578191710038496593&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - BOOK
+AU  - Amuthan, G
+TI  - Spring MVC Beginner's Guide
+PB  - reference-global.com
+DO  - 10.0000/9781783284887-001
+UR  - https://reference-global.com/download/chapter/9781783284887/10.0000/9781783284887-001.pdf
+UR  - https://reference-global.com/download/chapter/9781783284887/10.0000/9781783284887-001.pdf
+PY  - 2014///
+AB  - … In this chapter, we are going take a look at how we can create a basic Spring MVC application. In order to develop a Spring MVC application, we need some prerequisite software and …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 13 cites: https://scholar.google.com/scholar?cites=9987376890757407249&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 13
+ER  - 
+
+TY  - BOOK
+AU  - Ganeshan, A
+TI  - Spring MVC: Beginner's Guide
+PB  - reference-global.com
+DO  - 10.0000/9781785885648-001
+UR  - https://reference-global.com/download/chapter/9781785885648/10.0000/9781785885648-001.pdf
+UR  - https://reference-global.com/download/chapter/9781785885648/10.0000/9781785885648-001.pdf
+PY  - 2016///
+AB  - … In this chapter, we are going take a look at how we can create a basic Spring MVC application. In order to develop a Spring MVC application, we need some prerequisite software and …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 12 cites: https://scholar.google.com/scholar?cites=10977220161488503265&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 12
+ER  - 
+
+TY  - CITATION
+AU  - Pettersson, T
+AU  - Bulai, T
+TI  - Passive MVC och MVVM designmönster i Android: En jämförelse av kodkomplexitet mellan Passive MVC och MVVM
+PY  - 2016///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Glöckler, K
+AU  - Mrachacz-Kersting, N
+AU  - ...
+TI  - Comparison and evaluation of MVC measurements from selected reference tasks
+JF  - annual meeting of …
+PB  - fis.dshs-koeln.de
+UR  - https://fis.dshs-koeln.de/en/publications/comparison-and-evaluation-of-mvc-measurements-from-selected-refer/
+UR  - https://fis.dshs-koeln.de/files/16823602/SFN22_Abstracts_PDF_Posters_MON_AM.pdf
+PY  - 2022///
+AB  - … MVC measures were derived from two dynamic tasks (… Accordingly, the relationship between Mmax and MVC tasks … Conclusion: Results indicate that combinations of MVC measures …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9842432177464016582&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - PDF
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - A Hybrid Approach to MVC Architectural Layers Analysis.
+JF  - ENASE
+PB  - scitepress.org
+UR  - https://www.scitepress.org/PublishedPapers/2021/103267/103267.pdf
+UR  - https://www.scitepress.org/PublishedPapers/2021/103267/103267.pdf
+PY  - 2021///
+AB  - … Our analysis focuses on MVC, a widely used architectural pattern (Vewer, 2019) for mobile development. Our experiments are run on the iOS platform; however, they can be replicated …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 8 cites: https://scholar.google.com/scholar?cites=1493679259777928250&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 8
+ER  - 
+
+TY  - JOUR
+AU  - Kim, K
+AU  - Ha, W
+AU  - Choi, O
+AU  - Yeh, H
+AU  - Kim, JH
+AU  - Hong, M
+AU  - ...
+TI  - An interactive pervasive whiteboard based on MVC architecture for ubiquitous collaboration
+JF  - Multimedia Tools and …
+PB  - Springer
+DO  - 10.1007/s11042-013-1458-0
+UR  - https://link.springer.com/article/10.1007/s11042-013-1458-0
+PY  - 2015///
+AB  - … 4 Interactive shared event / display collaboration model based on Model-View-Controller (MVC) In this section we present MVC (Model View Controller) based collaboration model (also …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 8 cites: https://scholar.google.com/scholar?cites=3136258166748973967&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 8
+ER  - 
+
+TY  - CITATION
+AU  - Cruz, DAM
+TI  - Geração de código MVC para Android, a partir de Modelos em XML
+PY  - 2017///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Ferenc, I
+TI  - IZVEDBA ISPITNOG SUSTAVA POMOĆU ASP. NET MVC WEB APLIKACIJE I ANDROID MOBILNE APLIKACIJE
+PB  - repozitorij.algebra.hr
+UR  - https://repozitorij.algebra.hr/object/algebra:105
+UR  - https://repozitorij.algebra.hr/object/algebra:105/FILE0/download
+PY  - 2015///
+AB  - … Sam web servis pruža mogućnost da se u budućnosti izrade aplikacije ispitnog sustava i na nekim drugim platformama kao što su na primjer Windows Phone ili iOS, koje će preko …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Martins, MAT
+TI  - Seleção de uma Framework MVC Client-Side Para Uma Aplicação Web e Mobile
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/ca388b42cd547793f7166192b954ebd0/1?pq-origsite=gscholar&cbl=2026366&diss=y
+PY  - 2016///
+AB  - … If you can build it for the web using HTML, CSS and JavaScript, now you can use appMobi to build it as an app for the iPhone, iPad and all Android smart phones and pads. Create …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Andrade, F
+AU  - Paula, H de
+AU  - Brito, A
+AU  - Cardoso, L
+AU  - ...
+TI  - Impact of MVC and MVVM Architectures on Test Quality: An Analysis of GitHub Open-Source Repositories
+JF  - Simpósio Brasileiro de …
+PB  - sol.sbc.org.br
+UR  - https://sol.sbc.org.br/index.php/sbqs/article/view/39015
+UR  - https://sol.sbc.org.br/index.php/sbqs/article/download/39015/38787/
+PY  - 2025///
+AB  - … [11] conducted a comparative review of iOS architectural patterns, including MVC, MVP, MVVM, and VIPER, using metrics such as cohesion, coupling, and resource consumption. Their …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - 李艳华
+TI  - iOS 平台上基于 MVC 的设计模式的 “音悦台” 的设计与实现
+JF  - 电子技术 (上海)
+PY  - 2015///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=4007692662288024957&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - JOUR
+AU  - Ishigami, R
+AU  - Amo, T
+AU  - Higuchi, G
+AU  - Onishi, R
+AU  - ...
+TI  - Test Case Generation and Execution Techniques for Web Applications Based on MVC Model and Extended Screen Transition Diagram
+JF  - Software Engineering and …
+PB  - Springer
+DO  - 10.1007/978-3-032-06658-9_9
+UR  - https://link.springer.com/chapter/10.1007/978-3-032-06658-9_9
+PY  - 2026///
+AB  - … different from a model layer in MVC model. In our MBT method… ESTD includes the information about the interactions in MVC … The Web applications are implemented on the basis of MVC …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14786068236417902543&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 1
+ER  - 
+
+TY  - JOUR
+AU  - Ufot, J
+AU  - Esterline, A
+AU  - Bryant, KS
+TI  - Inventory control at a university food pantry using an MVC software pattern and data visualization
+JF  - SoutheastCon 2021
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9401894/
+UR  - https://par.nsf.gov/servlets/purl/10293365
+PY  - 2021///
+AB  - … The MVC app was constructed using the Swift programming language and configured to communicate with the RealmSwift database. Visual diagrams were generated in the app from …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 7 cites: https://scholar.google.com/scholar?cites=2383742783417372302&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 7
+ER  - 
+
+TY  - JOUR
+AU  - Ciliberti, J
+TI  - ASP. NET Core MVC Fundamentals
+JF  - ASP. NET Core Recipes: A Problem-Solution Approach
+PB  - Springer
+DO  - 10.1007/978-1-4842-0427-6_1
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-0427-6_1
+PY  - 2017///
+AB  - … in ASP.NET Core MVC and goes over the technical architecture of ASP.NET Core MVC. … Development: If you plan on creating a native application for the iPhone or iPad using Apple …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - 王琦
+TI  - 基于改进 MVC 的京东商城主页 iPhone 客户端的设计与实现
+PB  - 东北大学
+PY  - 2016///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Ngaogate, W
+TI  - Integrating flyweight design pattern and MVC in development of web application
+JF  - Proceedings of the 2020 2nd International Conference …
+PB  - dl.acm.org
+DO  - 10.1145/3417473.3417478
+UR  - https://dl.acm.org/doi/abs/10.1145/3417473.3417478
+UR  - https://dl.acm.org/doi/pdf/10.1145/3417473.3417478
+PY  - 2020///
+AB  - … This paper demonstrates how Flyweight design pattern and MVC architectural pattern can be … The web application was developed based on MVC architectural pattern by using …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 6 cites: https://scholar.google.com/scholar?cites=11353550851909217057&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 6
+ER  - 
+
+TY  - JOUR
+AU  - Nimmala, S
+AU  - Vikranth, B
+AU  - ...
+TI  - RETRACTED: An Intelli MVC: An intelligent majority voting and heuristic-based hybrid classifier to predict high blood pressure
+JF  - Journal of Intelligent …
+PB  - journals.sagepub.com
+DO  - 10.3233/JIFS-212649
+UR  - https://journals.sagepub.com/doi/abs/10.3233/JIFS-212649
+PY  - 2022///
+AB  - … The proposed MVC Classifies the test data set based on the … In this paper, we have proposed an Intelli MVC to predict … and results proved that the proposed MVC can be used to prevent …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 11 cites: https://scholar.google.com/scholar?cites=1457278268115483126&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 11
+ER  - 
+
+TY  - JOUR
+AU  - Arain, MH
+AU  - Memon, M
+AU  - Baloch, Z
+AU  - ...
+TI  - An Extensible Model-View-Controller (MVC)-Based Cross Platform Framework for Next-Generation AI-Enabled Email Applications
+JF  - International Journal of …
+PB  - ideas.repec.org
+UR  - https://ideas.repec.org/a/abq/ijist1/v8y2026i3p1397-1407.html
+PY  - 2026///
+AB  - … heterogeneous computing systems such as Android, iOS, and desktops. The traditional … demonstrated successful deployment across android, iOS, and desktop platforms using a …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Peres, R
+AU  - Laso-Marsetti, F
+TI  - Model-view-controller (mvc) in ios: A modern approach
+JF  - abril de
+PY  - 2019///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 6 cites: https://scholar.google.com/scholar?cites=15389862386899859022&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 6
+ER  - 
+
+TY  - JOUR
+AU  - Yan, F
+TI  - Development and implementation of data management and analysis system for new power energy based on MVC
+JF  - Journal of Computational Methods in Sciences and …
+PB  - journals.sagepub.com
+DO  - 10.3233/JCM-191037
+UR  - https://journals.sagepub.com/doi/abs/10.3233/JCM-191037
+PY  - 2019///
+AB  - … data management and analysis system based on Spring MVC in order to better manage, display and … The Spring MVC adopted in this paper is a very useful lightweight framework for …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=16764336651420173801&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 1
+ER  - 
+
+TY  - JOUR
+AU  - Ma, M
+AU  - Yang, J
+AU  - Wang, P
+AU  - Liu, W
+AU  - ...
+TI  - Light-weight and scalable hierarchical-MVC architecture for cloud web applications
+JF  - 2019 6th IEEE …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8854019/
+PY  - 2019///
+AB  - … styles including MVC and its variants. Web front-end modular approaches in open-source communities are also been analyzed. The limitations of the traditional MVC triad are identified …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 20 cites: https://scholar.google.com/scholar?cites=17759435239626675718&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 20
+ER  - 
+
+TY  - PDF
+AU  - Hussain, MI
+TI  - Restful web services security by using ASP. NET web API MVC based
+JF  - Journal of Independent Studies and Research …
+PB  - jisr.szabist.edu.pk
+UR  - http://jisr.szabist.edu.pk/JISR-C/Publication/2014/12/1/206/Article/JISRC-Vol12-Number1-Paper1.pdf
+UR  - http://jisr.szabist.edu.pk/JISR-C/Publication/2014/12/1/206/Article/JISRC-Vol12-Number1-Paper1.pdf
+PY  - 2014///
+AB  - … be used in wide range, such as client‘s browser, mobiles, iPhone and tables etc. As it is light weight and it use the MVC framework. It builds the HTTP services with easy and simple way. …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 10 cites: https://scholar.google.com/scholar?cites=10174948410536620495&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 10
+ER  - 
+
+TY  - CITATION
+AU  - Harbade, A
+TI  - iOS design patterns-Part 1 (MVC, MVP, MVVM)
+JF  - … /medium. com/swlh/ios-design-patterns-a9bd07818129 …
+PY  - 2017///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3298519189060630880&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - JOUR
+AU  - Huseini, K
+AU  - Memeti, A
+AU  - Imeri, F
+AU  - ...
+TI  - Optimizing Learning Experiences: MVC BLAZOR Components and Emerging Educational Technologies in LMS Development
+JF  - … Conference on Innovations …
+PB  - Springer
+DO  - 10.1007/978-3-031-95652-2_28
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-95652-2_28
+PY  - 2025///
+AB  - … the MVC pattern, such as ASP.NET MVC, which is a framework that uses this pattern for building web applications. Therefore, while MVC … This swift rendering sets the stage for a positive …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 3 cites: https://scholar.google.com/scholar?cites=805080712785441154&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 3
+ER  - 
+
+TY  - BOOK
+AU  - Ganeshan, A
+TI  - Spring MVC Beginner's Guide: Your ultimate guide to building a complete web application using all the capabilities of Spring MVC
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=2E7lAwAAQBAJ&oi=fnd&pg=PT12&dq=mvc+ios%7Ciphone%7Cswift&ots=u3ZX-gecpB&sig=poNpKtTvPykbnY5ol3yscjgWOa4
+PY  - 2014///
+AB  - … MVC project Time for action – creating a Spring MVC project in STS What just happened? … can create a basic Spring MVC application. In order to develop a Spring MVC application, we …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Munro, J
+TI  - ASP. NET MVC 5 with Bootstrap and Knockout. js: Building Dynamic, Responsive Web Applications
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=DdtvCQAAQBAJ&oi=fnd&pg=PR2&dq=mvc+ios%7Ciphone%7Cswift&ots=9xNjZ4e7Jo&sig=lYeH0sP5umrVVif1TRoYuYRbTg8
+UR  - http://www.tahlildadeh.com/Files/ASP.NET%20MVC%205%20with%20Bootstrap%20and%20Knockout.js.pdf
+PY  - 2015///
+AB  - … MVC will be mentioned repeatedly throughout this book. In most scenar- ios, I will be referring to the MVC … pattern, which will allow reuse between your MVC and Web API projects, as …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 11 cites: https://scholar.google.com/scholar?cites=6523050615106649281&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 11
+ER  - 
+
+TY  - JOUR
+AU  - Ban, T
+AU  - Jiang, Y
+TI  - Design and Implementation of Intelligent Performance Appraisal System Based on MVC Architecture
+JF  - … of DSIE 2024, Hangzhou, China, 21-22 …
+PB  - journals.sagepub.com
+DO  - 10.3233/FAIA250358
+UR  - https://journals.sagepub.com/doi/abs/10.3233/FAIA250358
+UR  - https://journals.sagepub.com/doi/pdf/10.3233/FAIA250358
+PY  - 2025///
+AB  - … on MVC architecture is proposed. This research first proposes the overall structure of the system based on MVC architecture based on the basic principle of MVC … on MVC architecture …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS architecture patterns: demystifying MVC, MVP, MVVM and VIPER
+PB  - Nov
+PY  - 2015///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15161367824383133843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - PDF
+AU  - Veličković, Z
+AU  - Jevtović, M
+TI  - Web programiranje i responsive Web dizajn u ASP .NET MVC 4
+JF  - Infoteh
+PB  - infoteh.etf.ues.rs.ba
+UR  - https://infoteh.etf.ues.rs.ba/zbornik/2014/radovi/RSS-6/RSS-6-10.pdf
+UR  - https://infoteh.etf.ues.rs.ba/zbornik/2014/radovi/RSS-6/RSS-6-10.pdf
+PY  - 2014///
+AB  - … mogućnosti koje pruža ASP .NET MVC 4 okruženje za razvoj Web … ASP .NET MVC aplikacije i primenjen je MVC šablona u „… stranice MVC šablona Internet aplikacije na Iphone tabletu. …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8216123222073216037&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 1
+ER  - 
+
+TY  - CITATION
+AU  - Allen, KS
+AU  - Galloway, J
+AU  - Hanselman, S
+AU  - Matson, D
+AU  - ...
+TI  - Professional ASP. NET MVC 5
+PB  - Wrox Press
+PY  - 2014///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4099534594747481772&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 2
+ER  - 
+
+TY  - CITATION
+AU  - LASO-MARSETTI, F
+TI  - Model-View-Controller (MVC) in iOS–A Modern Approach. 2019
+PY  - 2020///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7574824528031080719&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - PDF
+AU  - Chaturvedi, R
+AU  - Chande, SV
+AU  - Sharma, A
+TI  - Evaluation and Refinement of MVC Web Application Architecture
+JF  - iisuniv.researgence.com
+UR  - http://iisuniv.researgence.com/AuthorDocument/Publication/1040733.pdf
+UR  - http://iisuniv.researgence.com/AuthorDocument/Publication/1040733.pdf
+AB  - … for developing web applications, but MVC has been the most popular … of MVC architecture and suggests refinement in the MVC … for MVC and MVVM design patterns in iOS applications. …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Коломієць, І
+TI  - Відновлення зображень з використанням архітектурного шаблону проектування MVC
+PY  - 2020///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Lee, JY
+AU  - Choi, HS
+AU  - Yang, NR
+AU  - ...
+TI  - UCSE: User created service engine based on MVC model for IoT service
+JF  - TENCON 2014-2014 IEEE …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7022359/
+UR  - https://www.researchgate.net/profile/Hoan-Suk-Choi/publication/283018981_UCSE_User_created_service_engine_based_on_MVC_model_for_IoT_service/links/5718ec9b08aed43f63234bc9/UCSE-User-created-service-engine-based-on-MVC-model-for-IoT-service.pdf
+PY  - 2014///
+AB  - … With advances in computing technologies and active user participation through smart devices such as the iPhone and Android, user needs are becoming varied and complicated. Also, …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 4 cites: https://scholar.google.com/scholar?cites=8954950338152975912&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 4
+ER  - 
+
+TY  - BOOK
+AU  - Lo, WK
+TI  - i* Chameleon: an MVC-based middleware framework for the support of multimodal application development
+PB  - theses.lib.polyu.edu.hk
+UR  - https://theses.lib.polyu.edu.hk/handle/200/7736
+UR  - https://theses.lib.polyu.edu.hk/bitstream/200/7736/1/b27629016.pdf
+PY  - 2014///
+AB  - … By taking the concept of separation of concerns from MVC design pattern, we classified the pervasive multimodal interface into three conceptual components: modalities and …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - HTML
+AU  - Зверьков, СВ
+TI  - КОЛИЧЕСТВЕННЫЙ АНАЛИЗ АРХИТЕКТУРНЫХ ПАТТЕРНОВ MVC, MVP И VIPER В МОБИЛЬНОЙ РАЗРАБОТКЕ С ИСПОЛЬЗОВАНИЕМ …
+JF  - Universum: технические науки
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/kolichestvennyy-analiz-arhitekturnyh-patternov-mvc-mvp-i-viper-v-mobilnoy-razrabotke-s-ispolzovaniem-formalizovannyh-metrik
+UR  - https://cyberleninka.ru/article/n/kolichestvennyy-analiz-arhitekturnyh-patternov-mvc-mvp-i-viper-v-mobilnoy-razrabotke-s-ispolzovaniem-formalizovannyh-metrik
+PY  - 2026///
+AB  - … Swift с использованием паттернов MVC (в версии «Massive View Controller», характерной для реальных проектов), MVP (с пассивным View и протокольным интерфейсом) и …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Yuanxin, L
+AU  - Saearani, MFT
+TI  - DESIGN AND IMPLEMENTATION OF DANCESPORT VIDEO TEACHING SYSTEM BASED ON MODEL-VIEW-CONTROLLER (MVC)
+JF  - Greget: Jurnal Kreativitas dan Studi …
+PB  - jurnal.isi-ska.ac.id
+UR  - https://jurnal.isi-ska.ac.id/index.php/greget/article/view/6745
+UR  - https://jurnal.isi-ska.ac.id/index.php/greget/article/download/6745/4345
+PY  - 2025///
+AB  - … Addressing the specific needs of modern Dancesport education, this paper focuses on the development of a video teaching system using MVC architecture. By integrating technologies …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - Andrade, FSF de
+TI  - Impacto das Arquiteturas MVC e MVVM na Qualidade de Testes: Uma Análise de Repositórios Open-Source do GitHub
+JF  - bib.pucminas.br
+UR  - https://bib.pucminas.br/pergamumweb/download/1F0D9A89-F60F-44B0-BC1C-D7801A2F27FE.pdf
+UR  - https://bib.pucminas.br/pergamumweb/download/1F0D9A89-F60F-44B0-BC1C-D7801A2F27FE.pdf
+AB  - This study compared the quality of test code in projects based on the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architectures in GitHub repositories. The …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Кислюк, ИВ
+TI  - АНАЛИЗ ОСНОВНЫХ БИБЛИОТЕК ДЛЯ РЕАЛИЗАЦИИ АНИМАЦИЙ ПРЕДСТАВЛЕНИЙ В РАМКАХ МОДЕЛИ MVC
+JF  - Альманах научных работ молодых ученых …
+PY  - 2017///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Sumardi, MRR
+AU  - Fiqar, TP
+AU  - Nugroho, B
+TI  - Pengembangan Aplikasi RT Pintar Berbasis Mobile Menggunakan Framework Flutter Dan Design Pattern MVC (Studi Kasus RT. 15 Perumnas Batu Ampar)
+JF  - Teknomatika
+PB  - ojs.palcomtech.ac.id
+UR  - https://ojs.palcomtech.ac.id/index.php/teknomatika/article/view/625
+UR  - https://ojs.palcomtech.ac.id/index.php/teknomatika/article/download/625/566
+PY  - 2024///
+AB  - … Model View Controller (MVC) untuk meningkatkan efisiensi dan … Prinsip desain Model View Controller (MVC) diterapkan untuk … Selain itu, penerapan design pattern MVC memudahkan …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Dóra, P
+AU  - Péter, B
+TI  - MVC megvalósıtása különbözo mobil platformokon
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Ragupathi, MTS
+AU  - Parameswaran, A
+TI  - Learning ASP. NET Core MVC Programming: Learn the fundamentals of ASP. NET MVC and build real-world web applications using ASP. NET Core MVC
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=QqHcDgAAQBAJ&oi=fnd&pg=PP1&dq=mvc+ios%7Ciphone%7Cswift&ots=vJfoZnXc_1&sig=64bVaNY3QMmuiq9s_9fcEjGDXAo
+PY  - 2016///
+AB  - … MVC and apply that knowledge to building applications using ASP.NET Core. This book also aims to serve as a solid guide for beginners who want to learn ASP.NET MVC. … .NET MVC …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 5 cites: https://scholar.google.com/scholar?cites=17420716106342906749&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 5
+ER  - 
+
+TY  - CITATION
+AU  - Sillmann, T
+AU  - Sillmann, T
+TI  - MVC–Model-View-Controller
+JF  - Apps für iOS
+PY  - 2016///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12275153620686444138&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - PDF
+AU  - Закаулова, ДД
+AU  - Карноухов, СА
+AU  - Кедрин, ВС
+TI  - РАСШИРЕНИЕ ПАТТЕРНА MVC ЗА СЧЕТ ДОБАВЛЕНИЯ ИЕРАРХИЧЕ-СКОЙ СТРУКТУРЫ И СЕРВИС-СЛОЯ ПРИ РЕАЛИЗАЦИИ ПРОГРАММ-НОЙ …
+JF  - math.isu.ru
+UR  - https://math.isu.ru/export/sites/math/ru/students/.galleries/docs/studconf2020/s2/Zakaulova_Karnaukhov.pdf
+UR  - https://math.isu.ru/export/sites/math/ru/students/.galleries/docs/studconf2020/s2/Zakaulova_Karnaukhov.pdf
+AB  - … Использование шаблона MVC для одновременной разработки различных частей … расширения архитектуры MVC до Hierarchical Model View Controller (HMVC). Блоки MVC в …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Hodapp, D
+TI  - Model–View–ViewModel (MVVM). Architektur, Datenbindung in WPF und Vergleich mit dem Model–View–Controller (MVC)
+PB  - GRIN Verlag
+PY  - 2025///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Salamon, D
+AU  - Suárez, J
+TI  - University application form builder in. NET6 MVC
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/872178
+UR  - https://www.theseus.fi/bitstream/handle/10024/872178/Salamon_Suarez.pdf?sequence=2
+PY  - 2024///
+AB  - … The aim of this thesis was to create a web platform using .NET 6 MVC so the admission staff could easily sort the applicants and judge based on a more structured platform. …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Wu, SF
+AU  - Zhong, L
+AU  - Hu, ML
+AU  - Zhou, F
+AU  - ...
+TI  - Struts2-MVC Based Design of Mobile Supervision System
+JF  - Advanced Materials …
+PB  - Trans Tech Publ
+UR  - https://www.scientific.net/AMR.1049-1050.2045
+PY  - 2014///
+AB  - … This paper proposed the system’s design with the Struts2 and MVC … uses MVC framework while the Server-Client uses Struts2 framework that is responsible for the separation of MVC …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Bretet, A
+TI  - Spring mvc cookbook
+PB  - reference-global.com
+DO  - 10.0000/9781784394103-001
+UR  - https://reference-global.com/download/chapter/9781784394103/10.0000/9781784394103-001.pdf
+UR  - https://reference-global.com/download/chapter/9781784394103/10.0000/9781784394103-001.pdf
+PY  - 2016///
+AB  - … MVC, such as its request flow or the central role of DispatcherServlet. It is also about learning how to configure Spring MVC … , we install Spring and Spring MVC across modules and web …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 10 cites: https://scholar.google.com/scholar?cites=1484230906484119331&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 10
+ER  - 
+
+TY  - BOOK
+AU  - Freeman, A
+TI  - Expert ASP. NET Web API 2 for MVC Developers
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=FVMnCgAAQBAJ&oi=fnd&pg=PP3&dq=mvc+ios%7Ciphone%7Cswift&ots=gfjsYHMq-i&sig=sOklMAKKN-9EdhhgZ--MArqFH48
+PY  - 2014///
+AB  - … I build on your existing knowledge of the MVC framework to give you all the information … MVC 5 book, and I chose it to emphasize the ease with which Web API can be applied to MVC …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 5 cites: https://scholar.google.com/scholar?cites=13577055306354807426&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 5
+ER  - 
+
+TY  - JOUR
+AU  - Steyer, R
+TI  - MVC-Grundlagen: Hintergründe zum MVC-Konzept
+JF  - Webanwendungen mit ASP. NET MVC und Razor: Ein …
+PB  - Springer
+DO  - 10.1007/978-3-658-18376-9_2
+UR  - https://link.springer.com/chapter/10.1007/978-3-658-18376-9_2
+PY  - 2017///
+AB  - … bei der Entwicklung von iOS-Apps mit Swift explizit auf seine Interpretation des MVC-Konzepts. … Footnote 3 Im Buch nutzen wir ausschließlich Razor und auch das MVC-Framework …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - 徐浩
+AU  - 高正
+AU  - 余曼
+TI  - 基于 MVC 模式的护理管理系统的设计和实现
+JF  - 电脑知识与技术: 学术版
+PY  - 2016///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Strauss, D
+TI  - Responsive Web Applications Using ASP. NET MVC
+JF  - Exploring Advanced Features in C# Enhance Your …
+PB  - Springer
+DO  - 10.1007/978-1-4842-4856-0_4
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-4856-0_4
+PY  - 2019///
+AB  - … For this example, I have simply chosen to use the iPhone X. When we change the device in the device toolbar to an iPhone X, we see that there is a problem. The problem is likely to be …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10020540956557155893&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 1
+ER  - 
+
+TY  - JOUR
+AU  - Cortez, R
+AU  - Vazhenin, A
+TI  - Virtual model‐view‐controller design pattern: Extended MVC for service‐oriented architecture
+JF  - IEEJ Transactions on Electrical and …
+PB  - Wiley Online Library
+DO  - 10.1002/tee.22101
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/tee.22101
+PY  - 2015///
+AB  - … We compare Virtual-MVC and related MVC pattern components based on their functionality (see Table II). In the Virtual-MVC, the view is hosted as a Web container and it handles both …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 8 cites: https://scholar.google.com/scholar?cites=9463782317951169134&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 8
+ER  - 
+
+TY  - CITATION
+AU  - 刘浪
+AU  - 徐思捷
+AU  - 赵世平
+TI  - 基于 MVC 模式的测控系统优化研究
+JF  - 电子设计工程
+PY  - 2015///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - Медяник, ЄІ
+AU  - Рудніченко, МД
+TI  - ВИКОРИСТАННЯ ФРЕЙМВОРКУ LARAVEL ПРИ РОЗРОБЦІ ВЕБЗАСТОСУНКІВ НА ОСНОВІ MVC
+JF  - Інформаційні технології та …
+PB  - dspace.chmnu.edu.ua
+UR  - https://dspace.chmnu.edu.ua/jspui/bitstream/123456789/563/1/%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D1%96%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D1%82%D0%B0%20%D1%96%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D1%96%D1%8F.pdf#page=158
+UR  - https://dspace.chmnu.edu.ua/jspui/bitstream/123456789/563/1/%D0%86%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D0%B9%D0%BD%D1%96%20%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D1%82%D0%B0%20%D1%96%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%D1%96%D1%8F.pdf#page=158
+PY  - 2022///
+AB  - … Шаблон MVC—це інтерактивний шаблон дизайну структури інтерфейсу, а також ефективний шаблон дизайну. Шаблон проєктування MVC [1] підкреслює, те що розробники …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Kavander, T
+TI  - MVC-arkkitehtuuri peliohjelmoinnissa
+PB  - jyx.jyu.fi
+UR  - https://jyx.jyu.fi/jyx/Record/jyx_123456789_64515
+UR  - https://jyx.jyu.fi/bitstreams/80ba6e73-05e4-4693-a987-05f6d2531024/download
+PY  - 2019///
+AB  - … In this master thesis it will be tested if MVC architecture could be used in game programming. … Based on my observations MVC architecture could offer benefits with some game engines. …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Putra, SI
+TI  - Rancang Bangun Sistem Informasi Geografis (SIG) Untuk Pemetaan Kafe Berbasis Web Menggunakan Arsitektur MVC Dengan Metode Waterfall di Samarinda Utara
+PB  - repository.wicida.ac.id
+UR  - https://repository.wicida.ac.id/6421/
+UR  - https://repository.wicida.ac.id/6421/1/2243106-S1-Jurnal.pdf
+PY  - 2026///
+AB  - … Data collection involved field observations using iOS Compass and the distribution of digital questionnaires, resulting in a sample set of seven representative cafes in the North …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Ahmadiyah, AS
+AU  - Rochimah, S
+AU  - Siahaan, D
+AU  - ...
+TI  - Requirement-to-code traceability in MVC architecture using property listing task
+JF  - 2023 IEEE 7th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10404371/
+PY  - 2023///
+AB  - … to MVC characteristics. This article proposes a novel requirement-tocode traceability in the MVC … of user stories and three separation concerns of MVC. A medium-sized industrial project …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=16764003628860680870&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Bilge, İ
+TI  - Haki: Runtime Verification Tool for Javascript MVC Web Applications
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/25f4537c9d842929cf204dea2f50b8f5/1?pq-origsite=gscholar&cbl=2026366&diss=y
+UR  - https://open.metu.edu.tr/bitstream/handle/11511/26216/index.pdf
+PY  - 2016///
+AB  - … for AngularJS applications since it is the most popular JavaScript MVC framework. Our tool is used in a big scale JavaScript MVC web application to measure its ability to locate real …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Bahran, NA
+AU  - El-Shafai, W
+AU  - Zekry, A
+AU  - El-Rabaie, S
+AU  - ...
+TI  - An FPGA design and implementation of EPZS motion estimation algorithm for 3D H. 264/MVC standard
+JF  - Multimedia Tools and …
+PB  - Springer
+DO  - 10.1007/s11042-019-7562-z
+UR  - https://link.springer.com/article/10.1007/s11042-019-7562-z
+PY  - 2019///
+AB  - … based on the proposed 3D video MVC-PS. The 3DV MVC prediction structure introduces two … &IO power refers to the power consumed by the IOs through IOBs. &Leakage power refers …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 7 cites: https://scholar.google.com/scholar?cites=13885087905853356954&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 7
+ER  - 
+
+TY  - BOOK
+AU  - Steyer, R
+TI  - Webanwendungen mit ASP. NET MVC und Razor: Ein kompakter und praxisnaher Einstieg
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=09gsDwAAQBAJ&oi=fnd&pg=PR5&dq=mvc+ios%7Ciphone%7Cswift&ots=UFBemxxn1T&sig=gNl-EkdWrBkhz9n-z-XMOidCmAQ
+PY  - 2017///
+AB  - … der Entwicklung von iOS-Apps mit Swift explizit auf seine Interpretation des MVC-Konzepts. … Stelle zum Erstellen einer ASP.NETMVC weder die MVC-Vorlage noch die automatische …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 5 cites: https://scholar.google.com/scholar?cites=18314614089056099742&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 5
+ER  - 
+
+TY  - BOOK
+AU  - Weil, A
+TI  - Learn ASP. NET Core MVC: Be Ready Next Week Using Visual Studio 2017
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=C1bMDwAAQBAJ&oi=fnd&pg=PT7&dq=mvc+ios%7Ciphone%7Cswift&ots=7SieoUBU72&sig=8ljVHqmhG79tF58XrsEA4HieLp8
+PY  - 2017///
+AB  - … I assume that you know what ASP.NET MVC is and when to use it. In case you don't, read the … When our browser queries an ASP.NET MVC URL, there are three elements that work …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Weil, A
+TI  - Learn ASP. NET MVC
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=kiEgCwAAQBAJ&oi=fnd&pg=PP1&dq=mvc+ios%7Ciphone%7Cswift&ots=zmdkFum_YV&sig=7eIl-SMpIabpjRJ-BHZkMlSxduY
+PY  - 2015///
+AB  - … I made my best to keep this book small, so that you can learn ASP.NET MVC quickly without … ASP.NET MVC is and when to use it. In case you don’t, read the What is ASP.MVC chapter …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13527931606507204205&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - JOUR
+AU  - STYLE, AVOFMVCA
+TI  - CHAPTER SEVENTEEN ONTOLOGY-DRIVEN MVC: A VARIANT OF MVC ARCHITECTURAL STYLE AMRITA CHATURVEDI AND TV PRABHAKAR
+JF  - Business Intelligence and Mobile …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=YXQxBwAAQBAJ&oi=fnd&pg=PA241&dq=mvc+ios%7Ciphone%7Cswift&ots=oq6uGjOo-i&sig=3tvxHidYwv_1oEmIHCNvjohvgVE
+PY  - 2014///
+AB  - … MVC style and the ontology-driven MVC style. We evaluated the impact of ontology on the quality attributes of the MVC style… from addressing the drawbacks of MVC style also enhances …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Steyer, R
+TI  - Webanwendungen mit ASP .NET MVC und Razor
+JF  - Springer
+DO  - 10.1007/978-3-658-18376-9
+UR  - https://link.springer.com/content/pdf/10.1007/978-3-658-18376-9.pdf
+AB  - … der Entwicklung von iOS-Apps mit Swift explizit auf seine Interpretation des MVC-Konzepts. … Stelle zum Erstellen einer ASP.NETMVC weder die MVC-Vorlage noch die automatische …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - 張婷雅
+TI  - 以 MVC 設計樣式開發跨平台行動應用之研究
+JF  - 臺北科技大學資訊工程系研究所學位論文
+PB  - airitilibrary.com
+UR  - https://www.airitilibrary.com/Article/Detail/U0006-1606201415480400
+PY  - 2014///
+AB  - … 應用使用的技術也不同,例如,iOS之Objective-C,Android之Java.為… 乾淨切割之目的,本研究利用 MVC樣式開發行動應用程式,使用… 分析使用JavaScript MVC框架與沒使用JavaScript MVC框架之…
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - 潘华强
+TI  - MVC 架构模式在 APP 开发中的应用
+JF  - 电脑知识与技术: 学术版
+PY  - 2017///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Leo, A
+AU  - Kuswanto, V
+AU  - Damayanti, L
+TI  - Mobile Commerce untuk Sales Order dan Tracking Order berbasis MVC
+JF  - ALGOR
+PB  - jurnal.ubd.ac.id
+UR  - https://jurnal.ubd.ac.id/index.php/algor/article/view/1748
+UR  - https://jurnal.ubd.ac.id/index.php/algor/article/download/1748/1084
+PY  - 2022///
+AB  - … Aplikasi ini akan dibuat dengan metode MVC.Model-View-Controller atau MVC adalah … Pada penerapannya, framework dalam aplikasi webapp menggunakan arsitektur MVC di mana …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9206626831689809282&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - BOOK
+AU  - Соломин, АВ
+AU  - Орлов, ВВ
+TI  - Разработка веб-приложения по обучению языку программирования JavaScript с использованием ASP. NET MVC 4 и языка программирования C
+PB  - elib.gsu.by
+UR  - https://elib.gsu.by/handle/123456789/76970
+PY  - 2025///
+AB  - … Благодаря этому решению приложение поддерживает работу на устройствах с операционными системами Android и iOS, обеспечивая единый код и высокую …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Тебенькова, К
+TI  - Технології тестування програмного забезпечення при створенні MVC-додатка
+PY  - 2022///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Soni, K
+TI  - Efficient Travel Decision Making Using Web Application Based on MVC Architecture
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/b6116450c38166c90ec6a914e602f23d/1?pq-origsite=gscholar&cbl=18750
+UR  - https://search.proquest.com/openview/b6116450c38166c90ec6a914e602f23d/1?pq-origsite=gscholar&cbl=18750
+PY  - 2017///
+AB  - … Web applications are developed based on Model-View-Controller (MVC) architecture. MVC … The project showcases the benefits of using MVC architecture, Spring MVC Framework, and …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9914396133920877369&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - JOUR
+AU  - Layka, V
+TI  - Building Java Web Applications with Spring Web MVC
+JF  - Learn Java for Web Development
+PB  - Springer
+DO  - 10.1007/978-1-4302-5984-8_5
+UR  - https://link.springer.com/chapter/10.1007/978-1-4302-5984-8_5
+PY  - 2014///
+AB  - … Spring provides support for building modern web applications including REST, HTML5, and Ajax, as well as mobile client platforms including Android and iPhone. The Spring …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Putri, SI
+AU  - Rofiq, M
+TI  - Perancangan Pemesanan Fasilitas Rumah Sakit Menggunakan Model View Controller (MVC) Berbasis Android
+JF  - SMATIKA JURNAL
+PB  - jurnal.ubhinus.ac.id
+UR  - https://jurnal.ubhinus.ac.id/index.php/SMATIKA/article/view/156
+UR  - https://jurnal.ubhinus.ac.id/index.php/SMATIKA/article/download/156/136
+PY  - 2017///
+AB  - … Proses perancangan web administrator dan Aplikasi menggunakan Mekanisme MVC yang merupakan system pengembangan aplikasi yang terpisah, Komponen utama berbasis itu …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=7123590196063666617&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - JOUR
+AU  - Ciliberti, J
+TI  - MVC Razor Syntax and HTML Helpers
+JF  - ASP. NET Core Recipes: A Problem-Solution Approach
+PB  - Springer
+DO  - 10.1007/978-1-4842-0427-6_3
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-0427-6_3
+PY  - 2017///
+AB  - … As an ASP.NET Core MVC developer, you will likely spend a … productive on the ASP.NET Core MVC platform. Recipe 3-1 is a … coding in ASP.NET Core MVC. Although the syntax for …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Putra, RC
+AU  - Maulana, I
+AU  - Nugraha, FF
+AU  - ...
+TI  - Implementasi Arsitektur MVC dalam Sistem Informasi Layanan Holistic Counseling Berbasis Framework Laravel
+JF  - … Teknologi &Sains
+PB  - proceeding.unpkediri.ac.id
+UR  - https://proceeding.unpkediri.ac.id/index.php/stains/article/view/9206
+UR  - https://proceeding.unpkediri.ac.id/index.php/stains/article/download/9206/6060
+PY  - 2026///
+AB  - … platform menuju Mobile Application (Android/iOS) atau setidaknya Progressive Web App (… pada struktur Model dalam arsitektur MVC untuk memastikan performa pengambilan data …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 3 cites: https://scholar.google.com/scholar?cites=16537223105700698827&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 3
+ER  - 
+
+TY  - JOUR
+AU  - Pitt, C
+TI  - Pro PHP 8 MVC
+JF  - Model View Controller Architecture-Driven Application …
+PB  - Springer
+DO  - 10.1007/978-1-4842-6957-2
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-6957-2.pdf
+PY  - 2021///
+AB  - … While it is true that modern web development is a very different environment to where MVC … Fortunately, you don’t need to pay anything to get started with PHP MVC development, so …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 16 cites: https://scholar.google.com/scholar?cites=12240804490619659238&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 16
+ER  - 
+
+TY  - BOOK
+AU  - Скочков, ВА
+TI  - Реализация веб-приложения на C# с использованием технологий ASP. NET Core MVC для изучения английского языка
+PB  - elib.psu.by
+UR  - https://elib.psu.by/handle/123456789/48960
+UR  - https://elib.psu.by/bitstream/123456789/48960/1/140-142.pdf
+PY  - 2025///
+AB  - … Подробно описываются этапы проектирования, реализации и тестирования приложения, созданного с использованием архитектурного шаблона Model-ViewController (MVC) …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Steyer, M
+AU  - Schwichtenberg, H
+TI  - Moderne Web-Anwendungen mit ASP. NET MVC und JavaScript: ASP. NET MVC im Zusammenspiel mit Web APIs und JavaScript-Frameworks
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=uOb2DwAAQBAJ&oi=fnd&pg=PA1&dq=mvc+ios%7Ciphone%7Cswift&ots=SznGr0HJyE&sig=_1ik-az8jUDkqIAG14IyjCYBe7g
+PY  - 2014///
+AB  - … sich dieser Abschnitt mit verschiedenen Überlegungen zum MVC-Muster. Darüber hinaus wird auf … ) eingegangen, da dieses heutzutage häufig in Kombination mit MVC eingesetzt wird. …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12167487470560442144&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 2
+ER  - 
+
+TY  - JOUR
+AU  - Kurniawan, FS
+AU  - Sari, DW
+AU  - ...
+TI  - Rancang Bangun Webgame Interaktif Pada Matakuliah Bahasa Inggris Maritim Menggunakan Model View Controller (MVC)
+JF  - Jurnal Informatika …
+PB  - ejournal.poltekharber.ac.id
+UR  - http://ejournal.poltekharber.ac.id/index.php/informatika/article/view/7931
+UR  - http://ejournal.poltekharber.ac.id/index.php/informatika/article/download/7931/3515
+PY  - 2025///
+AB  - … Webgame dibuat menggunakan arsitektur Model-View-Controller (MVC) pada framework … ke platform mobile native (Android/iOS) atau penggunaan game engine canggih seperti Unity …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14555864685583586856&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Гриб, АС
+AU  - Проходский, ДВ
+TI  - Преимущества и недостатки архитектуры MVC при разработке IOS-приложения
+JF  - Студенческий …
+PB  - Общество с ограниченной …
+PY  - 2019///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12717348153141376855&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - BOOK
+AU  - Arango, J Gil
+AU  - Parra, MF Carvajal
+TI  - Modernización y Evolución de Braviz: Migración a Python 3 y Refactorización con Arquitectura MVC
+PB  - repositorio.uniandes.edu.co
+UR  - https://repositorio.uniandes.edu.co/entities/publication/def2c73e-6b49-4797-bf02-80aae3d423fb
+UR  - https://repositorio.uniandes.edu.co/bitstreams/faeb4848-6b92-41fb-9558-c92644cd7dbd/download
+PY  - 2026///
+AB  - … tecnológica de Python 2.7 y PyQt4 a Python 3 y PyQt5, y refactorizando internamente su módulo central Subject Overview bajo una arquitectura modular de bajo acoplamiento (MVC). …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Мазуренко, ОЕ
+TI  - Ігровий застосунок в жанрі Casual на основі патерну MVC та технології Unity
+PY  - 2025///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - DAOUDI, A
+TI  - ÉTUDE DES PATRONS ARCHITECTURAUX DE TYPE MVC DANS LES APPLICATIONS ANDROID
+PB  - archipel.uqam.ca
+UR  - https://archipel.uqam.ca/12399/1/M15948.pdf
+UR  - https://archipel.uqam.ca/12399/1/M15948.pdf
+PY  - 2018///
+AB  - … Le système iOS d'Apple est propriétaire et exclusivement utilisé pour ses appareils iPhone. Tandis que le système Android est gratuit, à code source ouvert et offert à tous les fabricants …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=2283792762743962515&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - PDF
+AU  - Sangermann, JM
+TI  - Entwickeln und Veröffentlichen von Web-Apps mit Hilfe von Microsoft Visual Studio auf Basis von ASP. NET 5 MVC 6 RC1
+PB  - epb.bibl.th-koeln.de
+UR  - https://epb.bibl.th-koeln.de/files/948/Bachelorarbeit+John+Marc+Sangermann+11070719_2.pdf
+UR  - https://epb.bibl.th-koeln.de/files/948/Bachelorarbeit+John+Marc+Sangermann+11070719_2.pdf
+PY  - 2016///
+AB  - … In diesem Abschnitt wird gezeigt, wie die erstellten MVC-Komponenten zusammenarbeiten und in der View, mithilfe von Razor, über den Controller die Daten aus dem Model abfragen …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - Resurrección, JA
+TI  - Desarrollo de aplicaciones en IOS: MVC
+JF  - Revista de Ciencias de la Universidad Pablo de …
+PY  - 2015///
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7360133139331880663&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 2
+ER  - 
+
+TY  - BOOK
+AU  - Сміщенко, ІО
+TI  - Інформаційна система обліку службовців на базі Spring MVC Framework
+PB  - essuir.sumdu.edu.ua
+UR  - https://essuir.sumdu.edu.ua/items/e1faaa7b-5b9b-4c2f-8367-541294a6c97d
+UR  - https://essuir.sumdu.edu.ua/bitstreams/c4025869-f301-4719-934c-df3e4a1f7312/download
+PY  - 2018///
+AB  - … вид-контролер (MVC) [10]. Вони беруть за основу архітектурну схему MVC, щоб відділити … Отже, візьмемо модель MVC як базову структуру для майбутньої програми обліку …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Ávila, DC
+TI  - Utilização do framework AngularJS associando integrações com Spring MVC, Hibernate e Bluetooth 4.0 para a construção de uma ferramenta de agendamento e …
+PB  - repositorio.unesc.net
+UR  - https://repositorio.unesc.net/items/a1ae6f81-1cf2-48c1-b00a-d841a487fc76
+UR  - https://repositorio.unesc.net/bitstreams/d18f7573-24b5-4ccc-b9f7-03bb81859d76/download
+PY  - 2015///
+AB  - … do framework Spring MVC com o framework AngularJS, pois entendemos, que esta, é essencial para construir uma aplicação robusta e flexível, pois o Spring MVC nos fornece o …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Глухов, НА
+AU  - Жадан, МИ
+TI  - Разработка Веб-приложения на основе ASP. NET MVC
+PB  - elib.gsu.by
+UR  - https://elib.gsu.by/bitstream/123456789/17889/1/%D0%93%D0%BB%D1%83%D1%85%D0%BE%D0%B2_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D0%92%D0%B5%D0%B1-%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F.pdf
+PY  - 2016///
+AB  - Citation: Глухов, НА Разработка Веб-приложения на основе ASP .NET MVC/НА Глухов, МИ Жадан//Новые математические методы и компьютерные технологии в …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - HTML
+AU  - VALERO, MIG
+TI  - Patrón MVC, un componente para la implementación de una estrategia informática para mejorar gestión de datos en el área de estadística: caso de estudio …
+JF  - UNIANDES EPISTEME
+PB  - academia.edu
+UR  - https://www.academia.edu/download/115755146/6756300.pdf
+UR  - https://www.academia.edu/download/115755146/6756300.pdf
+PY  - 2016///
+AB  - (PDF) Patrón MVC, un componente para la implementación de una estrategia informática para mejorar gestión de datos en el área de estadística: caso de estudio Hospital Maternidad …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 2 cites: https://scholar.google.com/scholar?cites=5178941018343524934&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - BOOK
+AU  - Mattila, K
+TI  - SQL Server-tietokannan käsittely ASP. NET MVC-sovelluksessa Web API-rajapinnan kautta
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/266638
+UR  - https://www.theseus.fi/bitstream/handle/10024/266638/Mattila_Kati.pdf?sequence=2
+PY  - 2019///
+AB  - … MVC -model and API was created with Web API. Web API works well in .NET environment and MVC … In this thesis ASP.NET MVC -application and API were successfully programmed. …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Cruz, Y Rosales
+AU  - Zepahua, BA Olivares
+AU  - ...
+TI  - … del módulo de maquetado para formularios del Generador de Aplicaciones Enriquecidas de Internet modeladas bajo el patrón arquitectónico MVC usando UML e …
+PB  - repositorios.orizaba.tecnm.mx
+UR  - http://repositorios.orizaba.tecnm.mx:8080/xmlui/handle/123456789/403
+UR  - http://repositorios.orizaba.tecnm.mx:8080/xmlui/bitstream/handle/123456789/403/Tesis_Yasmin_Rosales_Cruz.pdf?sequence=1&isAllowed=y
+PY  - 2020///
+AB  - La tesis “Desarrollo de un Generador de Aplicaciones Enriquecidas de Internet modeladas bajo el patrón arquitectónico MVC usando UML e IFML” da como resultado prototipos de …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Selene, EG
+AU  - Zepahua, BA Olivares
+TI  - Desarrollo de un generador de Aplicaciones Enriquecidas de Internet modeladas bajo el patrón arquitectónico MVC usando UML e IFML
+PB  - repositorios.orizaba.tecnm.mx
+UR  - http://repositorios.orizaba.tecnm.mx:8080/xmlui/handle/123456789/173
+UR  - http://repositorios.orizaba.tecnm.mx:8080/xmlui/bitstream/handle/123456789/173/Selene%20Est%C3%A9vez%20G%C3%A1mez.pdf?sequence=1&isAllowed=y
+PY  - 2018///
+AB  - … En el escrito se incluyeron generadores de código para plataformas nativas (Android e iOS) y generadores para marcos de trabajo multiplataforma como PhoneGap y AppCelerator …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 4 cites: https://scholar.google.com/scholar?cites=15229127990008118797&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 4
+ER  - 
+
+TY  - CITATION
+AU  - Galán, JAR
+TI  - Desarrollo de aplicaciones en IOS:: MVC
+JF  - MoleQla: revista de Ciencias de la Universidad …
+PB  - dialnet.unirioja.es
+UR  - https://dialnet.unirioja.es/servlet/articulo?codigo=5297783
+PY  - 2015///
+AB  - En este artículo se pretende informar cómo desarrollar aplicaciones para la plataforma IOS de Apple mediante un patrón de arquitectura de software llamado Modelo-Vista …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=4807749097764907143&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - BOOK
+AU  - Καραγεώργος, Ι
+TI  - Ιστοσελίδα καταγραφής δεδομένων πανδημίας, υλοποιημένη με mvc αρχιτεκτονική και spring boot framework
+PB  - dione.lib.unipi.gr
+UR  - https://dione.lib.unipi.gr/xmlui/handle/unipi/17254
+UR  - https://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/17254/Karageorgos_21023.pdf?sequence=3&isAllowed=y
+PY  - 2024///
+AB  - … The web server will be built using the Model-View-Controller (MVC) architecture pattern, while the login system will use the JSON Web Token (JWT) standard for secure information …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Gámez, S Estévez
+AU  - Zepahua, BA Olivares
+TI  - Desarrollo de un generador de aplicaciones enriquecidas de internet modeladas bajo el patrón arquitectónico mvc usando uml e ifml
+PB  - repositorios.orizaba.tecnm.mx
+UR  - http://repositorios.orizaba.tecnm.mx:8080/xmlui/handle/123456789/392
+UR  - http://repositorios.orizaba.tecnm.mx:8080/xmlui/bitstream/handle/123456789/392/Tesis_SeleneEstevezGamez.pdf?sequence=1
+PY  - 2018///
+AB  - … En el escrito se incluyeron generadores de código para plataformas nativas (Android e iOS) y generadores para marcos de trabajo multiplataforma como PhoneGap y AppCelerator …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11489151751099195640&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - BOOK
+AU  - Ballón, GA Delgado
+TI  - Desarrollo de sistema de gestión para plantación y localización de arboles con Framework MVC. NET y arquitectura orientada a servicios
+PB  - repositorio.ucsm.edu.pe
+UR  - https://repositorio.ucsm.edu.pe/items/3b0ce076-6228-4a8c-89d6-7b1a22c026ca
+UR  - https://repositorio.ucsm.edu.pe/bitstreams/6569effb-ced7-4e09-8318-f625223ec23e/download
+PY  - 2020///
+AB  - … Uno de los patrones arquitectónicos más usados en la actualidad para el desarrollo de aplicaciones web es el denominado “MVC”, el cual consiste en tener independizado el Modelo, …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Шпак, ПМ
+TI  - Розробка автономного віртуального світу з динамічно підтримуючим штучним інтелектом з використанням MVC архітектури
+PB  - elartu.tntu.edu.ua
+UR  - https://elartu.tntu.edu.ua/handle/lib/30634
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/30634/4/dyplom_Shpak_K_2020.pdf
+PY  - 2019///
+AB  - … Основна мета застосування MVC полягає в розділенні даних і бізнеслогіки від візуалізації (зовнішнього вигляду). За рахунок такого поділу підвищується можливість повторного …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Canqui, EM Canaza
+TI  - Sistema web con patrón MVC para optimizar la gestión de usuarios FTTH de House Support Computer Informática y Telecomunicaciones-2024.
+PB  - repositorio.upsc.edu.pe
+UR  - https://repositorio.upsc.edu.pe/handle/20.500.14891/1531
+UR  - https://repositorio.upsc.edu.pe/bitstream/handle/20.500.14891/1531/Edson_Miguel_CANAZA_CANQUI.pdf?sequence=1
+PY  - 2025///
+AB  - … Y TELECOMUNICACIONES - 2024RESUMEN Lapresente investigación tuvo como objetivo desarrollare implementar un sistemawebcon arquitectura Modelo-Vista-Controlador(MVC) …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Θεοδωρόπουλος, Μ
+TI  - Ανάπτυξη πλατφόρμας ηλεκτρονικού εμπορίου με αθλητικά προϊόντα του NBA με τη χρήση του ASP. NET Core MVC και του Entity Framework Core. TheBuzzerBeater
+PB  - dione.lib.unipi.gr
+UR  - https://dione.lib.unipi.gr/xmlui/handle/unipi/16476
+UR  - https://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/16476/Theodoropoulos_MPPL21018.pdf?sequence=3&isAllowed=y
+PY  - 2024///
+AB  - … Η εμφάνιση του .NET MVC το 2009 παρουσίασε νέες προκλήσεις, αλλά η άρρηκτη σύνδεση του με το IIS και τα Windows ήταν περιοριστική. Το 2016, το ASP .NET Core κυκλοφόρησε, …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Athailah, A
+AU  - Friadi, J
+TI  - Sistem Informasi Manajemen Aset Menggunakan Pendekatan MVC dengan Framework Codeigniter di PT. H-Tech Oilfield Equipment
+JF  - Zona Komputer: Program Studi Sistem …
+PB  - ejurnal.univbatam.ac.id
+UR  - http://ejurnal.univbatam.ac.id/index.php/komputer/article/view/94
+UR  - https://ejurnal.univbatam.ac.id/index.php/komputer/article/view/94/80
+PY  - 2017///
+AB  - … Dapat dikembangkan menjadi versi mobile yang dapat dijalankan di perangkat Tablet atau SmartPhone Android maupun iOS, sehingga menjadi lebih fleksibel dapat penggunaan …
+M1  - Query date: 2026-09-22 17:16:53
+M1  - 4 cites: https://scholar.google.com/scholar?cites=7020024696587152455&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 4
+ER  - 
+
+TY  - BOOK
+AU  - Τσιαλούκη, Π
+TI  - Ανάπτυξη web εφαρμογής για αγγελίες χαμένων, ευρεθέντων και προς υιοθεσία ζώων με χρήση MVC. NET 6 και Entity Framework
+PB  - dione.lib.unipi.gr
+UR  - https://dione.lib.unipi.gr/xmlui/handle/unipi/18973
+UR  - https://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/18973/Tsialouki_mppl2247.pdf?sequence=3&isAllowed=y
+PY  - 2026///
+AB  - … part of the Postgraduate Program in “Informatics” at the Department of Informatics of the University of Piraeus, with the objective of developing a web application based on .NET 6 MVC …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Irwadi, W
+TI  - … BANGUN SISTEM INFORMASI MANAJEMEN BAHAN BAKU PENGEMASAN PRODUK HUB VF 68 DENGAN MENGGUNAKAN ASP. NET MVC 5 DAN SQL SERVER …
+PB  - repository.stmi.ac.id
+UR  - http://repository.stmi.ac.id/id/eprint/2760/
+UR  - http://repository.stmi.ac.id/id/eprint/2760/1/1312038%20-%20Widyan%20Irwadi.pdf
+PY  - 2016///
+AB  - … aplikasi ini menggunakan ASP.NET MVC 5 dan SQL Server 2016. Sistem informasi manajemen bahan baku mampu memberikan informasi mengenai sisa persediaan yang akurat, …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - MAS, PCVP
+AU  - IBRAHIM, RS
+TI  - RANCANG BANGUN SISTEM PEMESANAN BARANG BERBASIS WEB DENGAN METODE MVC
+JF  - repository.bsi.ac.id
+UR  - https://repository.bsi.ac.id/repo/files/486786/download/15200329_Skripsi_Rayhan-Shiddik-Ibrahim-REV.pdf
+UR  - https://repository.bsi.ac.id/repo/files/486786/download/15200329_Skripsi_Rayhan-Shiddik-Ibrahim-REV.pdf
+AB  - … The software development method used is Model-View-Controller (MVC) implemented with the CodeIgniter 4 framework, applied to create a structured, modular, and maintainable …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - BOOK
+AU  - Systems, MI
+TI  - RETRACTION:: Design and Management of Control System for Rural Tourism Network Information Based on MVC Model
+PB  - dl.acm.org
+DO  - 10.1155/2024/9871750
+UR  - https://dl.acm.org/doi/abs/10.1155/2024/9871750
+UR  - https://onlinelibrary.wiley.com/doi/pdf/10.1155/2024/9871750
+PY  - 2024///
+AB  - RETRACTION: : Design and Management of Control System for Rural Tourism Network Information Based on MVC Model: Mobile Information Systems: Vol 2024, No null … IOS Press …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - JOUR
+AU  - Himawan, A
+TI  - … INFORMASI DAN MANAJEMEN LABORATORIUM PADA PROGRAM STUDI PENDIDIKAN BIOLOGI DENGAN METODE MVC (MODEL, VIEW, CONTROLLER)
+JF  - EduNaturalia: Jurnal Biologi dan Kependidikan …
+PB  - ejurnal.untan.ac.id
+UR  - http://ejurnal.untan.ac.id/index.php/EduNaturalia/article/view/88635
+PY  - 2025///
+AB  - … method between innovation in the field of technology MVC (Model, View, Controller) … is then implemented in the form of MVC in developing SIMLAB applications. Application testing is …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - Faisal, MR
+TI  - … akan dipaparkan apa saja hal-hal yang mesti diketahui web developer dalam memulai membangun aplikasi web dengan ASP .NET MVC dengan bantuan tool …
+JF  - academia.edu
+UR  - https://www.academia.edu/download/47257470/ASP.NET-MVC_Untuk_Pemula-2016-ver1.pdf
+UR  - https://www.academia.edu/download/47257470/ASP.NET-MVC_Untuk_Pemula-2016-ver1.pdf
+AB  - … ebook sederhana yang berjudul ASP.NET MVC Untuk Pemula. … .NET MVC, dengan contoh tersebut akan dapat dilihat bagaimana cara kerja pattern ini pada framework ASP.NET MVC. …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - CITATION
+AU  - 谢逸坤
+TI  - 基于 Spring MVC 框架的车辆服务信息平台的开发
+PB  - 浙江工业大学
+PY  - 2015///
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
+TY  - PDF
+AU  - Пустовойтенко, ВВ
+TI  - Розробка веб-сайту для замовлення та оплати послуг в місті з використанням фреймворку ASP. NET MVC
+JF  - … робіт (2019-2020÷ 2022-2023 н. р.)
+PB  - jarch.donnu.edu.ua
+UR  - https://jarch.donnu.edu.ua/article/view/12664/12565
+UR  - https://jarch.donnu.edu.ua/article/view/12664/12565
+PY  - 2020///
+AB  - … та оплати послуг в місті з використанням фреймворку ASP .NET MVC. Спеціальність … Так як курсова робота написана на ASP .NET MVC Core та С# я не довго думаючи обрав в …
+M1  - Query date: 2026-09-22 17:16:53
+ER  - 
+
