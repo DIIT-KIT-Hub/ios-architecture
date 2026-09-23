@@ -1,0 +1,187 @@
+﻿TY  - JOUR
+AU  - García, RF
+TI  - MVVM: model–view–viewmodel
+JF  - … Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9_4
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9069-9_4
+PY  - 2023///
+AB  - … To continue with the logic of the applied architecture pattern (Model– View–ViewModel), we … case, we will use the Swift Package Manager (SPM), which is the system integrated with …
+M1  - Query date: 2026-09-23 21:54:58
+M1  - 11 cites: https://scholar.google.com/scholar?cites=5062677548084698422&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - JOUR
+AU  - Fuksa, M
+AU  - Speth, S
+AU  - Becker, S
+TI  - Mvvm revisited: Exploring design variants of the model-view-viewmodel pattern
+JF  - International Conference on Enterprise …
+PB  - Springer
+DO  - 10.1007/978-3-031-78338-8_9
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-78338-8_9
+UR  - https://arxiv.org/pdf/2504.18191
+PY  - 2024///
+AB  - … , Model-View-Presenter (MVP), or Model-View-ViewModel (MVVM) play a central role when … apps [14], while it is also popular in iOS development [11]. The origin of the MVVM pattern is …
+M1  - Query date: 2026-09-23 21:54:58
+M1  - 26 cites: https://scholar.google.com/scholar?cites=291270789735677688&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 26
+ER  - 
+
+TY  - PDF
+AU  - Wiyana, AS
+AU  - Putera, MIA
+AU  - Natasia, SR
+TI  - Sistem Presensi Online Menggunakan Arsitektur Pengembangan Perangkat Lunak Model-View-Viewmodel
+JF  - Teknika
+PB  - academia.edu
+UR  - https://www.academia.edu/download/97786620/172.pdf
+UR  - https://www.academia.edu/download/97786620/172.pdf
+PY  - 2021///
+AB  - … oleh peneliti kepada pembaca dan mitra untuk pengembangan sistem kehadiran kedepannya adalah membuat sistem menjadi tersedia pada sistem operasi lain seperti iOS. Selain itu …
+M1  - Query date: 2026-09-23 21:54:58
+M1  - 5 cites: https://scholar.google.com/scholar?cites=7945670624773418741&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 5
+ER  - 
+
+TY  - JOUR
+AU  - Sheikh, W
+AU  - Sheikh, N
+TI  - A model-view-viewmodel (MVVM) application framework for hearing impairment diagnosis
+JF  - arXiv preprint arXiv:1911.08289
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/1911.08289
+UR  - https://arxiv.org/pdf/1911.08289
+PY  - 2019///
+AB  - … The researchers in [22] present a feasibility study of an Apple® iOS®-based automated audiometry application. The application performed pure-tone hearing test on the iPhone®, iPod® …
+M1  - Query date: 2026-09-23 21:54:58
+M1  - 10 cites: https://scholar.google.com/scholar?cites=5643757155431490613&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 10
+ER  - 
+
+TY  - JOUR
+AU  - Wulandari, GP
+AU  - Asri, JS
+AU  - Anwar, N
+AU  - ...
+TI  - Perancangan dan Implementasi Sistem Microlearning Menggunakan Arsitektur Model-View-ViewModel (MVVM)
+JF  - Bulletin of Computer …
+PB  - hostjournals.com
+UR  - http://hostjournals.com/bulletincsr/article/view/1295
+UR  - http://hostjournals.com/bulletincsr/article/download/1295/747
+PY  - 2026///
+AB  - … , research addressing software architecture, particularly Model-View-ViewModel (MVVM), in … a mobile microlearning system using the Model-View-ViewModel (MVVM) architecture. The …
+M1  - Query date: 2026-09-23 21:54:58
+ER  - 
+
+TY  - CITATION
+AU  - Hodapp, D
+TI  - Model–View–ViewModel (MVVM). Architektur, Datenbindung in WPF und Vergleich mit dem Model–View–Controller (MVC)
+PB  - GRIN Verlag
+PY  - 2025///
+M1  - Query date: 2026-09-23 21:54:58
+ER  - 
+
+TY  - JOUR
+AU  - Defriani, M
+AU  - Jaelani, I
+AU  - Sanjaya, LP
+AU  - ...
+TI  - Implementation of Model-View-ViewModel and Clean Architecture in Android Mobile App Development
+JF  - CoreID …
+PB  - journal.genintelektual.id
+UR  - https://www.journal.genintelektual.id/index.php/coreid/article/view/163
+UR  - https://www.journal.genintelektual.id/index.php/coreid/article/download/163/197
+PY  - 2026///
+AB  - … One widely used approach is Model-View-ViewModel (MVVM). MVVM is a design pattern or … The developed application has implemented the Model-View-ViewModel model and Clean …
+M1  - Query date: 2026-09-23 21:54:58
+ER  - 
+
+TY  - BOOK
+AU  - Švikruha, P
+TI  - Návrhový vzor Model-View-ViewModel ve WPF aplikacích
+PB  - dspace.vut.cz
+UR  - https://dspace.vut.cz/items/273c9fb4-232a-483c-8517-b6dda5bf4e62
+UR  - https://dspace.vut.cz/bitstreams/88b8d09e-2917-486a-9fe1-127780cf22eb/download
+PY  - 2016///
+AB  - … In this work i focus myself on presentating model for Model-View-ViewModel which is primary designated for WPF application. This presentating model is possible to be built by …
+M1  - Query date: 2026-09-23 21:54:58
+ER  - 
+
+TY  - JOUR
+AU  - Arfianto, B
+AU  - Prapanca, A
+TI  - Analisis Perbandingan Performa Pola Arsitektur Model-View-ViewModel (MVVM) dan Model-View-Presenter (MVP) pada Pengembangan Aplikasi Desa Wisata …
+JF  - Journal of Informatics and Computer …
+PB  - ejournal.unesa.ac.id
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/view/61773
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/download/61773/47164
+PY  - 2024///
+AB  - … Pengujian yang telah dilakukan menunjukkan bahwa aplikasi yang menggunakan pola arsitektur Model-ViewViewModel (MVVM) memiliki penggunaan CPU yang lebih efisien …
+M1  - Query date: 2026-09-23 21:54:58
+M1  - 10 cites: https://scholar.google.com/scholar?cites=5483831247235893690&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 10
+ER  - 
+
+TY  - PDF
+AU  - Hikaa, GR
+AU  - Dwidasmaraa, IBG
+AU  - Wibawaa, IGA
+AU  - ...
+TI  - Pengembangan Aplikasi Rekomendasi Pet Shop Berbasis Android Menggunakan Arsitektur MVVM (Model-View-ViewModel)
+JF  - Jurnal Elektronik Ilmu …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Ida-Bagus-Gede-Dwidasmara/publication/366263724_Pengembangan_Aplikasi_Rekomendasi_Pet_Shop_Berbasis_Android_Menggunakan_Arsitektur_MVVM_Model-View-Viewmodel/links/66edbd1dc0570c21feafa5e8/Pengembangan-Aplikasi-Rekomendasi-Pet-Shop-Berbasis-Android-Menggunakan-Arsitektur-MVVM-Model-View-Viewmodel.pdf
+UR  - https://www.researchgate.net/profile/Ida-Bagus-Gede-Dwidasmara/publication/366263724_Pengembangan_Aplikasi_Rekomendasi_Pet_Shop_Berbasis_Android_Menggunakan_Arsitektur_MVVM_Model-View-Viewmodel/links/66edbd1dc0570c21feafa5e8/Pengembangan-Aplikasi-Rekomendasi-Pet-Shop-Berbasis-Android-Menggunakan-Arsitektur-MVVM-Model-View-Viewmodel.pdf
+AB  - … Firebase Authentication adalah salah satu layanan Back-end, fitur untuk Android, iOS, SDK yang mudah untuk digunakan, dan tampilan interface yang siap pakai untuk …
+M1  - Query date: 2026-09-23 21:54:58
+ER  - 
+
+TY  - JOUR
+AU  - Raintung, JK
+AU  - Rahman, S
+TI  - ANALISIS PENGARUH MODEL-VIEW-VIEWMODEL TERHADAP KINERJA APLIKASI COMFY LEARN
+JF  - KHARISMA Tech
+PB  - jurnal.kharisma.ac.id
+UR  - https://jurnal.kharisma.ac.id/kharismatech/article/view/581
+UR  - https://jurnal.kharisma.ac.id/kharismatech/article/download/581/322
+PY  - 2026///
+AB  - … satu arsitektur modern yang direkomendasikan adalah Model-View-ViewModel (MVVM). Pola … [11] meneliti penerapan MVVM pada aplikasi iOS, dan menemukan peningkatan efisiensi …
+M1  - Query date: 2026-09-23 21:54:58
+ER  - 
+
+TY  - JOUR
+AU  - Arif, MS
+AU  - Musthafa, A
+AU  - ...
+TI  - Implementation of Model-View-ViewModel (MVVM) Architecture Pattern in the Sistem Informasi Akademik UNIDA Gontor Mobile Application
+JF  - … Conference on Science …
+PB  - sunankalijaga.org
+UR  - http://sunankalijaga.org/prosiding/index.php/icse/article/view/514
+UR  - https://sunankalijaga.org/prosiding/index.php/icse/article/download/514/488
+PY  - 2020///
+AB  - … Model-View-ViewModel (MVVM) is a software architectural pattern that facilitates a separation of … Also, it can be developed for another mobile operating system, such as iOS, Tizen, …
+M1  - Query date: 2026-09-23 21:54:58
+M1  - 8 cites: https://scholar.google.com/scholar?cites=17305299089998035350&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 8
+ER  - 
+
+TY  - CITATION
+AU  - Arif, M
+AU  - Musthafa, A
+AU  - Muriyatmoko, D
+TI  - Implementasi Pola Arsitektur Model-View-ViewModel (MVVM) pada Sistem Informasi Akademik Universitas Darussalam Gontor Berbasis Mobile
+PY  - 2019///
+M1  - Query date: 2026-09-23 21:54:58
+M1  - 3 cites: https://scholar.google.com/scholar?cites=14903410193609215946&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - CITATION
+AU  - Johansson, A
+TI  - The Influence of Flux and Model-View-ViewModel Architectural Patterns for State Management on Response Times in a Blazor WebAssembly Application
+PY  - 2025///
+M1  - Query date: 2026-09-23 21:54:58
+ER  - 
+
