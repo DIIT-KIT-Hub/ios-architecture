@@ -1,0 +1,798 @@
+﻿TY  - JOUR
+AU  - Magics-Verkman, H
+AU  - Zmaranda, DR
+AU  - ...
+TI  - A comparison of architectural patterns for testability and performance quality for iOS mobile applications development
+JF  - … on Engineering of …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10171619/
+PY  - 2023///
+AB  - … Many architectural patterns are available in present but there are few empirical data that … existing architectural patterns in order to prove which of them is better to be used in iOS mobile …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 13 cites: https://scholar.google.com/scholar?cites=3197959365046203255&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 13
+ER  - 
+
+TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - … Start by learning what architecture patterns for an application … about VIPER and VIP, Architecture Patterns that seeks to make … Architecture patterns have developed and evolved to …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - BOOK
+AU  - Phan, DH
+TI  - Benchmarking Common Architectural Patterns in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/167317
+UR  - https://www.theseus.fi/bitstream/handle/10024/167317/Hai_Phan.pdf?sequence=2
+PY  - 2019///
+AB  - … demonstrate some most common architectural patterns used in iOS development, namely … this thesis is an iOS music application called Musicify, which was fully written in Swift. Notably, …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 4 cites: https://scholar.google.com/scholar?cites=14854737299071308674&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - JOUR
+AU  - Furjan, K
+AU  - Kisić, F
+AU  - Bele, D
+TI  - Declarative iOS programming and architectural patterns
+JF  - Security Issues in Communication …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=TltQEQAAQBAJ&oi=fnd&pg=PA18&dq=%22architectural+patterns%22%7C%22architecture+patterns%22+ios%7Ciphone%7Cswift&ots=WFN_EVFcna&sig=lFYc4GSEGapsX0Cwo_3GJQO5VbY
+PY  - 2025///
+AB  - … of declarative iOS programming and various architectural patterns commonly utilized in the … It underscores the paramount importance of employing appropriate architectural patterns to …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1369001407168491116&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - MVVM, V
+TI  - iOS Architecture Patterns
+JF  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9069-9.pdf
+AB  - … In this book, we are going to study and apply different architectural patterns in iOS applications, so we will also see the code with which we implement them and the best way to …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - JOUR
+AU  - Eselidze, DV
+AU  - Kutaev, KS
+AU  - ...
+TI  - TESTABILITY ANALYSIS OF ARCHITECTURAL PATTERNS IN iOS
+JF  - Reliability and Quality of …
+PB  - journals.rcsi.science
+UR  - https://journals.rcsi.science/2307-4205/article/view/425690
+PY  - 2026///
+AB  - … testability of architectural patterns used in the development of mobile applications for iOS. … the ease of implementing automated quality control for architectural patterns. A comparison of …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - JOUR
+AU  - Markkula, J
+AU  - Mazhelis, O
+TI  - A generic architectural model approach for efficient utilization of patterns: application in the mobile domain
+JF  - Application Development and Design …
+PB  - igi-global.com
+UR  - https://www.igi-global.com/chapter/a-generic-architectural-model-approach-for-efficient-utilization-of-patterns/188221
+PY  - 2018///
+AB  - … • Architectural patterns are employed to produce a highly … One or several entry-point architectural patterns specified in a … Touch, an application framework for iOS mobile devices …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 3 cites: https://scholar.google.com/scholar?cites=413393693904819776&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 3
+ER  - 
+
+TY  - HTML
+AU  - Bardram, JE
+TI  - Software architecture patterns for extending sensing capabilities and data formatting in mobile sensing
+JF  - Sensors
+PB  - mdpi.com
+UR  - https://www.mdpi.com/1424-8220/22/7/2813
+UR  - https://www.mdpi.com/1424-8220/22/7/2813
+PY  - 2022///
+AB  - … This paper presents two software architecture patterns … is a cross-platform (Android/iOS) software architecture providing a … uses the two software architecture patterns to add sampling …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 10 cites: https://scholar.google.com/scholar?cites=15647484072361758243&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 10
+ER  - 
+
+TY  - JOUR
+AU  - García, RF
+TI  - Other Architecture Patterns
+JF  - iOS Architecture Patterns: MVC, MVP, MVVM, VIPER …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9_7
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9069-9_7
+PY  - 2023///
+AB  - So far we have seen and tested the architectures that we can consider the most used and well-known: MVC, MVP, MVVM, VIPER and VIP. However, they are not the only ones. Over …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 1 cites: https://scholar.google.com/scholar?cites=15811632224023919136&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Chelliah, PR
+AU  - Subramanian, H
+AU  - Murali, A
+TI  - Architectural Patterns: Uncover essential patterns in the most indispensable realm of enterprise architecture
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=RvNFDwAAQBAJ&oi=fnd&pg=PP1&dq=%22architectural+patterns%22%7C%22architecture+patterns%22+ios%7Ciphone%7Cswift&ots=aCy5Fue_0Q&sig=FRtLx3cNePNjOTzdYU1PbVgR1dA
+PY  - 2017///
+AB  - … Architecture Patterns, illustrates the context for the book and describes the need for software patterns. The various architectural patterns … patterns for swift and sagacious cloud adoption. …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 12 cites: https://scholar.google.com/scholar?cites=3784058970615734064&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 12
+ER  - 
+
+TY  - PDF
+AU  - Haryani, K
+AU  - Chandio, JA
+AU  - Rani, R
+AU  - Khero, K
+TI  - Software Architecture Patterns and Design Principles
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Kainat-Khero/publication/413988533_Software_Architecture_Patterns_and_Design_Principles/links/6a9b1432abe96a5a5d72f9cf/Software-Architecture-Patterns-and-Design-Principles.pdf
+UR  - https://www.researchgate.net/profile/Kainat-Khero/publication/413988533_Software_Architecture_Patterns_and_Design_Principles/links/6a9b1432abe96a5a5d72f9cf/Software-Architecture-Patterns-and-Design-Principles.pdf
+AB  - … Apple (iOS) uses MVP as a standard architectural style, whereas there is no standard … that systematically analyzes five key architectural patterns for Android application development. …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - PDF
+AU  - ÖZBAY, F
+AU  - KALIPSIZ, O
+TI  - Investigation of the Effect of Architectural Design Patterns on Software Quality in Mobile Platforms
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Furkan_Oezbay/publication/395389999_Investigation_of_the_Effect_of_Architectural_Design_Patterns_on_Software_Quality_in_Mobile_Platforms/links/68c111fc83031f0e13f36435/Investigation-of-the-Effect-of-Architectural-Design-Patterns-on-Software-Quality-in-Mobile-Platforms.pdf
+UR  - https://www.researchgate.net/profile/Furkan_Oezbay/publication/395389999_Investigation_of_the_Effect_of_Architectural_Design_Patterns_on_Software_Quality_in_Mobile_Platforms/links/68c111fc83031f0e13f36435/Investigation-of-the-Effect-of-Architectural-Design-Patterns-on-Software-Quality-in-Mobile-Platforms.pdf
+AB  - … The design patterns for the IOS platform are examined under … in both different architectural patterns was searched over … This project is created as guidance of architectural patterns on …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - JOUR
+AU  - Yusuf, A
+AU  - Fitri, R
+AU  - Nugroho, ASB
+AU  - ...
+TI  - Evaluating the Performance of Architectural Patterns in Web Application Development
+JF  - 2024 Ninth International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10957712/
+PY  - 2024///
+AB  - … maintainability of three key architectural patterns, ModelView-Controller (MVC), Model-View-… These insights emphasize the need to match architectural patterns and frontend frameworks …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 5 cites: https://scholar.google.com/scholar?cites=17145797428758919697&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 5
+ER  - 
+
+TY  - PDF
+AU  - Akhtar, N
+AU  - Ghafoor, S
+TI  - Analysis of Architectural Patterns for Android Development
+JF  - no. June
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Nayab-Akhtar-2/publication/352021976_Analysis_of_Architectural_Patterns_for_Android_Development/links/60b625d092851cde8847e819/Analysis-of-Architectural-Patterns-for-Android-Development.pdf
+UR  - https://www.researchgate.net/profile/Nayab-Akhtar-2/publication/352021976_Analysis_of_Architectural_Patterns_for_Android_Development/links/60b625d092851cde8847e819/Analysis-of-Architectural-Patterns-for-Android-Development.pdf
+PY  - 2021///
+AB  - … The demand of mobile application is increasing day by day especially for Android and iOS. Android operating system took 80% of the market share according to statistics from the …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 11 cites: https://scholar.google.com/scholar?cites=14694692973081389474&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 11
+ER  - 
+
+TY  - JOUR
+AU  - Chekhaba, C
+AU  - Rebatchi, H
+AU  - ElBoussaidi, G
+AU  - ...
+TI  - Coach: Classification-based architectural patterns detection in Android apps
+JF  - Proceedings of the 36th …
+PB  - dl.acm.org
+DO  - 10.1145/3412841.3442018
+UR  - https://dl.acm.org/doi/abs/10.1145/3412841.3442018
+UR  - https://dl.acm.org/doi/pdf/10.1145/3412841.3442018
+PY  - 2021///
+AB  - … App developers thus have to consider and apply best practices and design recommendations such as architectural patterns. One of these patterns is the popular MVC (Model View …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 12 cites: https://scholar.google.com/scholar?cites=5330309451810491801&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 12
+ER  - 
+
+TY  - BOOK
+AU  - Arponen, O
+TI  - Software architectural patterns and principles in Android development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/791289
+UR  - https://www.theseus.fi/bitstream/handle/10024/791289/Arponen_Oskari.pdf?sequence=2
+PY  - 2023///
+AB  - … systems such as Android and iOS, the market of the mobile … market, while In comparison iOS devices rule approximately 27 … the significantly smaller user base for iOS devices, the Apple …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 6 cites: https://scholar.google.com/scholar?cites=11189921188966056156&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 6
+ER  - 
+
+TY  - PDF
+AU  - Roland, LK
+TI  - Designing architectural patterns for distributed flexibility in health information systems
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Lars-Roland/publication/324721558_Designing_architectural_patterns_for_distributed_flexibility_in_health_information_systems/links/5adf3022aca272fdaf8975a8/Designing-architectural-patterns-for-distributed-flexibility-in-health-information-systems.pdf
+UR  - https://www.researchgate.net/profile/Lars-Roland/publication/324721558_Designing_architectural_patterns_for_distributed_flexibility_in_health_information_systems/links/5adf3022aca272fdaf8975a8/Designing-architectural-patterns-for-distributed-flexibility-in-health-information-systems.pdf
+PY  - 2018///
+AB  - The information systems used by the health sector have seen a tremendous evolution in recent years, and health professionals are increasingly becoming dependent on these to treat …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 1 cites: https://scholar.google.com/scholar?cites=912207712199873658&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - JOUR
+AU  - Fayad, ME
+AU  - Flood, CA
+TI  - Unified Software Engineering Reuse (USER) using stable analysis, design and architectural patterns
+JF  - 2016 Future Technologies Conference …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7821682/
+PY  - 2016///
+AB  - … Software reusability makes study of stable analysis, design, and architecture patterns a domain of immense interest. By extrapolating the stable concepts that use software stability …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 10 cites: https://scholar.google.com/scholar?cites=11284816919637230110&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 10
+ER  - 
+
+TY  - BOOK
+AU  - Buelta, J
+TI  - Python Architecture Patterns
+PB  - reference-global.com
+DO  - 10.0000/9781801811774-001
+UR  - https://reference-global.com/download/chapter/9781801811774/10.0000/9781801811774-001.pdf
+UR  - https://reference-global.com/download/chapter/9781801811774/10.0000/9781801811774-001.pdf
+PY  - 2022///
+AB  - … Next, we will present a section that covers the different Architectural patterns available, … Once you've read Python Architecture Patterns, we'd love to hear your thoughts! Please click here …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 3 cites: https://scholar.google.com/scholar?cites=7780944635345684354&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 3
+ER  - 
+
+TY  - JOUR
+AU  - Teije, A ten
+AU  - Harmelen, F van
+TI  - Architectural patterns for neuro-symbolic AI
+JF  - … of Neurosymbolic Artificial …
+PB  - journals.sagepub.com
+DO  - 10.3233/FAIA369
+UR  - https://journals.sagepub.com/doi/pdf/10.3233/FAIA369#page=76
+UR  - https://journals.sagepub.com/doi/pdf/10.3233/FAIA230135
+PY  - 2023///
+AB  - … We propose a set of architectural patterns that describe a large variety of neuro-symbolic systems. As in other areas of computer science (knowledge engineering, software engineering, …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 5 cites: https://scholar.google.com/scholar?cites=12525496482739513797&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 5
+ER  - 
+
+TY  - JOUR
+AU  - Mishra, S
+TI  - ISO 20022 Migration at Scale: Architectural Patterns and Engineering Challenges in Modernizing Global Financial Messaging Infrastructure
+JF  - International Journal of Computer Technology and …
+PB  - ijctece.com
+UR  - https://ijctece.com/index.php/IJCTEC/article/view/404
+UR  - https://ijctece.com/index.php/IJCTEC/article/download/404/361
+PY  - 2025///
+AB  - … capabilities that became the cornerstone of Swift's ISO 20022 migration strategy. Specific … Excellence: Ensured conversion system maintained Swift's stringent SLAs for throughput, …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 13 cites: https://scholar.google.com/scholar?cites=13962902946070582553&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 13
+ER  - 
+
+TY  - JOUR
+AU  - Cheng, KY
+AU  - Pazmino, S
+AU  - ...
+TI  - ETL processes for integrating healthcare data–Tools and architecture patterns
+JF  - … 2022: Proceedings of the …
+PB  - journals.sagepub.com
+DO  - 10.3233/SHTI299
+UR  - https://journals.sagepub.com/doi/pdf/10.3233/SHTI299#page=167
+UR  - https://journals.sagepub.com/doi/pdf/10.3233/SHTI220974
+PY  - 2022///
+AB  - … The authors and IOS Press. This article is published online with Open Access by IOS Press and distributed under the terms of the Creative Commons Attribution Non-Commercial …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 32 cites: https://scholar.google.com/scholar?cites=4778084682920413377&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 32
+ER  - 
+
+TY  - JOUR
+AU  - Neupane, M
+AU  - Zhang, L
+TI  - A Comparative Study of Architectural Patterns in Flutter: A Case Study and Teaching Framework for Undergraduate Mobile Development
+JF  - Journal of Computing Sciences in Colleges
+PB  - dl.acm.org
+DO  - 10.5555/3778141.3778148
+UR  - https://dl.acm.org/doi/abs/10.5555/3778141.3778148
+PY  - 2025///
+AB  - Teaching architectural patterns in undergraduate mobile development courses is … This paper presents a comparative study of four architectural patterns—Model-View-Controller (MVC), …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - JOUR
+AU  - Bilohub, D
+AU  - Skrypchenko, M
+AU  - ...
+TI  - Quality attributes and architectural patterns of modern mobile apps
+JF  - Modern engineering and …
+PB  - moderntechno.de
+UR  - https://www.moderntechno.de/index.php/meit/article/view/meit29-01-056
+UR  - https://www.moderntechno.de/index.php/meit/article/download/meit29-01-056/6128
+PY  - 2023///
+AB  - … Modifiability refers to the system's capacity for swift and costeffective modifications, which is one of the key attributes for a large team, which is working on a mobile application. …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12834541249492375214&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Gustrowsky, B
+AU  - Villarreal, JL
+AU  - Alférez, GH
+TI  - Using generative artificial intelligence for suggesting software architecture patterns from requirements
+JF  - Intelligent Systems Conference
+PB  - Springer
+DO  - 10.1007/978-3-031-66336-9_19
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-66336-9_19
+PY  - 2024///
+AB  - … ios. To this end, we are planning to create a large open dataset of requirements together with architecture patterns that … , we expect to include more architecture patterns in addition to the …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 14 cites: https://scholar.google.com/scholar?cites=8680104859841115408&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 14
+ER  - 
+
+TY  - JOUR
+AU  - Padmanabham, S
+TI  - AI assisted fraud investigation architecture patterns for technology controls in financial institutions
+JF  - International Journal of Research Publications in …
+PB  - ijrpetm.com
+UR  - https://www.ijrpetm.com/index.php/IJRPETM/article/view/627
+UR  - https://www.ijrpetm.com/index.php/IJRPETM/article/download/627/591
+PY  - 2024///
+AB  - Financial institutions are experiencing an unprecedented increase in the scale, complexity, and sophistication of fraudulent activities driven by digital banking, instant payment systems, …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 10 cites: https://scholar.google.com/scholar?cites=6114754298973507120&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 10
+ER  - 
+
+TY  - HTML
+AU  - Casanova, R
+AU  - Villa-Garzon, FA
+AU  - ...
+TI  - Architectural patterns for health information systems: a systematic review
+JF  - Frontiers in Digital …
+PB  - frontiersin.org
+DO  - 10.3389/fdgth.2025.1694839
+UR  - https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1694839/full
+UR  - https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1694839/full
+PY  - 2025///
+AB  - … Objectives: This study systematically reviews architectural patterns used in HIS and evaluates their alignment with ecosystem-level requirements. Methods: Following PRISMA 2020 …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 19 cites: https://scholar.google.com/scholar?cites=11498431955259481914&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 19
+ER  - 
+
+TY  - BOOK
+AU  - Gilbert, J
+TI  - Software Architecture Patterns for Serverless Systems
+PB  - f.letmeprint.ru
+UR  - https://f.letmeprint.ru/259895605-0a842dc1/fragment_12473579.pdf
+UR  - https://f.letmeprint.ru/259895605-0a842dc1/fragment_12473579.pdf
+PY  - 2021///
+AB  - … Ford's inspiration came from visits to the Swift &Company slaughterhouse in Chicago, as well as the Sears mail-order handling facility in 1906. Moving forward through time, the Toyota …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 22 cites: https://scholar.google.com/scholar?cites=7607499731236511698&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 22
+ER  - 
+
+TY  - BOOK
+AU  - Boiko, T
+TI  - Architectural Patterns in Software Development
+PB  - eztuir.ztu.edu.ua
+UR  - https://eztuir.ztu.edu.ua/bitstream/handle/123456789/6459/103.pdf?sequence=1&isAllowed=y
+PY  - 2017///
+AB  - … In order to solve this problem software architectural patterns were created. An architectural pattern … There is a wide range of architectural patterns, which are classified into many groups. …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - JOUR
+AU  - Laure, D
+AU  - Vasilyev, A
+AU  - Paramonov, I
+AU  - ...
+TI  - Cross-platform development for Sailfish OS and Android: Architectural patterns and “dictionary trainer” application case study
+JF  - 2016 19th Conference …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7892194/
+PY  - 2016///
+AB  - … Currently, they are iOS and Androidtwo mobile platforms that almost completely share the mobile market [5]. Nevertheless, new platforms still appear aiming to receive a piece of market …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 4 cites: https://scholar.google.com/scholar?cites=282322364338435654&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 4
+ER  - 
+
+TY  - CITATION
+AU  - Nuzhdin, D
+TI  - Architectural patterns and performance optimization in mobile applications: implementing scalable solutions on iOS under high user load
+JF  - ISJ Theoretical &Applied Science
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 3 cites: https://scholar.google.com/scholar?cites=11125163535266365787&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 3
+ER  - 
+
+TY  - BOOK
+AU  - Faniyi, FO
+TI  - Self-aware software architecture style and patterns for cloud-based applications
+PB  - etheses.bham.ac.uk
+UR  - https://etheses.bham.ac.uk/id/eprint/6032/
+UR  - https://etheses.bham.ac.uk/id/eprint/6032/1/Faniyi15PhD.pdf
+PY  - 2015///
+AB  - … Inspired by the concept of Computational Self-awareness [115] [13] we aim to contribute architectural patterns for designing cloud applications. A self-aware system is one that “...…
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14870765328314650968&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - HTML
+AU  - Munro, D
+AU  - Calitz, AP
+AU  - Vogts, D
+TI  - Architecture and architectural patterns for mobile augmented reality
+JF  - South African Computer Journal
+PB  - scielo.org.za
+UR  - https://www.scielo.org.za/scielo.php?pid=S2313-78352021000100005&script=sci_arttext
+UR  - https://www.scielo.org.za/scielo.php?pid=S2313-78352021000100005&script=sci_arttext
+PY  - 2021///
+AB  - … TBB has also been ported to mobile OSs such as Android and iOS. TBB directly supports task graphs through its flow graph template class. Several predefined node types are …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 3 cites: https://scholar.google.com/scholar?cites=3491388984280933272&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 3
+ER  - 
+
+TY  - JOUR
+AU  - Muka, E
+AU  - Rexha, G
+AU  - Marinova, G
+TI  - Software Architecture Patterns for Real-Time Digital Twin–IoT in Smart Campus Management: A Comparative Study
+JF  - 2025 33rd National …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11304092/
+PY  - 2025///
+AB  - … User commands, sent from iOS or Android devices, are transmitted directly to the edge device using HTTPS or MQTT as shown in figure 4. The digital twin, implemented in Unity 3D, …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS Architecture Patterns
+JF  - Badoo Tech Blog
+PY  - 2016///
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 7 cites: https://scholar.google.com/scholar?cites=7062150957184303747&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 7
+ER  - 
+
+TY  - CITATION
+AU  - Paul, RPV De
+TI  - Building Scalable API-Led Connectivity Using Three-Tier Architecture Patterns
+JF  - Journal of Computer Science and Technology Studies
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - JOUR
+AU  - Kraetz, D
+AU  - Morawski, M
+TI  - Architecture patterns—batch and real-time capabilities
+JF  - The Digital Journey of Banking and Insurance …
+PB  - Springer
+DO  - 10.1007/978-3-030-78821-6_6
+UR  - https://link.springer.com/chapter/10.1007/978-3-030-78821-6_6
+PY  - 2021///
+AB  - … This means that, like in the Speed Layer, in Lambda architecture it is possible to provide operational data of a table for analytics in a swift way via streaming. Because of the transaction …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 14 cites: https://scholar.google.com/scholar?cites=9720529919330134773&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 14
+ER  - 
+
+TY  - CITATION
+AU  - Phan, H
+TI  - Architectural Patterns for iOS Applications
+PB  - Bachelor's thesis. Häme University …
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1789372470671765727&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - PDF
+AU  - Burgos, D
+AU  - Kranas, P
+AU  - Jimenez-Peris, R
+AU  - ...
+TI  - Architectural Patterns for Data Pipelines in Digital Finance and Insurance Applications
+JF  - Big Data and Artificial …
+PB  - library.oapen.org
+UR  - https://library.oapen.org/bitstream/handle/20.500.12657/54429/1/978-3-030-94590-9.pdf#page=64
+UR  - https://library.oapen.org/bitstream/handle/20.500.12657/54429/1/978-3-030-94590-9.pdf#page=64
+PY  - 2022///
+AB  - … This means that every write requires at least two IOs. LeanXcale solves this issue by providing the efficiency of key-value data stores in ingesting data, thanks to the blending of SQL and …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 3 cites: https://scholar.google.com/scholar?cites=6306456192957027618&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 3
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS architecture patterns: demystifying MVC, MVP, MVVM and VIPER
+PB  - Nov
+PY  - 2015///
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15161367824383133843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - JOUR
+AU  - Staroletov, SM
+TI  - -code evolution lessons and real-time architecture patterns from the ioquake3 project
+JF  - Труды института системного программирования …
+PB  - mathnet.ru
+UR  - https://www.mathnet.ru/rus/tisp1136
+UR  - https://www.mathnet.ru/php/getFT.phtml?jrnid=tisp&paperid=1136&what=fullt
+PY  - 2026///
+AB  - … The C language exhibited a liberal approach to types, where implicit conversions between int and float were deemed acceptable, in contrast to modern languages like Swift and Kotlin. …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - PDF
+AU  - Moura, JP
+AU  - Miranda, B
+TI  - From Code to Architecture: Responsibility Analysis and Dependency Graphs in the Inference of Architectural Patterns in Kotlin
+JF  - cbsoft.sbc.org.br
+UR  - https://cbsoft.sbc.org.br/2026/data/papers/sbes/From%20Code%20to%20Architecture%20Responsibility%20Analysis%20and%20Dependency%20Graphs%20in%20the%20Inference%20of%20Architectural%20Patterns%20in%20Kotlin.pdf
+UR  - https://cbsoft.sbc.org.br/2026/data/papers/sbes/From%20Code%20to%20Architecture%20Responsibility%20Analysis%20and%20Dependency%20Graphs%20in%20the%20Inference%20of%20Architectural%20Patterns%20in%20Kotlin.pdf
+AB  - … pipeline to infer architectural patterns directly from Kotlin … pipeline is able to identify architectural patterns such as MVVM, … solution for inferring architectural patterns. The proposed …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - HTML
+AU  - Yin, S
+AU  - Hu, Z
+AU  - Ren, X
+AU  - Wu, X
+AU  - Chen, Y
+AU  - Zheng, L
+AU  - Jiang, Z
+TI  - Reservoir architecture patterns of sandy gravel braided distributary channel: A case study of Triassic Upper Karamay Formation, Xinjiang oilfield
+JF  - Petroleum
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2405656116000122
+UR  - https://www.sciencedirect.com/science/article/pii/S2405656116000122
+PY  - 2016///
+AB  - … to examine reservoir architecture patterns of sandy gravel braided distributary channel based on cores, well logging, and outcrops data, and the reservoir architecture patterns of sandy …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 9 cites: https://scholar.google.com/scholar?cites=9554885784698552841&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 9
+ER  - 
+
+TY  - CITATION
+AU  - Cheng, KY
+AU  - Pazmino, S
+AU  - Schreiweis, B
+TI  - ETL processes for integrating healthcare data–Tools and architecture patterns." pHealth 2022
+PB  - IOS Press
+PY  - 2022///
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 2 cites: https://scholar.google.com/scholar?cites=10044117507391487883&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Ayvaz, S
+AU  - Salman, YB
+TI  - Software Architecture Patterns in Big Data: Transition From Monolithic Architecture to Microservices
+JF  - … and Approaches to Object-Oriented Software …
+PB  - igi-global.com
+UR  - https://www.igi-global.com/chapter/software-architecture-patterns-in-big-data/249322
+UR  - https://www.academia.edu/download/65443022/Applications_and_Approaches_to_Object_Oriented_Software_Design_Emerging_Research_and_Opportunities_2_.pdf#page=106
+PY  - 2020///
+AB  - … In this chapter, we explored various aspects of service-oriented software architecture patterns used in big data systems. From a data-driven software system perspective, the challenges …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 5 cites: https://scholar.google.com/scholar?cites=9753633157008508173&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 5
+ER  - 
+
+TY  - BOOK
+AU  - Tempesta, S
+TI  - Application architecture patterns for Web 3.0: Design patterns and use cases for modern and secure Web3 applications
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=G2Q0EQAAQBAJ&oi=fnd&pg=PT17&dq=%22architectural+patterns%22%7C%22architecture+patterns%22+ios%7Ciphone%7Cswift&ots=xADH-qdHek&sig=UCELElFHlYv3cIJIj0_7LNJZWek
+PY  - 2024///
+AB  - … As you embark on your journey through Application Architecture Patterns for Web 3.0, I encourage you to experiment, innovate, and share your discoveries. The Web3 landscape is still …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 2 cites: https://scholar.google.com/scholar?cites=162376709004209804&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 2
+ER  - 
+
+TY  - PDF
+AU  - Braber, NJ den
+TI  - The implementation of Microservices Architectural patterns in Open-Source Java projects
+JF  - research.ou.nl
+UR  - https://research.ou.nl/files/43037971/Braber_den_N_IM9906_AF_SE_scriptie_PURE.pdf
+UR  - https://research.ou.nl/files/43037971/Braber_den_N_IM9906_AF_SE_scriptie_PURE.pdf
+AB  - … Architectural patterns describe … architectural patterns are implemented in Open-Source microservices projects. As a first step (Phase 1), we used existing studies on architectural patterns …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - HTML
+AU  - Anasuri, S
+TI  - Serverless Architecture Patterns: Deployment, Cost, and Latency Analysis
+JF  - American International Journal of Computer Science …
+PB  - aijcst.org
+UR  - http://aijcst.org/index.php/aijcst/article/view/104
+UR  - http://aijcst.org/index.php/aijcst/article/view/104
+PY  - 2025///
+AB  - Serverless as one of the promising cloud computing technologies, Serverless allows resources to be provisioned automatically and assigned by cloud providers. Serverless architecture …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13308953545367059625&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Saripalle, RK
+AU  - Demurjian, SA
+TI  - Attaining semantic enterprise interoperability through ontology architectural patterns
+JF  - Computer Systems and Software …
+PB  - igi-global.com
+UR  - https://www.igi-global.com/chapter/attaining-semantic-enterprise-interoperability-through-ontology-architectural-patterns/192899
+PY  - 2018///
+AB  - … The proposed ontology architectural patterns (OAP) in this chapter has the primary goal to solve semantic interoperability among domain ontologies and is primarily targeting …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 6 cites: https://scholar.google.com/scholar?cites=17271179933619046138&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 6
+ER  - 
+
+TY  - PDF
+AU  - Wulfert, T
+AU  - Schütte, R
+TI  - Retailer's Dual Role in Digital Marketplaces: Towards Architectural Patterns for Retail Information Systems.
+JF  - ICEIS (2)
+PB  - scitepress.org
+UR  - https://www.scitepress.org/Papers/2021/104053/104053.pdf
+UR  - https://www.scitepress.org/Papers/2021/104053/104053.pdf
+PY  - 2021///
+AB  - … For the presentation of the architectural patterns, we will focus on business and application … deriving architectural patterns. Thirdly, we present three exemplary architectural patterns and …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 7 cites: https://scholar.google.com/scholar?cites=12875310910012771487&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 7
+ER  - 
+
+TY  - PDF
+AU  - LUNGU, M
+AU  - PAUTASSO, C
+TI  - Architectural Patterns for Integrating LLMs into User-Facing Applications
+JF  - llm-patterns.mircealungu.com
+UR  - https://llm-patterns.mircealungu.com/paper.pdf
+UR  - https://llm-patterns.mircealungu.com/paper.pdf
+AB  - … We present a catalogue of nine recurring architectural patterns for that case, grounded in a year and a half of LLM integration work on Zeeguu, an open-source language-learning …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - „iOS Architecture Patterns “, 2015
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 2 cites: https://scholar.google.com/scholar?cites=18014855517332455848&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - CITATION
+AU  - Garcıa, RF
+TI  - iOS Architecture Patterns
+PB  - Apress
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 2 cites: https://scholar.google.com/scholar?cites=18334218077544169573&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - BOOK
+AU  - Xu, J
+TI  - Retrieval Augmented Generation in Production: Architecture, Patterns, and Runbooks
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=XMgDEgAAQBAJ&oi=fnd&pg=PR9&dq=%22architectural+patterns%22%7C%22architecture+patterns%22+ios%7Ciphone%7Cswift&ots=W-QbkWszv4&sig=0CJt1EFPoi7g40snbEWoR44qjA4
+PY  - 2026///
+AB  - This book is a practical, end-to-end guide to building product-implementation-ready Retrieval-Augmented Generation (RAG) systems for high-stakes domains such as healthcare, …
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - CITATION
+AU  - Johansson, A
+TI  - The Influence of Flux and Model-View-ViewModel Architectural Patterns for State Management on Response Times in a Blazor WebAssembly Application
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:26:38
+ER  - 
+
+TY  - JOUR
+AU  - Sabia, A
+AU  - Martino, B Di
+TI  - Towards a patterns driven cloud edge continuum architecture for eHealth
+JF  - International Conference on Advanced Information …
+PB  - Springer
+DO  - 10.1007/978-3-031-57931-8_33
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-57931-8_33
+PY  - 2024///
+AB  - … of this paper is to introduce a pattern-driven architecture for a Real-Time Drug Response Monitoring System, showing how Cloud Edge and Federated Learning architectural patterns …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 3 cites: https://scholar.google.com/scholar?cites=638729084759803160&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 3
+ER  - 
+
+TY  - JOUR
+AU  - Telschig, K
+AU  - Schöffel, N
+AU  - Schultis, KB
+AU  - ...
+TI  - Seco patterns: Architectural decision support in software ecosystems
+JF  - … on Decision Making …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7496444/
+PY  - 2016///
+AB  - … Architectural patterns are a common tool for decision making and can also be used to observe decisions [6], [8]. The number of architectural patterns is comprehensive and several …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 5 cites: https://scholar.google.com/scholar?cites=7776264719274003222&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 5
+ER  - 
+
+TY  - BOOK
+AU  - Baptista, G
+AU  - Abbruzzese, F
+TI  - Software Architecture with C# 10 and. NET 6–Third Edition: Develop software solutions using microservices, DevOps, EF Core, and design patterns for Azure
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=6tlhEAAAQBAJ&oi=fnd&pg=PP1&dq=%22architectural+patterns%22%7C%22architecture+patterns%22+ios%7Ciphone%7Cswift&ots=vhCZ5KgxYB&sig=BOcNwY4i3FEeIjRD3Ln8lyofBu4
+PY  - 2022///
+AB  - … Gain comprehensive software architecture knowledge and the skillset to create fully modular apps Solve scalability problems in web apps using enterprise architecture patterns Master …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 9 cites: https://scholar.google.com/scholar?cites=16526493969424535182&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 9
+ER  - 
+
+TY  - BOOK
+AU  - Durdik, Z
+TI  - Architectural Design Decision Documentation through Reuse of Design Patterns
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=MJuxDAAAQBAJ&oi=fnd&pg=PA1&dq=%22architectural+patterns%22%7C%22architecture+patterns%22+ios%7Ciphone%7Cswift&ots=j3zt4FmHqv&sig=s285gzEq83Wobw3BJr81RF6RZLc
+UR  - https://publikationen.bibliothek.kit.edu/1000047427/3540437
+PY  - 2016///
+AB  - The ADMD3 approach presented in this book enchances the architectural design documentation of decision via reuse of design patterns. It combines the support for evaluation of …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 12 cites: https://scholar.google.com/scholar?cites=2921955490481745488&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 12
+ER  - 
+
+TY  - BOOK
+AU  - Baptista, G
+AU  - Abbruzzese, F
+TI  - Software Architecture with C# 12 and. NET 8: Build enterprise applications using microservices, DevOps, EF Core, and design patterns for Azure
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=CLj3EAAAQBAJ&oi=fnd&pg=PP1&dq=%22architectural+patterns%22%7C%22architecture+patterns%22+ios%7Ciphone%7Cswift&ots=qZjwbidKL9&sig=iAa3sqMZ3DCujIdOmxxw4JtQWRM
+PY  - 2024///
+AB  - … Chapter 21, Case Study, is dedicated to the book travel agency case study, which shows how technologies and architectural patterns learned in the book can be used in practice in the …
+M1  - Query date: 2026-09-24 01:26:38
+M1  - 7 cites: https://scholar.google.com/scholar?cites=15763150836662587912&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 7
+ER  - 
+

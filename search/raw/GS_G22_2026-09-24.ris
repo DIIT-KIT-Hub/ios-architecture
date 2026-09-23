@@ -1,0 +1,2500 @@
+﻿TY  - PDF
+AU  - Dobrean, D
+AU  - Dioșan, L
+TI  - A comparative study of software architectures in mobile applications
+JF  - Studia Universitatis Babeș-Bolyai …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/107685242/43.pdf
+UR  - https://www.academia.edu/download/107685242/43.pdf
+PY  - 2019///
+AB  - … of those platforms; Apple promotes MVC in their iOS framework while Google promotes … iOS application with every one of the evaluated software architectures (MVC, MVP, MVVM, VIPER…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 16 cites: https://scholar.google.com/scholar?cites=16915730582151317783&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 16
+ER  - 
+
+TY  - JOUR
+AU  - Magics-Verkman, H
+AU  - Zmaranda, DR
+AU  - ...
+TI  - A comparison of architectural patterns for testability and performance quality for iOS mobile applications development
+JF  - … on Engineering of …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10171619/
+PY  - 2023///
+AB  - … ), and View Interactor Presenter Entity Router (VIPER) and … a comparative analysis of three patterns that can be used for development on iOS: two classical patterns, MVC and MVVM …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 13 cites: https://scholar.google.com/scholar?cites=3197959365046203255&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 13
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … on a comparative research methodology… MVVM and VIPER differ when implemented with modern iOS technologies—SwiftUI 5, Swift 6 concurrency, and SwiftData. A paired comparison …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Neupane, M
+AU  - Zhang, L
+TI  - A Comparative Study of Architectural Patterns in Flutter: A Case Study and Teaching Framework for Undergraduate Mobile Development
+JF  - Journal of Computing Sciences in Colleges
+PB  - dl.acm.org
+DO  - 10.5555/3778141.3778148
+UR  - https://dl.acm.org/doi/abs/10.5555/3778141.3778148
+PY  - 2025///
+AB  - … a physical iOS device. This metric highlights the runtime efficiency of each architectural pattern. … To integrate this comparative study of MVC, MVVM, MVP, and VIPER into undergraduate …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Wisnuadhi, B
+AU  - Munawar, G
+AU  - ...
+TI  - Performance comparison of native android application on MVP and MVVM
+JF  - International Seminar of …
+PB  - atlantis-press.com
+UR  - https://www.atlantis-press.com/proceedings/issat-20/125949769
+UR  - https://www.atlantis-press.com/article/125949769.pdf
+PY  - 2020///
+AB  - … of MVC <(MVP = MVVM). This means that the performance of MVP and MVVM is better than MVC, but … in four architectures: MVC, MVP, MVVM, and VIPER on the iOS application. It also …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 27 cites: https://scholar.google.com/scholar?cites=11069315499674413036&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 27
+ER  - 
+
+TY  - PDF
+AU  - Munawar, BWG
+AU  - Wahyu, U
+TI  - Performance Comparison of Native Android Application on MVP and MVVM
+PB  - academia.edu
+UR  - https://www.academia.edu/download/112816281/125949769.pdf
+UR  - https://www.academia.edu/download/112816281/125949769.pdf
+PY  - 2020///
+AB  - … of MVC <(MVP = MVVM). This means that the performance of MVP and MVVM is better than MVC, but … in four architectures: MVC, MVP, MVVM, and VIPER on the iOS application. It also …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Humeniuk, V
+TI  - Android Architecture Comparison: MVP vs. VIPER
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 8 cites: https://scholar.google.com/scholar?cites=8527808434245001347&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 8
+ER  - 
+
+TY  - HTML
+AU  - Nuzhdin, D
+TI  - Comparative analysis of approaches to building iOS applications in B2C and B2B environments: UX, architecture, and performance metrics
+JF  - Professional Bulletin: Information Technology and …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/comparative-analysis-of-approaches-to-building-ios-applications-in-b2c-and-b2b-environments-ux-architecture-and-performance-metrics
+UR  - https://cyberleninka.ru/article/n/comparative-analysis-of-approaches-to-building-ios-applications-in-b2c-and-b2b-environments-ux-architecture-and-performance-metrics
+PY  - 2025///
+AB  - … The project is based on the VIPER architectural pattern and employs UIKit for interface development, as well as Tuist for managing a scalable multimodule architecture. This setup …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14383169228287288962&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - HTML
+AU  - Gyorodi, C
+TI  - A comparative study between applications developed for Android and iOS
+JF  - International Journal of Advanced Computer Science …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/77592134/75dd9dedaf434b4e18b2eb6612524443ef25.pdf
+UR  - https://www.academia.edu/download/77592134/75dd9dedaf434b4e18b2eb6612524443ef25.pdf
+PY  - 2017///
+AB  - … for comparison and testing: Android and iOS. Thus, two basic applications featuring the same functionality and complexity were developed to run natively on both platforms. Applications …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 34 cites: https://scholar.google.com/scholar?cites=993491559238734193&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 34
+ER  - 
+
+TY  - PDF
+AU  - Lou, T
+TI  - A comparison of Android native app architecture MVC, MVP and MVVM
+JF  - Eindhoven University of Technology
+PB  - research.tue.nl
+UR  - https://research.tue.nl/files/48628529/Lou_2016.pdf
+UR  - https://research.tue.nl/files/48628529/Lou_2016.pdf
+PY  - 2016///
+AB  - … find out whether MVP and MVVM architecture are better than MVC from quality perspective. … , MVP and MVVM are better than MVC on the selected three criteria. But for MVP and MVVM, …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 81 cites: https://scholar.google.com/scholar?cites=1803893916514794777&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 81
+ER  - 
+
+TY  - JOUR
+AU  - Zou, D
+AU  - Darus, MY
+TI  - A comparative analysis of cross-platform Mobile Development Frameworks
+JF  - 2024 IEEE 6th Symposium on Computers & …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10667693/
+PY  - 2024///
+AB  - … codebase to build applications for iOS, Android, and the Web… (MVC) and as a framework which serve the V in MVC, one … , there was only support for iOS but since then the support for …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 24 cites: https://scholar.google.com/scholar?cites=11030209230290098039&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 24
+ER  - 
+
+TY  - BOOK
+AU  - Ottka, S
+TI  - Comparison of mobile application development tools for multi-platform industrial applications
+PB  - aaltodoc.aalto.fi
+UR  - https://aaltodoc.aalto.fi/items/5ede3ecc-5f6e-468a-b674-a0635aa31796
+UR  - https://aaltodoc.aalto.fi/bitstreams/1f288372-2cc7-4d8c-9754-c38a02450200/download
+PY  - 2015///
+AB  - … , Android and iOS. A tablet sales study by Gartner [24] shows that Android and iOS were … [41] RhoMobile uses the Model View Controller (MVC) pattern for developing applications. It …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 13 cites: https://scholar.google.com/scholar?cites=2854715942461583360&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 13
+ER  - 
+
+TY  - BOOK
+AU  - Omsha, B
+TI  - A Comparative Study of. NET MAUI and Avalonia in Cross-Platform Mobile Application Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/857200
+UR  - https://www.theseus.fi/bitstream/handle/10024/857200/Omsha_Basil.pdf?sequence=5
+PY  - 2024///
+AB  - … years followed by iOS which had … MVVM) is an architectural pattern used in software development projects. John Gossman, a Microsoft application architect, introduced it in 2005. MVVM …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3604106265218853633&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - PDF
+AU  - Alsaid, MAMM
+AU  - Ahmed, TM
+AU  - Jan, S
+AU  - Khan, FQ
+AU  - ...
+TI  - A Comparative Analysis of Mobile Application Development Approaches: Mobile Application Development Approaches
+JF  - Proceedings of the …
+PB  - paspk.org
+UR  - https://www.paspk.org/wp-content/uploads/2021/08/ES-717.pdf
+UR  - https://www.paspk.org/wp-content/uploads/2021/08/ES-717.pdf
+PY  - 2021///
+AB  - … comparison of the two approaches by developing a mobile app using both approaches. Experiments are performed using Android and iOS, … , the platform means either Android or iOS. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 17 cites: https://scholar.google.com/scholar?cites=10331729055609154490&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 17
+ER  - 
+
+TY  - PDF
+AU  - Järvi, J
+TI  - Comparison of mobile application development technologies
+PB  - theseus.fi
+UR  - https://www.theseus.fi/bitstream/handle/10024/336597/Comparison%20of%20mobile%20application%20development%20technologies.pdf
+UR  - https://www.theseus.fi/bitstream/handle/10024/336597/Comparison%20of%20mobile%20application%20development%20technologies.pdf
+PY  - 2020///
+AB  - … AngularJS cannot develop server-side solutions, but it provides the MVC architectures (figure 6). … making PWA unusable on iOS but after 12.2 IOS update, this new lifecycle prevents that …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Khan, M Qudus
+AU  - Khattak, AU
+TI  - A Comparative Analysis of Mobile Application Development Approaches
+JF  - academia.edu
+UR  - https://www.academia.edu/download/88253876/369.pdf
+UR  - https://www.academia.edu/download/88253876/369.pdf
+AB  - … comparison of the two approaches by developing a mobile app using both approaches. Experiments are performed using Android and iOS, … , the platform means either Android or iOS. …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - HTML
+AU  - Ten, TL
+AU  - Chernov, SS
+TI  - COMPARATIVE ANALYSIS OF TWO MOST POPULAR JAVASCRIPT FRAMEWORKS FOR MOBILE APPLICATION DEVELOPMENT
+JF  - European Journal of Natural History
+PB  - world-science.ru
+UR  - https://www.world-science.ru/en/article/view?id=34002
+UR  - https://www.world-science.ru/en/article/view?id=34002
+PY  - 2019///
+AB  - … The comparison was performed only for two operating systems: iOS and Android. … The Angular 2+ framework provides the MVC model for it. …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Mazarico, C Sirvent
+AU  - Carrera, M Campillo
+TI  - Comparison between Native and Cross-Platform Apps
+PY  - 2015///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5958832758834776406&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - JOUR
+AU  - Padshah, M
+AU  - Gadakh, SS
+AU  - Sharma, DM
+AU  - ...
+TI  - A Comparative Analysis of the Architectural Foundations of Android and IOS
+JF  - 2025 5th International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11380493/
+PY  - 2025///
+AB  - … an in-depth comparison of the architectural strategies employed by Android and iOS. The … -source, monolithic kernelbased architecture and iOS's closed-source, hybrid kernelbased …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=6886829176445523410&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Anwar, MS
+TI  - Comparison and evaluation of cross-platform framework and development of a digital health platform using selected framework
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9064599877943753597&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - زهد‎, خالد وليد عزت
+TI  - Comparison of Native and Cross-Platform Mobile Development Tools for Android Mobile Application
+JF  - Al-Quds University
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Lodhi, MK
+TI  - Comparison and evaluation of cross-platform frameworks
+PB  - reposit.haw-hamburg.de
+UR  - https://reposit.haw-hamburg.de/handle/20.500.12738/16031
+UR  - https://reposit.haw-hamburg.de/bitstream/20.500.12738/16031/1/BA_Comparison%20and%20Evaluation%20of%20Cross-Platform%20Frameworks.pdf
+PY  - 2023///
+AB  - … and iOS, but its iOS support is lower than Flutter as it starts from 13.4. Furthermore, Xamarin’s support for Android and iOS … The MVVM design pattern is used for the Xamarin project. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 4 cites: https://scholar.google.com/scholar?cites=2849482852678352165&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 4
+ER  - 
+
+TY  - CITATION
+AU  - Bilberg, D
+TI  - Comparing performance between react native and natively developed smartphone applications in swift: A comparative analysis and evaluation of the …
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 6 cites: https://scholar.google.com/scholar?cites=16557121492182034805&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 6
+ER  - 
+
+TY  - BOOK
+AU  - ISUFI, A
+TI  - Analysis and comparison of cross-platform mobile development approaches
+PB  - politesi.polimi.it
+UR  - https://www.politesi.polimi.it/handle/10589/132788
+UR  - https://www.politesi.polimi.it/bitstream/10589/132788/1/2017_04_Isufi.pdf
+PY  - 2015///
+AB  - … operating systems: Android, iOS and Windows Phone. Having … is a detailed analysis and comparison of cross-platforms … of software development patterns: MVC and MVVM. Authors go …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Verma, D
+TI  - A comparison of web framework efficiency: performance and network analysis of modern web frameworks
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/755038
+UR  - https://www.theseus.fi/bitstream/handle/10024/755038/Verma_Dhruv.pdf?sequence=2
+PY  - 2022///
+AB  - … MVVM (Figure 10) decouples the view, and the logic and model layers which makes development of the GUI a lot easier as compared to the MVC … to develop an iOS application with a …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 11 cites: https://scholar.google.com/scholar?cites=14946982502927586119&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 11
+ER  - 
+
+TY  - PDF
+AU  - Ünal, H
+TI  - Comparative analysis of use states of mobile application development methods
+JF  - International Journal of Advances in Engineering and …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/67995947/Comparative_Analysis_of_Use_States_of_Mobile_Application_Development_Methods.pdf
+UR  - https://www.academia.edu/download/67995947/Comparative_Analysis_of_Use_States_of_Mobile_Application_Development_Methods.pdf
+PY  - 2021///
+AB  - … for iOS has Xcode compilers. Cross application development environments for Android and iOS … application with JavaScript programming language using MVC (Model View Controller) …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=15203408537445981648&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - BOOK
+AU  - Favaron, R
+TI  - Evaluating Mobile Framework Energy Efficiency: A Comparative Analysis of React Native, Flutter and Native Architectures
+PB  - thesis.unipd.it
+UR  - https://thesis.unipd.it/handle/20.500.12608/110959
+UR  - https://thesis.unipd.it/bitstream/20.500.12608/110959/1/favaronriccardo.pdf
+PY  - 2026///
+AB  - … In contrast, Flutter reveals a markedly asymmetric nature: while in the iOS ecosystem it … developers to use a rigorous Model-View-Controller (MVC) architectural pattern. Because it …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Pathak, V
+AU  - Shrivastava, V
+AU  - Buri, R
+AU  - Gupta, S
+AU  - ...
+TI  - Current web development technologies: a comparative review
+JF  - … Conference On Emerging …
+PB  - Springer
+DO  - 10.1007/978-981-99-1909-3_2
+UR  - https://link.springer.com/chapter/10.1007/978-981-99-1909-3_2
+PY  - 2023///
+AB  - … Angular JS, ReactJS can be planned with other JavaScript libraries or frameworks in MVC. … React to create mobile applications for popular operating systems like iOS and Android. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 9 cites: https://scholar.google.com/scholar?cites=5044541852703761988&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 9
+ER  - 
+
+TY  - PDF
+AU  - VALKO, BCD
+TI  - C#/.NET GUI toolkit comparison
+JF  - is.muni.cz
+UR  - https://is.muni.cz/th/nsr72/C__NET_GUI_toolkit_comparison_Archive.pdf
+UR  - https://is.muni.cz/th/nsr72/C__NET_GUI_toolkit_comparison_Archive.pdf
+AB  - … The aim of the thesis lies in the comparison of the … as a basis for the library comparison. The demo application is designed to … Mvvm - modular, modern, and fast MVVM library targeting …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Khan, SM
+AU  - Nabi, A ul
+AU  - Bhanbhro, TH
+TI  - Comparative analysis between flutter and react native
+JF  - International Journal of …
+PB  - ijaims.smiu.edu.pk
+UR  - https://ijaims.smiu.edu.pk/index.php/AIMS/article/view/19
+UR  - https://ijaims.smiu.edu.pk/index.php/AIMS/article/download/19/8
+PY  - 2022///
+AB  - … Due to Flutter working for both the devices Android and iOS, this is simpler to … MVC in designing an application; multiple programming languages also IDEs hold the architecture of MVC…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 10 cites: https://scholar.google.com/scholar?cites=6276306899772039696&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 10
+ER  - 
+
+TY  - PDF
+AU  - Skybu, L
+TI  - COMPARATIVE ANALYSIS OF DESKTOP APPLICATION DEVELOPMENT TECHNOLO-GIES IN C#/.NET
+PB  - is.muni.cz
+UR  - https://is.muni.cz/th/beb02/Bachelors_Archive.pdf
+UR  - https://is.muni.cz/th/beb02/Bachelors_Archive.pdf
+PY  - 2025///
+AB  - … This thesis provides a comparative overview of modern desktop application … MVVM and MVUX architectures. Applications developed using Uno can run on Windows, Linux, macOS, iOS…
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Lelli, A
+AU  - Bostrand, V
+TI  - Evaluating Application Scenarioswith React Native: A Comparative Study between Native and ReactNative Development
+PY  - 2016///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=12904368798009225743&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 5
+ER  - 
+
+TY  - CITATION
+AU  - Dib, M
+TI  - A Comparative Study of Responsiveness of Native Applications and Progressive Web Applications
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 4 cites: https://scholar.google.com/scholar?cites=9784568619295484838&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 4
+ER  - 
+
+TY  - BOOK
+AU  - Yoon, GH
+TI  - Comparison Between Python and Web User Interfaces
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/780415
+UR  - https://www.theseus.fi/bitstream/handle/10024/780415/Yoon_GeonHui.pdf?sequence=2
+PY  - 2022///
+AB  - This thesis explores the differences between the software libraries used to create web-based and native user interface applications. The thesis shows the comparison between React.js …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Amman, T
+TI  - A metrics-based comparison of secondary user quality between iOS and Android
+PB  - ir.cwi.nl
+UR  - https://ir.cwi.nl/pub/23108
+UR  - https://ir.cwi.nl/pub/23108/23108B.pdf
+PY  - 2014///
+AB  - … of the iOS and Android platforms, where developers have to deal with. The base of the research form 45 iOS … Since the beginning, all frameworks that Apple build are based on the MVC. …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - HTML
+AU  - Jošt, G
+AU  - Taneski, V
+TI  - State-of-the-art cross-platform mobile application development frameworks: A comparative study of market and developer trends
+JF  - Informatics
+PB  - mdpi.com
+UR  - https://www.mdpi.com/2227-9709/12/2/45
+UR  - https://www.mdpi.com/2227-9709/12/2/45
+PY  - 2025///
+AB  - … address the evolving industry focus on iOS and Android, the … a Minimum Viable Product (MVP) within a short timeframe. In … development for Android and iOS, streamlining development, …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 37 cites: https://scholar.google.com/scholar?cites=13065207042745163207&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 37
+ER  - 
+
+TY  - BOOK
+AU  - Riaz, MU
+TI  - Comparative Analysis of React Native, Kotlin, and Flutter for Cross-Platform Mobile Development
+PB  - doria.fi
+UR  - https://www.doria.fi/handle/10024/192774
+UR  - https://www.doria.fi/bitstream/handle/10024/192774/riaz_usama.pdf?sequence=3
+PY  - 2025///
+AB  - … -like experience on both the iOS and Android platforms, … a soft, aesthetically pleasing experience on iOS and Android. … minimum viable products (MVP's) in a shorter period of time . …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=865280648832180025&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - NOVAC, OC
+AU  - MARCZIN, RG
+AU  - ...
+TI  - Comparison of Hybrid Cross-Platform Mobile Applications with Native Cross-Platform Applications.
+JF  - Journal of Computer …
+PB  - openurl.ebsco.com
+UR  - https://openurl.ebsco.com/contentitem/gcd:120359060?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:120359060&crl=c&jrnl=18446043
+PY  - 2016///
+AB  - … One way to structure the application would be using the MVVM architecture, which helps … Finally, the API calls will be the same as the ones made from a native iOS application, written in …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 6 cites: https://scholar.google.com/scholar?cites=10399202921270904961&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 6
+ER  - 
+
+TY  - JOUR
+AU  - Nishine, M
+AU  - Kobayashi, H
+AU  - Ito, K
+AU  - Wadachi, J
+AU  - ...
+TI  - Comparison Between Interocclusal Registration Using Silicone Bite Registration Material and Intraoral Scanner on Clenching Strength.
+JF  - International Journal …
+PB  - openurl.ebsco.com
+UR  - https://openurl.ebsco.com/contentitem/gcd:179244946?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:179244946&crl=c&jrnl=08932174
+PY  - 2024///
+AB  - … on interocclusal registration using an intraoral scanner (IOS). Materials and Methods: The … (MVC). Conventional silicone bite registration and an IOS were used for comparison. Occlusal …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 7 cites: https://scholar.google.com/scholar?cites=1764469312755333255&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 7
+ER  - 
+
+TY  - CITATION
+AU  - Systä, K
+AU  - Sievi-Korte, O
+TI  - COMPARISON BETWEEN REACT NA-TIVE AND NATIVE APPLICATION DE-VELOPMENT PLATFORM
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Martyna, M
+AU  - Smołka, J
+TI  - Efficiency comparison of mobile application frameworks for programming using internet technologies
+JF  - Journal of Computer Sciences Institute
+PB  - ph.pollub.pl
+UR  - https://ph.pollub.pl/index.php/jcsi/article/view/635
+UR  - https://ph.pollub.pl/index.php/jcsi/article/download/635/465
+PY  - 2018///
+AB  - … Dla Javy najpopularniejszymi szkieletami aplikacji są Spring MVC, Struts 2 czy Hibernate, a … na urządzenia bazujące na systemach Android i iOS. Należący do bułgarskiej firmy „Telerik” …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Asp, F
+TI  - A comparison of Ionic 2 versus React Native and Android in terms of performance, by comparing the performance of applications
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 4 cites: https://scholar.google.com/scholar?cites=8031059381753599057&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 4
+ER  - 
+
+TY  - PDF
+AU  - Sultan, M
+TI  - Angular and the trending frameworks of mobile and web-based platform technologies: A comparative analysis
+JF  - Proc. Future Technologies Conference
+PB  - mohamed-sultan.com
+UR  - https://mohamed-sultan.com/paper/128_Paper_264-Angular_and_the_Trending_Frameworks_of_Mobile.pdf
+UR  - https://mohamed-sultan.com/paper/128_Paper_264-Angular_and_the_Trending_Frameworks_of_Mobile.pdf
+PY  - 2017///
+AB  - … Overall, our comparative analysis results in a few interesting … emerge from the exponential path of MVC, MV*/MVW and MVVM. … rendering a cross-platform native UI for iOS and Android. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 16 cites: https://scholar.google.com/scholar?cites=8757172128789774419&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 16
+ER  - 
+
+TY  - CITATION
+AU  - Wahlandt, L
+AU  - Brännholm, A
+TI  - A comparative analysis of Jetpack Compose and XML Views
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=9338259579030760636&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 5
+ER  - 
+
+TY  - PDF
+AU  - CHARKAOUI, S
+AU  - ZAKARIAADRAOUI, ELHB
+TI  - ETUDE COMPARATIVE DES OUTILS DE DEVELOPPEMENT MOBILE MULTIPLATEFORME
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/El-Habib-Benlahmar/publication/318723925_ETUDE_COMPARATIVE_DES_OUTILS_DE_DEVELOPPEMENT_MOBILE_MULTIPLATEFORME/links/5979d0c9a6fdcc842c226c9e/ETUDE-COMPARATIVE-DES-OUTILS-DE-DEVELOPPEMENT-MOBILE-MULTIPLATEFORME.pdf
+UR  - https://www.researchgate.net/profile/El-Habib-Benlahmar/publication/318723925_ETUDE_COMPARATIVE_DES_OUTILS_DE_DEVELOPPEMENT_MOBILE_MULTIPLATEFORME/links/5979d0c9a6fdcc842c226c9e/ETUDE-COMPARATIVE-DES-OUTILS-DE-DEVELOPPEMENT-MOBILE-MULTIPLATEFORME.pdf
+AB  - … type Ruby On Rails (Appelé aussi rails : Framework Web basé sur le design pattern MVC et … application qui paraisse native, et le ou les OS que nous voulons toucher (IOS, Android …). …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Bandt, T
+TI  - Suitability of functional programming for the development of mobile applications: A comparison of F# and C# involving Xamarin
+JF  - Available at SSRN 3459433
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3459433
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3459433
+PY  - 2019///
+AB  - … The original design pattern that many developers apply when building native iOS and Android apps is Model-View-Controller (MVC). It was presumably first described by Krasner, Pope, …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14745025022391295883&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 1
+ER  - 
+
+TY  - JOUR
+AU  - Kaur, G
+AU  - Tiwari, RG
+TI  - Comparison and analysis of popular frontend frameworks and libraries: An evaluation of parameters for frontend web development
+JF  - 2023 4th International Conference on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10192987/
+PY  - 2023///
+AB  - … AngularJS is built on the Model-ViewController (MVC) architecture[7], which divides an application into three parts: data, UI, and control logic (Fig 2.). AngularJS's strength is in its ability …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 23 cites: https://scholar.google.com/scholar?cites=17503888420892414838&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 23
+ER  - 
+
+TY  - BOOK
+AU  - 도준희
+TI  - Critique on SMU-Inspired Approach to Community Development: Comparative Study of SMU in light of MVP
+PB  - s-space.snu.ac.kr
+UR  - https://s-space.snu.ac.kr/handle/10371/129134
+UR  - https://s-space.snu.ac.kr/bitstream/10371/129134/1/000000141511.pdf
+PY  - 2017///
+AB  - … In this study, the Millennium Villages Project (MVP), another program aimed at eradicating poverty and improving rural livelihoods, is selected as a comparative case study. MVP and …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Koval, A
+TI  - Comparative analysis of modern iOS architectures in different development stages
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11247908539014541596&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - PDF
+AU  - Dékány, M
+TI  - Comparative Analysis of React, Vue. js, and Svelte: Technical Evaluation, Performance, and Developer Experience
+PB  - is.muni.cz
+UR  - https://is.muni.cz/th/gjz8s/thesis_Archive.pdf
+UR  - https://is.muni.cz/th/gjz8s/thesis_Archive.pdf
+PY  - 2025///
+AB  - This thesis presents a comprehensive comparative analysis of three leading frontend frameworks, React, Vue. js, and Svelte, emphasizing technical evaluation, performance …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - …
+AU  - Nagabhairu, P
+AU  - Putty, GS
+AU  - Peddi, A
+AU  - MVP, CSR
+TI  - Comparison of Artificial Intelligent Systems for Real-Time Accident-Prone Applications
+JF  - … Conference on Data …
+PB  - Springer
+DO  - 10.1007/978-3-031-51167-7_65
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-51167-7_65
+PY  - 2023///
+AB  - … and operating systems like Raspberry PI, the human-computer interaction system is done using a smartphone-like minicomputer with a mobile application running the Android or IOS …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Grönlund, P
+TI  - A comparison study betweenmobile cross platform frameworks Flutter and React Native
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9376787240680913873&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - JOUR
+AU  - Toasa, RM
+TI  - . NET MAUI vs. Cross-Platform Mobile Development Frameworks: A Comparative Analysis and State of the Art
+JF  - International Journal of Engineering Insights
+PB  - injei.sci-thoth.com
+UR  - https://injei.sci-thoth.com/index.php/journal/article/view/86
+UR  - https://injei.sci-thoth.com/index.php/journal/article/download/86/47
+PY  - 2025///
+AB  - … build native applications for Android, iOS, macOS, and Windows from a single shared codebase using C# and XAML. This article presents a comparative analysis of .NET MAUI against …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Danielsson, W
+TI  - React Native application development: A comparison between native Android and React Native
+PY  - 2016///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 43 cites: https://scholar.google.com/scholar?cites=13344584191156873658&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 43
+ER  - 
+
+TY  - JOUR
+AU  - Schutt, K
+AU  - Balci, O
+TI  - Cloud software development platforms: A comparative overview
+JF  - 2016 IEEE 14th International Conference on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7516122/
+PY  - 2016///
+AB  - … .js) that follow the MVP pattern since Rails is architected directly on the MVC pattern. … This includes native iOS and Android applications that can utilize the API to obtain data and then …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 24 cites: https://scholar.google.com/scholar?cites=16192670984356072140&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 24
+ER  - 
+
+TY  - JOUR
+AU  - Glöckler, K
+AU  - Mrachacz-Kersting, N
+AU  - ...
+TI  - Comparison and evaluation of MVC measurements from selected reference tasks
+JF  - annual meeting of …
+PB  - fis.dshs-koeln.de
+UR  - https://fis.dshs-koeln.de/en/publications/comparison-and-evaluation-of-mvc-measurements-from-selected-refer/
+UR  - https://fis.dshs-koeln.de/files/16823602/SFN22_Abstracts_PDF_Posters_MON_AM.pdf
+PY  - 2022///
+AB  - … MVC measures were derived from two dynamic tasks (… Accordingly, the relationship between Mmax and MVC tasks … Conclusion: Results indicate that combinations of MVC measures …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9842432177464016582&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - AMIR, AM EL
+AU  - MOHAMED, SG
+AU  - SHAKER, LS
+AU  - ...
+TI  - Studies on venoms of the Egyptian cobra (Naja haja), the horned viper (Cerastes cerastes), and the honey bee (Apis mellifera): comparison safety study for 1/10 LD50
+JF  - Journal of the …
+PB  - journals.ekb.eg
+UR  - https://journals.ekb.eg/article_165968.html
+UR  - https://journals.ekb.eg/article_165968_3e3561f8dd63352b372197eb8524ede9.pdf
+PY  - 2021///
+AB  - … The horned viper C. cerastes gasperetti (Gasperetti’s sand viper) of family Viperidae is the most common snake in Saudi Arabia (AlSadoon et al, 2013a), as well as Egypt, Jordan and …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 6 cites: https://scholar.google.com/scholar?cites=8448527190735637403&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 6
+ER  - 
+
+TY  - JOUR
+AU  - Nunes, A
+AU  - Miguel, J
+AU  - Petersen, KKS
+AU  - ...
+TI  - Comparison of upper and lower trapezius muscle strength in female office workers with and without chronic neck pain
+JF  - Journal of Back and …
+PB  - journals.sagepub.com
+DO  - 10.1177/10538127251380068
+UR  - https://journals.sagepub.com/doi/abs/10.1177/10538127251380068
+PY  - 2026///
+AB  - … The objectives of this study are twofold: first, to analyze MVC in UT and LT among female office workers, comparing different CNP conditions and pain intensities; second, to investigate …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=13723623798535000930&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 2
+ER  - 
+
+TY  - JOUR
+AU  - Ngaogate, W
+TI  - Memory Usage Comparison in an Android Application: Basic Object-Oriented Programming vs Decorator Design Pattern: Coding styles for keeping low memory …
+JF  - Proceedings of the 4th International Conference on …
+PB  - dl.acm.org
+DO  - 10.1145/3548636.3548655
+UR  - https://dl.acm.org/doi/abs/10.1145/3548636.3548655
+UR  - https://dl.acm.org/doi/pdf/10.1145/3548636.3548655
+PY  - 2022///
+AB  - … They found that MVVM performance is better at CPU usage and execution time while MVP … , they have developed a validation model: MVC &MVVM Validation Model for iOS (MMVMi). …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=10895740254610991665&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Castillo-Salinas, L
+AU  - Moyota, MEG
+AU  - ...
+TI  - A Comparison Between Angular and React Native Frameworks Used in the Development of the MIES_APP Mobile Application
+JF  - … on Information and …
+PB  - Springer
+DO  - 10.1007/978-981-97-5799-2_30
+UR  - https://link.springer.com/chapter/10.1007/978-981-97-5799-2_30
+UR  - https://www.researchgate.net/profile/Franklin-Buitrago-Echeverry/publication/384380494_Effect_of_E-leadership_on_the_Decision-Making_of_Managers_of_the_Flower_Sector_of_the_Sabana_de_Bogota/links/67099cf4ab024170996b4e2d/Effect-of-E-leadership-on-the-Decision-Making-of-Managers-of-the-Flower-Sector-of-the-Sabana-de-Bogota.pdf#page=358
+PY  - 2024///
+AB  - … for iOS and Android operating systems. This technology is based on the use of visual components, these components run directly on the native mobile platforms, ie, iOS … of the MVVM …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Moss, C
+TI  - Integrating cloud computing and mobile applications: a comparative study based on icloud and sanscode
+JF  - Journal of Cloud Computing
+PB  - ibimapublishing.com
+UR  - https://ibimapublishing.com/wp-content/uploads/articles/JCC/2014/545850/545850.pdf
+UR  - https://ibimapublishing.com/wp-content/uploads/articles/JCC/2014/545850/545850.pdf
+PY  - 2014///
+AB  - Cloud computing is widely used to share and synchronize data between mobile devices such as smartphones and tablets. iCloud is Apple's cloud system for use with iOS and Mac OS …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 6 cites: https://scholar.google.com/scholar?cites=13579032477130399862&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 6
+ER  - 
+
+TY  - JOUR
+AU  - Al-Qaisi, S
+AU  - Saba, A
+AU  - Alameddine, I
+TI  - Electromyography analysis: Comparison of maximum voluntary contraction exercises for the latissimus dorsi
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-213629
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-213629
+UR  - https://scholarworks.aub.edu.lb/bitstreams/4d5e2ae0-0374-491f-818e-1e8990fc513c/download
+PY  - 2022///
+AB  - … Therefore, the purpose of this study was to test and compare the recommended MVC exercises of the latissimus dorsi and identify the MVC that elicits the highest EMG amplitude for this …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 8 cites: https://scholar.google.com/scholar?cites=3088038341284134258&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 8
+ER  - 
+
+TY  - JOUR
+AU  - Chawla, P
+AU  - Singh, M
+AU  - Deep, V
+AU  - ...
+TI  - Systematic overview of mobile virtualization platforms: Comparative analysis
+JF  - 2015 IEEE International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7226063/
+UR  - https://www.academia.edu/download/58206066/Systematic_Overview_of_Mobile_Virtualization_Platforms_-_Comparative_Analysis.pdf
+PY  - 2015///
+AB  - … comparison among the most popular mobile operating systems, including Android, iOS, … The author discusses the use case behind VMware's Mobile Virtualization Platform (MVP) and …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5879984570225402980&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - JOUR
+AU  - Andrade, PRM De
+AU  - Albuquerque, AB
+AU  - Frota, OF
+AU  - ...
+TI  - Cross platform app: a comparative study
+JF  - arXiv preprint arXiv …
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/1503.03511
+UR  - https://arxiv.org/pdf/1503.03511
+PY  - 2015///
+AB  - … A particularity is found that for iOS apps that you need use a MAC for continue you development, … Combined with its lightweight JavaScript library, it provides a basic MVC structure and …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 88 cites: https://scholar.google.com/scholar?cites=2291015180294195196&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 88
+ER  - 
+
+TY  - JOUR
+AU  - Argus, M
+AU  - Pääsuke, M
+TI  - Musculoskeletal disorders and functional characteristics of the neck and shoulder: Comparison between office workers using a laptop or desktop computer
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-220080
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-220080
+PY  - 2023///
+AB  - … Since the neck position during work differs between desktop and laptop computer users, we measured the MVC force of the neck muscles to see how it affects the neck muscles’ ability …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 20 cites: https://scholar.google.com/scholar?cites=15797543964445342324&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 20
+ER  - 
+
+TY  - JOUR
+AU  - Cheung, A
+AU  - Tu, L
+AU  - Sahragard, F
+AU  - ...
+TI  - Comparison of forearm muscle oxygenation dynamics during isometric and isotonic contractions monitored by near-infrared spectroscopy
+JF  - Biophotonics in Exercise …
+PB  - spiedigitallibrary.org
+DO  - 10.1117/12.2547364.short
+UR  - https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11237/112370O/Comparison-of-forearm-muscle-oxygenation-dynamics-during-isometric-and-isotonic/10.1117/12.2547364.short
+PY  - 2020///
+AB  - … at 50% MVC induced the lowest level of muscle oxygenation, in comparison to isotonic … This suggests that sustained isometric contraction at 50% MVC may induce greater oxygen …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=17466149332556533380&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Sabhanayagam, T
+TI  - A comparative analysis to obtain unique device fingerprinting
+JF  - Proceedings of International Conference on Deep …
+PB  - Springer
+DO  - 10.1007/978-981-16-5652-1_30
+UR  - https://link.springer.com/chapter/10.1007/978-981-16-5652-1_30
+UR  - https://www.researchgate.net/profile/Saranya-k/publication/360192059_A_Survey_on_Feature_Selection_and_Classification_Techniques_for_EEG_Signal_Processing/links/6362568537878b3e877799a7/A-Survey-on-Feature-Selection-and-Classification-Techniques-for-EEG-Signal-Processing.pdf#page=360
+PY  - 2022///
+AB  - … Device fingerprinting uses JavaScript techniques which includes Angular JS and Client JS along with Spring MVC and Restful Web service as back-end techniques for the comparative …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5679601038944321141&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - Myers, E
+AU  - Triscari, R
+TI  - Comparison of the strength endurance parameters for the Baltimore Therapeutic Equipment (BTE) Simulator II and the Jamar Handgrip Dynamometer
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-172542
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-172542
+PY  - 2017///
+AB  - … contractions starting at 0% MVC then ranging from 15%, … MVC, there was a steady decline in grip strength endurance. From the descending part of the cycle (from 30% MVC to 15% MVC…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 10 cites: https://scholar.google.com/scholar?cites=5955687190337716981&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 10
+ER  - 
+
+TY  - HTML
+AU  - Zhu, X
+TI  - Comparison of high-level athlete training between chinese and american universities based on the internet of things
+JF  - Revista Brasileira de Medicina do Esporte
+PB  - SciELO Brasil
+UR  - https://www.scielo.br/j/rbme/a/mmGfnscDmpbbZy4TpmpjPDr/?lang=en
+UR  - https://www.scielo.br/j/rbme/a/mmGfnscDmpbbZy4TpmpjPDr/?lang=en
+PY  - 2021///
+AB  - … In the mobile phone client part that is closely related to the user, the MVC architecture is … uniformly handed over to the NSAutorelease Pool in iOS for unified management. The object is …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Dobosz, K
+AU  - Ptak, J
+TI  - How to control a mobile game: a comparison of various approaches for visually impaired people
+JF  - … Conference on Computers Helping People with …
+PB  - Springer
+DO  - 10.1007/978-3-319-41264-1_71
+UR  - https://link.springer.com/chapter/10.1007/978-3-319-41264-1_71
+UR  - https://www.researchgate.net/profile/Krzysztof-Dobosz/publication/304816993_How_to_Control_a_Mobile_Game/links/5a1c5d44458515373188ffde/How-to-Control-a-Mobile-Game.pdf
+PY  - 2016///
+AB  - … The aim of the study was the comparison of existing approaches of user interfaces for … The paper highlights, that the use of MVP design pattern allows developers to create mobile …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 8 cites: https://scholar.google.com/scholar?cites=12517697720289813305&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 8
+ER  - 
+
+TY  - JOUR
+AU  - Uyanık, B
+AU  - Sayar, A
+TI  - Analysis and comparison of automatic code generation and transformation techniques on low-code platforms
+JF  - Proceedings of the 2023 5th International …
+PB  - dl.acm.org
+DO  - 10.1145/3637792.3637795
+UR  - https://dl.acm.org/doi/abs/10.1145/3637792.3637795
+UR  - https://dl.acm.org/doi/pdf/10.1145/3637792.3637795
+PY  - 2023///
+AB  - … The approach has been evaluated in a case study and shown to generate code for MVC … with the MVC architecture. In summary, using this approach when developing MVC web …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 14 cites: https://scholar.google.com/scholar?cites=6680197249410159988&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 14
+ER  - 
+
+TY  - JOUR
+AU  - Villamizar, M
+AU  - Garcés, O
+AU  - Ochoa, L
+AU  - Castro, H
+AU  - ...
+TI  - Cost comparison of running web applications in the cloud using monolithic, microservice, and AWS Lambda architectures
+JF  - … Oriented Computing and …
+PB  - Springer
+DO  - 10.1007/s11761-017-0208-y
+UR  - https://link.springer.com/article/10.1007/s11761-017-0208-y
+UR  - https://www.researchgate.net/profile/Mario-Villamizar/publication/316532483_Cost_comparison_of_running_web_applications_in_the_cloud_using_monolithic_microservice_and_AWS_Lambda_architectures/links/5b3acfb4a6fdcc8506ea53fb/Cost-comparison-of-running-web-applications-in-the-cloud-using-monolithic-microservice-and-AWS-Lambda-architectures.pdf
+PY  - 2017///
+AB  - … MVC front-end application. Although we separate the functions according to their role to facilitate the comparison … Given that the MVC front-end application must be retrieved by browsers …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 181 cites: https://scholar.google.com/scholar?cites=4205880425986586199&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 181
+ER  - 
+
+TY  - PDF
+AU  - Küfner, J
+AU  - Kononowicz, AA
+AU  - Hege, I
+TI  - Virtual Patient Repositories-A Comparative Analysis.
+JF  - MIE
+PB  - ppm.edu.pl
+UR  - https://ppm.edu.pl/docstore/download/UJCM06978fdad3614ed2a5724e59777766b6/0000068187.pdf
+UR  - https://ppm.edu.pl/docstore/download/UJCM06978fdad3614ed2a5724e59777766b6/0000068187.pdf
+PY  - 2014///
+AB  - … of VPs, the MedBiquitous Virtual Patient (MVP) standard has been developed and implemented … This article is published online with Open Access by IOS Press and distributed under the …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 7 cites: https://scholar.google.com/scholar?cites=7067880408559955093&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 7
+ER  - 
+
+TY  - JOUR
+AU  - Shi, W
+AU  - Wu, Y
+AU  - Gong, H
+AU  - Zhao, Z
+AU  - ...
+TI  - Comparison of three formulations for eddy-current and skin and proximity problems in a meander coil electromagnetic acoustic transducer
+JF  - International Journal of …
+PB  - journals.sagepub.com
+DO  - 10.3233/JAE-150005
+UR  - https://journals.sagepub.com/doi/abs/10.3233/JAE-150005
+UR  - https://www.academia.edu/download/49199169/11.pdf
+PY  - 2015///
+AB  - … ) example to solve magnetic vector potential (MVP). The FEM results from frequency domain and … It is better to choose Formulation I instead of Formulation III to solve MVP when the coil …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=7593112931845149648&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 5
+ER  - 
+
+TY  - JOUR
+AU  - …
+AU  - Gupta, A
+AU  - Modi, M
+AU  - Srivastava, MVP
+AU  - ...
+TI  - Head to head comparison between neurology residents and a mobile medical application for diagnostic accuracy in cognitive neurology
+JF  - … Journal of Medicine
+PB  - academic.oup.com
+UR  - https://academic.oup.com/qjmed/article-abstract/112/8/591/5488960
+UR  - https://www.researchgate.net/profile/Pulikottil-Vinny-2/publication/333133562_Head_to_head_comparison_between_neurology_residents_and_a_mobile_medical_application_for_diagnostic_accuracy_in_cognitive_neurology/links/642d77ee609c170a13f7a91a/Head-to-head-comparison-between-neurology-residents-and-a-mobile-medical-application-for-diagnostic-accuracy-in-cognitive-neurology.pdf
+PY  - 2019///
+AB  - … We designed a mobile medical application on iOS platform (Neurology Dx ® ) to compare clinical reasoning of participating neurology residents and output of the App in deriving …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 4 cites: https://scholar.google.com/scholar?cites=5241268222301550777&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - JOUR
+AU  - Yang, YH
+AU  - Sun, Z
+AU  - Fukiage, T
+AU  - ...
+TI  - HuPerFlow: A comprehensive benchmark for human vs. machine motion estimation comparison
+JF  - Proceedings of the IEEE …
+PB  - openaccess.thecvf.com
+UR  - https://openaccess.thecvf.com/content/CVPR2025/html/Yang_HuPerFlow_A_Comprehensive_Benchmark_for_Human_vs._Machine_Motion_Estimation_CVPR_2025_paper.html
+UR  - https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_HuPerFlow_A_Comprehensive_Benchmark_for_Human_vs._Machine_Motion_Estimation_CVPR_2025_paper.pdf
+PY  - 2025///
+AB  - … biases in motion perception under certain scenarios. We termed these systematic discrepancies … In contrast, other navigation datasets like VIPER [35] and TartanAir [44] show abrupt …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=16621185666514323738&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 5
+ER  - 
+
+TY  - PDF
+AU  - Hembram, M
+TI  - Comparative study of open source content management systems (CMS) in digital era
+JF  - Asian Journals of Electrical Sciences
+PB  - ajesjournal.org
+UR  - https://ajesjournal.org/index.php/ajes/article/download/110/167
+UR  - https://ajesjournal.org/index.php/ajes/article/download/110/167
+PY  - 2022///
+AB  - Content Management System (CMS) is the software that can be used to organize, control or manage contents of a website. The data can include texts, links, images, videos, HTML …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 11 cites: https://scholar.google.com/scholar?cites=11232299842261981049&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 11
+ER  - 
+
+TY  - JOUR
+AU  - Xie, Y
+AU  - Szeto, GPY
+AU  - Dai, J
+AU  - Madeleine, P
+TI  - A comparison of muscle activity in using touchscreen smartphone among young people with and without chronic neck–shoulder pain
+JF  - Ergonomics
+PB  - Taylor &Francis
+DO  - 10.1080/00140139.2015.1056237
+UR  - https://www.tandfonline.com/doi/abs/10.1080/00140139.2015.1056237
+UR  - https://www.researchgate.net/profile/Mansour-Abdullah-Alshehri/post/Is_there_any_association_between_excessive_smartphone_usage_neck_pain_and_grip_strength_among_young_adults/attachment/59d6520879197b80779aa638/AS%3A510229685440512%401498659644679/download/A+Comparison+of+Muscle+Activity+in+Using+Touchscreen+Smartphone+among+Young+People+with+and+without+Chronic+Neck%E2%80%93shoulder+Pain.pdf
+PY  - 2016///
+AB  - … To obtain the maximal voluntary electrical activity of each muscle, subjects performed three trials of isometric maximum voluntary contraction (MVC). Each MVC was performed for 5 s, …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 317 cites: https://scholar.google.com/scholar?cites=8691303928219504845&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 317
+ER  - 
+
+TY  - JOUR
+AU  - Ayubbi, AA Al
+AU  - Widowati, S
+AU  - ...
+TI  - Comparative Performance Analysis of GetX and MobX in Flutter-Based Job Finder Application
+JF  - 2025 3rd International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11290872/
+PY  - 2025///
+AB  - … specialized tools such as Xcode for iOS and Android Studio for Android… using MVP architecture combined with GetX (MVP-GetX), … in various architectures and comparison models, MobX …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9368455476198813359&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Thuon, N
+AU  - Zhang, W
+TI  - Development of an open education resources (OER) system: a comparative analysis and implementation approach
+JF  - arXiv preprint arXiv:2405.16442
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2405.16442
+UR  - https://arxiv.org/pdf/2405.16442?
+PY  - 2024///
+AB  - … MVC Architecture Support: With built-in support for the Model-View-Controller (MVC) architecture, Laravel 8 provides a structured approach to application development. 6. Auto-…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 8 cites: https://scholar.google.com/scholar?cites=14766515317373430310&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 8
+ER  - 
+
+TY  - PDF
+AU  - Tierney, P
+AU  - Clarke, N
+TI  - A comparison of a smartphone app with other GPS tracking type devices employed in football
+JF  - Exercise Medicine
+PB  - exercmed.org
+UR  - http://exercmed.org/upload/pdf/em-2019-004.pdf
+UR  - http://exercmed.org/upload/pdf/em-2019-004.pdf
+PY  - 2019///
+AB  - … both Android and Apple IOS type devices with an suitable application installed (PIN Services Ltd India) that tracks movement and a range of GPS tracker type devices; Viper (Stat sports …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 19 cites: https://scholar.google.com/scholar?cites=6009865511657610886&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 19
+ER  - 
+
+TY  - JOUR
+AU  - Oun, A
+AU  - Hagerdorn, N
+AU  - Scheideger, C
+AU  - Cheng, X
+TI  - Mobile devices or head-mounted displays: a comparative review and analysis of augmented reality in healthcare
+JF  - Ieee Access
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10419075/
+UR  - https://ieeexplore.ieee.org/iel7/6287639/6514899/10419075.pdf
+PY  - 2024///
+AB  - … [36], which use the iOS operating system, and a smartwatch [34] … AR content and experience on iOS devices, which was … systems such as Android, iOS, and Universal Windows Platform, …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 59 cites: https://scholar.google.com/scholar?cites=751306183666293998&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 59
+ER  - 
+
+TY  - JOUR
+AU  - Filius, S
+AU  - Janssen, M
+AU  - Kooij, H Van Der
+AU  - ...
+TI  - Comparison of Lower Arm Weight and Passive Elbow Joint Impedance Compensation Strategies in Non-Disabled Participants
+JF  - 2023 International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10304707/
+PY  - 2023///
+AB  - … The MVC was determined by taking the maximal value of the 2 attempts. The sEMG recorded during the compensation strategies was normalized to the MVC. The RMS values for the …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13276689986232958684&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - JOUR
+AU  - Taib, MFM
+AU  - Bahn, S
+AU  - Yun, MH
+TI  - The effect of psychosocial stress on muscle activity during computer work: Comparative study between desktop computer and mobile computing products
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-162334
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-162334
+UR  - https://www.researchgate.net/profile/Myung-Yun/publication/304778300_The_effect_of_psychosocial_stress_on_muscle_activity_during_computer_work_Comparative_study_between_desktop_computer_and_mobile_computing_products/links/5ab9e3f90f7e9b68ef5342f1/The-effect-of-psychosocial-stress-on-muscle-activity-during-computer-work-Comparative-study-between-desktop-computer-and-mobile-computing-products.pdf
+PY  - 2016///
+AB  - … At least three MVC were made for each muscle, and each MVC lasted at least three seconds… The value was then normalized with maximum EMG obtained from MVC. The average value …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 52 cites: https://scholar.google.com/scholar?cites=13855439901620496779&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 52
+ER  - 
+
+TY  - BOOK
+AU  - Halsas, R
+TI  - Comparison of HTML5 game engines used in game development
+PB  - lutpub.lut.fi
+UR  - https://lutpub.lut.fi/handle/10024/130917
+UR  - https://lutpub.lut.fi/bitstream/handle/10024/130917/Diplomity%C3%B6_HalsasRasmus_2.pdf?sequence=4&isAllowed=y
+PY  - 2017///
+AB  - … an OpenGL application for an iOS device with a performance … MVC designed to abstract out some of the calls that might … MVC -approach is used for the prototypes for the clarity that …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9480173870806171944&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - JOUR
+AU  - Fat, N
+AU  - Vujovic, M
+AU  - Papp, I
+AU  - Novak, S
+TI  - Comparison of AngularJS framework testing tools
+JF  - 2016 Zooming Innovation in …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7513659/
+PY  - 2016///
+AB  - … These frameworks got their popularity, by using concepts of data-binding, templating, routing, features of single-application pages, MVC and etc. These concepts relieve the developer …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 17 cites: https://scholar.google.com/scholar?cites=10055416946625536410&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 17
+ER  - 
+
+TY  - BOOK
+AU  - Petukhova, E
+TI  - Sitecore JavaScript Services Framework Comparison
+PB  - doria.fi
+UR  - https://www.doria.fi/handle/10024/169616
+UR  - https://www.doria.fi/bitstream/handle/10024/169616/petukhova_ekaterina.pdf
+PY  - 2019///
+AB  - … In comparison with the desktop or mobile applications, web … , iOS and Windows. Web applications are cross-platform services. … In this thesis, we concentrate on MVC pattern frameworks …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 7 cites: https://scholar.google.com/scholar?cites=15762982613104721486&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 7
+ER  - 
+
+TY  - JOUR
+AU  - Wang, Y
+AU  - Choi, J
+AU  - Loh, PY
+AU  - ...
+TI  - A comparison of motor control characteristics of the dominant and non-dominant arms in response to assistive force during unilateral task
+JF  - Isokinetics and Exercise …
+PB  - journals.sagepub.com
+DO  - 10.3233/IES-193165
+UR  - https://journals.sagepub.com/doi/abs/10.3233/IES-193165
+PY  - 2019///
+AB  - … Similar to the result of %MVC BB , %MVC TB was only significantly affected by workload level ( F [1, 12] = 47.89, p <0.001), assistive level ( F [3, 36] = 80.25, p <0.001), and their …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 8 cites: https://scholar.google.com/scholar?cites=12780950909641049862&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 8
+ER  - 
+
+TY  - JOUR
+AU  - Walraven, S
+AU  - Truyen, E
+AU  - Joosen, W
+TI  - Comparing PaaS offerings in light of SaaS development: A comparison of PaaS platforms based on a practical case study
+JF  - Computing
+PB  - Springer
+DO  - 10.1007/s00607-013-0346-9
+UR  - https://link.springer.com/article/10.1007/s00607-013-0346-9
+UR  - https://www.academia.edu/download/39796270/Comparing_PaaS_offerings_in_light_of_Saa20151108-15392-1rgasm4.pdf
+PY  - 2014///
+AB  - … RegisterRoutes method provided by the MVC framework and … TenantController, an abstract MVC controller class with the … [49], but it is limited to MVC applications. Alternatively, a similar …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 67 cites: https://scholar.google.com/scholar?cites=17288671457580690534&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 67
+ER  - 
+
+TY  - JOUR
+AU  - Oliveira, VB de
+AU  - Oliveira, LF de
+AU  - ...
+TI  - Estimation of vastus intermedius electromyography: Comparison of three methods and their impact on the knee isometric extension moment predicted by an EMG …
+JF  - … and Exercise Science
+PB  - journals.sagepub.com
+DO  - 10.3233/IES-182167
+UR  - https://journals.sagepub.com/doi/abs/10.3233/IES-182167
+PY  - 2018///
+AB  - … Knee extension MVC was tested for each subject in a dynamometer (Biodex System 4, … MVC moment during 40 seconds, following a visual feedback target on a screen. The 40% MVC …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14679810377643071075&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - BOOK
+AU  - Frank, U
+AU  - Maier, P
+AU  - Bock, A
+TI  - Low code platforms: Promises, concepts and prospects. A comparative study of ten systems
+PB  - econstor.eu
+UR  - https://www.econstor.eu/handle/10419/248826
+UR  - https://www.econstor.eu/bitstream/10419/248826/1/1785223275.pdf
+PY  - 2021///
+AB  - … A comparative study of ten systems, ICB-Research Report, No. 70, Universität Duisburg-Essen, Institut für Informatik und Wirtschaftsinformatik (ICB), Essen, https://doi.org/10.17185/…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 62 cites: https://scholar.google.com/scholar?cites=8910460584254620263&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 62
+ER  - 
+
+TY  - PDF
+AU  - VAGNER, MAX
+TI  - C# .NET GUI frameworks Comparison
+JF  - is.muni.cz
+UR  - https://is.muni.cz/th/z606a/Master_thesis_Archive.pdf
+UR  - https://is.muni.cz/th/z606a/Master_thesis_Archive.pdf
+AB  - … by frameworks are MVC, Layered architecture, or MVVM. … It enables .NET applications to run on Linux, macOS, iOS, and … code generation at runtime, like iOS. Further Mono-specific …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Gharsallaoui, R
+AU  - Hamdi, M
+AU  - ...
+TI  - A Comparative Study on Cloud Gaming Platforms
+JF  - 2014 7th International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7026255/
+PY  - 2014///
+AB  - … be readily ported to other OSs, including iOS and Android. GamingAnywhere follows three … MVC encoder may be plugged into it without significant changes. Since GamingAnywhere …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 13 cites: https://scholar.google.com/scholar?cites=3836397665790993718&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 13
+ER  - 
+
+TY  - JOUR
+AU  - Mesin, L
+AU  - Robert, E
+AU  - Boccia, G
+AU  - Vieira, T
+TI  - Investigation of motor units activity: Comparison of single channel surface EMG deconvolution and blind source separation of multichannel data
+JF  - IEEE Access
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10477412/
+UR  - https://ieeexplore.ieee.org/iel7/6287639/10380310/10477412.pdf
+PY  - 2024///
+AB  - … MVC, 30% MVC, 50% MVC and 70% MVC resting 2 minutes in-between. Participants were asked to maintain a constant force for 15 s during the 70% MVC … many clinical scenarios [49]…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 3 cites: https://scholar.google.com/scholar?cites=16390750851031210889&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 3
+ER  - 
+
+TY  - BOOK
+AU  - Rehman, MH
+TI  - Comparison between React and Angular JavaScript Frameworks
+PB  - doria.fi
+UR  - https://www.doria.fi/handle/10024/189990
+UR  - https://www.doria.fi/bitstream/handle/10024/189990/rehman_hamza.pdf?sequence=3
+PY  - 2024///
+AB  - … A Javascript framework called React Native is used to develop native iOS and Android operating system apps. … React is far smaller than Angular because it uses less of the MVC model. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8134932372546722536&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - JOUR
+AU  - Litwa, MD
+TI  - Paul the “god” in Acts 28: A Comparison with Philoctetes
+JF  - Journal of Biblical Literature
+PB  - scholarlypublishingcollective.org
+UR  - https://scholarlypublishingcollective.org/sblpress/jbl/article-abstract/136/3/707/179289
+PY  - 2017///
+AB  - … ; Paul casually shakes off his viper into a fire. Philoctetes must … fire; Paul casually shakes off his viper into a fire. Philoctetes … Other heroes are usually chosen for comparison. Dennis R. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 7 cites: https://scholar.google.com/scholar?cites=11039094398108550102&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 7
+ER  - 
+
+TY  - JOUR
+AU  - Januario, LB
+AU  - França, DB
+AU  - Moreira, RFC
+AU  - Oliveira, AB
+TI  - Comparison of muscle activity from upper trapezius and wrist extensors between dominant and non-dominant upper limbs during computer-based tasks
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-182800
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-182800
+PY  - 2018///
+AB  - … The MVC for the UT was performed with the shoulders flexed at 90 of to the frontal plane … The MVC for the WE was performed with the forearms on a flat surface with elbow flexed at 90 …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 7 cites: https://scholar.google.com/scholar?cites=4716076791698201022&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 7
+ER  - 
+
+TY  - PDF
+AU  - Lanz, M
+TI  - MUHAMMAD OMAIR FATIMI COMPARISON OF MOBILE AND NATIVE TECHNOLOGIES FOR MOBILE MES APPLICATIONS
+PB  - trepo.tuni.fi
+UR  - https://trepo.tuni.fi/bitstream/handle/123456789/24100/fatimi.pdf?sequence=3
+UR  - https://trepo.tuni.fi/bitstream/handle/123456789/24100/fatimi.pdf?sequence=3
+PY  - 2016///
+AB  - … of Android, iOS, and … MVC (Model-View-Controller) architecture to the website [33]. This is in contrast to the traditional implementation of MVC architecture like Spring MVC, where MVC …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Kim, CY
+AU  - Choi, JD
+TI  - Comparison between ankle proprioception measurements and postural sway test for evaluating ankle instability in subjects with functional ankle instability
+JF  - Journal of back and musculoskeletal …
+PB  - journals.sagepub.com
+DO  - 10.3233/BMR-150603
+UR  - https://journals.sagepub.com/doi/abs/10.3233/BMR-150603
+UR  - https://www.researchgate.net/profile/Chang-Yong-Kim/publication/271509006_Comparison_between_ankle_proprioception_measurements_and_postural_sway_test_for_evaluating_ankle_instability_in_subjects_with_functional_ankle_instability/links/55b24d3f08ae092e96504d48/Comparison-between-ankle-proprioception-measurements-and-postural-sway-test-for-evaluating-ankle-instability-in-subjects-with-functional-ankle-instability.pdf
+PY  - 2016///
+AB  - … 0.1 N as the subjects’ MVC. After MVC was performed, the initial force was counterbalanced for each subject. The position of the subject was identical to the MVC testing. Subjects were …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 37 cites: https://scholar.google.com/scholar?cites=14331116407333963014&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 37
+ER  - 
+
+TY  - JOUR
+AU  - Sekine, C
+AU  - Yamamoto, M
+AU  - ...
+TI  - Comparison of trunk muscle activity during lumbar stabilization exercises on stable and unstable surfaces
+JF  - Journal of Back and …
+PB  - journals.sagepub.com
+DO  - 10.3233/BMR-230297
+UR  - https://journals.sagepub.com/doi/abs/10.3233/BMR-230297
+PY  - 2024///
+AB  - … participant practiced each MVC to learn the position and measurement methods prior to the MVC test. … as a percentage of the RMS obtained during a 1 s period in the MVC test (%MVC). …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 6 cites: https://scholar.google.com/scholar?cites=6267929163533863707&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 6
+ER  - 
+
+TY  - JOUR
+AU  - Tiwari, SP
+AU  - Phonsa, G
+AU  - Singh, P
+TI  - Study and Comparative analysis of Donation based websites
+JF  - 2021 International Conference …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9784656/
+PY  - 2021///
+AB  - This paper is a comparative study depicting the difference between our model of a donation website and the websites that are currently functioning in this field. We firstly introduce the …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=620711559777332407&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - JOUR
+AU  - Karitis, K
+AU  - Zoulias, E
+AU  - Mantas, J
+TI  - Evolution of Health Information Systems for Telemedical Maritime Assistance Services: A Comparative Analysis of Low-Code, Monolithic, and Decoupled Architectures …
+JF  - Health Sciences Informatics …
+PB  - journals.sagepub.com
+DO  - 10.3233/SHTI260907
+UR  - https://journals.sagepub.com/doi/abs/10.3233/SHTI260907
+UR  - https://journals.sagepub.com/doi/full/10.3233/SHTI260907
+PY  - 2026///
+AB  - … The primary purpose of this article is to provide an in-depth comparative evaluation of three … For comparison, the AI helped create two distinct architectural patterns: a Monolithic MVC …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Kong, YK
+AU  - Shim, HH
+AU  - Son, S
+AU  - Lee, S
+AU  - Lee, SK
+AU  - Keum, H
+TI  - Comparative analysis of lumbar load across delivery truck designs during loading and unloading tasks
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.1177/10519815261432075
+UR  - https://journals.sagepub.com/doi/abs/10.1177/10519815261432075
+PY  - 2026///
+AB  - … For each 5-s contraction, the maximum amplitude within a 2-s window was taken as the MVC, … to %MVC. The 50th and 90th percentiles of normalized %MVC served as primary metrics. …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Park, DJ
+AU  - Park, SY
+TI  - Which trunk exercise most effectively activates abdominal muscles? A comparative study of plank and isometric bilateral leg raise exercises
+JF  - Journal of back and musculoskeletal …
+PB  - journals.sagepub.com
+DO  - 10.3233/BMR-181122
+UR  - https://journals.sagepub.com/doi/abs/10.3233/BMR-181122
+PY  - 2019///
+AB  - … than 45% of MVC in the RA and the IO muscles. It was suggested that exercise progression included modified bilateral leg raise as level 5 exercise, which the %MVC value of the IO and …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 34 cites: https://scholar.google.com/scholar?cites=10769413435362818754&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 34
+ER  - 
+
+TY  - BOOK
+AU  - Hage, B
+TI  - Analysis and Comparison of Multiple Approaches for Software Development Management as Applied to a Design Studio Project
+PB  - digitalcommons.unl.edu
+UR  - https://digitalcommons.unl.edu/honorstheses/103/
+UR  - https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1092&context=honorstheses
+PY  - 2019///
+AB  - … Appendix B Software Solutions This section provides an overview of the MVP software … one of our developers had any iOS development experience, so it was decided not to pursue it. …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Wang, L
+AU  - Czedik-Eysenberg, A
+AU  - Mertz, RA
+AU  - Si, Y
+AU  - ...
+TI  - Comparative analyses of C4 and C3 photosynthesis in developing leaves of maize and rice
+JF  - Nature …
+PB  - nature.com
+UR  - https://www.nature.com/articles/nbt.3019
+UR  - https://www.academia.edu/download/47094963/Comparative_analyses_of_C4_and_C3_photos20160707-30300-1hjws5m.pdf
+PY  - 2014///
+AB  - … for validation were grown independently using the same conditions as previously described: the soil used for both maize and rice was a mix of 75% Metro 360 and 25% Turface MVP. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 327 cites: https://scholar.google.com/scholar?cites=11362283088762608056&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 327
+ER  - 
+
+TY  - PDF
+AU  - Larsson, M
+AU  - Stigelid, M
+TI  - Energy efficient data synchronization in mobile applications. A comparison between different data synchronization techniques
+PB  - odr.chalmers.se
+UR  - https://odr.chalmers.se/bitstreams/e719a0b0-0f60-46b8-a96c-d74643eceac0/download
+UR  - https://odr.chalmers.se/bitstreams/e719a0b0-0f60-46b8-a96c-d74643eceac0/download
+PY  - 2015///
+AB  - … To develop a mobile application for an iOS supported device the iOS SDK is required, … -View-ViewModel (MVVM) pattern, which is derived from MVC. MVVM is focused on separating …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17859560395708128745&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 2
+ER  - 
+
+TY  - JOUR
+AU  - Kurokawa, Y
+AU  - Kato, S
+AU  - Demura, S
+AU  - ...
+TI  - Validation and comparison of trunk muscle activities in male participants during exercise using an innovative device and abdominal bracing maneuvers
+JF  - Journal of Back and …
+PB  - journals.sagepub.com
+DO  - 10.3233/BMR-210001
+UR  - https://journals.sagepub.com/doi/abs/10.3233/BMR-210001
+PY  - 2022///
+AB  - … maximum voluntary contraction (MVC) the surface EMG … In the MVC task, the peak amplitude of the EMG (EMGmax) … during the MVC for the corresponding muscle (% EMGmax). …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=2851153821735009376&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 5
+ER  - 
+
+TY  - JOUR
+AU  - Choi, CW
+AU  - Koo, JW
+AU  - Jeong, YG
+TI  - An electromyographical comparison of torso muscle activity and ratio during modified side bridge exercises
+JF  - Journal of Back and …
+PB  - journals.sagepub.com
+DO  - 10.3233/BMR-220380
+UR  - https://journals.sagepub.com/doi/abs/10.3233/BMR-220380
+UR  - https://www.researchgate.net/profile/Chi-Whan-Choi/publication/372305611_An_electromyographical_comparison_of_torso_muscle_activity_and_ratio_during_modified_side_bridge_exercises/links/657885076610947889bdc4eb/An-electromyographical-comparison-of-torso-muscle-activity-and-ratio-during-modified-side-bridge-exercises.pdf
+PY  - 2023///
+AB  - … the MVC maneuvers [16, 17, 19]. After a period of adaptation, each participant performed 3 MVC… were expressed as a percentage of the average MVC (%MVC) [17]. The difference in the …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 3 cites: https://scholar.google.com/scholar?cites=6218691973986679938&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 3
+ER  - 
+
+TY  - BOOK
+AU  - Ðuric, Z
+TI  - Comparative Analysis of Server-Side Rendering: React vs. Next. js
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/885455
+UR  - https://www.theseus.fi/bitstream/handle/10024/885455/Duric_Zoran.pdf?sequence=2
+PY  - 2025///
+AB  - … method to organize code through its lightweight MVC-like framework, establishing a significant … includes other environments such as shells or native platforms like iOS and Android. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8483602872304196575&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Choung, SD
+AU  - Park, KN
+AU  - Kim, SH
+AU  - Kwon, OY
+TI  - Comparison of muscle activity of wrist extensors and kinematics of wrist joint during wrist extension in automobile assembly line workers with and without lateral …
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-162380
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-162380
+PY  - 2016///
+AB  - … ) and was also greater than that of the ECR at 20% MVC in patients with … MVC. In the present study, because pain was provoked when workers with LE performed wrist extension at MVC…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 6 cites: https://scholar.google.com/scholar?cites=17544233572503714380&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 6
+ER  - 
+
+TY  - JOUR
+AU  - Sekine, C
+AU  - Hayashi, H
+AU  - Hirabayashi, R
+AU  - ...
+TI  - Comparison of trunk muscle activity while lifting objects of expected and unexpected weight with and without low back pain
+JF  - Isokinetics and …
+PB  - journals.sagepub.com
+DO  - 10.3233/IES-230044
+UR  - https://journals.sagepub.com/doi/abs/10.3233/IES-230044
+PY  - 2024///
+AB  - … practiced each MVC to learn the position and measurement methods prior to the MVC test. … as a percentage of the highest RMS obtained during a 1s period in the MVC test (%MVC). …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17340649896216684770&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 2
+ER  - 
+
+TY  - HTML
+AU  - Trò, R
+AU  - Orecchia, A
+AU  - Disma, N
+AU  - Uva, P
+AU  - ...
+TI  - Comparison of Analgesia Methods Through a Web Platform in Patients Undergoing Thoracic Surgery: Pilot Design, Implementation, and Validation Study
+JF  - JMIR Formative …
+PB  - formative.jmir.org
+UR  - https://formative.jmir.org/2024/1/e56674/
+UR  - https://formative.jmir.org/2024/1/e56674/
+PY  - 2024///
+AB  - … Specifically, this work is aimed at introducing a valuable tool for a comprehensive and quantitative comparison of the 2 analgesia strategies. The tool is a web and mobile app designed …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1792849975429976227&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 2
+ER  - 
+
+TY  - BOOK
+AU  - Mahmud, N
+AU  - Kor, AL
+AU  - Jawad, N
+TI  - A Comparative Study on the Energy Consumption of Four Prominent Node. js Frameworks
+PB  - figshare.leedsbeckett.ac.uk
+UR  - https://figshare.leedsbeckett.ac.uk/articles/conference_contribution/A_Comparative_Study_on_the_Energy_Consumption_of_Four_Prominent_Node_js_Frameworks/29099900?backTo=/collections/7829621/7829621
+UR  - https://figshare.leedsbeckett.ac.uk/articles/conference_contribution/A_Comparative_Study_on_the_Energy_Consumption_of_Four_Prominent_Node_js_Frameworks/29099900/1/files/54647528.pdf
+PY  - 2023///
+AB  - … In this report, A comparative study between 4 NodeJS frameworks and their energy … Some other Operating systems like Ubuntu and IOS can be chosen to run the experiments …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Babski-Reeves, K
+AU  - Calhoun, A
+TI  - Muscle activity and posture differences in the sit and stand phases of sit-to-stand workstation use: a comparison of computer configurations
+JF  - IIE Transactions on Occupational …
+PB  - Taylor &Francis
+DO  - 10.1080/21577323.2016.1226991
+UR  - https://www.tandfonline.com/doi/abs/10.1080/21577323.2016.1226991
+PY  - 2016///
+AB  - … Muscle specific maximum voluntary contraction (MVC) values were collected immediately fol… For all MVC procedures, the left and right sides were assessed simultaneously. A minimum …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 15 cites: https://scholar.google.com/scholar?cites=5780002461893952927&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 15
+ER  - 
+
+TY  - JOUR
+AU  - White, ML
+AU  - Zinkan, JL
+AU  - Smith, G
+AU  - Peterson, DT
+AU  - ...
+TI  - Comparison of recidivism rates for a teenage trauma prevention program after the addition of high-fidelity patient simulation
+JF  - Traffic injury …
+PB  - Taylor &Francis
+DO  - 10.1080/15389588.2017.1407925
+UR  - https://www.tandfonline.com/doi/abs/10.1080/15389588.2017.1407925
+PY  - 2018///
+AB  - … MVC deaths among high-risk teenagers by presenting and discussing consequences of reckless driving through a forum for interaction among health care professionals, MVC … iOS®…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11352798367977979305&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - BOOK
+AU  - Gurung, B
+TI  - A comparative analysis of create-react-app (CRA) and Vite for React. js projects
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/860241
+UR  - https://www.theseus.fi/bitstream/handle/10024/860241/Gurung_Bhabishya.pdf?sequence=2
+PY  - 2024///
+AB  - … The framework uses a model-view-view model (MVVM) that … with model-view-controller (MVC) architecture. Ember.js … mobile applications for both iOS and Android platforms using …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Wang, L
+AU  - Gong, J
+AU  - Zhang, Y
+AU  - Liu, T
+AU  - Gao, J
+TI  - FPScreen: A Rapid Similarity Search Tool for Massive Molecular Library Based on Molecular Fingerprint Comparison
+JF  - arXiv preprint arXiv:1906.06170
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/1906.06170
+UR  - https://arxiv.org/pdf/1906.06170
+PY  - 2019///
+AB  - … Web server, and the system is developed in ASP.NET MVC [11] framework. We use the most … It can provide services for Web, iOS and Android through a unified interface. The front-end …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Åkesson, T
+AU  - Horntvedt, R
+TI  - Java, Python and Javascript, a comparison
+PB  - researchportal.hkr.se
+UR  - https://researchportal.hkr.se/files/35167753/FULLTEXT01.pdf
+UR  - https://researchportal.hkr.se/files/35167753/FULLTEXT01.pdf
+PY  - 2019///
+AB  - … It is similar to the MVC (model view controller) but has some … both IOS and Android [101]. Python has the capability to develop cross platform applications [110] (which includes both IOS …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=10662817836177309555&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - CITATION
+AU  - Lund, N
+AU  - Wahlgren, F
+TI  - Improving the Ericsson Design System: A comparison of best practices in industry software and web development design systems
+PY  - 2022///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 4 cites: https://scholar.google.com/scholar?cites=2626049332688751551&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 4
+ER  - 
+
+TY  - BOOK
+AU  - Rahman, S
+TI  - Comparative analysis about the challenges and implications of IoT development methodologies
+PB  - lutpub.lut.fi
+UR  - https://lutpub.lut.fi/handle/10024/157174
+UR  - https://lutpub.lut.fi/bitstream/handle/10024/157174/Master's_Thesis_Rahman_Saidur.pdf?sequence=1&isAllowed=y
+PY  - 2018///
+AB  - … -response, notify) and different platforms (Android, IOS, Linux, micro-controller with no operating … validation and identification of MVP(Minimum Viable Product) requirements for projects. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13209187168862498269&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - JOUR
+AU  - Mehmet, K
+TI  - Comparison of single and multiple joint muscle functions and neural drive of trained athletes and untrained individuals
+JF  - Isokinetics and Exercise Science
+PB  - journals.sagepub.com
+DO  - 10.3233/IES-203225
+UR  - https://journals.sagepub.com/doi/abs/10.3233/IES-203225
+UR  - https://www.researchgate.net/profile/Mehmet-Kale/publication/348611914_Comparison_of_single_and_multiple_joint_muscle_functions_and_neural_drive_of_trained_athletes_and_untrained_individuals/links/6936797d9aa6b4649dbe3031/Comparison-of-single-and-multiple-joint-muscle-functions-and-neural-drive-of-trained-athletes-and-untrained-individuals.pdf
+PY  - 2021///
+AB  - … -minute warm up of submaximal contractions before three isometric MVC’s separated by ⩾ 30 s rest… peak voluntary force obtained during any MVC. The difference between baseline and …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 7 cites: https://scholar.google.com/scholar?cites=12569294457845495828&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 7
+ER  - 
+
+TY  - HTML
+AU  - Reinhartz-Berger, I
+AU  - Snoeck, M
+TI  - Software comprehension in code-centric and model-driven settings: an experimental comparison of models and code
+JF  - Software And Systems Modeling
+PB  - Springer
+DO  - 10.1007/s10270-026-01409-2
+UR  - https://link.springer.com/article/10.1007/s10270-026-01409-2
+UR  - https://link.springer.com/article/10.1007/s10270-026-01409-2
+PY  - 2026///
+AB  - … These results call for additional experiments with more intricate scenarios. Moreover, the significantly longer time required by the model group to answer the behavior-related questions, …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Jiang, S
+AU  - Koppel, J
+AU  - Coblenz, M
+TI  - Questions Before Answers? A Comparison of Codebase Chatbots and Tutorials for Codebase Learning
+PB  - kilthub.cmu.edu
+UR  - https://kilthub.cmu.edu/ndownloader/files/56608706
+UR  - https://kilthub.cmu.edu/ndownloader/files/56608706
+PY  - 2025///
+AB  - … As P7 suggested, "I think it was very good with the instruction I got that explained the kind of MVC model in Django helped me." However, several participants also suggested that the …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1015680090749670351&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - HTML
+AU  - Herranz, M
+AU  - Boyle, MJ
+AU  - Pardos, F
+AU  - Neves, RC
+TI  - Comparative myoanatomy of Echinoderes (Kinorhyncha): a comprehensive investigation by CLSM and 3D reconstruction
+JF  - Frontiers in Zoology
+PB  - Springer
+DO  - 10.1186/1742-9994-11-31
+UR  - https://link.springer.com/article/10.1186/1742-9994-11-31
+UR  - https://link.springer.com/article/10.1186/1742-9994-11-31
+PY  - 2014///
+AB  - … Myoanatomy of Echinoderes A comparison among the five species of Echinoderes in this study reveals a similar pattern of myoanatomy, regardless of detectable differences in external …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 37 cites: https://scholar.google.com/scholar?cites=8093503320615639961&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 37
+ER  - 
+
+TY  - JOUR
+AU  - Kim, JS
+AU  - Moon, DC
+TI  - A comparison of selective muscle activity in the abductor hallucis between flat feet and normal feet during single mini-squat exercise
+JF  - Isokinetics and Exercise Science
+PB  - journals.sagepub.com
+DO  - 10.3233/IES-203202
+UR  - https://journals.sagepub.com/doi/abs/10.3233/IES-203202
+PY  - 2021///
+AB  - … differences in all variables upon inter-gender comparison within each group ( p >0.05) (… ± 22.36 %MVC) was significantly lower than that in normal footed group (92.89 ± 38.17 %MVC) ( …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 9 cites: https://scholar.google.com/scholar?cites=6094108410687388116&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 9
+ER  - 
+
+TY  - BOOK
+AU  - Yazdankhah, E
+TI  - Comparative Analysis of Backend-as-a-Service Solutions for React Native Mobile Applications: Firebase vs Supabase
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908059
+UR  - https://www.theseus.fi/bitstream/handle/10024/908059/Yazdankhah-Emad.pdf?sequence=2
+PY  - 2025///
+AB  - … This thesis aims to provide a systematic comparison of … Firebase and Supabase were selected for this comparison based on their … This pairing enables meaningful comparison between …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - DOC
+AU  - Bureš, V
+TI  - Comparative analysis of system dynamics software packages
+JF  - International Review on Modelling and Simulations
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Vladimir-Bures/publication/279242346_Comparative_Analysis_of_System_Dynamics_Software_Packages/links/56975f2f08ae1c4279044926/Comparative-Analysis-of-System-Dynamics-Software-Packages
+UR  - https://www.researchgate.net/profile/Vladimir-Bures/publication/279242346_Comparative_Analysis_of_System_Dynamics_Software_Packages/links/56975f2f08ae1c4279044926/Comparative-Analysis-of-System-Dynamics-Software-Packages
+PY  - 2015///
+AB  - … Although the aim of this study is to create a comparison of system dynamics modeling tools, multiple evaluations with representatives of various user groups would be a valuable …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 32 cites: https://scholar.google.com/scholar?cites=7517601704629926318&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 32
+ER  - 
+
+TY  - JOUR
+AU  - Connors, C
+AU  - Sarkar, D
+TI  - Comparative study of blockchain development platforms: features and applications
+JF  - arXiv preprint arXiv:2210.01913
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2210.01913
+UR  - https://arxiv.org/pdf/2210.01913
+PY  - 2022///
+AB  - Many developers have ideas to create blockchain applications but do not know where to begin. Often these developers default to using the first blockchain development platform they …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 14 cites: https://scholar.google.com/scholar?cites=12774390603089495480&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 14
+ER  - 
+
+TY  - PDF
+AU  - Torres, JR De
+AU  - Jasmin, RE
+AU  - Lacanilao, MP
+AU  - Roxas, JR
+AU  - ...
+TI  - A Template-based Guide to Quick Learning and Comparison of Programming Languages
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Johan-Rickardo-Roxas/publication/411705996_A_Template-based_Guide_to_Quick_Learning_and_Comparison_of_Programming_Languages/links/6a741b80ef3d2909799a4f2b/A-Template-based-Guide-to-Quick-Learning-and-Comparison-of-Programming-Languages.pdf
+UR  - https://www.researchgate.net/profile/Johan-Rickardo-Roxas/publication/411705996_A_Template-based_Guide_to_Quick_Learning_and_Comparison_of_Programming_Languages/links/6a741b80ef3d2909799a4f2b/A-Template-based-Guide-to-Quick-Learning-and-Comparison-of-Programming-Languages.pdf
+PY  - 2025///
+AB  - … The adoption of the Model-View-Controller (MVC) architectural pattern provided structure and … as these frameworks can be deployed for the desktop, iOS, and Android environments. …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Medvedeva, E
+TI  - Performance comparison of jboss integration platform implementations
+PB  - is.muni.cz
+UR  - https://is.muni.cz/th/uhmjf/thesis.1_Archive.pdf
+UR  - https://is.muni.cz/th/uhmjf/thesis.1_Archive.pdf
+PY  - 2014///
+AB  - … Model-View-Controller (MVC) was created. In the variation of MVC JSP were used for presentation View… Thus, comparison of performance of another scenarios which use HTTP with the …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8158035926567815831&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 2
+ER  - 
+
+TY  - JOUR
+AU  - Sili, M
+AU  - Gira, M
+AU  - Müllner-Rieder, M
+AU  - Mayer, C
+TI  - Interaction model-based user interfaces: two approaches, one goal-comparison of two user interface generation approaches applying interaction models
+JF  - … for Ageing Well and e-Health
+PB  - Springer
+DO  - 10.1007/978-3-319-27695-3_11
+UR  - https://link.springer.com/chapter/10.1007/978-3-319-27695-3_11
+PY  - 2015///
+AB  - … Work in this area ranged from design patterns like the Model Viewer Controller (MVC) [3], over different GUI builders and interface toolkits, to methods for an automatic generation of …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 11 cites: https://scholar.google.com/scholar?cites=8235685614245533615&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 11
+ER  - 
+
+TY  - PDF
+AU  - Liao, C
+TI  - Enhancing Tag Recommendation in Software Q&A Forums: A Comparative Study of LDA and Doc2Vec Approaches
+PB  - thesis.eur.nl
+UR  - https://thesis.eur.nl/pub/67022/Final-version-thesis-Nicole-Liao-575586-.pdf
+UR  - https://thesis.eur.nl/pub/67022/Final-version-thesis-Nicole-Liao-575586-.pdf
+PY  - 2023///
+AB  - … ’ is closed to ‘android’, although xcode is more related to iOS. This means that the model has identified document similarities between iOS and Android, such as both being mobile …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Davíðsson, ÓA
+AU  - Davíðsson, ÞB
+AU  - Gunnarsson, GN
+TI  - Design and development of the SleepWell app and comparison to analog sleep diaries
+PB  - skemman.is
+UR  - https://skemman.is/handle/1946/39388
+UR  - https://skemman.is/bitstream/1946/39388/1/Design%20and%20Development%20of%20the%20SleepWell%20App%20and%20Comparison%20to%20Analog%20Sleep%20Diaries.pdf
+PY  - 2021///
+AB  - … Our team decided to develop an app for iOS and Android. An app … how the app is in comparison with a paper version and this … MVVM works in such a way that views are responsible for …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Gouta, L
+TI  - Comparative Evaluation of Servers and Libraries for Web Mapping Applications
+PB  - dspace.lib.ntua.gr
+UR  - https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/48071/ME_GOUTA.pdf?sequence=
+UR  - https://dspace.lib.ntua.gr/xmlui/bitstream/handle/123456789/48071/ME_GOUTA.pdf?sequence=
+PY  - 2018///
+AB  - … In the present thesis the analysis and comparison of two of the most basic parts of this system is attempted. In chapter 2, the term web mapping is briefly analyzed as well as its …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18291638863703558594&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - BOOK
+AU  - Pedrosa, BB
+TI  - Comparison of product development approaches by non-tech founders in tech ventures and its impact on market capitalisation, capital efficiency, revenue, and time-to …
+PB  - run.unl.pt
+UR  - https://run.unl.pt/entities/publication/a602a227-aeb5-46b0-b967-e6be8b8a5cc9
+UR  - https://run.unl.pt/bitstreams/4b943985-7821-4001-9bee-6607cc01bc27/download
+PY  - 2024///
+AB  - (s) This paper aims at analyzing how the different product development approaches followed by a non-tech founder impact success measures in a tech driven startup. For this, …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Lee, SY
+AU  - Park, SY
+TI  - Comparison among low intensity bridge exercises using suspension devices based on muscle activity and subjective difficulty
+JF  - Journal of Back and Musculoskeletal …
+PB  - journals.sagepub.com
+DO  - 10.3233/BMR-200057
+UR  - https://journals.sagepub.com/doi/abs/10.3233/BMR-200057
+PY  - 2022///
+AB  - … However, the present results demonstrate that the bridge type of exercise activated the muscles at about 30–40% MVC, except the rectus femoris [19]. Considering that 30% MVC is …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=6710930401679028880&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Moshayedi, AJ
+AU  - Roy, AS
+AU  - Ghorbani, H
+AU  - ...
+TI  - A novel IoT-enabled portable, secure automatic self-lecture attendance system: design, development and comparison
+JF  - International …
+PB  - inderscienceonline.com
+DO  - 10.1504/IJESDF.2024.142009
+UR  - https://www.inderscienceonline.com/doi/abs/10.1504/IJESDF.2024.142009
+PY  - 2024///
+AB  - … is mapped with an model-view-controller (MVC) architecture. The controller class has three … will extend its support to iOS devices. The comparative analysis reveals that SLAS …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 4 cites: https://scholar.google.com/scholar?cites=7096051616348706522&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 4
+ER  - 
+
+TY  - JOUR
+AU  - Pang, SC
+AU  - Iqbal, ZA
+AU  - Chow, DHK
+TI  - Comparison of muscle activity in school students while carrying backpacks and trolley bags
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-230628
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-230628
+PY  - 2024///
+AB  - … the percentage of maximum voluntary contraction (MVC%) of each muscle. The mean and standard deviations of maximum MVC% (PEMG) and mean MVC% (MEMG) were obtained for …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5710362534517120378&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - PDF
+AU  - Trò, R
+AU  - Orecchia, A
+AU  - Disma, N
+AU  - Uva, P
+AU  - Cavanna, R
+AU  - ...
+TI  - Comparison of analgesia methods for patients undergoing thoracic surgery via design, implementation and validation of a web platform: a pilot study
+JF  - s3.ca-central-1.amazonaws.com
+UR  - https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-56674-accepted.pdf
+UR  - https://s3.ca-central-1.amazonaws.com/assets.jmir.org/assets/preprints/preprint-56674-accepted.pdf
+AB  - This study presents the implementation of a web and mobile application within a clinical trial at Giannina Gaslini Children’s Hospital, aimed at simplifying questionnaire completion for …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Holovnia, O
+AU  - Falkovskyi, I
+TI  - COMPARATIVE ANALYSIS OF NETWORK TIME SYNCHRONIZATION EFFICIENCY IN A HYBRID MULTI-PLATFORM VIRTUALIZED ENVIRONMENT
+JF  - "Information Technology for Education …
+PB  - er.chdtu.edu.ua
+UR  - https://er.chdtu.edu.ua/bitstream/ChSTU/9957/1/Conference%20Book%20of%20Abstracts%20Layout%20_ITEST-2026.pdf#page=259
+UR  - https://er.chdtu.edu.ua/bitstream/ChSTU/9957/1/Conference%20Book%20of%20Abstracts%20Layout%20_ITEST-2026.pdf#page=259
+PY  - 2026///
+AB  - … The purpose of this research is to conduct a comparative analysis of Network Time Protocol (NTP) efficiency across various operating systems (OS) in a hybrid multi-platform virtualized …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Li, X
+AU  - Cao, Q
+TI  - A Comparative Study of Value in Agile Software Development Organizations
+PY  - 2017///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=7699835070519171399&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - PDF
+AU  - Park, S
+AU  - Choi, YH
+TI  - Three-Dimensional Visualization in Biological and Medical Research: A Comparative Analysis of Blender, Unity and Unreal Engine
+JF  - Journal of Young Investigators
+PB  - jyi.org
+UR  - https://www.jyi.org/s/202512-RA-Park-3D-Visualization.pdf
+UR  - https://www.jyi.org/s/202512-RA-Park-3D-Visualization.pdf
+PY  - 2025///
+AB  - … Table 2 provides a detailed comparison of Blender, Unity and Unreal Engine, focusing on their core features, rendering capabilities, system requirements, platform support, target …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3318211092778553439&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Zaway, I
+TI  - Hybrid FOPID and DL on EMG signals for gait phases classification to rehabilitation robot control: A comparative study
+JF  - Asian Journal of Control
+PB  - Wiley Online Library
+DO  - 10.1002/asjc.3768
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.3768
+PY  - 2026///
+AB  - … post-stroke and musculoskeletal rehabilitation scenarios. However, challenges such as inter-… EMG amplitudes are normalized to maximum voluntary contraction (MVC is a standardized …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=4190099657150108072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 1
+ER  - 
+
+TY  - JOUR
+AU  - Orlando, O
+AU  - Tanuwijaya, E
+TI  - Performance Comparison of CNN Models for Banana Ripeness Classification on Low-End Android
+JF  - bit-Tech
+PB  - jurnal.kdi.or.id
+UR  - https://jurnal.kdi.or.id/index.php/bt/article/view/3442
+UR  - https://jurnal.kdi.or.id/index.php/bt/article/download/3442/1942
+PY  - 2026///
+AB  - … Based on these gaps, this study seeks to contribute by presenting a comparative evaluation of three lightweight CNN architectures: MobileNetV1, EfficientNetB0, and NASNetMobile …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Eberhagen, SM
+TI  - Comparison of product development approaches by non-tech founders in tech ventures and its impact on market capitalisation, capital efficiency, revenue, and time-to …
+PB  - run.unl.pt
+UR  - https://run.unl.pt/entities/publication/69105cc5-cd10-44a5-9ed8-9a496b03d824
+UR  - https://run.unl.pt/bitstreams/02db25b4-ba32-4d18-a1f0-8d1450fddfce/download
+PY  - 2024///
+AB  - … So we've developed an iOS and Android app. So, I basically … To do that initial MVP I'm not saying we're going to end up … So building an MVP is what you took normally longer. This …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Ram, C
+AU  - Panwar, S
+TI  - Performance comparison of high efficiency video coding (HEVC) with H. 264 AVC
+JF  - … Conference on Signal-Image Technology & …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8334763/
+PY  - 2017///
+AB  - … It also includes implementation and in-depth comparison of video coding standards like High Efficiency Video Coding (HEVC) and H.264/MPEG-4 part 10 AVC. The analysis of video …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 8 cites: https://scholar.google.com/scholar?cites=12533156180419148538&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 8
+ER  - 
+
+TY  - HTML
+AU  - Saini, A
+TI  - Glovo vs Blinkit: Business Model Comparison for Startup Success
+JF  - Miracuves Solutions
+PB  - miracuves.com
+UR  - https://miracuves.com/blog/glovo-vs-blinkit-business-model/
+UR  - https://miracuves.com/blog/glovo-vs-blinkit-business-model/
+PY  - 2026///
+AB  - … For startup founders and app entrepreneurs, this comparison isn’t just academic—it’s strategic. Choosing the right business model for your delivery startup can shape everything from …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Braytee, A
+AU  - Gill, AQ
+AU  - Kennedy, PJ
+AU  - Hussain, FK
+TI  - A review and comparison of service e-contract architecture metamodels
+JF  - International Conference on …
+PB  - Springer
+DO  - 10.1007/978-3-319-26561-2_69
+UR  - https://link.springer.com/chapter/10.1007/978-3-319-26561-2_69
+UR  - https://opus.lib.uts.edu.au/bitstream/10453/43267/1/A%20Review%20and%20Comparison%20of%20Service%20E-Contract%20Architecture%20Metamodels%20-%20Camera%20Ready.pdf
+PY  - 2015///
+AB  - … This paper presents a review and comparison of well-known e-contract metamodels using the architecture theory. The architecture theory allows the analysis of the e-contract …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=4326933111653746311&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 5
+ER  - 
+
+TY  - BOOK
+AU  - Mihaylov, I
+TI  - Comparison of different design patterns for Single Page Applications using the example of a Chat and Ticket management system
+PB  - reposit.haw-hamburg.de
+UR  - https://reposit.haw-hamburg.de/handle/20.500.12738/8690
+UR  - https://reposit.haw-hamburg.de/bitstream/20.500.12738/8690/1/Ivan_Mihaylov_Thesis_Final.pdf
+PY  - 2019///
+AB  - … architecture making a comparison between two design … MVC approach is designed to separate the responsibilities horizontally, CBA splits them vertically. This means that in the MVC …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Heremans, S
+AU  - Orshoven, J Van
+TI  - Machine learning methods for sub-pixel land-cover classification in the spatially heterogeneous region of Flanders (Belgium): a multi-criteria comparison
+JF  - International Journal of Remote …
+PB  - Taylor &Francis
+DO  - 10.1080/01431161.2015.1054047
+UR  - https://www.tandfonline.com/doi/abs/10.1080/01431161.2015.1054047
+UR  - https://lirias.kuleuven.be/retrieve/b0d0fc11-0ec6-4dd8-8234-cad625a09cf1
+PY  - 2015///
+AB  - … These ranking scenarios correspond to different decision-… allows a valid relative comparison of the processing times … are reduced by the temporal CV-MVC step, as integrated into the …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 30 cites: https://scholar.google.com/scholar?cites=3608219727335116664&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 30
+ER  - 
+
+TY  - JOUR
+AU  - Bartkiewicz, M
+AU  - Dziedzic, A
+TI  - Comparative analysis of approches in developing Android applications using Xamarin technology
+JF  - Journal of Computer Sciences Institute
+PB  - ph.pollub.pl
+UR  - https://ph.pollub.pl/index.php/jcsi/article/view/703
+UR  - https://ph.pollub.pl/index.php/jcsi/article/download/703/525
+PY  - 2018///
+AB  - Article shows analysis of Xamarin technology in two modes: Xamarin Forms and Xamarin Native, used for developing applications for mobile devices with Android system. Comparison …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Nanda, P
+AU  - Gupta, A
+TI  - Social Media–Based Learning Platforms and the Pandemic: A Comparative Analysis
+JF  - Pandemics in the Age of Social Media
+PB  - api.taylorfrancis.com
+UR  - https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781003315278-9&type=chapterpdf
+PY  - 2023///
+AB  - … A comparative analysis has also been done to identify the features of prominent commercially available social media-based educational tools. Implications of these tools as a valuable …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=15488100536264562729&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Kim, K
+TI  - Comparison of application development frameworks
+PB  - theses.cz
+UR  - https://theses.cz/id/z6nm0i/
+UR  - https://theses.cz/id/z6nm0i/zaverecna_prace_Archive.pdf
+PY  - 2026///
+AB  - … For iOS, programming is carried out using Swift or Objective-C, … A single codebase is deployed across platforms such as iOS and … The framework is constructed on the MVC architecture, …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Dadiz, B
+TI  - Design and Implementation of Big Data and Analytics to Enhance Dynamic Price Comparison Analytics of an e-Commerce Enterprise Company in Australia
+PB  - uniselinus.co.uk
+UR  - https://uniselinus.co.uk/sites/default/files/2025-01/Bryan%20Dadiz.pdf
+UR  - https://uniselinus.co.uk/sites/default/files/2025-01/Bryan%20Dadiz.pdf
+PY  - 2024///
+AB  - … Mobile App Development: While the platform will be accessible through mobile browsers, the project will not involve the development of dedicated mobile apps for iOS or Android …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Lee, DG
+AU  - Yu, SJ
+AU  - Song, SH
+AU  - Lee, SH
+AU  - An, SH
+AU  - Cho, H
+AU  - ...
+TI  - Comparison of trunk electromyographic muscle activity depends on sitting postures
+JF  - Work
+PB  - journals.sagepub.com
+DO  - 10.3233/WOR-172515
+UR  - https://journals.sagepub.com/doi/abs/10.3233/WOR-172515
+PY  - 2017///
+AB  - BACKGROUND: Different postural positions can be characterized by the activation and relative contributions of different postural muscles, and may variously contribute to the recovery …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 14 cites: https://scholar.google.com/scholar?cites=13398393680420964620&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 14
+ER  - 
+
+TY  - JOUR
+AU  - Ko, BW
+AU  - Bae, YH
+AU  - Yoon, BC
+AU  - ...
+TI  - Comparative analysis of lower limb muscle activity between a passive-control foot press trainer and heel raise exercises in young adult women: A preliminary study
+JF  - Isokinetics and Exercise …
+PB  - journals.sagepub.com
+DO  - 10.3233/IES-230157
+UR  - https://journals.sagepub.com/doi/abs/10.3233/IES-230157
+UR  - https://journals.sagepub.com/doi/full/10.3233/IES-230157
+PY  - 2025///
+AB  - … Participants performed maximal voluntary contraction (MVC) three times for each muscle before exercise. The MVC trials for each muscle were based on muscle testing using an …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Gupta, SD
+AU  - Al-Mahmud, I
+AU  - Osman, A
+AU  - Zaman, R
+AU  - Islam, F
+TI  - Fire brigade response enhancement using drone swarms: Comparative analysis and beyond
+PB  - dspace.bracu.ac.bd
+UR  - http://dspace.bracu.ac.bd/xmlui/handle/10361/26035
+UR  - https://dspace.bracu.ac.bd/xmlui/bitstream/handle/10361/26035/21101088,%2020201120,%2020201107,%2021101234,%2024141237_CSE.pdf?sequence=1
+PY  - 2025///
+AB  - … MVP using real drones to experiment with algorithms and operating modes developed. … of the drone swarm system used in firefighting scenarios. Using Reinforcement Learning, drones …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=2362791685994193970&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - Freymiller, GA
+AU  - Whitford, MD
+AU  - Schwaner, MJ
+AU  - ...
+TI  - Comparative analysis of Dipodomys species indicates that kangaroo rat hindlimb anatomy is adapted for rapid evasive leaping
+JF  - Journal of …
+PB  - Wiley Online Library
+DO  - 10.1111/joa.13567
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/joa.13567
+UR  - https://onlinelibrary.wiley.com/doi/pdf/10.1111/joa.13567
+PY  - 2022///
+AB  - … Additionally, the estimated scaling exponent for acceleration differed significantly from the expected value under isometry (b = −0.33) in the pooled species comparison, but not in any of …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 7 cites: https://scholar.google.com/scholar?cites=11937697167045592814&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 7
+ER  - 
+
+TY  - PDF
+AU  - Benmeziane, H
+TI  - Comparison of deep learning frameworks and compilers
+JF  - Master in Computer Science, École nationale …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Hadjer-Benmeziane/publication/343320122_Master_Thesis_-_Comparison_of_Deep_Learning_Frameworks_and_Compilers/links/5f22f86b299bf1340492ff51/Master-Thesis-Comparison-of-Deep-Learning-Frameworks-and-Compilers.pdf
+UR  - https://www.researchgate.net/profile/Hadjer-Benmeziane/publication/343320122_Master_Thesis_-_Comparison_of_Deep_Learning_Frameworks_and_Compilers/links/5f22f86b299bf1340492ff51/Master-Thesis-Comparison-of-Deep-Learning-Frameworks-and-Compilers.pdf
+PY  - 2020///
+AB  - … We will present a comparative study of deep learning frameworks (eg, Tensorflow, PyTorch, MXNet, Caffe2 and CNTK) and compilers (eg, TVM, Tiramisu, Glow and XLA). The compari…
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 18 cites: https://scholar.google.com/scholar?cites=13082625891236938941&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 18
+ER  - 
+
+TY  - JOUR
+AU  - Hwang, BH
+AU  - Jeon, IC
+TI  - Comparison of abductor hallucis muscle activity in subjects with mild hallux valgus during three different foot exercises
+JF  - Journal of Back and Musculoskeletal …
+PB  - journals.sagepub.com
+DO  - 10.3233/BMR-220252
+UR  - https://journals.sagepub.com/doi/abs/10.3233/BMR-220252
+PY  - 2024///
+AB  - … Table 1 Comparison of abductor hallucis activity among three different foot exercises ( N = 15) … Table 2 Comparison of hallux valgus angles among three different foot exercises ( N = 15) …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 12 cites: https://scholar.google.com/scholar?cites=15514139545781308828&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 12
+ER  - 
+
+TY  - BOOK
+AU  - Cavallo, S
+TI  - Visualizing Cybersecurity-a comparative study toward a security visualization methodology
+PB  - webthesis.biblio.polito.it
+UR  - https://webthesis.biblio.polito.it/27656/
+UR  - https://webthesis.biblio.polito.it/27656/1/tesi.pdf
+PY  - 2023///
+AB  - … to use Entity Framework Core in an ASP.NET Core MVC web application. For the first part of the … extracted from an Apple mobile device running iOS 14.5 and that the data extraction was …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1929149130806207860&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - PDF
+AU  - Hawkins-Stark, FS Hunter
+AU  - Abdel-Rahim, A
+AU  - Hall, M
+TI  - INTERNET OF THINGS (IOT) PLATFORMS FOR SMART CITY IMPLEMENTATION IN RURAL AND URBAN COMMUNITIES: A COMPARATIVE REVIEW
+JF  - digital.lib.washington.edu
+UR  - https://digital.lib.washington.edu/researchworks/bitstreams/00387854-7787-4171-a97c-b6748930ff38/download
+UR  - https://digital.lib.washington.edu/researchworks/bitstreams/00387854-7787-4171-a97c-b6748930ff38/download
+AB  - … Using agile development, the minimal viable product (MVP) was first delivered in December of twenty seventeen to the US Department of Transportation. With continual refinements and …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - PDF
+AU  - Mustafa, HMH
+AU  - Mohammed, A
+TI  - On Comparative study of two diversified Instructional Methodologies Considering Teaching How to Read Arabic Language Using Neural Networks' Modeling
+JF  - Effectiveness Of Bloom's Taxonomy In An …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/47932638/Conference-proceedings-SLC2016-final-3.pdf#page=305
+UR  - https://www.academia.edu/download/47932638/Conference-proceedings-SLC2016-final-3.pdf#page=305
+AB  - … The core of the system is patterned according to the Model-View-Controller (MVC) concept. Fig. 14 shows a graphical illustration of the MVC concept. The tasks of the three units are …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Cullen, I
+TI  - Design and Comparison of a Powered Back Exosuit for Lifting Tasks
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/84e4006b9a90b8b62becb89ff665d77e/1?pq-origsite=gscholar&cbl=18750&diss=y
+UR  - https://repository.gatech.edu/bitstreams/00250c29-1cf7-49cb-a2e4-d247e478331a/download
+PY  - 2022///
+AB  - … array GRF ground reaction force IMU inertial measurement unit IO internal oblique LBP lower back pain LD latissimus dorsi ML machine learning MMH manual materials handling MVC …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Wang, C
+TI  - A framework for analysis and comparison of deepfakes detection methods
+PB  - researchbank.ac.nz
+UR  - https://www.researchbank.ac.nz/items/e0fd5935-4121-42e7-8a97-69b13f189b24
+UR  - https://www.researchbank.ac.nz/bitstreams/2e2169ba-49a5-4230-af8c-ab66ccad160a/download
+PY  - 2021///
+AB  - … , this thesis provides analysis and comparison on the six Deepfakes detection methods of Two-… : 1) an analytical crosslibrary platform for comparison of Deepfakes detection methods; 2) …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Behun, L
+AU  - Smetana, M
+AU  - Capova, K
+TI  - Comparison of detection abilities between fluxgate and GMR magnetometer in inverse ECT of deep lying cracks
+JF  - 2018 ELEKTRO
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8398332/
+PY  - 2018///
+AB  - … The electromagnetic analysis is based on the magnetic vector potential formulation (MVP). The set of the above equations are usually solved by numerical means using the finite …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=9320223902031451263&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 5
+ER  - 
+
+TY  - HTML
+AU  - Mejia, S
+TI  - A term extractor for the World Meteorological Organization-a comparison of different systems
+PB  - academia.edu
+UR  - https://www.academia.edu/download/103585544/unige_104950_attachment01.pdf
+UR  - https://www.academia.edu/download/103585544/unige_104950_attachment01.pdf
+PY  - 2016///
+AB  - … 1 https://www.wmo.int/pages/about/index_en.html 2 METEOTERM: http://wmo.multicorpora.net/MultiTransWeb/Web.mvc -5- In Chapter 4 we describe the Language Services at the …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - JOUR
+AU  - Manan, HA
+AU  - Franz, EA
+AU  - Yahya, N
+TI  - The utilisation of resting‐state fMRI as a pre‐operative mapping tool in patients with brain tumours in comparison to task‐based fMRI and intraoperative mapping: A …
+JF  - European journal of cancer …
+PB  - Wiley Online Library
+DO  - 10.1111/ecc.13428
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/ecc.13428
+PY  - 2021///
+AB  - … Therefore, the present study aims to investigate the suitability and usefulness of rs- fMRI in comparison to T- fMRI and intraoperative mapping as a pre- operative mapping tool in …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 25 cites: https://scholar.google.com/scholar?cites=3940651786986923504&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 25
+ER  - 
+
+TY  - CITATION
+AU  - Khamrakulov, M
+TI  - Secure Delivery System: Traditional Approach and Comparison to the Blockchain Model
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3274780539259440723&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - BOOK
+AU  - Hanane, B
+AU  - Kenza, B
+TI  - Approche heuristique pour la dissimulation d'itemsets sensibles dans une base de données transactionnelle" Étude comparative entre deux heuristique"
+PB  - dspace.univ-bba.dz
+UR  - https://dspace.univ-bba.dz/items/58c80ce9-174e-4ec5-a27e-d9a960f97160
+UR  - https://dspace.univ-bba.dz/bitstreams/2baaab0b-67dd-47cc-8f02-7b4e295655eb/download
+PY  - 2023///
+AB  - … We are interested in this work on the study, the implementation and the comparison of two heuristic approaches for the resolution of the PPDM problem: The" Aggregate" approach, …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - HTML
+AU  - Peinado, G
+AU  - Carvalho, C
+AU  - Souza, E
+AU  - Jardini, AL
+AU  - ...
+TI  - … characterization of additively manufactured components of 18Ni300M steel with gas and water-atomized powders: a comparative study between aged PBF …
+JF  - … International Journal of …
+PB  - Springer
+DO  - 10.1007/s00170-026-17487-x
+UR  - https://link.springer.com/article/10.1007/s00170-026-17487-x
+UR  - https://link.springer.com/article/10.1007/s00170-026-17487-x
+PY  - 2026///
+AB  - … The mechanical properties of AB and AF states shown in Table 3 were initially presented in our previous publication [25] and are included here to facilitate comparison for the reader. In …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 2 cites: https://scholar.google.com/scholar?cites=18104897779815914496&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 2
+ER  - 
+
+TY  - BOOK
+AU  - Hewett, M
+AU  - Bennett, H
+AU  - Nayler, T
+AU  - Reyad, MAH
+TI  - The Commons Social Change Library: a comparative analysis of social change resource hubs
+PB  - espace.library.uq.edu.au
+UR  - https://espace.library.uq.edu.au/view/UQ:537ebc5
+UR  - https://espace.library.uq.edu.au/view/UQ:537ebc5/UQ537ebc5_OA.pdf
+PY  - 2024///
+AB  - … ’s hosting organisation to provide a comparison to those of the Library. The final Landscape Analysis Database (attached) allowed for a comparative assessment of the resource hubs’ …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - HTML
+AU  - Uemura, Y
+AU  - Ozaki, R
+AU  - Shinozaki, T
+AU  - Ohtsu, H
+AU  - ...
+TI  - Comparative effectiveness of tocilizumab vs standard care in patients with severe COVID-19-related pneumonia: a retrospective cohort study utilizing registry …
+JF  - BMC Infectious …
+PB  - Springer
+DO  - 10.1186/s12879-023-08840-6
+UR  - https://link.springer.com/article/10.1186/s12879-023-08840-6
+UR  - https://link.springer.com/article/10.1186/s12879-023-08840-6
+PY  - 2023///
+AB  - … Two pattern imputations for the censoring time, the best and worst scenarios for the tocilizumab group, were conducted. For the secondary objective, an inverse probability of censoring …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 5 cites: https://scholar.google.com/scholar?cites=3600276000096408735&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 5
+ER  - 
+
+TY  - HTML
+AU  - Lungu, CN
+AU  - Basak, SC
+AU  - Creteanu, A
+AU  - Putz, MV
+AU  - ...
+TI  - Human Endothelial Membrane as a Structural Prototype: A Comparative Analysis with Artemia salina Endothelial-like Cell
+JF  - International Journal of …
+PB  - mdpi.com
+UR  - https://www.mdpi.com/1422-0067/27/10/4602
+UR  - https://www.mdpi.com/1422-0067/27/10/4602
+PY  - 2026///
+AB  - … This study aims to delineate the comparative structural and chirality descriptors derived from molecular models to hypothesize their histological manifestations. Biological membranes …
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - BOOK
+AU  - Mete, BB
+TI  - Methodological comparison of convolutional neural networks and kolmogorov-arnold networks in melanoma detection
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/2945c4f83cc0aea85acb61b9fb59fb03/1?pq-origsite=gscholar&cbl=18750&diss=y
+PY  - 2025///
+AB  - … By providing a comparative evaluation, this study aims to identify whether KANs can meet or exceed the … in general, we summarize comparison of CNN and KAN models in the Table 1. …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9852170939447121354&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - PDF
+AU  - Franz, KW
+AU  - Romanowski, J
+AU  - Johst, K
+AU  - ...
+TI  - Porównawcza ocena programów analizy żywotności populacji (PVA) w rankingu scenariuszy przekształceń krajobrazu A comparative assessment of PVA …
+JF  - Polish Geographical …
+PB  - rcin.org.pl
+UR  - https://rcin.org.pl/igipz/Content/231904/WA51_268700_r2021-t93-z3_Przeg-Geogr-Franz.pdf
+UR  - https://rcin.org.pl/igipz/Content/231904/WA51_268700_r2021-t93-z3_Przeg-Geogr-Franz.pdf
+PY  - 2021///
+AB  - … For a more independent comparison we added VORTEX – another package that includes explicit population dynamics, similar to RAMAS. Additionally, we included the habitat model …
+M1  - Query date: 2026-09-24 01:17:14
+M1  - 1 cites: https://scholar.google.com/scholar?cites=17102539725771880162&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - CITATION
+AU  - Boiko, I
+TI  - COMPARATIVE ANALYSIS OF PERFORMANCE WEB-SUBSYSTEM MONO
+JF  - Тези доповідей
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+
+TY  - CITATION
+AU  - Darwesh, AR
+TI  - Comparison of Cross-platform Mobile Development Tools
+PB  - University of Kurdistan Hewler
+PY  - 2017///
+M1  - Query date: 2026-09-24 01:17:14
+ER  - 
+

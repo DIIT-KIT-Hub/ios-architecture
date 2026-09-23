@@ -1,0 +1,980 @@
+﻿TY  - PDF
+AU  - Sánchez, JN
+TI  - Modelo de Arquitectura de Software para Aplicaciones iOS basado en Clean Architecture
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+PY  - 2017///
+AB  - … The development of software for the iOS platform have … models for the development of iOS applications will be studied … to ensure the sustainability of an iOS software project. Finally, the …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Stulz, A
+AU  - Nierstrasz, O
+TI  - Assessing and Improving the Software Quality of an iOS App Framework
+PB  - scg.unibe.ch
+UR  - https://scg.unibe.ch/assets/archive/projects/Stul20a.pdf
+UR  - https://scg.unibe.ch/assets/archive/projects/Stul20a.pdf
+PY  - 2020///
+AB  - … We outlined the Clean Swift architecture, which serves to strongly separate classes and components using interfaces. We described our generic mechanism for updating data and …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Fadda, M
+TI  - An iOS Developer's Guide to SwiftUI: Design and build beautiful apps quickly and easily with minimum code
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=mer-EAAAQBAJ&oi=fnd&pg=PP1&dq=ios+%22clean+architecture%22%7C%22clean+swift%22%7C%22hexagonal+architecture%22%7C%22onion+architecture%22&ots=Cfl_W-Ld6p&sig=IwWgmsYkOjt72GmQBXLJockA9n4
+PY  - 2024///
+AB  - … Key topics include diagrams, dependency inversion, clean architecture, decoupling … running at least iOS 13. We suggest updating your device to iOS 17 or later to follow this book. …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 6 cites: https://scholar.google.com/scholar?cites=7167109337224422649&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 6
+ER  - 
+
+TY  - JOUR
+AU  - Bogomolova, MA
+AU  - ...
+TI  - TEST-DRIVEN DEVELOPMENT METHODOLOGY OF ARCHITECTURAL COMPONENTS FOR iOS MOBILE APP “THE MOSCOW SERVICES”
+JF  - Infokommunikacionnye …
+PB  - journals.eco-vector.com
+UR  - https://journals.eco-vector.com/2073-3909/article/view/56449
+UR  - https://journals.eco-vector.com/2073-3909/article/download/56449/39626
+PY  - 2019///
+AB  - … iOS «Госуслуги Москвы» через тестирование. Предложенная методика ориентирована на архитектуру приложения iOS «… с использованием архитектуры Clean Swift. …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Andika, MR
+AU  - Selviandro, N
+AU  - ...
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern
+JF  - 2023 3rd International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10428901/
+PY  - 2023///
+AB  - … based on the principles of Clean Architecture and is preferred for creating … of iOS applications organized using VIPER. This study uses an experimental framework to examine nine iOS …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12049607874919303211&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - MVVM, V
+TI  - iOS Architecture Patterns
+JF  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9069-9.pdf
+AB  - … Advantages of Applying a Clean Architecture The application of a Clean Architecture in our projects will give us a series of advantages (some of which we have already seen in the …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Habchi, S
+AU  - Hecht, G
+AU  - Rouvoy, R
+AU  - ...
+TI  - Code smells in ios apps: How do they compare to android?
+JF  - 2017 IEEE/ACM 4th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7972725/
+UR  - https://inria.hal.science/hal-01471294/file/Mobilesoft17-Habchi.pdf
+PY  - 2017///
+AB  - … iOS-specific code smells by analyzing 279 opensource iOS … to support the analysis of iOS apps developed in Objective-C … Clean swift ios architecture for fixing massive view controller. …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 52 cites: https://scholar.google.com/scholar?cites=13665448912969378869&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 52
+ER  - 
+
+TY  - JOUR
+AU  - Zahr, A
+AU  - Haidar, A
+AU  - Sliman, L
+TI  - Towards Actionable Guidelines for Advanced iOS Software Architecture
+JF  - Computer Science On-line Conference
+PB  - Springer
+DO  - 10.1007/978-3-032-04725-0_20
+UR  - https://link.springer.com/chapter/10.1007/978-3-032-04725-0_20
+PY  - 2025///
+AB  - … like the Model-View-Controller (MVC) architecture [11] to more contemporary works such as the review of iOS architectural patterns [8] and practical guidelines on Clean Architecture …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … design in modern iOS development. Although previous iOS applications were largely based … In its turn, VIPER is based on the principles of Clean Architecture and is aimed at imposing …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - … All of which are hallmarks of Clean Architecture. … iOS. He also maintains a blog in which he tries to explain everything he’s learned and studied about the world of mobile development. …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - PDF
+AU  - Nabushan, B
+AU  - Amalan, C
+AU  - Sharmila, K
+TI  - MEDICO-iOS Based Medical Application
+JF  - The International Journal of …
+PB  - theijire.com
+UR  - https://www.theijire.com/archiver/archives/medico_ios_based_medical_application.pdf
+UR  - https://www.theijire.com/archiver/archives/medico_ios_based_medical_application.pdf
+PY  - 2023///
+AB  - … A design principle known as "Clean Architecture" encourages the division … clean architecture. This article will examine the use of Clean Architecture by software developers to create iOS …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Furjan, K
+AU  - Kisić, F
+AU  - Bele, D
+TI  - Declarative iOS programming and architectural patterns
+JF  - Security Issues in Communication …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=TltQEQAAQBAJ&oi=fnd&pg=PA18&dq=ios+%22clean+architecture%22%7C%22clean+swift%22%7C%22hexagonal+architecture%22%7C%22onion+architecture%22&ots=WFN_EUFaf3&sig=H2F_nIpuBycUmK7RZfXDpMWwPzo
+PY  - 2025///
+AB  - … VIPER is a structure within Clean Architecture tailored for iOS applications. Clean Architecture divides an application's logical framework into distinct layers of responsibility, aiding in …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1369001407168491116&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - BOOK
+AU  - Phan, DH
+TI  - Benchmarking Common Architectural Patterns in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/167317
+UR  - https://www.theseus.fi/bitstream/handle/10024/167317/Hai_Phan.pdf?sequence=2
+PY  - 2019///
+AB  - … architectural patterns used in iOS development, namely Model-… The final product of this thesis is an iOS music application … iPhone Operating System (iOS) application and their extensive …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 4 cites: https://scholar.google.com/scholar?cites=14854737299071308674&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - HTML
+AU  - Daniil, N
+TI  - Performance and fault tolerance of iOS applications: optimization strategies at the architectural and UI thread levels
+JF  - Холодная наука
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/performance-and-fault-tolerance-of-ios-applications-optimization-strategies-at-the-architectural-and-ui-thread-levels
+UR  - https://cyberleninka.ru/article/n/performance-and-fault-tolerance-of-ios-applications-optimization-strategies-at-the-architectural-and-ui-thread-levels
+PY  - 2025///
+AB  - … This principle is particularly important in modular architectures such as Clean Architecture or VIPER, where one module's failure should not affect the stability of the others. …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18015023012227858328&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Magalhães, ÍL
+TI  - Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS
+JF  - Universidade Federal da Paraíba
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17153232554652434851&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - BOOK
+AU  - Горбунова, НА
+AU  - Фрицлер, НЮ
+TI  - Архитектурные подходы к разработке мобильных приложений для Android и iOS платформ
+PB  - elib.belstu.by
+UR  - https://elib.belstu.by/handle/123456789/73746
+UR  - https://elib.belstu.by/bitstream/123456789/73746/1/%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5.pdf
+PY  - 2025///
+AB  - … для платформ Android и iOS – одна из ключевых задач … архитектур, таких как Clean Architecture, где каждый слой … основных платформах (Android и iOS), архитектура должна …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Magics-Verkman, H
+AU  - Zmaranda, DR
+AU  - ...
+TI  - A comparison of architectural patterns for testability and performance quality for iOS mobile applications development
+JF  - … on Engineering of …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10171619/
+PY  - 2023///
+AB  - … MVVM, Viper and Clean architecture approaches; a performance … [5] approaches several architectural patterns used for iOS … can be used for development on iOS: two classical patterns, …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 13 cites: https://scholar.google.com/scholar?cites=3197959365046203255&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 13
+ER  - 
+
+TY  - BOOK
+AU  - Holopainen, N
+TI  - Reactive iOS Development with RxSwift
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/704093
+UR  - https://www.theseus.fi/bitstream/handle/10024/704093/holopainen_niko.pdf
+PY  - 2022///
+AB  - … concepts of reactive programming in iOS development. This study also proposes … iOS applications. In addition, the study offers an alternative way of building user interfaces without iOS …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12814390951475180798&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - PDF
+AU  - Skýpala, BT
+TI  - Smart University iOS application
+JF  - is.muni.cz
+UR  - https://is.muni.cz/th/iyyyx/thesis_Archive.pdf
+UR  - https://is.muni.cz/th/iyyyx/thesis_Archive.pdf
+AB  - … additional specifics of native iOS mobile development. Resulting … The primary significance of iOS is the simplicity of the user … iOS devices, supporting the whole device lineup with an iOS …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Souza, AAB
+TI  - Análise comparativa de arquiteturas mobile para aplicações iOS: MVC, MVVM e VIP-C
+PY  - 2026///
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Martan, D
+TI  - Primjena paradigme čiste arhitekture pri razvoju mobilnih aplikacija za iOS
+PB  - repozitorij.foi.unizg.hr
+UR  - https://repozitorij.foi.unizg.hr/object/foi:7433
+UR  - https://repozitorij.foi.unizg.hr/object/foi:7433/FILE0/download
+PY  - 2022///
+AB  - … Glavni dio literature je knjiga RC Martina „Clean Architecture“ s obzirom na to da autor u toj knjizi predstavlja čistu arhitekturu koja je tema ovog rada. Uz to, korišteni su i ostali izvori (…
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Amores, PC
+TI  - A real case of a cognitive multiplayer game: design and development of the iOS client in Swift and its cloud architecture
+PB  - oa.upm.es
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+PY  - 2015///
+AB  - Finally, the mobile iOS client developed using the latest and more relevant technologies is explained paying special attention to Swift (Apple’s new programming language, that is safe …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Pavesi, A
+TI  - Design and implementation of a Reinforcement Learning framework for iOS devices
+JF  - amslaurea.unibo.it
+UR  - https://amslaurea.unibo.it/id/eprint/25811/
+UR  - https://amslaurea.unibo.it/id/eprint/25811/1/AlessandroPavesiMasterThesis.pdf
+AB  - … I want to point out that this study is about iOS devices, but the package is built and developed to be used on all the devices that support Swift. This means that my package could be the …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Sánchez, J Nieto
+TI  - Modelo de arquitectura de software para aplicaciones iOS basado en clean architecture
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/dspace/handle/2445/120321
+PY  - 2017///
+AB  - [en] The development of software for the iOS platform have … for the development of iOS applications will be studied and … to ensure the sustainability of an iOS software project. Finally, the …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13677837253963742438&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - CITATION
+AU  - Mobile, M
+TI  - Meet VIPER: Mutual Mobile's Application of Clean Architecture for iOS Apps
+JF  - Last modified September
+PY  - 2014///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 4 cites: https://scholar.google.com/scholar?cites=16398427595908749791&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 4
+ER  - 
+
+TY  - CITATION
+AU  - Castro, AM
+TI  - Clean architecture en ios: Viper
+JF  - enero de
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9953574174069485834&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - BOOK
+AU  - Ковалёв, ДА
+TI  - Проектирование и разработка системы менторинга сотрудников компании для ОС iOS: магистерская диссертация
+PB  - elar.urfu.ru
+UR  - https://elar.urfu.ru/handle/10995/140292
+UR  - https://elar.urfu.ru/bitstream/10995/140292/1/m_th_d.a.kovalev_2024.pdf
+PY  - 2024///
+AB  - … При выборе Clean Swift в качестве архитектуры модулей приложения следует понимать, что данная архитектура хоть и обладает хорошо разделенной ответственностью …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Kudinov, O
+TI  - Clean architecture and mvvm on ios
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=13935169208318250094&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - JOUR
+AU  - Kusuma, PAD
+AU  - Widiartha, IM
+AU  - ...
+TI  - Find Your Way: An IOS-Based Travel Planning Application with Route Optimization Using Agile Methodology
+JF  - Asian Journal of …
+PB  - hal.science
+UR  - https://hal.science/hal-05118107/
+PY  - 2025///
+AB  - … Aims: This study aimed to develop Find Your Way, an iOS-based travel planning application … of the application using Swift and MVVM Clean Architecture. The core features developed …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Raymond, L
+TI  - Clean swift ios architecture for fixing massive view controller
+PY  - 2015///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 3 cites: https://scholar.google.com/scholar?cites=12298131719836874622&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - CITATION
+AU  - Гриц, АЮ
+TI  - Разработка мобильного приложения для IOS «Логопед»: аннотация дипломной работы
+PB  - Минск: БГУ
+PY  - 2026///
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Đorđević, M
+TI  - RAZVOJ IOS APLIKACIJE ZA PRAĆENJE ZDRAVSTVENOG STANJA KORISNIKA UZ UPOTREBU ČISTE ARHITEKTURE I MVVM DIZAJN PATERNA
+JF  - Zbornik radova Fakulteta tehničkih nauka u …
+PB  - zbornik.ftn.uns.ac.rs
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/3015/2686
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/3015/2686
+PY  - 2023///
+AB  - … Abstract – The thesis describes implementation of an iOS mobile application using clean architecture and MVVM design pattern. This approach provides a scalable, reliable, testable …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Kusuma, PAD
+AU  - Widiartha, IM
+AU  - ...
+TI  - Implementation of Agile Methodology in an iOS-Based Travel Planning Application with Route Optimization
+JF  - … and Computer Science …
+PB  - hal.science
+UR  - https://hal.science/hal-05332680/
+PY  - 2025///
+AB  - … Aims: This study aimed to develop Find Your Way, an iOS-based travel planning application … of the application using Swift and MVVM Clean Architecture. A distinctive contribution of this …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Калюжный, ЕР
+AU  - Красноусов, ВМ
+AU  - Букреев, ЛВ
+AU  - ...
+TI  - РЕАЛИЗАЦИЯ МОБИЛЬНОГО ПРИЛОЖЕНИЯ ДЛЯ ПЛАТФОРМЫ IOS «ПУТЕВОДИТЕЛЬ»
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Суслов, КА
+AU  - Шаповал, ПВ
+AU  - Коликова, ТВ
+TI  - Разработка мобильного приложения для страхования транспортных средств Под Android ос и IOS
+JF  - Современные технологии в теории и …
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9112219772327493737&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - BOOK
+AU  - ANDIKA, MR
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern-Dalam bentuk buku karya ilmiah
+PB  - repositori.telkomuniversity.ac.id
+UR  - https://repositori.telkomuniversity.ac.id/home/catalog/id/210151/slug/understanding-the-impact-of-modularity-in-ios-app-performance-using-viper-architecture-pattern-dalam-bentuk-buku-karya-ilmiah.html
+PY  - 2024///
+AB  - … based on the principles of Clean Architecture and is preferred for creating … of iOS applications organized using VIPER. This study uses an experimental framework to examine nine iOS …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Mašek, J
+TI  - Architektonické vzory iOS aplikací a jejich implementace v jazyce Swift
+PB  - theses.cz
+UR  - https://theses.cz/id/458ylb/
+PY  - 2020///
+AB  - … platformě iOS. Analyzovány jsou architektonické vzory MVC, MVP, MVVM, VIPER a Clean Swift. … Cílem práce je poskytnout detailní přehled v problematice architektonických vzorů v iOS …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Богомолова, МА
+AU  - ...
+TI  - МЕТОДИКА РАЗРАБОТКИ АРХИТЕКТУРНЫХ КОМПОНЕНТОВ iOS ПРИЛОЖЕНИЯ" ГОСУСЛУГИ МОСКВЫ" ЧЕРЕЗ ТЕСТИРОВАНИЕ
+JF  - …
+PB  - … учреждение высшего образования …
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Мантуш, НС
+TI  - Разработка мобильного приложения для iOS: составление плана тренировок и мониторинга прогресса и физической активности человека …
+PB  - БГУ, ФПМИ, Кафедра …
+PY  - 2025///
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Андрейченко, КО
+TI  - Месенджер миттєвих повідомлень для операційної системи iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/b1c38c8a-603d-4601-b844-ad2bef76cbc8
+UR  - https://ela.kpi.ua/bitstreams/35ae489a-a47a-470f-b13f-779f31d14ef6/download
+PY  - 2022///
+AB  - … операційної системи iOS я наткнувся на Clean Architecture. Clean Architecture поділяє … VIPER є моєю реалізацією Clean Architecture для месенджеру. Слово VIPER – бекронім …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Grzelj, L
+TI  - Primjena pristupa deklarativnog programiranja iOS aplikacija korištenjem razvojnih okvira SwiftUI i Combine
+PB  - dabar.srce.hr
+UR  - https://dabar.srce.hr/object/foi:8965
+PY  - 2025///
+AB  - … Arhitekture poput MVVM-a, Clean Swift-a ili VIPER-a donose modularnost, testabilnost i dugoročnu održivost, što je presudno za skalabilne projekte. Primjer aplikacije PlantManiac …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Устименко, ДВ
+TI  - Інформаційна система мобільного супроводу користувача у підтриманні фізичного стану для платформи iOS
+PB  - essuir.sumdu.edu.ua
+UR  - https://essuir.sumdu.edu.ua/items/17a84f1f-ef1e-4b69-802d-b5a52b5f6b2e
+UR  - https://essuir.sumdu.edu.ua/bitstreams/a90d87ac-c02f-431c-9239-36d240cc4a62/download
+PY  - 2026///
+AB  - … Підхід Clean Architecture концентрується на повній незалежності бізнес-правил від зовнішніх баз даних чи візуальних фреймворків [6]. Головним недоліком обох підходів є …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Chiang, B
+TI  - Motion capture smartphone application synthesizing Bluetooth, Unity, and iOS for real-time data exportation
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/5f1963ad54a8418c3a1e5d31519aa721/1?pq-origsite=gscholar&cbl=18750&diss=y
+UR  - https://search.proquest.com/openview/5f1963ad54a8418c3a1e5d31519aa721/1?pq-origsite=gscholar&cbl=18750&diss=y
+PY  - 2023///
+AB  - … for designing a state-of-the-art iOS mobile app for the Human Performance and Robotics … The application was designed to be native to iOS and be built in Xcode, Apple's integrated …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12612528654566969382&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - JOUR
+AU  - Procucci, A
+TI  - Kotlin-Multiplatform applicato allo sviluppo di applicazioni Android e iOS
+JF  - amslaurea.unibo.it
+UR  - https://amslaurea.unibo.it/id/eprint/23131/
+UR  - https://amslaurea.unibo.it/id/eprint/23131/1/Tesi_Magistrale_Andrea_Procucci.pdf
+AB  - … Clean Architecture Adottare la Clean Architecture permette di mantenere disaccoppiata la … Strutturando il progetto secondo la Clean Architecture effettuare questo cambiamento non …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Ходарёнок, НА
+AU  - Петрович, ЮЮ
+TI  - Потоковые сервисы на комплексе мобильных устройств IOS
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/56359
+UR  - https://libeldoc.bsuir.by/bitstream/123456789/56359/1/Hodaryonok_Potokovye.pdf
+PY  - 2024///
+AB  - … VIPER является реализацией Clean Architecture для iOS-проектов. Его структура состоит из: View, Interactor, Presenter, Entity, и Router [3]. Это действительно очень …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Koval, A
+TI  - Comparative analysis of modern iOS architectures in different development stages
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11247908539014541596&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Ужаринский, АЮ
+AU  - Волков, ВН
+AU  - Стычук, АА
+AU  - ...
+TI  - К ВОПРОСУ О ВЫБОРЕ МЕНЕДЖЕРА ЗАВИСИМОСТЕЙ ПРИ РАЗРАБОТКЕ СТРУКТУРЫ IOS-ПРИЛОЖЕНИЯ ПО СБОРУ РАСПРЕДЕЛЁННЫХ …
+JF  - СОВРЕМЕННЫЕ …
+PY  - 2022///
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Talole, A
+AU  - Rahne, J
+AU  - Shalke, A
+AU  - Patil, P
+TI  - 'Cross-Platform BMI Calculator: Development and Implementation with Flutter for Android, iOS, and Web'
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Abhay-Talole/publication/375230123_Cross-Platform_BMI_Calculator_Development_and_Implementation_with_Flutter_for_Android_iOS_and_Web/links/6543d176b1398a779d51d9c0/Cross-Platform-BMI-Calculator-Development-and-Implementation-with-Flutter-for-Android-iOS-and-Web.pdf
+UR  - https://www.researchgate.net/profile/Abhay-Talole/publication/375230123_Cross-Platform_BMI_Calculator_Development_and_Implementation_with_Flutter_for_Android_iOS_and_Web/links/6543d176b1398a779d51d9c0/Cross-Platform-BMI-Calculator-Development-and-Implementation-with-Flutter-for-Android-iOS-and-Web.pdf
+AB  - … While Flutter doesn't have a specific, rigid architecture like some other frameworks, you can structure your Flutter app following the principles of the Clean Architecture and applying the …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=10057106317920188780&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 0000): 2
+ER  - 
+
+TY  - JOUR
+AU  - Barros, M Pérez
+TI  - AlergenEasier: iOS real time Application based on Geofencing and allergens filtering
+JF  - ddd.uab.cat
+UR  - https://ddd.uab.cat/record/196929
+UR  - https://ddd.uab.cat/pub/tfg/2018/tfg_100047/1389880_alergenEasier_informeFinal_TFG.pdf
+AB  - … Clean Swift contains a bit more coding and few more files than MVC, but that makes it easier for maintenance and writing test cases. The reason why AllergenEasier wasn’t developed …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Gomes, MFSL
+AU  - Romano, SMV
+AU  - Dias, JC
+TI  - Modularização de aplicativos iOS
+JF  - Revista Processando o …
+PB  - fatecpg.edu.br
+UR  - https://www.fatecpg.edu.br/revista/index.php/ps/article/view/270
+UR  - https://www.fatecpg.edu.br/revista/index.php/ps/article/download/270/173
+PY  - 2023///
+AB  - … entregas rápidas e consistentes para empresas que necessitam de um aplicativo escalável, foi listado pontos chaves para produzir aplicativos com ênfase no sistema operacional iOS. …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1766770215846750592&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Бойчук, ДС
+TI  - Параллельная разработка ANDROID и iOS: проблемы, подходы и решения
+JF  - Universum: технические науки
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/parallelnaya-razrabotka-android-i-ios-problemy-podhody-i-resheniya
+PY  - 2025///
+AB  - Параллельная разработка мобильных приложений для Android и iOS — это процесс, требующий согласованности между командами, унифицированного подхода к …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8633422656397340345&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - BOOK
+AU  - Gonçalves, RD
+TI  - Desenvolvimento do jogo Garotas espertas para plataformas Apple: iOS, iPadOS e MacOS
+PB  - riu.ufam.edu.br
+UR  - https://riu.ufam.edu.br/handle/prefix/9620
+UR  - https://riu.ufam.edu.br/bitstream/prefix/9620/8/TCC_RafaelGon%C3%A7alves.pdf
+PY  - 2026///
+AB  - … No ecossistema iOS/Swift, as arquiteturas mais comuns são MVC (Model–View–Controller), MVVM (Model–View–ViewModel), VIPER e variações de Clean Architecture. O MVC é o …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Оцевик, ВА
+TI  - Модель мобільного застосунку iOS з додаванням базових сервісів та розширень
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Мельниченко, КС
+TI  - Система поліпшення проведення занять (клієнт для iOS)
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/bitstreams/a919c486-e340-4510-b8b4-c7fb426e0fab/download
+UR  - https://ela.kpi.ua/bitstreams/a919c486-e340-4510-b8b4-c7fb426e0fab/download
+PY  - 2019///
+AB  - … У пошуку кращого способу спроектувати iOS додаток в стилі Clean Architecture, як описав Роберт Мартін, було запропоновано компанією “Rambler &Co” використовувати …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Rakin, I
+TI  - Design and development of an iOS application for tracking behavioural biases in investment decisions
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/903997
+UR  - https://www.theseus.fi/bitstream/handle/10024/903997/Rakin_Ilia.pdf?sequence=2
+PY  - 2025///
+AB  - This thesis presents the implementation of a tool: the design and full development cycle of FOMONITOR - a mobile application for the iOS operating system designed to help beginners, …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - HTML
+AU  - Маркова, АА
+TI  - СРАВНИТЕЛЬНЫЙ АНАЛИЗ ФРЕЙМВОРКОВ SWIFTUI И UIKIT ПРИ РАЗРАБОТКЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ ДЛЯ IOS
+JF  - Вестник науки
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/sravnitelnyy-analiz-freymvorkov-swiftui-i-uikit-pri-razrabotke-mobilnyh-prilozheniy-dlya-ios
+UR  - https://cyberleninka.ru/article/n/sravnitelnyy-analiz-freymvorkov-swiftui-i-uikit-pri-razrabotke-mobilnyh-prilozheniy-dlya-ios
+PY  - 2026///
+AB  - … для операционной системы iOS. Выполнен сравнительный анализ … и поддержке устаревших версий iOS. Полученные … шаблоны, такие как MVVM, VIPER и Clean Architecture. …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Marty, R
+AU  - Peier, S
+AU  - Emjee, T
+TI  - OST Marketplace App for Android and iOS using Kotlin Multiplatform (KMP)
+PB  - eprints.ost.ch
+UR  - https://eprints.ost.ch/id/eprint/1312/
+UR  - https://eprints.ost.ch/id/eprint/1312/1/FS%202025-BA-EP-Emjee-Marty-Peier-OST%20Marketplace%20App%20for%20Android%20and%20iOS%20using%20Kotlin%20Multipl.pdf
+PY  - 2025///
+AB  - … As of May 6, 2025, the iOS platform has also been marked as stable, meaning that cross-platform mobile development is now fully stable in Kotlin Multiplatform. The developed app, …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Nikonov, O
+AU  - Skidan, V
+AU  - Volivach, A
+AU  - ...
+TI  - Cloud System of Content Accounting with Access on OC Android and IOS
+JF  - 2023 IEEE 4th KhPI …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10312933/
+PY  - 2023///
+AB  - … architecture using modern means of containerization and deployment of systems on the server has been put forth and implemented, a cross-platform application for Android and iOS …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 6 cites: https://scholar.google.com/scholar?cites=2376510254291176481&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 6
+ER  - 
+
+TY  - BOOK
+AU  - Asensio, C Rodríguez
+TI  - Desarrollo de aplicación para plataformas iOS basada en analítica y minería de textos
+PB  - e-archivo.uc3m.es
+UR  - https://e-archivo.uc3m.es/entities/publication/8c0b8f6c-ad2b-420d-9441-f30343aba1a6
+UR  - https://e-archivo.uc3m.es/bitstreams/bd262b93-c44e-41f2-9844-db51f67decdb/download
+PY  - 2019///
+AB  - … VIPER es una aplicación de “Clean Architecture” para aplicaciones iOS. Se divide la estructura lógica de una aplicación en distintos niveles de responsabilidad. Esto hace, como se …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Винник, МВ
+TI  - Розробка об'єктно-орієнтованої системи обробки персоніфікованих даних на платформі iOS для малого та середнього бізнесу
+PB  - elartu.tntu.edu.ua
+UR  - https://elartu.tntu.edu.ua/handle/lib/30639
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/30639/3/dyplom_Vynnyk_M_2020.pdf
+PY  - 2019///
+AB  - … представлених архітектур, було прийнято рішення використовувати архітектуру Clean Swift (VIP). Так як вона найкраще підходить для написання застосунку на платформі iOS. …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Захаров, ІВ
+TI  - Розробка мобільного додатку (Android та iOS" Електронний журнал оцінок студентів" з використанням фреймворку Flutter
+PB  - ir.nmu.org.ua
+UR  - https://ir.nmu.org.ua/bitstreams/30f46a38-86a6-4bb5-a94a-7155de5c48ac/download
+UR  - https://ir.nmu.org.ua/bitstreams/30f46a38-86a6-4bb5-a94a-7155de5c48ac/download
+PY  - 2023///
+AB  - … Використовуючи Clean Architecture в Flutter, ми можемо … Структура системи з використанням Clean Architecture в … Clean Architecture дозволяє зберегти логіку домену …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Real, PM
+TI  - Desarrollo de TechPeopleCare iOS App. Visualización de Cursos Audiovisuales de Alfabetización Digital
+PB  - oa.upm.es
+UR  - https://oa.upm.es/69898/1/TFG_PABLO_MARINA_REAL.pdf
+UR  - https://oa.upm.es/69898/1/TFG_PABLO_MARINA_REAL.pdf
+PY  - 2022///
+AB  - … Tenemos que tener en cuenta que la aplicación ya implementada es de Android, así que no podremos reutilizar recursos en nuestra version iOS, por lo que habrá que replicar todas …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Solans, CMR
+TI  - iOS Development: Increasing Home Banking Reliability with Integration of Strong Authentication Mechanism
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/7f27449c85b7da37e1e7e37d19030a1c/1?pq-origsite=gscholar&cbl=2026366&diss=y
+PY  - 2021///
+AB  - … This tool is highly recommended by Apple since it also helps to maintain a clean architecture, as for example MVC 25 we will cover more information on this Architectural Pattern later …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Mecanović, B
+TI  - iOS aplikacija za digitalizaciju narudžbi i jelovnika u ugostiteljskim objektima
+PB  - repozitorij.unios.hr
+UR  - https://repozitorij.unios.hr/object/etfos:3053/FILE0/download
+UR  - https://repozitorij.unios.hr/object/etfos:3053/FILE0/download
+PY  - 2021///
+AB  - Napravili iOS aplikaciju koja će gostima ugostiteljskih objekata pomoći kod kreiranja narudžbi. Korisnik u ugostiteljskom objektu za svojim stolom može pomoću aplikacije skenirati QR …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Нєдов, ЄБ
+TI  - Методи та засоби реалізації IOS-додатків управління задачами малого або середнього бізнесу
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/e7956de7-ae57-43fb-b8eb-edac270826d9
+UR  - https://ela.kpi.ua/bitstreams/7e3758d4-6c32-4710-897d-c8ece95cc048/download
+PY  - 2025///
+AB  - … The object of the research there is an iOS ecosystem and two main frameworks for creating … Як зазначає Говард у «Clean Architecture for iOS Developers», це призводить до високої …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - 千葉大志
+TI  - iOS アプリ開発デザインパターン入門
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=VeNeDwAAQBAJ&oi=fnd&pg=PT3&dq=ios+%22clean+architecture%22%7C%22clean+swift%22%7C%22hexagonal+architecture%22%7C%22onion+architecture%22&ots=ZIGAwTHWS3&sig=yCTmJhEuebl42Cz6VKpWfNfjVf8
+PY  - 2018///
+AB  - … <本書の対象読者> iPhone アプリ入門書を一通り読んだが具体的な作り方がわからない人 iOS 歴 6 ヶ月未満の初級者 iOS エンジニア教育担当者 [目次] 第 1 章 前準備~ おすすめ書籍 1.1 …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Стандрет, ПО
+TI  - Розробка мобільного додатку операційної системи IOS для здійсненням контролю історії пересування користувача з використанням мови Swift та …
+PB  - elartu.tntu.edu.ua
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/36808/1/Standret.pdf
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/36808/1/Standret.pdf
+PY  - 2021///
+AB  - … Практичні методи полягають в використані технологій iOS … розроблено мобільний застосунок для iOS який надає … своєї статті яку називає “Clean Architecture” де вже описує …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Жердій, ПО
+TI  - Інструмент для реактивної роботи з мережею на платформах iOS та macOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/88827c91-00aa-4000-a8eb-9006b8fbc60c
+UR  - https://ela.kpi.ua/bitstreams/7e6f80df-b3fa-4fc4-bfbb-2aeabc95f883/download
+PY  - 2024///
+AB  - … рішень для платформ MacOS та iOS, їх переваги та недоліки. … роботи застосунку на платформах iOS та MacOS. Для … застосунків на платформах iOS та MacOS надано зручний …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Перегудова, КС
+TI  - Разработка iOS-приложения стримингового сервиса: магистерская диссертация по направлению подготовки: 09.04. 04-Программная инженерия
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:21195/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:21195/SOURCE01
+PY  - 2024///
+AB  - … Исходя из изложенного, основная цель данной работы заключается в создании стримингового сервиса для iOS. Задачи проекта включают в себя анализ требований, …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Касьяненко, ІІ
+TI  - iOS додаток управління педагогічними та науковими аспектами роботи кафедри
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/44c3b2e9-3889-4957-8ba4-1d6beabf2620
+UR  - https://ela.kpi.ua/bitstreams/44af3573-002f-45f6-bce0-a968eb1700ce/download
+PY  - 2018///
+AB  - … підхід до розробки додатків під iOS з урахуванням особливостей платформи;—розробити … а також платформа iOS. Предметом дослідження є нові засоби розробки під iOS, що …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Paula, DG
+TI  - Projeto e Implementação de um Aplicativo iOS para Apoio à Jornada Acadêmica dos Estudantes no PPGCO
+PB  - repositorio.ufu.br
+UR  - https://repositorio.ufu.br/handle/123456789/44162
+UR  - https://repositorio.ufu.br/bitstream/123456789/44162/1/ProjetoeImplementacaoDeUmAplicativoiOSparaApoioJornadaAcademicaDosEstudantesNoPPGCO.pdf
+PY  - 2024///
+AB  - … O objetivo deste trabalho é projetar e implementar uma aplicação iOS que atenda às necessidades dos alunos do PPGCO, ajudando a gerenciar suas entregas e se informar do …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Мокрий, М
+TI  - Розробка iOS-додатку з використанням багатопоточності
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/bitstream/123456789/22402/1/Mokryi_Bakalavrska_robota.pdf
+UR  - https://ekmair.ukma.edu.ua/bitstream/123456789/22402/1/Mokryi_Bakalavrska_robota.pdf
+PY  - 2021///
+AB  - … на базі операційної системи iOS 13 з використанням елементів … Щоб цього не сталося iOS представляє багато … Крім черг, які можна самостійно створювати, система iOS дає в …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Можайський, МВ
+TI  - Мобільний застосунок RozkladKPI для платформ iOS та Android
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/e8b7c46b-40c2-4e82-8b46-f098a940e499
+UR  - https://ela.kpi.ua/bitstreams/23953e34-2b8d-4bd7-ae83-8e397998cc18/download
+PY  - 2019///
+AB  - … iOS є похідною від системи OS X, що використовується у комп’ютерах компанії. OS X є … , отже iOS за природою свого походження також є такою. Станом на 2018 рік, iOS …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Moraes, MC
+TI  - Desenvolvimento de um aplicativo nas plataformas Android e IOS utilizando comunicação segura para a solução VoIP UEMA
+PB  - pecs.uema.br
+UR  - https://www.pecs.uema.br/wp-content/uploads/2024/05/Magno-Castro-Moraes-1.pdf
+UR  - https://www.pecs.uema.br/wp-content/uploads/2024/05/Magno-Castro-Moraes-1.pdf
+PY  - 2021///
+AB  - … Neste trabalho, foi desenvolvido uma ferramenta freeware para smartphones das plataformas Android e iOS, capaz de realizar chamadas de áudio e vídeo via rede TCP/IP com …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9613198932965043058&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - BOOK
+AU  - Δούβρης, Κ
+TI  - Grocerist: έξυπνη εφαρμογή διαχείρισης λίστας αγορών για iOS
+PB  - dione.lib.unipi.gr
+UR  - https://dione.lib.unipi.gr/xmlui/handle/unipi/17969
+UR  - https://dione.lib.unipi.gr/xmlui/bitstream/handle/unipi/17969/Douvris_P16029.pdf?sequence=1
+PY  - 2025///
+AB  - … This thesis develops and presents an iOS application designed to help users create, manage, and monitor their grocery shopping. At the same time, the application aims to reduce …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Strýček, Š
+TI  - SwiftUI komponenta pro výběr strukturovaného vstupu od uživatele na platformě iOS
+PB  - dspace.vut.cz
+UR  - https://dspace.vut.cz/bitstreams/9ab8e8e7-1850-4178-b680-6376f08dd4b5/download
+UR  - https://dspace.vut.cz/bitstreams/9ab8e8e7-1850-4178-b680-6376f08dd4b5/download
+PY  - 2022///
+AB  - … Implementace je prováděna se zaměřením na platformu iOS s využitím technologie SwiftUI od společnosti Apple. Výsledkem práce je funkční balíček Swift Package komponenty s …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - González, M Fernández
+TI  - Aplicación de navegación GPS para iOS
+PB  - digibuo.uniovi.es
+UR  - https://digibuo.uniovi.es/dspace/handle/10651/69029
+UR  - https://digibuo.uniovi.es/dspace/bitstream/handle/10651/69029/TFG_MarcosFernandezGonzalez.pdf?sequence=6
+PY  - 2023///
+AB  - … This project consists of an iOS native iOS app (mainly for iPhone) made for sports and outdoor activities. The idea is to implement the functions that a traditional GPS device performs on …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - JOUR
+AU  - Iqbal, M
+AU  - Fauzi, I
+AU  - Wanto, DOE
+AU  - ...
+TI  - Perancangan aplikasi payment point online bank dengan metode SDLC menggunakan smartphone berbasis android dan IOS
+JF  - … : Jurnal Informatika & …
+PB  - jurnal.sttmcileungsi.ac.id
+UR  - http://jurnal.sttmcileungsi.ac.id/index.php/infotech/article/view/2396
+UR  - https://jurnal.sttmcileungsi.ac.id/index.php/infotech/article/download/2396/1109
+PY  - 2026///
+AB  - … The contribution of this research lies in the development of an integrated Android and iOS-based PPOB system equipped with black box testing evaluation to ensure the validity of …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Іваненко, В
+TI  - Розробка iOS-додатку з використанням 3D-об'єктів
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/items/42e45696-b2e9-4122-99ed-24eccf3045d3
+UR  - https://ekmair.ukma.edu.ua/bitstreams/d9a72bb8-7fce-49be-b3f9-7edebe48e3e5/download
+PY  - 2023///
+AB  - … Інструменти та мови програмування для розробки iOS-додатків Swift, мова програмування від Apple, використовується для розробки додатків на iOS. Swift було створено з …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Galguera, M Hidalgo
+TI  - Descobrir llocs mitjançant una app per iOS utilitzant Swift
+PB  - repositori.udl.cat
+UR  - https://repositori.udl.cat/bitstreams/8d815a29-6df3-4e67-90c2-e0faeff7b592/download
+UR  - https://repositori.udl.cat/bitstreams/8d815a29-6df3-4e67-90c2-e0faeff7b592/download
+PY  - 2024///
+AB  - … Després d’haver acabat recentment la meva carrera universit`aria i amb quatre anys d’experi`encia en el desenvolupament d’aplicacions per a iOS, he decidit enfrontarme a un nou …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Болгов, ІМ
+TI  - Додаток для діагностування автомобілів на базі OBD-II під мобільну платформу iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/6efe3dda-a9cb-4acc-83a1-34a50158e376
+UR  - https://ela.kpi.ua/bitstreams/4999d146-be91-4e2b-a2da-598a87f1838c/download
+PY  - 2019///
+AB  - Об’єкт розробки–створення клієнтського програмного рішення у вигляді мобільного додатка для операційної системи iOS для здійснення віддаленої діагностики транспортних …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - BOOK
+AU  - Leite, F
+AU  - Hummel, L
+AU  - Coelho, M
+TI  - Aplicativo iOS com reconhecimento de embalagem para destacar as principais informações da bula de medicamento
+PB  - dspace.mackenzie.br
+UR  - https://dspace.mackenzie.br/items/3b296444-3e8a-4b72-97d8-4b497c52ca9a
+UR  - https://dspace.mackenzie.br/bitstreams/8c33265e-d6f3-4b00-9a85-86d77f76f3a4/download
+PY  - 2023///
+AB  - … O aplicativo foi arquitetado utilizando o padrão Clean Swift, dessa forma, o usuário cria uma ação na View, sendo repassada para a ViewController, para o Interactor e para o Worker, …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - CITATION
+AU  - Nunkesser, R
+TI  - Konzeption und Umsetzung mobiler Applikationen: iOS, Android, Xamarin und Flutter
+PB  - BoD–Books on Demand
+PY  - 2020///
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12968571259947662136&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - BOOK
+AU  - Чуріков, ГО
+TI  - Організація архітектури та вибір підходів для розробки реальних проектів відносно задач на iOS
+PB  - reposit.nupp.edu.ua
+UR  - https://reposit.nupp.edu.ua/item/13850
+PY  - 2023///
+AB  - … В основі роботи — глибоке вивчення технічних аспектів розробки під iOS, включаючи мову … Цей проект не лише віддзеркалює технічний аспект розробки для iOS, але й …
+M1  - Query date: 2026-09-23 22:35:09
+ER  - 
+
+TY  - PDF
+AU  - Волкова, СА
+AU  - Малышев, ИД
+AU  - ...
+TI  - Разработка методических указаний по выбору архитектурного подхода для разработки мобильного IOS-приложения
+JF  - … науки и общества в …
+PB  - aeterna-ufa.ru
+UR  - https://aeterna-ufa.ru/sbornik/NK-534-2.pdf#page=21
+UR  - https://aeterna-ufa.ru/sbornik/NK-534-2.pdf#page=21
+PY  - 2023///
+AB  - … архитектурного подхода для разработки мобильных приложений на платформе iOS. … архитектурного подхода для разработки мобильных приложений на платформе iOS. …
+M1  - Query date: 2026-09-23 22:35:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4449591478420983482&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+

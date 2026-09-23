@@ -1,0 +1,73 @@
+﻿TY  - JOUR
+AU  - García, RF
+TI  - MVP: Model–View–Presenter
+JF  - … Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9_3
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9069-9_3
+PY  - 2023///
+AB  - … To continue with the logic of the applied architecture pattern (Model–View–Presenter), we … In this folder, we will have the CoreDataManager.swift file (which we created in Chapter 1), …
+M1  - Query date: 2026-09-23 22:31:39
+M1  - 5 cites: https://scholar.google.com/scholar?cites=17489108979898102636&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 5
+ER  - 
+
+TY  - HTML
+AU  - Дубов, ИР
+TI  - Системная структуризация шаблона Model-View-Presenter
+JF  - Радиотехнические и телекоммуникационные …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/sistemnaya-strukturizatsiya-shablona-model-view-presenter
+UR  - https://cyberleninka.ru/article/n/sistemnaya-strukturizatsiya-shablona-model-view-presenter
+PY  - 2025///
+AB  - … SYSTEM STRUCTURING OF THE MODEL-VIEW-PRESENTER PATTERN The work demonstrates that the components of the Model-View-Presenter (MVP) architectural pattern can be …
+M1  - Query date: 2026-09-23 22:31:39
+ER  - 
+
+TY  - PDF
+AU  - Anuar, SMS
+AU  - Azmi, NFM
+AU  - Maarop, N
+AU  - Samy, GN
+AU  - ...
+TI  - Preliminary review of model-view-presenter (MVP) and usability design for the development of postgraduate web portal
+JF  - … International Journal of …
+PB  - oiji.utm.my
+UR  - https://oiji.utm.my/index.php/oiji/article/download/105/77
+UR  - https://oiji.utm.my/index.php/oiji/article/download/105/77
+PY  - 2017///
+AB  - … This paper focuses on the preliminary review of modelview-presenter (MVP) web pattern … option for majority of mobile and tablet users as it is not compatible with Android and IOS. …
+M1  - Query date: 2026-09-23 22:31:39
+M1  - 3 cites: https://scholar.google.com/scholar?cites=6514804610433828160&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - JOUR
+AU  - Arfianto, B
+AU  - Prapanca, A
+TI  - Analisis Perbandingan Performa Pola Arsitektur Model-View-ViewModel (MVVM) dan Model-View-Presenter (MVP) pada Pengembangan Aplikasi Desa Wisata …
+JF  - Journal of Informatics and Computer …
+PB  - ejournal.unesa.ac.id
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/view/61773
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/download/61773/47164
+PY  - 2024///
+AB  - … aplikasi yang menggunakan pola arsitektur Model-ViewViewModel (MVVM) memiliki penggunaan CPU yang lebih efisien dibandingkan dengan pola arsitektur Model-ViewPresenter (…
+M1  - Query date: 2026-09-23 22:31:39
+M1  - 10 cites: https://scholar.google.com/scholar?cites=5483831247235893690&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 10
+ER  - 
+
+TY  - HTML
+AU  - Шульгин, ЕМ
+TI  - Архитектурный паттерн model-view-presenter в разработке под мобильную платформу android
+JF  - Форум молодых ученых
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/arhitekturnyy-pattern-model-view-presenter-v-razrabotke-pod-mobilnuyu-platformu-android
+UR  - https://cyberleninka.ru/article/n/arhitekturnyy-pattern-model-view-presenter-v-razrabotke-pod-mobilnuyu-platformu-android
+PY  - 2018///
+AB  - … Детально рассматривается паттерн Model-View-Presenter, выявляются его положительные качества и описывается общий подход к проектированию приложений на его …
+M1  - Query date: 2026-09-23 22:31:39
+M1  - 3 cites: https://scholar.google.com/scholar?cites=8833299736546196336&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 3
+ER  - 
+

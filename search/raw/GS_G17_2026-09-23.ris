@@ -1,0 +1,528 @@
+﻿TY  - JOUR
+AU  - Genne, S
+TI  - Designing composable enterprise web architecture using headless CMS
+JF  - International Journal of Future Innovative Science …
+PB  - iadier-academy.org
+UR  - https://iadier-academy.org/index.php/IJFIST/article/view/214
+UR  - https://iadier-academy.org/index.php/IJFIST/article/download/214/149
+PY  - 2024///
+AB  - … This section presents a discussion on an assessment of the composable architecture framework, its merits, demerits and possible improvements to it. It also draws on future …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 15 cites: https://scholar.google.com/scholar?cites=11852786141944019947&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 15
+ER  - 
+
+TY  - JOUR
+AU  - Li, CS
+AU  - Franke, H
+AU  - Parris, C
+AU  - Abali, B
+AU  - Kesavan, M
+AU  - ...
+TI  - Composable architecture for rack scale big data computing
+JF  - Future Generation …
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X16302631
+UR  - https://eprints.soton.ac.uk/398349/1/FGCS_Disaggregated_Datacenter_accepted.pdf
+PY  - 2017///
+AB  - … Through empirical approaches, we develop an assessment of the opportunities and challenges for leveraging the composable architecture for rack scale cloud datacenters with a focus …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 83 cites: https://scholar.google.com/scholar?cites=15241197488734996185&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 83
+ER  - 
+
+TY  - JOUR
+AU  - Sharma, H
+AU  - Park, J
+AU  - Suda, N
+AU  - Lai, L
+AU  - ...
+TI  - Bit fusion: Bit-level dynamically composable architecture for accelerating deep neural network
+JF  - 2018 ACM/IEEE 45th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8416871/
+UR  - https://arxiv.org/pdf/1712.01507
+PY  - 2018///
+AB  - … Leveraging this property of DNNs, we develop Bit Fusion, a bit-level dynamically composable architecture, for their efficient acceleration. The architecture comes with an ISA that …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 835 cites: https://scholar.google.com/scholar?cites=2267570299630680982&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 835
+ER  - 
+
+TY  - JOUR
+AU  - Srirama, S
+TI  - Composable Middleware Ecosystem: Transforming Enterprise Integration Architecture
+JF  - IPHO-Journal of Advance Research in Science And …
+PB  - iphopen.org
+UR  - http://iphopen.org/index.php/se/article/view/376
+UR  - https://iphopen.org/index.php/se/article/download/376/260
+PY  - 2025///
+AB  - … The composable architecture paradigm represents a modular approach to system design where applications and infrastructure get constructed from interchangeable, best-of-breed …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - PDF
+AU  - Ahamed, A
+AU  - Mohamed, S
+TI  - Composable Architecture for Modular Business Systems
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Safa-Mohamed-16/publication/404995874_Composable_Architecture_for_Modular_Business_Systems/links/6a0c12c30fc2cb5022857434/Composable-Architecture-for-Modular-Business-Systems.pdf
+UR  - https://www.researchgate.net/profile/Safa-Mohamed-16/publication/404995874_Composable_Architecture_for_Modular_Business_Systems/links/6a0c12c30fc2cb5022857434/Composable-Architecture-for-Modular-Business-Systems.pdf
+AB  - This article presents a comprehensive examination of composable architecture for modular business systems, addressing the critical challenges and opportunities at the intersection of …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - JOUR
+AU  - Ihnotic, J
+TI  - Scaling to 32 gpus on a novel composable system architecture
+JF  - arXiv preprint arXiv:2404.06467
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2404.06467
+UR  - https://arxiv.org/pdf/2404.06467
+PY  - 2024///
+AB  - … This paper presents a composable architecture scaling up to 32 GPUs on a single node, addressing the technical challenges encountered and the innovative solutions implemented. …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 3 cites: https://scholar.google.com/scholar?cites=11501141378677522092&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 3
+ER  - 
+
+TY  - JOUR
+AU  - Chaba, A
+TI  - API-driven enterprise commerce architecture for composable digital ecosystems
+JF  - International Journal of Engineering &Extended …
+PB  - ijeetr.com
+UR  - https://www.ijeetr.com/index.php/ijeetr/article/view/1049
+UR  - https://www.ijeetr.com/index.php/ijeetr/article/download/1049/972
+PY  - 2021///
+AB  - … of the strangler fig and the enablement of the API facade, plus the incremental maturity progression in DevOps, organisations can benefit from part of the composable architecture …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 30 cites: https://scholar.google.com/scholar?cites=2849633301277742670&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 30
+ER  - 
+
+TY  - JOUR
+AU  - Madasamy, SKM
+TI  - Composable Frontend Architecture: Microfrontends and Independent Deployment for Scalable Enterprise Digital Platforms
+JF  - International Journal of Sustainability …
+PB  - journals.scipubhouse.com
+UR  - https://journals.scipubhouse.com/IJSIE/article/view/339
+UR  - https://journals.scipubhouse.com/IJSIE/article/download/339/326
+PY  - 2026///
+AB  - … These results indicate that composable architecture can maintain acceptable frontend performance when combined with appropriate optimization techniques. However, microfrontend …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - JOUR
+AU  - Kaiser, MJ
+AU  - Oster, C
+TI  - Managing a satellite product line utilizing composable architecture modeling
+JF  - AIAA SPACE 2015 Conference and Exposition
+PB  - arc.aiaa.org
+DO  - 10.2514/6.2015-4436
+UR  - https://arc.aiaa.org/doi/pdf/10.2514/6.2015-4436
+PY  - 2015///
+AB  - … SysML5 language to model the A2100 composable architecture through the use of both a … capture A2100 specific datasets within the composable architecture. The Composable System …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 7 cites: https://scholar.google.com/scholar?cites=1826089908233759988&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 7
+ER  - 
+
+TY  - JOUR
+AU  - Haerens, G
+AU  - Mannaert, H
+TI  - On the operationalization of composable architecture by means of normalized systems theory
+JF  - PATTERNS 2025: The …
+PB  - repository.uantwerpen.be
+UR  - https://repository.uantwerpen.be/link/irua/213621
+UR  - https://repository.uantwerpen.be/docstore/d:irua:28338
+PY  - 2025///
+AB  - … Composable Architecture for (re)introducing functional re-uses, there is a need as well for academic attention to properly operationalizing/implementing Composable Architecture to …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - JOUR
+AU  - Cong, J
+AU  - Huang, H
+AU  - Ma, C
+AU  - Xiao, B
+AU  - ...
+TI  - A fully pipelined and dynamically composable architecture of CGRA
+JF  - 2014 IEEE 22nd Annual …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/6861574/
+UR  - https://peipeizhou-eecs.github.io/publication/2014_fccm/2014_fccm.pdf
+PY  - 2014///
+AB  - … We name our new architecture FPCA (Fully Pipelined Composable Architecture). We implement a working prototype of our FPCA on top of a commodity FPGA board with the goal of …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 139 cites: https://scholar.google.com/scholar?cites=15708803145093589763&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 139
+ER  - 
+
+TY  - JOUR
+AU  - Miano, C
+TI  - Using optimization to exploit a composable satellite product line architecture
+JF  - AIAA SPACE 2015 Conference and Exposition
+PB  - arc.aiaa.org
+DO  - 10.2514/6.2015-4618
+UR  - https://arc.aiaa.org/doi/pdf/10.2514/6.2015-4618
+PY  - 2015///
+AB  - … to future product line instantiations of a composable architecture optimization capability. … With continued enhancement by the Enterprise, the A2100 Satellite composable architecture …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 3 cites: https://scholar.google.com/scholar?cites=14698283895308682068&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - JOUR
+AU  - Guo, H
+AU  - Ji, Y
+AU  - Hu, H
+AU  - Zhou, X
+TI  - A composable architecture for cloud transactional DBMS
+JF  - Asia-Pacific Web (APWeb) and Web-Age …
+PB  - Springer
+DO  - 10.1007/978-981-97-7238-4_27
+UR  - https://link.springer.com/chapter/10.1007/978-981-97-7238-4_27
+PY  - 2024///
+AB  - … This paper introduces a composable architecture for cloud database systems, which is … were conducted to demonstrate the practicality of the proposed composable architecture. …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5668057156235979170&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - BOOK
+AU  - Davies, ME
+TI  - Composable Architecture Primitives for the Era of Efficient Generalization
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/25f5cbee6bbe787f60cd8e5dfb3f7621/1?pq-origsite=gscholar&cbl=18750&diss=y
+PY  - 2024///
+AB  - We are in the age of AI, with rapidly changing algorithms and hardware. As Deep Learning (DL) applications have evolved, architects have turned to specialization to keep up with the …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 1 cites: https://scholar.google.com/scholar?cites=16779730169287196234&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - JOUR
+AU  - Guo, C
+AU  - Li, L
+AU  - Zukerman, M
+TI  - Q-learning-based workload consolidation for data centers with composable architecture
+JF  - IEEE Transactions on Industrial …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10791320/
+UR  - https://ieeexplore.ieee.org/iel8/9424/4389054/10791320.pdf
+PY  - 2024///
+AB  - Composable or disaggregated architectures have emerged as a solution to address the drawbacks of server-based architectures in data centers, such as resource inefficiency and …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 9 cites: https://scholar.google.com/scholar?cites=11539386141527450079&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 9
+ER  - 
+
+TY  - JOUR
+AU  - Ojea, A
+TI  - The Kubernetes network driver model: a composable architecture for high-performance networking
+JF  - 2025 IEEE 50th Conference on Local Computer …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11146291/
+UR  - https://arxiv.org/pdf/2506.23628?
+PY  - 2025///
+AB  - Traditional Kubernetes networking struggles to meet the escalating demands of AI/ML and evolving Telco infrastructure. This paper introduces Kubernetes Network Drivers (KNDs), a …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 5 cites: https://scholar.google.com/scholar?cites=12079035651502033775&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 5
+ER  - 
+
+TY  - JOUR
+AU  - Gueroudji, A
+AU  - Dorier, M
+AU  - Carns, P
+AU  - Patel, P
+AU  - ...
+TI  - RESILIO: A Scalable and Composable Architecture for Tomographic Reconstruction Workflows
+JF  - Proceedings of the SC' …
+PB  - dl.acm.org
+DO  - 10.1145/3731599.3767575
+UR  - https://dl.acm.org/doi/abs/10.1145/3731599.3767575
+UR  - https://dl.acm.org/doi/pdf/10.1145/3731599.3767575
+PY  - 2025///
+AB  - Tomographic reconstruction (TR) aims to reconstruct a 3D object from a finite number of 2D projections. It is an important technique across domains such as medical imaging, materials …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8073408899134592868&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Arslan, AK
+TI  - THE GOVERNMENT STACK 2.0: A COMPOSABLE ARCHITECTURE THEORY FOR HYPERSCALE PUBLIC INNOVATION
+JF  - Journal of Political Science, Law &Governance
+PB  - social.tresearch.ee
+UR  - https://social.tresearch.ee/index.php/JPSLG/article/view/55
+UR  - https://social.tresearch.ee/index.php/JPSLG/article/download/55/54
+PY  - 2026///
+AB  - Traditional theories of public administration fail to address the architectural requirements of digital-native governance in an era of exponential technological change. This paper presents …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - CITATION
+AU  - Katkamwar, N
+TI  - Composable Financial Filter Architecture for Time-Series Personal Finance Projections
+JF  - Journal of Computer Science and Technology Studies
+PY  - 2025///
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - CITATION
+AU  - Trivedi, B
+TI  - Composable Personalization Architecture: A Scalable Framework for Modular AI-Powered Experience Engineering
+JF  - Journal of Computer Science and Technology Studies
+PY  - 2025///
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - PDF
+AU  - Sharma, H
+AU  - Park, J
+AU  - Suda, N
+AU  - Lai, L
+AU  - Chau, B
+AU  - Kim, JK
+AU  - ...
+TI  - RETROSPECTIVE: Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks
+JF  - jongse-park.github.io
+UR  - https://jongse-park.github.io/files/paper/2023-isca_retrospective-bitfusion.pdf
+UR  - https://jongse-park.github.io/files/paper/2023-isca_retrospective-bitfusion.pdf
+AB  - In the summer of 2017, when we began this work, the community was amidst the excitement of Deep Neural Networks (DNNs). During that time, both the Machine Learning (ML) and …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - JOUR
+AU  - Resch, S
+AU  - Steininger, A
+AU  - Scherrer, C
+TI  - A composable real-time architecture for replicated railway applications
+JF  - Journal of Systems Architecture
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S1383762115000302
+PY  - 2015///
+AB  - … Consequently, the second requirement for the composable architecture is: … costly δ FS and scheduling of virtual driver backends δ vdrv are introduced with the composable architecture. …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 4 cites: https://scholar.google.com/scholar?cites=5179470480847525101&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 4
+ER  - 
+
+TY  - BOOK
+AU  - Zhou, P
+TI  - A Fully Pipelined and Dynamically Composable Architecture of CGRA (Coarse Grained Reconfigurable Architecture)
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/375b038bc5f5e83b84034a688b1f0a7b/1?pq-origsite=gscholar&cbl=18750
+UR  - https://escholarship.org/content/qt9446s3nx/qt9446s3nx.pdf
+PY  - 2014///
+AB  - … We name our new architecture FPCA (Fully Pipelined Composable Architecture). We implement a working prototype of our FPCA on top of a commodity FPGA board with the goal of …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - PDF
+AU  - Zhou, P
+TI  - A Fully Pipelined and Dynamically Composable Architecture of CGRA (Coarse Grained
+PB  - escholarship.org
+UR  - https://escholarship.org/content/qt9446s3nx/qt9446s3nx.pdf?v=lg
+UR  - https://escholarship.org/content/qt9446s3nx/qt9446s3nx.pdf?v=lg
+PY  - 2014///
+AB  - … We name our new architecture FPCA (Fully Pipelined Composable Architecture). We implement a working prototype of our FPCA on top of a commodity FPGA board with the goal of …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - JOUR
+AU  - Dobrin, S
+AU  - Chmiel, L
+TI  - ARYA: A Physics-Constrained Composable &Deterministic World Model Architecture
+JF  - arXiv preprint arXiv:2603.21340
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2603.21340
+UR  - https://arxiv.org/pdf/2603.21340
+PY  - 2026///
+AB  - … We demonstrate that ARYA satisfies all seven canonical world model requirements, not through a single monolithic neural network, but through a composable architecture of …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 1 cites: https://scholar.google.com/scholar?cites=15887877184131597073&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 1
+ER  - 
+
+TY  - JOUR
+AU  - Carzaniga, FS
+AU  - Hersche, M
+AU  - ...
+TI  - A composable channel-adaptive architecture for seizure classification
+JF  - IEEE Journal of …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11075602/
+UR  - https://arxiv.org/pdf/2512.19123
+PY  - 2025///
+AB  - … CA-EEGNet is also particularly amenable to further research and implementations, as its composable architecture is not limited to the models we have showcased here, and can in …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8202577696068224769&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - Rohrbach, A
+TI  - Secure and Composable Digital Transformation Architecture for Banking Healthcare Manufacturing and Smart Infrastructure Using Advanced Machine Learning
+JF  - International Journal of Advanced Research in …
+PB  - ijarcst.org
+UR  - https://www.ijarcst.org/index.php/ijarcst/article/view/395
+UR  - https://www.ijarcst.org/index.php/ijarcst/article/download/395/383
+PY  - 2026///
+AB  - … Composable architecture offers a flexible alternative by decomposing enterprise systems into modular, reusable, and interoperable components. These components communicate …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - JOUR
+AU  - Vai, M
+AU  - Simpson, E
+AU  - Lee, A
+AU  - Nguyen, H
+AU  - ...
+TI  - Composable mission-critical embedded system architecture for high assurance
+JF  - 2024 IEEE High …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10938421/
+PY  - 2024///
+AB  - Mission-critical systems must go through a laborious and lengthy high assurance certification process. Slight modifications of a certified system often trigger a new certification cycle. We …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 1 cites: https://scholar.google.com/scholar?cites=2934216346196875653&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - JOUR
+AU  - Juneja, R
+AU  - Ranjan, V
+AU  - Harish, R
+AU  - Peh, LS
+TI  - COMPOSE: Static Timing-driven Composable Reconfigurable Architecture for Accelerating Recurrence-Bound Loops
+JF  - arXiv preprint arXiv:2606.21454
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2606.21454
+UR  - https://arxiv.org/pdf/2606.21454
+PY  - 2026///
+AB  - Coarse-Grained Reconfigurable Architectures (CGRAs) provide a spatially programmable substrate well suited for accelerating compute-intensive workloads with abundant parallelism. …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - JOUR
+AU  - Nguidjoi, TEMM
+AU  - Serge, MOF
+AU  - Thomas, DN
+AU  - ...
+TI  - Quantum Composable and Contextual Security Infrastructure (Q2CSI): A Modular Architecture for Legally Explainable Cryptographic Signatures
+JF  - Cryptology ePrint …
+PB  - eprint.iacr.org
+UR  - https://eprint.iacr.org/2025/1380
+UR  - https://eprint.iacr.org/2025/1380.pdf
+PY  - 2025///
+AB  - … and Originality To the best of our knowledge, Q2CSI is the first infrastructure to integrate all three CRO properties within a layered, entropy-aware, and composable architecture. It …
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 1 cites: https://scholar.google.com/scholar?cites=15823888899824289029&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Kaidhapuram, SR
+TI  - Composable architecture for enterprises: Principles, adoption patterns, and strategic impact
+JF  - International Journal of Computer Techniques
+PY  - 2023///
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 13 cites: https://scholar.google.com/scholar?cites=9059763058237624675&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 13
+ER  - 
+
+TY  - CITATION
+AU  - Bhatnagar, R
+TI  - Composable architecture: The latest trend in EA helping companies adapt and grow
+JF  - Architecture &Governance magazine
+PY  - 2021///
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 3 cites: https://scholar.google.com/scholar?cites=17967007503674663327&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 3
+ER  - 
+
+TY  - CITATION
+AU  - Sharma, H
+AU  - Park, J
+AU  - Suda, N
+AU  - Lai, L
+AU  - Chau, B
+AU  - Chandra, V
+AU  - ...
+TI  - Bit fusion: Bit-Level dynamically composable architecture for accelerating deep neural network, in 2018 ACM/IEEE 45th Annual International Symposium …
+PB  - IEEE
+PY  - 2018///
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 5 cites: https://scholar.google.com/scholar?cites=3945820442337201602&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 5
+ER  - 
+
+TY  - CITATION
+AU  - Moghaddam, P
+AU  - Singh, H
+AU  - Sharma, K
+AU  - Elissawy, N
+AU  - Park, J
+TI  - Composable DevSecOps Architecture
+PY  - 2020///
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11794018148182414323&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - CITATION
+AU  - Cong, J
+AU  - Huang, H
+AU  - Ma, C
+AU  - Xiao, B
+AU  - Zhou, P
+TI  - A fully pipelined and dynamically composable architecture of CGRA, in 2014 IEEE 22nd Annual International Symposium on Field-Programmable Custom …
+PB  - IEEE New York
+PY  - 2014///
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 2 cites: https://scholar.google.com/scholar?cites=5506957079874779967&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 2
+ER  - 
+
+TY  - CITATION
+AU  - Sharman, H
+TI  - Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Networks
+JF  - Proceedings of the 45th International Symposium on …
+PY  - 2018///
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9406825167795052232&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - CITATION
+AU  - Oster, C
+TI  - Composable Architecture & Design Applying Product Line and Systems of Systems Concepts to the Design of Unique, Complex Cyber‐Physical Systems
+JF  - Stevens Institute of Technology
+PY  - 2014///
+M1  - Query date: 2026-09-23 23:10:21
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1262338651785193335&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 2
+ER  - 
+
+TY  - CITATION
+AU  - Shugaa, AR
+TI  - Hatékony SwiftUI állapotkezelés TCA (The Composable Architecture) segítségével
+PB  - oda.uni-obuda.hu
+UR  - https://oda.uni-obuda.hu/handle/20.500.14044/36728
+PY  - 2024///
+AB  - … Hatékony SwiftUI állapotkezelés TCA (The Composable Architecture) segítségével …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+
+TY  - CITATION
+AU  - Rijn, J van
+TI  - How Composable ERP Creates Business Value: A View on The Future of Business Architecture.
+PB  - thesis.eur.nl
+UR  - https://thesis.eur.nl/pub/58331/
+PY  - 2021///
+AB  - … Keywords Enterprise Resource Planning, Composable ERP, Composable Architecture, Business Needs, Business Value …
+M1  - Query date: 2026-09-23 23:10:21
+ER  - 
+

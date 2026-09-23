@@ -1,0 +1,119 @@
+﻿TY  - PDF
+AU  - Marttila, R
+TI  - Handling unidirectional data flow in a React. js application
+PB  - trepo.tuni.fi
+UR  - https://trepo.tuni.fi/bitstream/handle/123456789/24121/marttila.pdf?sequence=3
+UR  - https://trepo.tuni.fi/bitstream/handle/123456789/24121/marttila.pdf?sequence=3
+PY  - 2016///
+AB  - … React uses a unidirectional data flow, which can be handled … The term unidirectional data flow means that data flows from … The opposite of unidirectional data flow is bidirectional flow, …
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 3 cites: https://scholar.google.com/scholar?cites=17137743965409661697&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 3
+ER  - 
+
+TY  - JOUR
+AU  - Bhatkalkar, BJ
+TI  - A unidirectional data-flow model for cloud data security with user involvement during data transit
+JF  - 2014 International Conference on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/6949883/
+PY  - 2014///
+AB  - … By allowing only a unidirectional data flow and disallowing the bidirectional data flow in any information channel strictly prohibits hacking and unauthorized intrusion attempts. The …
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 2 cites: https://scholar.google.com/scholar?cites=15557969293718287305&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 2
+ER  - 
+
+TY  - BOOK
+AU  - Зарічний, ЯС
+TI  - Розробка комбінованої архітектури мобільних додатків на основі аналізу архітектур MV (x) та Unidirectional Data Flow
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/8c7bc6a2-b788-406d-bd47-bcc1afc7f370
+UR  - https://ela.kpi.ua/bitstreams/30754905-4da9-41e6-a8a0-e01dc04edf98/download
+PY  - 2022///
+AB  - … Research subject - Design and development of a combined client architecture for mobile applications based on existing MV(X) and Unidirectional Data Flow patterns for the iOS platform…
+M1  - Query date: 2026-09-23 23:14:11
+ER  - 
+
+TY  - JOUR
+AU  - Chao, IC
+AU  - Lin, SY
+AU  - Lee, KB
+AU  - Proctor, F
+AU  - ...
+TI  - Precise latency measurement of unidirectional-data-flow network equipment
+JF  - 2014 IEEE …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/6859840/
+PY  - 2014///
+AB  - … Data latency in a network can be measured by placing additional unidirectionaldata-flow (UDF) devices, such as test access taps (TAPs), on the network path. However, this can create …
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 5 cites: https://scholar.google.com/scholar?cites=919841595349958472&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 5
+ER  - 
+
+TY  - CITATION
+AU  - Javed, S
+TI  - Implementation of Reliable Unidirectional Data Flow (Data Diode) using Interchangeable TCP/IP and UDP Protocols
+M1  - Query date: 2026-09-23 23:14:11
+ER  - 
+
+TY  - CITATION
+AU  - Advenica, AB
+TI  - SecuriCDS® DD1000i; Unidirectional data flow
+JF  - Product Sheet, Doc
+PY  - 2017///
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 7 cites: https://scholar.google.com/scholar?cites=17614721543777076784&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 7
+ER  - 
+
+TY  - CITATION
+AU  - Bhatkalkar, BJ
+TI  - Ramegowda: A Unidirectional Data-flow Model for Cloud Data Security with User Involvement during Data Transit
+JF  - … Conference on Communication and Signal Processing …
+PY  - 2014///
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12228136119082483772&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 2
+ER  - 
+
+TY  - CITATION
+AU  - Team, RC
+TI  - Building a Unidirectional Data Flow App in Swift with Realm
+PB  - Feb
+PY  - 2016///
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4203056700260515862&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - CITATION
+AU  - Denhup, E
+TI  - Understanding unidirectional data flow in React
+PY  - 2017///
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 3 cites: https://scholar.google.com/scholar?cites=11586305921274157145&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - CITATION
+AU  - Abramov, D
+TI  - Redux Flow: Unidirectional Data Flow in React Applications
+JF  - Redux Documentation
+PY  - 2023///
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8376827647289454632&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - CITATION
+AU  - Speaker-Fisher, B
+TI  - Flux: A unidirectional data flow architecture for react apps
+JF  - Applicative 2015, ACM
+PY  - 2015///
+M1  - Query date: 2026-09-23 23:14:11
+M1  - 6 cites: https://scholar.google.com/scholar?cites=5531853985285492894&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 6
+ER  - 
+

@@ -1,0 +1,417 @@
+﻿TY  - JOUR
+AU  - Kamali, H Mardani
+AU  - Sasan, A
+TI  - Much-swift: A high-throughput multi-core hw/sw co-design k-means clustering architecture
+JF  - Proceedings of the 2018 Great Lakes …
+PB  - dl.acm.org
+DO  - 10.1145/3194554.3194648
+UR  - https://dl.acm.org/doi/abs/10.1145/3194554.3194648
+UR  - https://dl.acm.org/doi/pdf/10.1145/3194554.3194648
+PY  - 2018///
+AB  - … In this paper, we present MUCH-SWIFT: a HW/SW partitioning architecture that considerably … The architecture of MUCH-SWIFT and its parallel structure is elaborated in Section 4. …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 16 cites: https://scholar.google.com/scholar?cites=1942121104161422669&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 16
+ER  - 
+
+TY  - JOUR
+AU  - Sui, Q
+AU  - Hosoda, Y
+AU  - Lee, JH
+TI  - Swift-YOLO: A Lightweight Architecture for Small Target Detection in Drone Optical Sensors
+JF  - IEEE Sensors Journal
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11235500/
+PY  - 2025///
+AB  - … Abstract— We propose Swift-YOLO, a lightweight framework for small target detection in … On the VisDrone2019 dataset, Swift-YOLO achieves an average precision of 18.2% and …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 3 cites: https://scholar.google.com/scholar?cites=17236907550791781633&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 3
+ER  - 
+
+TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - … VIP, Architecture Patterns that seeks to make applications easily maintainable, modularized, and highly scalable. All of which are hallmarks of Clean Architecture. Architecture patterns …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - JOUR
+AU  - Shilpi, S
+AU  - Tyagi, N
+AU  - Khemka, S
+AU  - Chhibber, N
+AU  - ...
+TI  - An integrated architecture for detecting message-level failures across SWIFT, MQ, and Treasury channels
+JF  - … on Innovations and …
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5917702
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5917702
+PY  - 2025///
+AB  - … This paper presents a linked architecture that recognizes and … The architecture becomes fault detection at the earliest stage … architecture deployment over the artificially generated SWIFT…
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 5 cites: https://scholar.google.com/scholar?cites=16120095759745639826&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 5
+ER  - 
+
+TY  - BOOK
+AU  - Eidhof, C
+AU  - Gallagher, M
+AU  - Kugler, F
+TI  - App Architecture: iOS Application Design Patterns in Swift
+PB  - dl.acm.org
+DO  - 10.5555/3265461
+UR  - https://dl.acm.org/doi/abs/10.5555/3265461
+PY  - 2018///
+AB  - This book explains a range of application design patterns and their implementation techniques using a single example app, fully implemented in five design patterns. Instead of …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 4 cites: https://scholar.google.com/scholar?cites=8144288025327337744&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 4
+ER  - 
+
+TY  - JOUR
+AU  - Ye, W
+TI  - Strategic Architecture Choice in Cross-Border Payments: A Sovereign Utility Framework for CBDCs, Stablecoins, and SWIFT
+JF  - Stablecoins, and SWIFT (May 23, 2025)
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5266767
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=5266767
+PY  - 2025///
+AB  - … reliance on SWIFT and traditional correspondent banking). The governance architecture of a … Therefore, the utility of adopting a given stablecoin architecture cannot be assessed …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16282985520024802539&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - Ren, H
+AU  - Zhang, Z
+AU  - Wu, J
+TI  - Swift: A computationally-intensive dsp architecture for communication applications
+JF  - Mobile Networks and Applications
+PB  - Springer
+DO  - 10.1007/s11036-016-0717-5
+UR  - https://link.springer.com/article/10.1007/s11036-016-0717-5
+PY  - 2016///
+AB  - … a new DSP architecture named SWIFT for communication applications in SDR. The SWIFT is a … As a custom designed DSP, SWIFT can be easily modified to meet the requirements of …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 8 cites: https://scholar.google.com/scholar?cites=13801945941884985920&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 8
+ER  - 
+
+TY  - PDF
+AU  - Anderson, M
+AU  - Thompson, J
+AU  - Martinez, R
+AU  - Carter, E
+AU  - Paul, C
+TI  - Technical Architecture Differences Between SWIFT and Distributed Ledger Payment Platforms
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Charles-Paul-8/publication/400584441_Technical_Architecture_Differences_Between_SWIFT_and_Distributed_Ledger_Payment_Platforms/links/698961a3ca66ef6ab9916c53/Technical-Architecture-Differences-Between-SWIFT-and-Distributed-Ledger-Payment-Platforms.pdf
+UR  - https://www.researchgate.net/profile/Charles-Paul-8/publication/400584441_Technical_Architecture_Differences_Between_SWIFT_and_Distributed_Ledger_Payment_Platforms/links/698961a3ca66ef6ab9916c53/Technical-Architecture-Differences-Between-SWIFT-and-Distributed-Ledger-Payment-Platforms.pdf
+AB  - … the technical architecture differences between the traditional SWIFT financial messaging … SWIFT represents a centralized yet highly resilient messaging network designed for secure …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - JOUR
+AU  - Cipriani, M
+AU  - Goldberg, LS
+AU  - Spada, G La
+TI  - Financial sanctions, SWIFT, and the architecture of the international payment system
+JF  - Journal of Economic …
+PB  - aeaweb.org
+DO  - 10.1257/jep.37.1.31
+UR  - https://www.aeaweb.org/articles?id=10.1257/jep.37.1.31
+UR  - https://pubs.aeaweb.org/doi/pdf/10.1257/jep.37.1.31
+PY  - 2023///
+AB  - … SWIFT prevent sanctioned entities from accessing the SWIFT network. As we discuss below, because SWIFT … parallel systems that employ SWIFT standards. Furthermore, because …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 214 cites: https://scholar.google.com/scholar?cites=9556565114541799653&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 214
+ER  - 
+
+TY  - JOUR
+AU  - Frankiv, O
+AU  - Glybovets, M
+TI  - Automated visualization of program architecture components for the Swift language
+JF  - Cybernetics and Systems Analysis
+PB  - Springer
+DO  - 10.1007/s10559-024-00737-9
+UR  - https://link.springer.com/article/10.1007/s10559-024-00737-9
+PY  - 2024///
+AB  - … quality verification of the planned architecture. A more universal … architecture. The authors of this article developed a software package to automatically construct a program architecture …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 6 cites: https://scholar.google.com/scholar?cites=6284986611784613393&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 6
+ER  - 
+
+TY  - JOUR
+AU  - Xu, X
+AU  - Lv, Y
+AU  - Wang, L
+AU  - Xiao, L
+AU  - Han, M
+AU  - ...
+TI  - Swift-Sim: A Modular and Hybrid GPU Architecture Simulation Framework
+JF  - … Design, Automation & …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10992801/
+PY  - 2025///
+AB  - … a bit from architecture to architecture. We observe that Swift-Sim maintains high accuracy across GPU architectures with significant variations in GPU configuration. We believe Swift-Sim …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - JOUR
+AU  - Sanjay, KA
+AU  - Sivakumar, S
+AU  - Shreya, SS
+AU  - ...
+TI  - ECOSTAR-Energy Conservation in Swift through Tiered Storage Architecture
+JF  - … on Cloud Computing …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9499975/
+PY  - 2020///
+AB  - … as improve the performance of the storage architecture by exploiting the advantages of multiple storage devices. We have modeled the ECOSTAR architecture for OpenStack Swift [10] …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 1 cites: https://scholar.google.com/scholar?cites=15260686487639780293&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - PDF
+AU  - Amores, PC
+TI  - A real case of a cognitive multiplayer game: design and development of the iOS client in Swift and its cloud architecture
+PB  - oa.upm.es
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+PY  - 2015///
+AB  - … technologies is explained paying special attention to Swift (Apple’s new programming language, that … bugs) and the VIPER architecture (a SOLID architecture that enforces separation of …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - JOUR
+AU  - Sproll, V
+AU  - Handl, M
+AU  - Hiesgen, R
+AU  - Friedrich, KA
+AU  - ...
+TI  - Membrane architecture with ion-conducting channels through swift heavy ion induced graft copolymerization
+JF  - Journal of Materials …
+PB  - pubs.rsc.org
+UR  - https://pubs.rsc.org/ta/article-abstract/5/47/24826/630081
+UR  - https://pubs.rsc.org/ta/article/5/47/24826/630081
+PY  - 2017///
+AB  - … membranes and the influence of polymer architecture on the final membrane performance … aligned in the through-plane direction prepared by swift heavy ion (SHI) irradiation of an …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 12 cites: https://scholar.google.com/scholar?cites=13067950825932659477&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 12
+ER  - 
+
+TY  - JOUR
+AU  - Jain, P
+AU  - Datt, A
+AU  - Goel, A
+AU  - Gupta, SC
+TI  - Cloud service orchestration based architecture of OpenStack Nova and Swift
+JF  - … International Conference on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7732425/
+PY  - 2016///
+AB  - … architecture of OpenStack Nova and Swift in conformance to layered architecture defined for … orchestration component of the NIST cloud computing reference architecture. The proposed …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 14 cites: https://scholar.google.com/scholar?cites=17178663560591316998&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 14
+ER  - 
+
+TY  - JOUR
+AU  - Golden, DS
+TI  - The Architecture of American Financial Power: SWIFT, Dollar Hegemony, and Global Trade Governance
+JF  - The Architecture of American Financial Power: SWIFT …
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6988498
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=6988498
+PY  - 2026///
+AB  - … architecture developed and sustained by the United States. At the center of this architecture … Society for Worldwide Interbank Financial Telecommunication (SWIFT), and the institutional …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - CITATION
+AU  - Finch, A
+AU  - Sharma, P
+AU  - Thorne, M
+TI  - Designing Robust Enterprise Payment Systems: A Unified Architecture for ACH, Automated Batch Operations, and SWIFT Messaging
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - CITATION
+AU  - Nandury, SV
+AU  - Begum, BA
+TI  - SWIFT-A Platform Architecture for Smart Cities
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - JOUR
+AU  - Kaur, I
+AU  - Saini, KS
+AU  - Khaira, JS
+TI  - Fog integrated novel architecture for telehealth services with swift medical delivery
+JF  - Fog, Edge, and Pervasive …
+PB  - Wiley Online Library
+DO  - 10.1002/9781119670087.ch15
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119670087.ch15
+PY  - 2020///
+AB  - Nowadays, the implementation of the Internet of Things (IoT) is very prominent and used widely for an enormous number of applications with automation using sensor devices and …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 4 cites: https://scholar.google.com/scholar?cites=15713667411011516633&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 4
+ER  - 
+
+TY  - BOOK
+AU  - Dumas, MN
+TI  - Sex-specific genetic architecture and fitness consequences of subtly dimorphic traits in the long-lived Alpine swift
+PB  - ruor.uottawa.ca
+UR  - https://ruor.uottawa.ca/items/85d507e9-1a05-4aea-adee-229e454d255b
+UR  - https://ruor.uottawa.ca/bitstreams/72b219f0-0abc-4ae0-a96b-319c687a3765/download
+PY  - 2024///
+AB  - … approach to investigate how shared genetic architecture may drive sex-specific … swift Tachymarptis melba. I first quantified SD in morphometric traits and suggest that the Alpine swift is …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - HTML
+AU  - Dumas, M
+AU  - Martin, J
+AU  - Bize, P
+TI  - Shared genetic architecture and sex-specific fitness consequences of forked tails in the Alpine swift Tachymarptis melba
+PB  - osf.io
+UR  - https://osf.io/preprints/osf/b4y2v
+UR  - https://osf.io/preprints/osf/b4y2v
+PY  - 2024///
+AB  - … Using over 20 years of data on the Alpine swift, we investigated … In the Alpine swift, fork length shows moderate sexual … effectively the same genetic architecture expressed in both sexes. …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8116259042072438423&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 2
+ER  - 
+
+TY  - CITATION
+AU  - Penchala, SK
+TI  - Functional Programming Paradigms in Mobile Streaming Architecture: A Technical Analysis of Swift-Based Real-Time Systems.
+JF  - Journal of International Crisis &Risk Communication …
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1736958236948400090&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Chopenko, D
+TI  - Institutional Architecture of Regional Payment Unions as Alternatives to SWIFT and the IMF
+JF  - Актуальні питання економічних наук
+PB  - a-economics.com.ua
+UR  - http://a-economics.com.ua/index.php/home/article/view/1107
+UR  - http://a-economics.com.ua/index.php/home/article/download/1107/1090
+PY  - 2026///
+AB  - … of regional payment unions as alternative or complementary mechanisms to SWIFT and the IMF in the context of structural changes in global monetary and financial architecture. …
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9888770381918816024&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 1
+ER  - 
+
+TY  - PDF
+AU  - Burnett, M
+AU  - Garcia-Sandoval, ME
+AU  - Adebajo, KO
+AU  - ...
+TI  - AIRFRAME ARCHITECTURE AND DESIGN OF THE SWIFT-UAV: AN OPEN-SOURCE 20 KG-CLASS 3D-PRINTED FIXED-WING RESEARCH PLATFORM
+JF  - cse.sc.edu
+UR  - https://cse.sc.edu/~adowney2/publications/peer_reviewed_conference/Burnett2026AirframeArchitectureDesign.pdf
+UR  - https://cse.sc.edu/~adowney2/publications/peer_reviewed_conference/Burnett2026AirframeArchitectureDesign.pdf
+AB  - … These views highlight the airframe architecture and the intended emphasis on … the SWIFT-UAV platform. Section 3 describes the methodology used to develop the airframe architecture …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - JOUR
+AU  - Marchis, ETC
+TI  - … in some drawings related to projected buildings in Turin between the two wars of'900. Light, practical, ephemeral and swift: gas station and futurist architecture.
+JF  - The reasons of drawing. Thought, Shape and Model in …
+PB  - iris.polito.it
+UR  - https://iris.polito.it/handle/11583/2664639
+PY  - 2016///
+AB  - … Among the works of the Italian Fascist “ventennio” just a few examples of minor architecture demonstrate the attainment of these ideals. The gas service stations, are buildings born by …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - CITATION
+AU  - Cacheaux, R
+AU  - Berlin, J
+TI  - Advanced IOS App Architecture: Real-world App Architecture in Swift
+PB  - Razeware
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10439844347024418998&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - BOOK
+AU  - Matějka, M
+TI  - Programovací jazyk Swift a jeho zařazení do výuky podle metodiky Architecture First
+PB  - theses.cz
+UR  - https://theses.cz/id/e22g8f/
+PY  - 2016///
+AB  - … The main topic of this bachelors thesis is transfer of frameworks into the Swift … Swift code and some programming designs the Swift language. The second part analyses the Architecture …
+M1  - Query date: 2026-09-24 01:12:05
+ER  - 
+
+TY  - CITATION
+AU  - Berlin, J
+AU  - Team, RT
+TI  - Advanced IOS App Architecture: Real-World App Architecture in Swift
+PB  - Razeware LLC
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8390102011169647200&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Gandhi, J
+AU  - Mark, D
+TI  - … : Exceeding the Best of Nested and Shadow Paging. In 2016 ACM/IEEE 43rd Annual International Symposium on Computer Architecture (ISCA). 707–718
+PY  - 2016///
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9005932070961024287&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - CITATION
+AU  - Olloqui, AG
+TI  - Playtomic's shared architecture using Swift and Kotlin
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16917317669308687018&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - CITATION
+AU  - Raymond, L
+TI  - Clean swift ios architecture for fixing massive view controller
+PY  - 2015///
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 3 cites: https://scholar.google.com/scholar?cites=12298131719836874622&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - CITATION
+AU  - Oulladi, S El
+TI  - iOS Swift: MVP Architecture
+JF  - octubre de
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:12:05
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3959930969323116507&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+

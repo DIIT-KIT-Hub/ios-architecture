@@ -1,0 +1,1594 @@
+﻿TY  - BOOK
+AU  - Fadda, M
+TI  - An iOS Developer's Guide to SwiftUI: Design and build beautiful apps quickly and easily with minimum code
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=mer-EAAAQBAJ&oi=fnd&pg=PP1&dq=swiftui&ots=Cfl_W0Kecy&sig=thlXT7gL7QA8XOWlmDdsL13jNgU
+PY  - 2024///
+AB  - … Not all of these types of projects are relevant to SwiftUI, so we will limit ourselves to Swift as a language and SwiftUI as a UI framework. In the past, the only supported language for app …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 6 cites: https://scholar.google.com/scholar?cites=7167109337224422649&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 6
+ER  - 
+
+TY  - JOUR
+AU  - Vanaparthi, RK
+TI  - From UIKit to SwiftUI: A Quantitative Analysis of Migration Strategies for Large-Scale Financial Applications
+JF  - 2026 IEEE 5th International Conference on AI …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11395797/
+PY  - 2026///
+AB  - … Also we saw the shift to SwiftUI which puts us in a better future position.SwiftUI’s design is to run smoothly across all Apple platforms (iOS, iPadOS, macOS, watchOS, tvOS) from a single …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3608757179202763608&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 1
+ER  - 
+
+TY  - BOOK
+AU  - Barker, C
+TI  - Learn SwiftUI: An introductory guide to creating intuitive cross-platform user interfaces using Swift 5
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=t1TbDwAAQBAJ&oi=fnd&pg=PP1&dq=swiftui&ots=rZ33r3Ropv&sig=1w8jVGd-3cokYYJ-DnLb8KW4-Hc
+PY  - 2020///
+AB  - … calls in SwiftUI to retrieve data from external sources Who this book is for This SwiftUI book helps any mobile app developer looking to understand the fundamentals of the new SwiftUI …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 9 cites: https://scholar.google.com/scholar?cites=14746697953062743522&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 9
+ER  - 
+
+TY  - BOOK
+AU  - Smyth, N
+TI  - SwiftUI Essentials-iOS Edition
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=4jzADwAAQBAJ&oi=fnd&pg=PT13&dq=swiftui&ots=Z5vmEAtyju&sig=20dxei5jtRyfeK8z8x90Wlsm6pU
+PY  - 2019///
+AB  - … SwiftUI within a playground, this requires some additional steps that involve integrating SwiftUI … of the features of playgrounds when developing with SwiftUI. As will be discussed later, it …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 5 cites: https://scholar.google.com/scholar?cites=4833832602271608563&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 5
+ER  - 
+
+TY  - BOOK
+AU  - Friese, P
+TI  - Asynchronous Programming with SwiftUI and Combine
+PB  - Springer
+DO  - 10.1007/978-1-4842-8572-5
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-8572-5.pdf
+PY  - 2023///
+AB  - … Seeing how much Apple is betting on SwiftUI by introducing new … to use SwiftUI and how much more great SwiftUI-related … the SwiftUI landing page3 specifically mentions that “SwiftUI …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7779006209763982282&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - BOOK
+AU  - Sharma, M
+TI  - iOS Development with SwiftUI: Acquire the Knowledge and Skills to Create iOS Applications Using SwiftUI, Xcode 13, and UIKit (English Edition)
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=Uj9ZEAAAQBAJ&oi=fnd&pg=PT23&dq=swiftui&ots=udUxGj7e7X&sig=y0Jasx68BswytQ1CnE9VDtnPhCA
+PY  - 2022///
+AB  - … The objective of this chapter is to explain SwiftUI, SwiftUI architecture, and technical requirements to run the SwiftUI on macOS. For this book, our focus is on developing iOS …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12845649568039533105&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - Edge, C
+AU  - Rennich, J
+AU  - Bannister, J
+TI  - SwiftUI
+JF  - Mastering Swift: An Introduction to Swift …
+PB  - Springer
+DO  - 10.1007/979-8-8688-2770-9_1
+UR  - https://link.springer.com/chapter/10.1007/979-8-8688-2770-9_1
+PY  - 2026///
+AB  - … , which means developers tell SwiftUI what the user interface should look like, and SwiftUI, in a … But we’ll stick primarily with SwiftUI in this book. A few other reasons to consider SwiftUI: …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Lee, WM
+TI  - SwiftUI For Dummies
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=hnT3DwAAQBAJ&oi=fnd&pg=PR1&dq=swiftui&ots=IMgZPYZzgG&sig=36QwGPsrO16qdnxtg8PA1J0MGfE
+PY  - 2020///
+AB  - … SwiftUI is, show you how SwiftUI has changed the user interface (UI) development paradigm, and explain how SwiftUI … create your first iOS application using SwiftUI, and learn how the …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3254555468370004856&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - PDF
+AU  - Zarzar, AV
+AU  - Gama, K
+TI  - Componentes de UI acessıveis: aprimoramento de um pacote inclusivo em SwiftUI
+PB  - cin.ufpe.br
+UR  - https://www.cin.ufpe.br/~tg/2023-2/TGs_CC/tg_avz.pdf
+UR  - https://www.cin.ufpe.br/~tg/2023-2/TGs_CC/tg_avz.pdf
+PY  - 2023///
+AB  - Mobile devices have become an essential part of the daily lives of countless individuals. It is essential to make user interfaces accessible to a diverse audience. However, it is not …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14172834022195447875&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Babayev, N
+TI  - The Challenges and Possibilities of Using VIPER Architecture in SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/806261
+UR  - https://www.theseus.fi/bitstream/handle/10024/806261/Babayev_Natig.pdf?sequence=2
+PY  - 2023///
+AB  - … of using SwiftUI in established iOS … the SwiftUI framework while leveraging existing business logic. This study contributes to the knowledge base surrounding the adaptation of SwiftUI in …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1202005664741306575&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - JOUR
+AU  - Kamdi, S
+AU  - Liu, A
+TI  - A study of the development framework followed to integrate the Shopify SDK in an iOS app, built using SwiftUI
+JF  - 2025 International Conference on Software …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11155241/
+PY  - 2025///
+AB  - This paper aims to provide a framework that industry practitioners can use to build their iOS apps using the services provided by Shopify’s iOS SDK. It dives deeply into the Application …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12616756995148191827&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Kamdi, S
+TI  - A Study on Developing a Robust Screen Navigation Pattern for SwiftUI Based iOS Applications
+JF  - 2025 11th International Conference on Engineering …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11088205/
+PY  - 2025///
+AB  - … -day declarative apps built using SwiftUI. It will … SwiftUI navigation system can be turned into a global service to facilitate the redirection of new screens with iOS apps built using SwiftUI…
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=2446249699145993177&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … applied to a news reader app written in SwiftUI. The comparison is based on five architectural … that can be used in small to medium SwiftUI applications. VIPER has additional overhead …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - BOOK
+AU  - Vdovenko, D
+AU  - Seidykh, O
+TI  - New iOS features for developers: SwiftData, SwiftUI 3.0, WidgetKit, App Intents
+PB  - dspace.nuft.edu.ua
+UR  - https://dspace.nuft.edu.ua/items/7432c34a-0dd7-428e-bfa3-4eb0e1659d60
+PY  - 2025///
+AB  - … with SwiftUI, allowing you to work with data declaratively. … SwiftUI 3.0 develops a declarative approach to interface creation. New … SwiftUI supports universal interfaces for the entire Apple …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Neto, SBDS
+AU  - Gama, K
+TI  - Accessiblepreview: Facilitating the implementation and visualization of accessibility in mobile applications developed with swiftui
+JF  - 2025 IEEE/ACM 12th International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11024531/
+PY  - 2025///
+AB  - This study addresses the challenges of integrating accessibility into the development of mobile applications, particularly within the iOS ecosystem. Despite the availability of accessibility …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4687585165036566204&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - BOOK
+AU  - BELTRANTE, M
+TI  - Assessing LLM capabilities in mobile UI Code Conversion: A SwiftUI and Jetpack Compose comparative study
+PB  - politesi.polimi.it
+UR  - https://www.politesi.polimi.it/handle/10589/227660
+PY  - 2024///
+AB  - This thesis explores the use of Large Language Models to automate the translation of applications between two major mobile development frameworks: SwiftUI (for iOS using Swift) and …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=17531249111786198652&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - JOUR
+AU  - Gao, Y
+AU  - Hu, X
+AU  - Yang, X
+AU  - Xia, X
+TI  - GUIMigrator: Semantics-Preserving Transpilation from Android XML to Compose and SwiftUI
+JF  - Proceedings of the ACM on Software …
+PB  - dl.acm.org
+DO  - 10.1145/3808215
+UR  - https://dl.acm.org/doi/abs/10.1145/3808215
+UR  - https://dl.acm.org/doi/pdf/10.1145/3808215
+PY  - 2026///
+AB  - … and (ii) support iOS with SwiftUI to reach more users. The … XML expresses layouts imperatively while SwiftUI/Compose adopt … like ConstraintLayout have no direct counterpart in SwiftUI. …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Ronneling, B
+TI  - Performance analysis of swiftui and uikit: A comparison of cpu time and memory usage for common user interface elements
+PB  - KTH Royal Institute of Technology
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 4 cites: https://scholar.google.com/scholar?cites=9272565581864901920&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 4
+ER  - 
+
+TY  - CITATION
+AU  - Loor, J
+TI  - Evaluating Cognitive Dimensions when applied to the user interface framework SwiftUI
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=7908013627975037367&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - PDF
+AU  - Finlay, A
+TI  - Minesweeper and SwiftUI–My Process of Becoming a Better Developer
+PB  - scholarsbank.uoregon.edu
+UR  - https://scholarsbank.uoregon.edu/server/api/core/bitstreams/8b9b9e22-60d5-48cf-8c6e-80fb378086f5/content
+UR  - https://scholarsbank.uoregon.edu/server/api/core/bitstreams/8b9b9e22-60d5-48cf-8c6e-80fb378086f5/content
+PY  - 2025///
+AB  - This thesis is the compliment to a Minesweeper app that was developed in Swift, over the course of 5 months. It details my journey of learning a new programming language, designing …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Jung, H
+AU  - Seo, N
+TI  - Modern IOS App Development with SwiftUI and Combine: A Declarative Approach to UI and State
+JF  - media.neliti.com
+UR  - https://media.neliti.com/media/publications/714473-modern-ios-app-development-with-swiftui-fdf2d878.pdf
+AB  - … shift with the introduction of SwiftUI and Combine, … SwiftUI and Combine, focusing on how these technologies enable a more intuitive, maintainable, and scalable architecture. SwiftUI …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Kubiak, T
+TI  - From UIKit to SwiftUI: a reproducible protocol and a priori typology for open-source iOS application migration
+JF  - American Impact Review
+PB  - americanimpactreview.com
+UR  - https://americanimpactreview.com/article/e2026068
+UR  - https://americanimpactreview.com/articles/e2026068.pdf
+PY  - 2026///
+AB  - … The resulting transition is observable in repositories as a mixture of new SwiftUI code, … SwiftUI for new functionality, may isolate a SwiftUI module behind a UIKit route, or may be SwiftUI-…
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Bobrowski, W
+TI  - Multiplatform Stack Exchange Network Application for Apple Platforms Developed in Swift using SwiftUI framework
+PY  - 2022///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Wiertel, P
+AU  - Skublewska-Paszkowska, M
+TI  - Comparative analysis of UIKit and SwiftUI frameworks in iOS system
+JF  - Journal of Computer Sciences …
+PB  - ph.pollub.pl
+UR  - https://ph.pollub.pl/index.php/jcsi/article/view/2662
+UR  - https://ph.pollub.pl/index.php/jcsi/article/download/2662/2478
+PY  - 2021///
+AB  - … comparison of SwiftUI and UIKit frameworks, used in iOS application development. SwiftUI was … The defined thesis "SwiftUI is more time efficient for applications with data collection and …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 9 cites: https://scholar.google.com/scholar?cites=11584570441736960800&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 9
+ER  - 
+
+TY  - BOOK
+AU  - Carli, S De
+TI  - Build Mobile Apps with SwiftUI and Firebase: Learn SwiftUI and Firebase by Building Real-World Applications Communicating with a Backend
+PB  - Springer
+DO  - 10.1007/978-1-4842-9452-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9452-9
+PY  - 2023///
+AB  - … using SwiftUI in conjunction with Google’s Firebase backend to post and retrieve data, authenticate users, and store data securely. You’ll use SwiftUI … With an intro to Xcode and SwiftUI, …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 3 cites: https://scholar.google.com/scholar?cites=7687481298704587874&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 3
+ER  - 
+
+TY  - JOUR
+AU  - Kovács, M
+AU  - Bolla, KM
+TI  - A Comparison of UIKit and SwiftUI in iOS Development
+JF  - 2025 MIPRO 48th ICT and Electronics …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11132029/
+PY  - 2025///
+AB  - … Our tutorial aims to bring together the features of the UIKit and SwiftUI … for SwiftUI than for the older UIKit framework. In the analysis, we first describe the features of UIKit and then SwiftUI…
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Chai, F
+AU  - Lie, ZS
+AU  - Dharma, HRC
+TI  - Japanese Language Learning Application Development Using SwiftUI on iPhone Devices
+JF  - … on ICT for Smart Society (ICISS …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11389629/
+UR  - https://www.academia.edu/download/131910130/revised_Japanese_Language_Learning_Application_Development_Using_SwiftUI_On_iPhone_Devices.pdf
+PY  - 2025///
+AB  - Many apps available are not useful for professional use, especially in reading, listening, and speaking features. This research proposes the development of an iOS app with SwiftUI …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Čeko, D
+TI  - USPOREDBA UIKIT I SWIFTUI OKVIRA ZA RAZVOJ KORISNIČKIH SUČELJA
+PB  - repozitorij.svkst.unist.hr
+UR  - https://repozitorij.svkst.unist.hr/object/fesb:1852
+PY  - 2024///
+AB  - … razvojnog okvira SwiftUI omogućuje … SwiftUI koji pruža bolje iskustvo razvoja korisničkih sučelja. Za sve funkcionalnosti koje se još uvijek ne mogu ostvariti korištenjem isključivo SwiftUI …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - PDF
+AU  - Pietikäinen, J
+TI  - Deklaratiivinen sovelluskehitys SwiftUI-ohjelmistokehyksen avulla
+PB  - theseus.fi
+UR  - https://www.theseus.fi/bitstream/handle/10024/799198/Pietikainen_Jari.pdf?sequence=2
+UR  - https://www.theseus.fi/bitstream/handle/10024/799198/Pietikainen_Jari.pdf?sequence=2
+PY  - 2023///
+AB  - … SwiftUI and imperative UIKit frameworks in native iOS application development, which revealed how SwiftUI … The results of the work showed that SwiftUI is an efficient and innovative …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Клишевич, ИА
+TI  - SwiftUI
+PB  - elib.belstu.by
+UR  - https://elib.belstu.by/bitstream/123456789/53169/1/%D0%9A%D0%BB%D0%B8%D1%88%D0%B5%D0%B2%D0%B8%D1%87_SwiftUI.pdf
+PY  - 2022///
+AB  - … В ходе работы была поставлена цель продемонстрировать возможности молодого фреймворка от Apple–SwiftUI, который предлагает решать знакомые задачи новым …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Cahill, B
+TI  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2
+UR  - https://link.springer.com/book/10.1007/978-1-4842-6449-2?source=shoppingads&locale=en-jp
+PY  - 2021///
+AB  - … from Storyboards to SwiftUI to design dynamic and engaging UIs for iOS apps. SwiftUI is new … nib/xib files and Storyboards and then move into SwiftUI and explore how to design apps in …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 7 cites: https://scholar.google.com/scholar?cites=14133505871277288310&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 7
+ER  - 
+
+TY  - BOOK
+AU  - Wang, W
+TI  - Pro IPhone Development with SwiftUI: Design and Manage Top Quality Apps
+PB  - Springer
+DO  - 10.1007/978-1-4842-9544-1
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9544-1?source=shoppingads&locale=en-jp
+PY  - 2022///
+AB  - … the Swift programming language with SwiftUI. New chapters … hood but with the new standard of SwiftUI, you'll add animations, … Pro iPhone Development with SwiftUI explains how to give …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 5 cites: https://scholar.google.com/scholar?cites=5569054316614901723&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 5
+ER  - 
+
+TY  - JOUR
+AU  - Hyunwoo, J
+AU  - Nari, S
+TI  - Modern IOS App Development with SwiftUI and Combine: A Declarative Approach to UI and State
+JF  - American Journal of Engineering …
+PB  - eprints.umsida.ac.id
+UR  - http://eprints.umsida.ac.id/16183/
+UR  - http://eprints.umsida.ac.id/16183/1/113-123%2BModern%2BIOS%2BApp%2BDevelopment%2Bwith%2BSwiftUI%2Band%2BCombine.pdf
+PY  - 2023///
+AB  - … shift with the introduction of SwiftUI and Combine, … SwiftUI and Combine, focusing on how these technologies enable a more intuitive, maintainable, and scalable architecture. SwiftUI …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - SwiftUI, L
+AU  - Building, F by
+AU  - Carli, S De
+TI  - Build Mobile Apps with SwiftUI and Firebase
+JF  - Springer
+DO  - 10.1007/978-1-4842-9452-9
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9452-9.pdf
+AB  - I am going to introduce you to the Firebase console and how to create a new project and connect an iOS application. We will cover what is Firebase, why we are selecting this backend …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Sillmann, T
+TI  - Einstieg in SwiftUI: User Interfaces erstellen für macOS, iOS, watchOS und tvOS. Inkl. Updates zum Buch
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=hn3-DwAAQBAJ&oi=fnd&pg=PR7&dq=swiftui&ots=rN73JA5i3R&sig=qI3cToMKH1tngT5IzNyJo_uB8AY
+PY  - 2020///
+AB  - … SwiftUI nicht primär darum, einmalig Views zu generieren, die auf allen Apple-Plattformen laufen. Stattdessen stellt SwiftUI … speziell für SwiftUI in seine IDE, mit dem SwiftUI-Framework …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - PDF
+AU  - Thomas, LT
+TI  - SITA anonymizer: a swiftUI-based tool for data anonymization
+PB  - repositorio.pucrs.br
+UR  - https://repositorio.pucrs.br/dspace/bitstream/10923/28398/1/2025_1_LUANA_TAIS_THOMAS_TCC.pdf
+UR  - https://repositorio.pucrs.br/dspace/bitstream/10923/28398/1/2025_1_LUANA_TAIS_THOMAS_TCC.pdf
+PY  - 2025///
+AB  - … aligning the visual structure before implementation in SwiftUI.SwiftUI: SwiftUI is Apple’s declarative … In this project, SwiftUI was used to build the entire interface for macOS and iPadOS, …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Honda, GNT
+AU  - Frigo, PM
+AU  - Cheung, VSN
+AU  - Chisman, VK
+TI  - Aplicação para uso de teste A/B em aplicativos mobile nativos em swiftUI
+PB  - dspace.mackenzie.br
+UR  - https://dspace.mackenzie.br/items/54ba52b9-b53a-4594-be00-da6a3388ebc5
+UR  - https://dspace.mackenzie.br/bitstreams/59bd04ea-6455-4099-9ea0-2f626c24da53/download
+PY  - 2023///
+AB  - Em um ambiente digital de frequente evolução, empresas têm a necessidade de aprimorar seus produtos para se destacar no mercado. Uma das técnicas que auxiliam nisso é o uso …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Dias, TP
+TI  - Development of a piano learning application in the iOS ecosystem: integration between swiftUI and MVVM
+PB  - lume.ufrgs.br
+UR  - https://lume.ufrgs.br/handle/10183/313071
+UR  - https://lume.ufrgs.br/bitstream/handle/10183/313071/001312230.pdf?sequence=1
+PY  - 2026///
+AB  - … In the present project, SwiftUI was adopted to reduce boilerplate complexity, improve code testability, and establish a foundation that scales naturally to future work and to other devices …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - PDF
+AU  - Wiertel, P
+AU  - ...
+TI  - Analiza porównawcza szkieletów programistycznych UIKit i SwiftUI w systemie iOS
+JF  - Journal of Computer …
+PB  - bibliotekanauki.pl
+UR  - https://bibliotekanauki.pl/articles/1837845.pdf
+UR  - https://bibliotekanauki.pl/articles/1837845.pdf
+PY  - 2021///
+AB  - … comparison of SwiftUI and UIKit frameworks, used in iOS application development. SwiftUI was … The defined thesis "SwiftUI is more time efficient for applications with data collection and …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10196588148617374568&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - HTML
+AU  - Маркова, АА
+TI  - СРАВНИТЕЛЬНЫЙ АНАЛИЗ ФРЕЙМВОРКОВ SWIFTUI И UIKIT ПРИ РАЗРАБОТКЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ ДЛЯ IOS
+JF  - Вестник науки
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/sravnitelnyy-analiz-freymvorkov-swiftui-i-uikit-pri-razrabotke-mobilnyh-prilozheniy-dlya-ios
+UR  - https://cyberleninka.ru/article/n/sravnitelnyy-analiz-freymvorkov-swiftui-i-uikit-pri-razrabotke-mobilnyh-prilozheniy-dlya-ios
+PY  - 2026///
+AB  - … This article examines specific features of applying SwiftUI and UIKit frameworks in mobile application … It was found that SwiftUI reduces development time, decreases code volume due to …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Натур, МВ
+TI  - ИСПОЛЬЗОВАНИЕ ВОЗМОЖНОСТЕЙ ФРЕЙМОВОРКА SWIFTUI В СОВРЕМЕННОЙ МОБИЛЬНОЙ РАЗРАБОТКЕ ДЛЯ ПЛАТФОРМЫ iOS
+JF  - Наука в современном информационном обществе
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Натур, МВ
+TI  - КОНЦЕПЦИЯ РАБОТЫ ФРЕЙМВОРКА SWIFTUI ДЛЯ IOS РАЗРАБОТКИ. ПОСТРОЕНИЕ ДЕРЕВЬЕВ ПРЕДСТАВЛЕНИЯ И РЕНДЕРИНГА
+JF  - Фундаментальная наука и технологии …
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Mamedovs, M
+TI  - SwiftUI salīdzinājums ar iOS12 skatu izveides tēliem iOS lietotņu izstrādē
+PB  - dspace.lu.lv
+UR  - https://dspace.lu.lv/items/10b33a18-e92d-40b2-9e3c-1552fe0a47ab
+PY  - 2020///
+AB  - … gada beigās papildināja ar pavisam jaunu bibliotēku–SwiftUI… ieviests trīs veidos–ar SwiftUI, izmantojot skatu būvētāju un … iOS saskarnes izstrādes nākotne ir tieši SwiftUI, kas ir ātrāka, …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Wang, W
+TI  - Beginning IPhone Development with SwiftUI: Exploring the IOS SDK
+PB  - Springer
+DO  - 10.1007/978-1-4842-9541-0
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9541-0
+PY  - 2022///
+AB  - Tame the power of Apple’s new user interface toolkit, SwiftUI. This revised and expanded Seventh Edition covers the basic information you need to get up and running quickly to turn …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4170793034904169703&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - CITATION
+AU  - ЧОРНОНОГ, С
+TI  - ДОСЛІДЖЕННЯ ПРОБЛЕМИ МІГРАЦІЇ MVVM АРХІТЕКТУРИ НА СУЧАСНІ IOS-ДОДАТКИ ПОБУДОВАНІ НА SWIFTUI
+JF  - … : Computer Science, Software Engineering and Cyber …
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Nunkesser, R
+TI  - App Engineering: SwiftUI, Jetpack Compose,. NET MAUI und Flutter
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=nuphEAAAQBAJ&oi=fnd&pg=PR11&dq=swiftui&ots=6YiJR7tvnK&sig=lNBeB_ygPQYOsyXkmVj3NM04geI
+PY  - 2022///
+AB  - Apps haben spätestens seit Einführung des iPhones 2007 eine märchenhafte Erfolgsgeschichte hinter sich. Der Begriff App wurde mittels dieses Erfolgs und einer symbolisierten …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - 大津真
+TI  - SwiftUI ではじめる iPhone アプリプログラミング入門
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=fJPqDwAAQBAJ&oi=fnd&pg=PA2&dq=swiftui&ots=Pb7gwoD-BC&sig=dCPT-EPPmyYmESS7tqTYy0YUKj4
+PY  - 2020///
+AB  - … 本書は,そのSwiftUIを使用してiOSアプリを作成する方法を学ぶ… SwiftUIと連携させる方法な ど,内容 は多少高度になりますがぜひ挑戦していただければと思います. 最後に,本書が読者の皆様のSwiftUI…
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - PDF
+AU  - Шкурко, КЮ
+TI  - … анализ стратегий управления состоянием в реактивных мобильных архитектурах: MVI vs Redux-like подходы на примере Jetpack Compose и SwiftUI
+JF  - ББК 1 Н 34
+PB  - na-journal.ru
+UR  - https://na-journal.ru/pdf/nauchnyi_aspekt_1-2023_t11_web.pdf#page=66
+UR  - https://na-journal.ru/pdf/nauchnyi_aspekt_1-2023_t11_web.pdf#page=66
+AB  - … фреймворках Jetpack Compose и SwiftUI. Исследование охватывает период 2021–… declarative mobile frameworks Jetpack Compose and SwiftUI. The study covers the period 2021–…
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - PDF
+AU  - Imbugwa, G
+AU  - Enombe, E
+AU  - Saliu, H
+AU  - Mazzara, M
+TI  - SwiftUI: A Case Study of Code Quality Evaluation for Declarative Programming
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Manuel-Mazzara/publication/346580239_SwiftUI_A_Case_Study_of_Code_Quality_Evaluation_for_Declarative_Programming/links/5fc88b28299bf188d4ed05d2/SwiftUI-A-Case-Study-of-Code-Quality-Evaluation-for-Declarative-Programming.pdf
+UR  - https://www.researchgate.net/profile/Manuel-Mazzara/publication/346580239_SwiftUI_A_Case_Study_of_Code_Quality_Evaluation_for_Declarative_Programming/links/5fc88b28299bf188d4ed05d2/SwiftUI-A-Case-Study-of-Code-Quality-Evaluation-for-Declarative-Programming.pdf
+PY  - 2020///
+AB  - … SwiftUI, not much support has been provided in the area of static analysis. We embark on determining the capacity of static analysis tools as regards SwiftUI if … focus on SwiftUI as most of …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Nekrasov, A
+TI  - SwiftUI
+JF  - Swift Recipes for iOS Developers: Real-Life Code from …
+PB  - Springer
+DO  - 10.1007/978-1-4842-8098-0_8
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-8098-0_8
+PY  - 2022///
+AB  - … That’s why in this chapter, we’ll talk not only about SwiftUI but also about mixing two frameworks. … The purpose of this chapter is not to give a comprehensive SwiftUI course, it’s …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 3 cites: https://scholar.google.com/scholar?cites=5860324854661364873&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 3
+ER  - 
+
+TY  - PDF
+AU  - Strýček, Š
+TI  - SwiftUI komponenta pro výběr strukturovaného vstupu od uživatele na platformě iOS
+PB  - dspace.vut.cz
+UR  - https://dspace.vut.cz/bitstreams/9ab8e8e7-1850-4178-b680-6376f08dd4b5/download
+UR  - https://dspace.vut.cz/bitstreams/9ab8e8e7-1850-4178-b680-6376f08dd4b5/download
+PY  - 2022///
+AB  - Tato práce se zabývá návrhem a implementací komponenty uživatelského rozhraní pro lineární výběr hodnoty v daném intervalu. Návrh komponenty je prováděn s ohledem na …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - GIACCONE, N
+TI  - Second-hand SwiftUI Shop-Un e-commerce serverless con il riconoscimento automatico delle specifiche del dispositivo
+JF  - thesis.unipd.it
+UR  - https://thesis.unipd.it/handle/20.500.12608/10160
+UR  - https://thesis.unipd.it/bitstream/20.500.12608/10160/1/Giaccone_Nicolo.pdf
+AB  - La tesi descrive il lavoro che ho svolto durante il periodo di stage, della durata di circa trecento ore, presso l'azienda Zero12 SpA L'obbiettivo dello stage era la produzione di una …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Петрюк, АА
+TI  - РАЗРАБОТКА МОБИЛЬНОГО ПРИЛОЖЕНИЯ ДЛЯ ОТСЛЕЖИВАНИЯ ВЕЛОПОЕЗДОК С ИСПОЛЬЗОВАНИЕМ SWIFT И SWIFTUI
+JF  - ББК 72я431 П78
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Scalzo, G
+AU  - Nzokwe, E
+TI  - SwiftUI Cookbook
+PB  - f.letmeprint.ru
+UR  - https://f.letmeprint.ru/259907260-1e8696bd/fragment_11327885.pdf
+UR  - https://f.letmeprint.ru/259907260-1e8696bd/fragment_11327885.pdf
+PY  - 2021///
+AB  - Did you know that Packt offers eBook versions of every book published, with PDF and ePub les available? You can upgrade to the eBook version at packt. com and as a print book …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Чумиков, ИВ
+TI  - Миграция iOS-приложения с кроссплатформенного фреймворка на нативную архитектуру на SwiftUI: инженерный кейс
+JF  - Актуальные исследования
+PB  - ООО «АПНИ»
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12758982183943620888&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - BOOK
+AU  - Risek, N
+TI  - Izrada iOS aplikacije korištenjem okvira SwiftUI primjenom uzorka dizajna MVVM
+PB  - zir.nsk.hr
+UR  - https://zir.nsk.hr/object/foi:8672
+UR  - https://zir.nsk.hr/object/foi:8672/FILE0/download
+PY  - 2025///
+AB  - Tema ovog rada je izrada iOS aplikacije korištenjem okvira SwiftUI, primjenom arhitekturalnog uzorka dizajna MVVM. U radu će biti opisano integrirano razvojno okruženje za razvoj …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - PDF
+AU  - Чумак, ОВ
+AU  - Богач, ІВ
+TI  - Локалізація мобільних застосунків на IOS за допомогою SwiftUI та нового формату Localizable. xcstrings
+PB  - ir.lib.vntu.edu.ua
+UR  - https://ir.lib.vntu.edu.ua/bitstream/handle/123456789/48239/25423.pdf?sequence=3&isAllowed=y
+UR  - https://ir.lib.vntu.edu.ua/bitstream/handle/123456789/48239/25423.pdf?sequence=3&isAllowed=y
+PY  - 2025///
+AB  - У роботі розглянуто сучасний підхід до локалізації мобільних застосунків, розроблених за допомогою SwiftUI, з використанням нового формату Localizable.xcstrings. Порівняно …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Lage, SR
+AU  - Shrestha, P
+TI  - SwiftUI, Human Interface Guidelines, and Widget Family
+JF  - Getting Started with WidgetKit: Create Widgets for …
+PB  - Springer
+DO  - 10.1007/978-1-4842-7042-4_2
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-7042-4_2
+PY  - 2021///
+AB  - Now that you have a general idea about WidgetKit, you can move forward to learn about some basic building blocks of a widget. In this chapter, you will learn about some views of …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8797991092667075376&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - JOUR
+AU  - Varma, J
+TI  - What Is SwiftUI
+JF  - SwiftUI for Absolute Beginners: Program Controls and …
+PB  - Springer
+DO  - 10.1007/978-1-4842-5516-2_1
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-5516-2_1
+PY  - 2019///
+AB  - … In this chapter, we'll review the principles of SwiftUI and why it came into being. You'll see the advantages that it offers over traditional methodologies of development and how easy it …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 5 cites: https://scholar.google.com/scholar?cites=14208103351768509448&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 5
+ER  - 
+
+TY  - PDF
+AU  - Badrov, J
+TI  - Migracija postojećih aplikacija za iOS na SwiftUI razvojni okvir
+PB  - repozitorij.unizg.hr
+UR  - https://repozitorij.unizg.hr/object/foi:7675/FILE0/download
+UR  - https://repozitorij.unizg.hr/object/foi:7675/FILE0/download
+PY  - 2023///
+AB  - U ovom završnom radu opisuje se proces migracije postojećeg programskog rješenja iz UIKit storyboards u SwiftUI razvojni okvir. Prije početka izrade praktičnog dijela, objašnjen je …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Вдовенко, ДО
+AU  - Сєдих, ОЛ
+TI  - Розробка IOS-застосунку AI Travel Assistant на базі SwiftUI та штучного інтелекту
+PB  - dspace.nuft.edu.ua
+UR  - https://dspace.nuft.edu.ua/items/062d1d56-888b-494f-97c2-cc320b81ef97
+UR  - https://dspace.nuft.edu.ua/server/api/core/bitstreams/c2c90476-bf54-4dbb-8fab-a00a27405d87/content
+PY  - 2025///
+AB  - У тезах розглядається створення інтелектуального iOS-застосунку" I Travel ssistant", що надає персоналізовані рекомендації для дозвілля. Підкреслюється актуальність …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - PDF
+AU  - Гукемухова, БМ
+AU  - Чомаев, ШР
+TI  - Проблемы внедрения нового фреймворка SwiftUI для разработки приложений на устройства Apple
+JF  - Тенденции развития науки и …
+PB  - doicode.ru
+UR  - https://doicode.ru/doifile/lj/67/lj-11-2020-07.pdf
+UR  - https://doicode.ru/doifile/lj/67/lj-11-2020-07.pdf
+PY  - 2020///
+AB  - … в сравнении инструментов SwiftUI и UIKit. Проанализировав все возможности SwiftUI и … Но в то же время, SwiftUI является наилучшим инструментом для разработки pet - …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Бондарєва, ВО
+TI  - iOS-додаток «Sentiment Analyzer» з використанням Core ML та SwiftUI
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Imbugwa, GB
+AU  - Araújo, LJP
+AU  - Khazeev, M
+AU  - ...
+TI  - A case study comparing static analysis tools for evaluating SwiftUI projects
+JF  - Journal of Physics …
+PB  - iopscience.iop.org
+DO  - 10.1088/1742-6596/2134/1/012022
+UR  - https://iopscience.iop.org/article/10.1088/1742-6596/2134/1/012022/meta
+UR  - https://iopscience.iop.org/article/10.1088/1742-6596/2134/1/012022/pdf
+PY  - 2021///
+AB  - … for mobile applications written in SwiftUI, for example. This study … In this study, the authors focus on SwiftUI for mobile … the real-world projects written in SwiftUI used as a benchmark. It …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 5 cites: https://scholar.google.com/scholar?cites=7988215360014731797&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 5
+ER  - 
+
+TY  - BOOK
+AU  - Varma, J
+TI  - SwiftUI for Absolute Beginners
+PB  - Springer
+DO  - 10.1007/978-1-4842-5516-2
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-5516-2.pdf
+PY  - 2019///
+AB  - … In this chapter, we'll review the principles of SwiftUI and why it came into being. You'll see the advantages that it offers over traditional methodologies of development and how easy it …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 6 cites: https://scholar.google.com/scholar?cites=819606050868016881&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 6
+ER  - 
+
+TY  - JOUR
+AU  - Enombe, E
+AU  - Imbugwa, GB
+AU  - Saliu, H
+AU  - Khazeev, M
+AU  - ...
+TI  - A case study comparing static analysis tools for evaluating SwiftUI projects
+JF  - repository.lincoln.ac.uk
+UR  - https://repository.lincoln.ac.uk/articles/conference_contribution/A_case_study_comparing_static_analysis_tools_for_evaluating_SwiftUI_projects/25179812/1
+UR  - https://repository.lincoln.ac.uk/articles/conference_contribution/A_case_study_comparing_static_analysis_tools_for_evaluating_SwiftUI_projects/25179812/1/files/44459591.pdf
+AB  - … for mobile applications written in SwiftUI, for example. This study … In this study, the authors focus on SwiftUI for mobile … the real-world projects written in SwiftUI used as a benchmark. It …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Лаптев, ДВ
+TI  - … ЗАКАЗОВ ДЛЯ СЕТИ ОБЩЕСТВЕННОГО ПИТАНИЯ НА БАЗЕ СИСТЕМЫ IOS, С ИСПОЛЬЗОВАНИЕМ ЯЗЫКА SWIFT И ФРЕЙМВОРКА SWIFTUI
+JF  - … и прикладные аспекты компьютерных технологий и …
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Whitaker, R
+TI  - SwiftUI Accessibility Model
+JF  - Developing Inclusive Mobile Apps: Building Accessible …
+PB  - Springer
+DO  - 10.1007/979-8-8688-2809-6_6
+UR  - https://link.springer.com/chapter/10.1007/979-8-8688-2809-6_6
+PY  - 2026///
+AB  - … SwiftUI includes a comprehensive array of accessibility modifiers and APIs. Unfortunately, … some SwiftUI developers, this knowledge has somehow been misinterpreted as “SwiftUI is …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Cahill, B
+TI  - Introducing SwiftUI
+JF  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2_1
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-6449-2_1
+PY  - 2020///
+AB  - … Of course, we’ll look at developing interface designs in SwiftUI. But we’ll also look at how to use SwiftUI in Storyboard projects. You may want to migrate to SwiftUI starting in your …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=7297587627085030983&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Cahill, B
+TI  - UIKit in SwiftUI
+JF  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2_11
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-6449-2_11.pdf
+PY  - 2020///
+AB  - … In this chapter, we’ll look at incorporating existing UIKit classes into SwiftUI. This has been considered already for you. It’s not a hack or even discouraged. … In this exercise, we …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Cahill, B
+TI  - SwiftUI in UIKit
+JF  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2_14
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-6449-2_14
+PY  - 2020///
+AB  - … We looked at how to use existing UIKit views in SwiftUI. Now we’ll look at how to use … we’ll create a simple Storyboard app and add a SwiftUi view. … next, we need to create our …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Gondi, ML
+TI  - A Comparative Study on the Adoption of Swiftui Over Uikit in Modern Ios Application Development
+JF  - International Journal of Research and Scientific …
+PB  - ideas.repec.org
+UR  - https://ideas.repec.org/a/bjf/ijrsci/v13y2026i1p2425-2432.html
+PY  - 2026///
+AB  - … and metric-driven comparison of SwiftUI and UIKit, focusing on … The results demonstrate that SwiftUI significantly reduces … provide empirical evidence supporting SwiftUI as a scalable …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Friese, P
+TI  - Getting Started with SwiftUI
+JF  - Asynchronous Programming with SwiftUI and Combine …
+PB  - Springer
+DO  - 10.1007/978-1-4842-8572-5_2
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-8572-5_2
+PY  - 2023///
+AB  - … SwiftUI and the tooling Xcode provides for building SwiftUI apps. In this chapter, we’re going to dive deeper into using SwiftUI… We will look at using simple SwiftUI views such as Text and …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Wang, W
+TI  - Integrating SwiftUI with UIKit
+JF  - … iPhone Development with SwiftUI: Design and Manage …
+PB  - Springer
+DO  - 10.1007/978-1-4842-7827-7_14
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-7827-7_14
+PY  - 2022///
+AB  - … migrate to SwiftUI. Not only is SwiftUI adaptable to different screen sizes without requiring a lot of work, but SwiftUI can create user interfaces with far less code than storyboards or UIKit. …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Varma, J
+TI  - Peeking into SwiftUI
+JF  - SwiftUI for Absolute Beginners: Program Controls and …
+PB  - Springer
+DO  - 10.1007/978-1-4842-5516-2_2
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-5516-2_2
+PY  - 2019///
+AB  - … In the last chapter, we had a look at SwiftUI and the principles behind SwiftUI. In this chapter, we shall have a look at how SwiftUI can leverage all of these things, what is it that …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Friese, P
+TI  - SwiftUI: A New Beginning
+JF  - Asynchronous Programming with SwiftUI and Combine …
+PB  - Springer
+DO  - 10.1007/978-1-4842-8572-5_1
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-8572-5_1
+PY  - 2023///
+AB  - … acknowledge that Apple positions SwiftUI as a cross-platform UI toolkit. The introduction on the SwiftUI landing page Footnote 3 specifically mentions that “SwiftUI helps you build great …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Nhan, J
+TI  - Working with SwiftUI and ARKit
+JF  - Mastering ARKit: Apple's Augmented Reality App …
+PB  - Springer
+DO  - 10.1007/979-8-8688-0847-0_20
+UR  - https://link.springer.com/chapter/10.1007/979-8-8688-0847-0_20
+PY  - 2024///
+AB  - … This section guides you through setting up a new project in Xcode for ARKit with a SwiftUI … for UIKit, with SwiftUI. You’ll build an augmented reality app in SwiftUI from scratch. Open …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Friese, P
+TI  - SwiftUI Building Blocks
+JF  - Asynchronous Programming with SwiftUI and Combine …
+PB  - Springer
+DO  - 10.1007/978-1-4842-8572-5_3
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-8572-5_3
+PY  - 2023///
+AB  - … – We will talk about different kinds of views in SwiftUI—user interface views and container … can learn a lot about the power of SwiftUI from it. SwiftUI views are structs that need to conform …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Friese, P
+TI  - Combine Schedulers and SwiftUI
+JF  - Asynchronous Programming with SwiftUI and Combine …
+PB  - Springer
+DO  - 10.1007/978-1-4842-8572-5_13
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-8572-5_13
+PY  - 2023///
+AB  - By default, any code that you run in response to a UI event in SwiftUI will run on the main thread. Since a lot of our code deals with updating other UI elements in response to some user …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Friese, P
+TI  - Bringing It All Together: SwiftUI, async/await, and Combine
+JF  - Asynchronous Programming with SwiftUI and Combine …
+PB  - Springer
+DO  - 10.1007/978-1-4842-8572-5_16
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-8572-5_16
+PY  - 2023///
+AB  - … In this chapter, we will explore commonalities and differences of Combine and async/await, and I will show you how you can efficiently use both to call asynchronous APIs in your …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Lodi, G
+TI  - Testing Dynamic SwiftUI Views
+JF  - Test-Driven Development in Swift: Compile Better …
+PB  - Springer
+DO  - 10.1007/979-8-8688-2637-5_7
+UR  - https://link.springer.com/chapter/10.1007/979-8-8688-2637-5_7
+PY  - 2026///
+AB  - … The code we’ll write relies heavily on SwiftUI and Combine. Before getting started, here’sa quick overview of how data flows in SwiftUI. … For SwiftUI to do all the heavy lifting of …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Friese, P
+TI  - Using async/await in SwiftUI
+JF  - Asynchronous Programming with SwiftUI and Combine …
+PB  - Springer
+DO  - 10.1007/978-1-4842-8572-5_15
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-8572-5_15
+PY  - 2023///
+AB  - … Fortunately, Apple has updated SwiftUI to make calling asynchronous code from inside a UI context as easy as possible. In particular, they’ve added some APIs that allow us to call …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Wang, W
+TI  - Designing User Interfaces with SwiftUI
+JF  - … iPhone Development with SwiftUI: Exploring the iOS …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9541-0_2
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9541-0_2
+PY  - 2023///
+AB  - … The basic idea behind SwiftUI is to create a user interface using building blocks known as "views." A view displays a single item on the user interface such as text, an image, or a …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Carli, S De
+TI  - Introduction to SwiftUI
+JF  - … Mobile Apps with SwiftUI and Firebase: Learn SwiftUI …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9452-9_1
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9452-9_1
+PY  - 2023///
+AB  - … This way, we will explore some SwiftUI APIs to build the user interface and some basics of Swift such as creating a model. Let’s get started! … We will do just that in the next chapter …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Cahill, B
+TI  - SwiftUI Building Blocks
+JF  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2_3
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-6449-2_3
+PY  - 2020///
+AB  - … In this chapter, we’ll look at the variety of building blocks provided by SwiftUI. SwiftUI, like UIKit, provides various elements we can use to build out our UI. We’ve already seen the …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Cahill, B
+TI  - Target/Action in SwiftUI
+JF  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2_13
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-6449-2_13
+PY  - 2020///
+AB  - In the previous chapter, we used a Coordinator as our delegate for a UITextView. But we also realized the coordinator setup is just a helpful mechanism.
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Cahill, B
+TI  - SwiftUI Navigation
+JF  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2_10
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-6449-2_10
+PY  - 2020///
+AB  - We don't want to just list items usually. We want to allow the user to tap on those items and display details or edit items. Using our Notes app, we want to display details when a list item …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Lodi, G
+TI  - Testing Static SwiftUI Views
+JF  - Test-Driven Development in Swift: Compile Better …
+PB  - Springer
+DO  - 10.1007/979-8-8688-2637-5_6
+UR  - https://link.springer.com/chapter/10.1007/979-8-8688-2637-5_6
+PY  - 2026///
+AB  - … The key is to make the view humble and free from any logic and have it ask what to show to an object that is not tied to SwiftUI, one we can easily implement test-first. We’ll call this …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Cahill, B
+TI  - SwiftUI Canvas Preview
+JF  - UI Design for iOS App Development: Using SwiftUI
+PB  - Springer
+DO  - 10.1007/978-1-4842-6449-2_8
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-6449-2_8
+PY  - 2020///
+AB  - Designing a great UI may not be your task. Developing the UI design in SwiftUI code likely is since you’re reading this book. If you’ve done it in the past with Interface Builder or even in …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Carli, S De
+TI  - Correction to: Build Mobile Apps with SwiftUI and Firebase
+JF  - … Mobile Apps with SwiftUI and Firebase: Learn SwiftUI …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9452-9_9
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9452-9_9.pdf
+PY  - 2023///
+AB  - In chapter 5, the following link has been replaced on page 96 of the printed version (instead of the Google drive link): https://github. com/Apress/Build-Mobile-Apps-with-SwiftUI-and …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Gilchrist, E
+TI  - Swiftui vs uikit: A case study on how a declarative framework can improve learnability of ui programming
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10837767179460109985&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 3
+ER  - 
+
+TY  - CITATION
+AU  - Alahari, J
+AU  - Kolli, RK
+AU  - Eeti, S
+AU  - Khan, S
+AU  - Verma, P
+TI  - Optimizing iOS user experience with SwiftUI and UIKit: A comprehensive analysis
+JF  - International Journal of Creative …
+PY  - 2022///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 19 cites: https://scholar.google.com/scholar?cites=15151456257296031994&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 19
+ER  - 
+
+TY  - CITATION
+AU  - Гурин, АВ
+TI  - SWIFTUI: экспериментальное исследование производительности и масштабируемости при создании высоконагруженных iOS-приложений
+JF  - ИНТЕРНАУКА Учредители: ООО" Интернаука"
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12033351463261955185&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Sandberg, L
+AU  - Svensson, A
+TI  - Integration av Google Cast till en iOS-applikation: Med ramverket SwiftUI
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Chua, JX
+TI  - Development of a social media iOS app for F&B businesses using SwiftUI
+PB  - dr.ntu.edu.sg
+UR  - https://dr.ntu.edu.sg/entities/publication/090b526d-d5cd-45bb-af92-08252a81f5fa
+PY  - 2023///
+AB  - This final year project report details the implementation process of a native iOS mobile application that leverages social media technologies to create new opportunities for F&B …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - JOUR
+AU  - Балалаєва, ОЮ
+AU  - Марченко, ІФ
+AU  - ...
+TI  - … ефективності мобільного керування харчовими ресурсами з використанням інтелектуальної системи на базі архітектури SWIFTUI та моделей LLM
+JF  - … . Серія: Технічні науки
+PB  - journals.uran.ua
+UR  - https://journals.uran.ua/vestnikpgtu_tech/article/view/359758
+UR  - https://journals.uran.ua/vestnikpgtu_tech/article/download/359758/345536
+PY  - 2026///
+AB  - У роботі наведено результати розробки та апробації мобільної інтелектуальної системи «FridgeChief», призначеної для автоматизації управління харчовими ресурсами …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Колесников, ЛА
+AU  - Пименов, АА
+TI  - Повышение скорости разработки мобильного приложения с помощью фреймворка swiftui
+JF  - Инженерные и информационные технологии …
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18416285057174772320&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - PDF
+AU  - Чумак, ОВ
+AU  - Богач, ІВ
+TI  - Порівняння інструментів SwiftUI та UIKit для розробки інтерфейсу користувача для iOS-пристроїв на мові програмування Swift
+PB  - ir.lib.vntu.edu.ua
+UR  - https://ir.lib.vntu.edu.ua/bitstream/handle/123456789/49305/24313.pdf?sequence=3&isAllowed=y
+UR  - https://ir.lib.vntu.edu.ua/bitstream/handle/123456789/49305/24313.pdf?sequence=3&isAllowed=y
+PY  - 2025///
+AB  - … SwiftUI розробники можуть писати менше коду та створювати більш потужний і гнучкий дизайн інтерфейсу користувача. SwiftUI … [2] Одна з ключові відмінностей між SwiftUI та …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Essentials, SUI
+TI  - iOS Edition: Learn to Develop iOS Apps using SwiftUI, Swift 5 and Xcode 11 Kindle Edition–Н
+PB  - Сміт
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11688161020680841736&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - CITATION
+AU  - Hudson, P
+TI  - What is SwiftUI?
+JF  - Hacking with Swift
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 4 cites: https://scholar.google.com/scholar?cites=3226404135167099225&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 4
+ER  - 
+
+TY  - BOOK
+AU  - Демченко, МО
+AU  - Костіков, МП
+TI  - Порівняння фреймворків UIkit і SwiftUI при розробленні мобільних додатків під iOS
+PB  - dspace.nuft.edu.ua
+UR  - https://dspace.nuft.edu.ua/server/api/core/bitstreams/c3f4129a-8726-43a1-9bc1-edf67f8a55c4/content
+PY  - 2021///
+AB  - … Що стосується процесу розроблення, при використанні SwiftUI весь прогрес написання коду показується в окремому вікні. Тим часом … З цієї точки зору переваги SwiftUI очевидні. …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Apple, INC
+TI  - SwiftUI
+JF  - Apple Developer
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 4 cites: https://scholar.google.com/scholar?cites=11352930406165421887&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 4
+ER  - 
+
+TY  - CITATION
+AU  - Sullivan, C
+TI  - Build Mobile Apps with SwiftUI and Firebase: Learn SwiftUI and Firebase by Building Real-World Applications Communicating with a Backend
+JF  - New York City: Apress
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1334879583155676357&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Камышев, АО
+AU  - Богданов, КВ
+TI  - ВОЗМОЖНОСТИ ФРЕЙМВОРКА SWIFTUI ПРИ СОЗДАНИИ ПРИЛОЖЕНИЙ ПОД УСТРОЙСТВА КОМПАНИИ APPLE
+JF  - Актуальные проблемы авиации и …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/vozmozhnosti-freymvorka-swiftui-pri-sozdanii-prilozheniy-pod-ustroystva-kompanii-apple
+PY  - 2021///
+AB  - … An overview of the main features of the SwiftUI framework in the development of cross-platform applications is made. The main advantages and disadvantages of this approach in …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Hudson, P
+TI  - SwiftUI by Example. Hacking with Swift
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=5843291756250065058&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - PDF
+AU  - Віхляєв, ОО
+TI  - Програмне забезпечення для трансляції Nib-файлів у SwiftUI
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/bitstreams/b839d7b1-d42b-4fe3-bff7-47670cbaaefa/download
+UR  - https://ela.kpi.ua/bitstreams/b839d7b1-d42b-4fe3-bff7-47670cbaaefa/download
+PY  - 2020///
+AB  - … The diploma project is devoted to the development of an information system for translating Nib-files (Xib, Storyboard) into declarative SwiftUI source code. The purpose of …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Курыс, АЕ
+TI  - … МАССОВЫХ МЕРОПРИЯТИЙ И АНАЛИЗА РЕЗУЛЬТАТОВ В УСЛОВИЯХ ИКТИБ ЮФУ НА БАЗЕ ПЛАТФОРМЫ IOS, ФРЕЙМВОРКА SWIFTUI
+JF  - … и прикладные аспекты компьютерных технологий и …
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Tsadok, A
+TI  - Mastering IOS 18 Development: Take Your IOS Development Experience to the Next Level with IOS, Xcode, Swift, and SwiftUI
+PB  - Packt Publishing Limited
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4042632367124984820&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 2
+ER  - 
+
+TY  - CITATION
+AU  - Manferdini, M
+TI  - MVVM in SwiftUI for a Better Architecture (2023)
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14885581540894843602&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 2
+ER  - 
+
+TY  - CITATION
+AU  - Smyth, N
+TI  - SwiftUI Essentials-iOS 15 Edition: Learn to Develop iOS Apps Using SwiftUI
+PB  - Swift
+PY  - 2022///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9331007457312228562&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - CITATION
+AU  - Hudson, P
+TI  - SwiftUI lets us build declarative user interfaces in Swift
+PY  - 2022///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4791004407040451256&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - CITATION
+AU  - Eidhof, C
+AU  - Kugler, F
+TI  - Thinking in SwiftUI
+JF  - A Transition Guide
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7739003770559359696&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - BOOK
+AU  - Bachtiar, DR
+TI  - Adaptive progressive image loader for swiftui mobile applications based on user-centered design
+PB  - repository.um.ac.id
+UR  - https://repository.um.ac.id/400283/
+PY  - 2025///
+AB  - … SwiftUI Apple rsquo s modern UI framework provides an efficient and declarative approach … significantly improves image delivery performance in SwiftUI-based mobile applications. By …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - HTML
+AU  - Confuorto, F
+TI  - Apple acquisisce Play, l'app premiata l'anno scorso per prototipare interfacce in SwiftUI
+JF  - iSpazio
+PB  - ispazio.net
+UR  - https://www.ispazio.net/2242742/apple-acquisisce-play-app-prototipi-swiftui
+UR  - https://www.ispazio.net/2242742/apple-acquisisce-play-app-prototipi-swiftui
+PY  - 2026///
+AB  - … Apple ha acquisito Play, un'app di design premiata per la sua capacità di trasformare idee in prototipi funzionanti di app per iPhone utilizzando SwiftUI. La notifica dell'acquisizione è …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Nejedlý, J
+TI  - Vývoj UI na platformě iOS pomocí SwiftUI
+PB  - theses.cz
+UR  - https://theses.cz/id/7w5j1q/
+PY  - 2019///
+AB  - Anotace: Tato práce se zabývá vývojem uživatelského rozhraní na platformě iOS a jejím cílem je popsat možnosti vývoje pomocí frameworku SwiftUI a porovnat ho s frameworkem UIKit. …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Sundell, J
+TI  - The MVVM pattern in SwiftUI
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9876161523701733737&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - BOOK
+AU  - Mašek, J
+TI  - Vývoj SwiftUI iOS aplikace pro podporu fitness tréninků s použitím platformy Firebase
+PB  - theses.cz
+UR  - https://theses.cz/id/vwv12y/
+PY  - 2024///
+AB  - … This master's thesis focuses on the development of a SwiftUI iOS application using the … recommendations that will make development within the SwiftUI framework easier and faster. The …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - 박규리
+AU  - 조민영
+AU  - 김미소
+AU  - 구명완
+TI  - 데이터 시각화를 위한 SwiftUI 기반의 프레임워크 설계 및 구현
+JF  - 한국정보과학회 학술발표논문집
+PB  - dbpia.co.kr
+UR  - https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11036033
+PY  - 2021///
+AB  - 최근들어 기계 학습을 이용해 대량의 데이터를 수집하는 기업이 증가함에 따라 대량의 데이터를 정리, 분석할 수 있는 빅데이터 시각화 툴에 대한 수요도 증가하고 있다. 그러나 대량의 데이터…
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Smyth, N
+TI  - SwiftUI Essentials-iOS 14 Edition, Payload Media
+PB  - Inc
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11100875376870263070&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - BOOK
+AU  - Grzelj, L
+TI  - Primjena pristupa deklarativnog programiranja iOS aplikacija korištenjem razvojnih okvira SwiftUI i Combine
+PB  - dabar.srce.hr
+UR  - https://dabar.srce.hr/object/foi:8965
+PY  - 2025///
+AB  - U ovom radu opisuju se glavne programske paradigme koje su postale temelj za daljnje razvijanje stilova programiranja. Imperativna paradigma temelji se na sekvencijalnom …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Eidhof, C
+TI  - Thinking in SwiftUI: Updated for iOS 14
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7561626807059244841&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - BOOK
+AU  - Urbanc, J
+TI  - Primerjava izdelave mobilne aplikacije za iOS z uporabo ogrodij SwiftUI in Flutter
+PB  - dk.um.si
+UR  - https://dk.um.si/IzpisGradiva.php?id=84126
+PY  - 2023///
+AB  - … In this thesis, the Flutter and SwiftUI frameworks and their programming languages Dart and … The aim of the thesis is to make a comparison between SwiftUI and Flutter. To achieve this, …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - Peļņa, M
+TI  - Flutter un SwiftUI renderēšanas salīdzināšana iOS ierīcēm
+PB  - dspace.lu.lv
+UR  - https://dspace.lu.lv/items/f537615f-54a4-4366-b4c5-3a92e692fa0f
+PY  - 2021///
+AB  - … research on Flutter and SwiftUI declarative user interface … possibility of rendering Flutter and SwiftUI tools, comparing their … “Comparison of Flutter and SwiftUI rendering for iOS devices…
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - BOOK
+AU  - KUPCHENKO, M
+TI  - Building a comprehensive iOS application with SwiftUI and Swift Backend Development
+PB  - theses.cz
+UR  - https://theses.cz/id/ecpnsx/
+PY  - 2024///
+AB  - The primary goal of this bachelor thesis is to implement the StudentChrono iOS mobile application for students and teachers integrated with server-side applications, which is also part …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Robert, M
+TI  - Declarative and Imperative Programming using SwiftUI and UIKit
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11552559086289010322&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 1
+ER  - 
+
+TY  - CITATION
+AU  - Воробьев, ВС
+AU  - Косюков, ДМ
+TI  - SwiftUI для профессионалов. Знакомство с iOS-разработкой с помощью Swift
+JF  - Москва: Вильямс
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=13805543243542060357&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - CITATION
+AU  - Kamyshev, AO
+TI  - Peculiar features of the Swiftui framework for developing crossflatform applications in Apple's ecosystem
+JF  - Молодежь. Общество. Современная наука, техника …
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3781522338304489734&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - 金田浩明
+TI  - SwiftUI 徹底入門
+JF  - (No Title)
+PB  - cir.nii.ac.jp
+UR  - https://cir.nii.ac.jp/crid/1970586434871671063
+PY  - 2019///
+AB  - … SwiftUI徹底入門 … Building iPhone application with SwiftUI SwiftUI (すいふとゆーあい) 徹底入門 …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1641124538875071145&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 1
+ER  - 
+
+TY  - CITATION
+AU  - 大重美幸
+TI  - 詳細! SwiftUI iPhone アプリ開発入門ノート
+JF  - (No Title)
+PB  - cir.nii.ac.jp
+UR  - https://cir.nii.ac.jp/crid/1970867909860943233
+PY  - 2018///
+AB  - … SwiftUI iPhoneアプリ開発入門ノート | CiNii Research … SwiftUI iPhoneアプリ開発入門 ノート … SwiftUI iPhoneアプリ開発入門ノート" …
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3758192324542894954&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - CITATION
+AU  - Ходукин, РА
+TI  - Фреймворк SwiftUI: новый подход к созданию пользовательских интерфейсов для iOS-приложений
+JF  - Гагаринские чтения-2020
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Казанский, АА
+TI  - Разработка приложений на Swift и SwiftUI с нуля
+JF  - СПб.: БХВ-Петербург
+PY  - 2022///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=6451829821573606867&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - CITATION
+AU  - Nunkesser, R
+TI  - App Engineering: SwiftUI, Jetpack Compose, Xamarin und Flutter
+PB  - BoD–Books on Demand
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Stinner, T
+TI  - … Verbindung einer Realtime-Datenbank mittels Realm Cloud nach MVVM-Pattern unter Verwendung der Apple Frameworks SwiftUI und Combine als …
+PB  - monami.hs-mittweida.de
+UR  - https://monami.hs-mittweida.de/frontdoor/index/index/docId/12437
+PY  - 2020///
+AB  - Im Rahmen der Abschlussarbeit soll untersucht werden, inwiefern die Kombination von live objects der Realm Database auf der einen Seite und Combine und SwiftUI auf der anderen, …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - 汪祥春
+TI  - ARKit 原生开发入门精粹: RealityKit+ Swift+ SwiftUI
+PB  - 清华大学出版社
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Давыдов, П
+TI  - SwiftUI в действии. Разработка приложений дляiOS и macOS
+JF  - Москва: ДМК-Пресс
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:07:58
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16453598389427046728&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - CITATION
+AU  - Hauteclair, E
+TI  - Overdragen van een SwiftUI-applicatie voor iOS of Mac naar Linux met behulp van Adwaita: Een onderzoek naar de haalbaarheid, mogelijkheden en …
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Tollenaere, W De
+TI  - Vergelijkende studie van render cyclussen in SwiftUI: Impact op performance, rendering en lifecycles
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - 林晃
+TI  - 基礎から学ぶ SwiftUI
+JF  - (No Title)
+PB  - cir.nii.ac.jp
+UR  - https://cir.nii.ac.jp/crid/1130003903665123456
+PY  - 2020///
+AB  - 基礎から学ぶSwiftUI | CiNii Research … 基礎から学ぶSwiftUI … タイトル "基礎から学ぶSwiftUI" …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Saputri, TRD
+AU  - Kristianto, AJ
+TI  - Aplikasi Perhitungan Resiko Penyakit Jantung dengan Machine Learning berbasis iOS dengan SwiftUI (UC-KIN23010005)
+PB  - DJKI
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Szabó, V
+TI  - SwiftUI-alapú kávéalkalmazás fejlesztése iOS platformon
+PB  - dea.lib.unideb.hu
+UR  - https://dea.lib.unideb.hu/items/0cf6f161-7e50-49b5-9673-bf5ec50af851/view/c9440d1c-f6e9-412f-92a2-eb875aed34f7
+PY  - 2024///
+AB  - SwiftUI-alapú kávéalkalmazás fejlesztése iOS platformon …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Rampelberg, B
+TI  - Kwaliteit van Native Transpilatie met Skip tussen iOS en Android: SwiftUI naar Jetpack Compose
+PY  - 2025///
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
+TY  - CITATION
+AU  - Shugaa, AR
+TI  - Hatékony SwiftUI állapotkezelés TCA (The Composable Architecture) segítségével
+PB  - oda.uni-obuda.hu
+UR  - https://oda.uni-obuda.hu/handle/20.500.14044/36728
+PY  - 2024///
+AB  - … Hatékony SwiftUI állapotkezelés TCA (The Composable Architecture) segítségével …
+M1  - Query date: 2026-09-24 01:07:58
+ER  - 
+
