@@ -1,0 +1,2029 @@
+﻿TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - Develop well-structured applications using tested techniques and patterns. When you start to develop an application, you not only have to think about the idea of the finished application…
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - JOUR
+AU  - Zahr, A
+AU  - Haidar, A
+AU  - Sliman, L
+TI  - Towards Actionable Guidelines for Advanced iOS Software Architecture
+JF  - Computer Science On-line Conference
+PB  - Springer
+DO  - 10.1007/978-3-032-04725-0_20
+UR  - https://link.springer.com/chapter/10.1007/978-3-032-04725-0_20
+PY  - 2025///
+AB  - … The findings of this research provide valuable insights into the strengths and weaknesses of prominent iOS architectural patterns—MVC, MVP, MVVM, and VIPER—in addressing …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Nguyen, KN Luong
+TI  - Application of Protocol-Oriented MVVM Architecture in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/129037
+UR  - https://www.theseus.fi/bitstream/handle/10024/129037/Nguyen_Luong.pdf?sequence=1
+PY  - 2017///
+AB  - … The main product of this thesis is a fully functional iOS application written in Swift. Also, for learning purposes, parts of the application’s code base are extracted, modified and can be …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10714691182654003652&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - JOUR
+AU  - Furjan, K
+AU  - Kisić, F
+AU  - Bele, D
+TI  - Declarative iOS programming and architectural patterns
+JF  - Security Issues in Communication …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=TltQEQAAQBAJ&oi=fnd&pg=PA18&dq=ios+mvp%7C%22model+view+presenter%22&ots=WFN_EUDan1&sig=WOkZeu2L2YmetAcroPCvKxEeKq8
+PY  - 2025///
+AB  - … The MVP pattern visualization can be seen in Figure 2.3. There are three essential elements… MVP adds a new element called the Presenter to replace the Controller in MVC. The …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1369001407168491116&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - BOOK
+AU  - Phan, DH
+TI  - Benchmarking Common Architectural Patterns in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/167317
+UR  - https://www.theseus.fi/bitstream/handle/10024/167317/Hai_Phan.pdf?sequence=2
+PY  - 2019///
+AB  - … some common architectural patterns used in iOS development, namely MVC, MVP, MVVM, and VIPER. As a result, an iOS application called Musicify has been successfully conducted …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 4 cites: https://scholar.google.com/scholar?cites=14854737299071308674&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … The available literature offers meaningful comparisons of mobile architectural patterns like MVC, MVP, MVVM and VIPER, but there are still several significant gaps. Firstly, the existing …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - BOOK
+AU  - Mihalj, M
+TI  - Upotreba MVVM arhitekture za razvoj IOS aplikacija
+PB  - repozitorij.unios.hr
+UR  - https://repozitorij.unios.hr/object/etfos:4847
+UR  - https://repozitorij.unios.hr/object/etfos:4847/FILE0/download
+PY  - 2024///
+AB  - … OBRAZAC MVP Ovaj arhitekturni obrazac je posebno koristan za kompleksne iOS aplikacije … Integriranjem MVP-a, timovi mogu brže reagirati na promjene i iterativno poboljšavati svoje …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Magics-Verkman, H
+AU  - Zmaranda, DR
+AU  - ...
+TI  - A comparison of architectural patterns for testability and performance quality for iOS mobile applications development
+JF  - … on Engineering of …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10171619/
+PY  - 2023///
+AB  - … iOS. For example, in [1], a general analysis of architectural patterns for Android development is presented, considering MVC, MVP, … Architecture considering MVC, MVP and MVVM …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 13 cites: https://scholar.google.com/scholar?cites=3197959365046203255&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 13
+ER  - 
+
+TY  - PDF
+AU  - Салій, ОО
+TI  - Архітектура програмного забезпечення для платформи iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/bitstreams/eefe6da0-3e0d-43b8-990a-651923702442/download
+UR  - https://ela.kpi.ua/bitstreams/eefe6da0-3e0d-43b8-990a-651923702442/download
+PY  - 2019///
+AB  - … Архітектури MVP і MVVM прописують відповідальності для кожного модуля, але все ж з MVP з … Абстрагованість модулів у MVP і MVVM дозволяє зробити максимальне покриття …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Vo, TD
+TI  - Application of protocol-oriented programming in iOS development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/171220
+UR  - https://www.theseus.fi/bitstream/handle/10024/171220/Thesis.pdf
+PY  - 2019///
+AB  - … in Swift and developed for iOS devices. Created solely for the … iOS application with better performance and software design. … For iOS and OSX development, MVC is the most well-known …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=152510681873300784&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - JOUR
+AU  - Pranata, A Adi
+AU  - Selviandro, N
+AU  - Adrian, M
+TI  - Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development∗
+JF  - Proceedings of the 2022 5th …
+PB  - dl.acm.org
+DO  - 10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/abs/10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/pdf/10.1145/3520084.3520097
+PY  - 2022///
+AB  - … Because of that reason, the MVP can’t have ease of use on presenting the layout view and … Besides that, according to the literature [10], Presenter Layer implementation on MVP and …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=972346116264678306&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - BOOK
+AU  - Горбунова, НА
+AU  - Фрицлер, НЮ
+TI  - Архитектурные подходы к разработке мобильных приложений для Android и iOS платформ
+PB  - elib.belstu.by
+UR  - https://elib.belstu.by/handle/123456789/73746
+UR  - https://elib.belstu.by/bitstream/123456789/73746/1/%D0%93%D0%BE%D1%80%D0%B1%D1%83%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%BD%D1%8B%D0%B5.pdf
+PY  - 2025///
+AB  - … Model-View-Presenter (MVP) является эволюцией MVC, где контроллер заменяется … MVP часто применяется в проектах с высокими требованиями к тестированию и гибкости …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - Model View Controller in iOS mobile applications development.
+JF  - SEKE
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Dragos-Dobrean/publication/335151640_Model_View_Controller_in_iOS_mobile_applications_development/links/5d81f6c4458515cbd195a443/Model-View-Controller-in-iOS-mobile-applications-development.pdf
+UR  - https://www.researchgate.net/profile/Dragos-Dobrean/publication/335151640_Model_View_Controller_in_iOS_mobile_applications_development/links/5d81f6c4458515cbd195a443/Model-View-Controller-in-iOS-mobile-applications-development.pdf
+PY  - 2019///
+AB  - … But, in addition and in order to make the codebase maintainable, we might introduce additional layers, such as Presenters from MVP, View - Models from MVVM or Routing objects from …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 15 cites: https://scholar.google.com/scholar?cites=1191152595437426580&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 15
+ER  - 
+
+TY  - JOUR
+AU  - Tolstoluzka, OG
+AU  - Afanasieva, KO
+TI  - Model for taking into account the research activity of education system employees based on the IOS operating system
+JF  - Bulletin of VN Karazin …
+PB  - periodicals.karazin.ua
+UR  - https://periodicals.karazin.ua/mia/article/view/16492
+UR  - https://periodicals.karazin.ua/mia/article/download/16492/15297
+PY  - 2020///
+AB  - … application for the operating system "iOS", version 11.0. The … MVP, as well as traditional MVC, is not suitable for the IOS … responsibilities than the View in MVP, since MVVM updates …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Sholichin, F
+AU  - Isa, M
+AU  - Halim, SA
+AU  - Harun, MFB
+TI  - Review of ios architectural pattern for testability, modifiability, and performance quality
+JF  - Journal of Theoretical and Applied …
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 25 cites: https://scholar.google.com/scholar?cites=18377645001088869643&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 25
+ER  - 
+
+TY  - CITATION
+AU  - Souza, AAB
+TI  - Análise comparativa de arquiteturas mobile para aplicações iOS: MVC, MVVM e VIP-C
+PY  - 2026///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Indrawan, D
+AU  - Kusumo, DS
+AU  - ...
+TI  - Analysis of the implementation of mvvm architecture pattern on performance of ios mobile-based applications
+JF  - JIPI (Jurnal Ilmiah …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+PY  - 2023///
+AB  - … of Native Android Application on MVP and MVVM. This study analyzes the MVP and MVVM … produces better performance than MVP. The analysis results show that MVVM is better than …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 24 cites: https://scholar.google.com/scholar?cites=11410803713727988760&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 24
+ER  - 
+
+TY  - JOUR
+AU  - MVVM, V
+TI  - iOS Architecture Patterns
+JF  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9069-9.pdf
+AB  - … From here we will work on models that derive from it, such as the MVP and the MVVM, to end up with much more elaborate models of higher complexity, such as the VIPER and the VIP. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Marcos, A
+AU  - Araújo, D
+TI  - Developing a Private Network Connection iOS App exploring OpenVPN Protocol
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Andre-Marcos-Silva/publication/353395083_Developing_a_Private_Network_Connection_iOS_App_exploring_OpenVPN_Protocol/links/60fa17ac2bf3553b2906842f/Developing-a-Private-Network-Connection-iOS-App-exploring-OpenVPN-Protocol.pdf
+UR  - https://www.researchgate.net/profile/Andre-Marcos-Silva/publication/353395083_Developing_a_Private_Network_Connection_iOS_App_exploring_OpenVPN_Protocol/links/60fa17ac2bf3553b2906842f/Developing-a-Private-Network-Connection-iOS-App-exploring-OpenVPN-Protocol.pdf
+AB  - … The objective of this work is to make a new tool available to users of the iOS platform, which need to establish VPN connections between your device and private networks. To create …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Drongelen, M Van
+AU  - Dennis, A
+AU  - Garabedian, R
+AU  - ...
+TI  - Lean Mobile App Development: Apply Lean startup methodologies to develop successful iOS and Android apps
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=PEBPDwAAQBAJ&oi=fnd&pg=PP1&dq=ios+mvp%7C%22model+view+presenter%22&ots=_Rn9UC7anA&sig=DXBWrhyCxjEk3clPqcctXPFpbmw
+PY  - 2017///
+AB  - … Finally, we will see how you can build an MVP and prove hypotheses using IFTT. … In addition, there are some Android and iOS code samples that we discuss to explain some of the …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 15 cites: https://scholar.google.com/scholar?cites=1511618835360142883&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 15
+ER  - 
+
+TY  - HTML
+AU  - Еселидзе, ДВ
+AU  - Кутаев, КС
+AU  - ...
+TI  - АНАЛИЗ ТЕСТИРУЕМОСТИ АРХИТЕКТУРНЫХ ПАТТЕРНОВ В iOS
+JF  - Надежность и качество …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/analiz-testiruemosti-arhitekturnyh-patternov-v-ios
+UR  - https://cyberleninka.ru/article/n/analiz-testiruemosti-arhitekturnyh-patternov-v-ios
+PY  - 2026///
+AB  - … разработки под iOS наибольшее распространение получили архитектурные паттерны MVC, MVP, … MVP (Model-View-Presenter) является модификацией MVC с улучшенной …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Liu, P
+TI  - eRecipes: The Design and Development of an iOS Application
+PB  - scholarworks.calstate.edu
+UR  - https://scholarworks.calstate.edu/downloads/kh04ds58d
+UR  - https://scholarworks.calstate.edu/downloads/kh04ds58d
+PY  - 2019///
+AB  - … Apple’s app store is a platform that distributes iOS applications, allowing users to browse … core frameworks of iOS that were utilized for the design of this app. For discussion of the …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Bunoza, D
+TI  - Usporedba VIPER i MVVM arhitektura za razvoj iOS aplikacija
+PB  - repozitorij.etfos.hr
+UR  - https://repozitorij.etfos.hr/object/etfos:4139
+UR  - https://repozitorij.etfos.hr/object/etfos:4139/FILE0/download
+PY  - 2023///
+AB  - … za operacijski sustav iOS, a to su MVC, MVP, … iOS, smjernice za ljudsko učenje, značajke programskog jezika Swift, mogućnosti integriranog razvojnog okruženja Xcode, testiranje iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Banks, A
+AU  - Edge, CS
+TI  - Learning iOS Security
+PB  - reference-global.com
+DO  - 10.0000/9781783553952-001
+UR  - https://reference-global.com/download/chapter/9781783553952/10.0000/9781783553952-001.pdf
+UR  - https://reference-global.com/download/chapter/9781783553952/10.0000/9781783553952-001.pdf
+PY  - 2015///
+AB  - … He has been a Microsoft MVP for more than 11 years and is co-owner of OfficeforMacHelp. com. Currently, he is a part of the steering committee for the new Twin Cities Mac Admins …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 9 cites: https://scholar.google.com/scholar?cites=991357814818033464&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 9
+ER  - 
+
+TY  - JOUR
+AU  - Apps, SD
+AU  - Panosian, H
+TI  - Learn iOS Application Distribution
+JF  - Springer
+DO  - 10.1007/978-1-4842-2683-4
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-2683-4.pdf
+AB  - … ∎ grew into an industry worth an estimated $143 billion;∎ created at least 627,000 jobs (just through the iOS App Store);∎ created 54 percent job growth for iOS developers between …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Dutt, H
+TI  - Full Stack iOS Development with Swift and Vapor
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=gkEeEQAAQBAJ&oi=fnd&pg=PR1&dq=ios+mvp%7C%22model+view+presenter%22&ots=Bb-n-byDex&sig=4fvUAFdYepsgnx0GV7QQwwgsx3U
+PY  - 2024///
+AB  - … of the basic building blocks of iOS UI development and complete … A minimum viable product, or MVP, is a product with only … In the software industry, the MVP can actually help the …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1214037030051263299&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - BOOK
+AU  - Blum, R
+AU  - Schilter, P
+TI  - Traildevils iOS App
+PB  - eprints.ost.ch
+UR  - https://eprints.ost.ch/id/eprint/553/
+UR  - https://eprints.ost.ch/id/eprint/553/1/HS16-SA-EP-Blum-Schilter-TraildevilsiOSApp.pdf
+PY  - 2016///
+AB  - … Phase wurde aufgrund fehlender Erfahrung mit dem iOS Mapbox SDK ein Prototyp erstellt. … nichtfunktionalen Anforderungen mit Mapbox auf iOS Geräten umsetzen lassen. Für einzelne …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Оцевик, ВА
+TI  - Модель мобільного застосунку iOS з додаванням базових сервісів та розширень
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Lewis, S
+AU  - Dunn, M
+TI  - Native mobile development: a cross-reference for iOS and Android
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=RcC9DwAAQBAJ&oi=fnd&pg=PR2&dq=ios+mvp%7C%22model+view+presenter%22&ots=aLglg-FkVd&sig=0WlD-Eow8h34DG75Jx0QvgS_NEg
+PY  - 2019///
+AB  - … If your team frequently works with both iOS and Android—or plans to transition from one to the … Want to learn how to make network connections in iOS? Or how to work with a database in …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 24 cites: https://scholar.google.com/scholar?cites=9839220546164685916&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 24
+ER  - 
+
+TY  - PDF
+AU  - Абдулаева, УБ
+AU  - Ибраимов, АГ
+AU  - Москалева, ЮП
+AU  - ...
+TI  - Реализация базовой идеи MV*-паттернов в архитектуре iOS виджета
+JF  - Перспективы …
+PB  - moofrnk.com
+UR  - https://moofrnk.com/assets/files/journals/science-prospects/141/science-prospect-6(141)-main.pdf#page=29
+UR  - https://moofrnk.com/assets/files/journals/science-prospects/141/science-prospect-6(141)-main.pdf#page=29
+PY  - 2021///
+AB  - … Шаблон MVP сформирован от MVC . Элемент Presenter в … Для удобства использования мобильного приложения в iOS … Увидеть виджеты на iPhone под управлением iOS можно …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 8 cites: https://scholar.google.com/scholar?cites=16389722541587580325&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 8
+ER  - 
+
+TY  - BOOK
+AU  - Martan, D
+TI  - Primjena paradigme čiste arhitekture pri razvoju mobilnih aplikacija za iOS
+PB  - repozitorij.foi.unizg.hr
+UR  - https://repozitorij.foi.unizg.hr/object/foi:7433
+UR  - https://repozitorij.foi.unizg.hr/object/foi:7433/FILE0/download
+PY  - 2022///
+AB  - … Ova arhitektura podsjeća na MVP kao što je vidljivo iz slike 7. ViewModel zamjenjuje Presenter iz MVP arhitekture i obavlja vrlo sličnu funkciju. No, postoji jedna bitna razlika, a to je da …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Magalhães, ÍL
+TI  - Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS
+JF  - Universidade Federal da Paraíba
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17153232554652434851&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - JOUR
+AU  - Procucci, A
+TI  - Kotlin-Multiplatform applicato allo sviluppo di applicazioni Android e iOS
+JF  - amslaurea.unibo.it
+UR  - https://amslaurea.unibo.it/id/eprint/23131/
+UR  - https://amslaurea.unibo.it/id/eprint/23131/1/Tesi_Magistrale_Andrea_Procucci.pdf
+AB  - … del ModelView-Presenter `e stata dettata dal fatto che si vuole disaccoppiare il pi`u possibile la View dalla business logic che dovr`a risiedere nella parte condivisa. Di fatto nella MVP il …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Skýpala, BT
+TI  - Smart University iOS application
+JF  - is.muni.cz
+UR  - https://is.muni.cz/th/iyyyx/thesis_Archive.pdf
+UR  - https://is.muni.cz/th/iyyyx/thesis_Archive.pdf
+AB  - … The primary significance of iOS is the simplicity of the user … iOS devices, supporting the whole device lineup with an iOS … used within mobile development are MVC, MVP, and MVVM. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Deitel, PJ
+AU  - Deitel, HM
+AU  - Deitel, A
+TI  - IOS 8 for Programmers: An App-driven Approach with Swift
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=EKDfBQAAQBAJ&oi=fnd&pg=PR7&dq=ios+mvp%7C%22model+view+presenter%22&ots=PoNfCv0EKS&sig=JAGfKcJGkLDJHndpk5c8Nn0Gdqc
+PY  - 2015///
+AB  - … Developer Program allows you to load your iOS apps onto iOS devices for testing and to submit your apps to the App Store. If you intend to distribute iOS apps, you'll need to join the fee-…
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 5 cites: https://scholar.google.com/scholar?cites=1147513564960286564&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 5
+ER  - 
+
+TY  - PDF
+AU  - GONZALEZ, M
+AU  - Ibánez, JF
+TI  - Design and implementation of a full-stack iOS application for advanced portfolio risk management
+JF  - Handle. net, Oct
+PB  - repositorio.comillas.edu
+UR  - https://repositorio.comillas.edu/server/api/core/bitstreams/1e714976-ae36-4e3d-b774-dd060c5d4b95/content
+UR  - https://repositorio.comillas.edu/server/api/core/bitstreams/1e714976-ae36-4e3d-b774-dd060c5d4b95/content
+PY  - 2025///
+AB  - … 3.5 MVP Overview and Core Value Proposition The Gamma MVP is designed as a sophisticated yet intuitive iOS application that democratizes advanced portfolio risk analysis through …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 3 cites: https://scholar.google.com/scholar?cites=12236840496473070906&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 3
+ER  - 
+
+TY  - JOUR
+AU  - Andika, MR
+AU  - Selviandro, N
+AU  - ...
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern
+JF  - 2023 3rd International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10428901/
+PY  - 2023///
+AB  - … of modular architecture, especially on iOS applications with the VIPER … This research will gather data from iOS applications … android application on mvp and mvvm,” Atlantis Press, 2020. …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12049607874919303211&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - HTML
+AU  - Михаль, РВ
+TI  - Програмне забезпечення YourHealth під платформу iOS
+PB  - er.chdtu.edu.ua
+UR  - https://er.chdtu.edu.ua/handle/ChSTU/9766
+UR  - https://er.chdtu.edu.ua/handle/ChSTU/9766
+PY  - 2026///
+AB  - … Метою кваліфікаційної роботи є розробка iOS застосунку для моніторингу активності … в iOS застосунках. Предметом розробки є методи та засоби створення iOS застосунку …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Ковалёв, ДА
+TI  - Проектирование и разработка системы менторинга сотрудников компании для ОС iOS: магистерская диссертация
+PB  - elar.urfu.ru
+UR  - https://elar.urfu.ru/handle/10995/140292
+UR  - https://elar.urfu.ru/bitstream/10995/140292/1/m_th_d.a.kovalev_2024.pdf
+PY  - 2024///
+AB  - … менторинга сотрудников компании для ОС iOS. По ходу исследования проводится … iOS: сравниваются различные подходы к архитектуре слоя представления (Cocoa MVC, MVP…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Panosian, H
+TI  - Learn iOS Application Distribution: Successfully Distribute Apps
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=7pY3DwAAQBAJ&oi=fnd&pg=PR5&dq=ios+mvp%7C%22model+view+presenter%22&ots=7h0ZYpFqrx&sig=V1KJUkzDlVPcLhPq8csWhl3Op_g
+PY  - 2017///
+AB  - Cover every aspect of the app industry, from app idea generation through to marketing and performance monitoring. With this book you'll receive complete, reliable, up-to-date, and …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 4 cites: https://scholar.google.com/scholar?cites=12566819146689322469&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 4
+ER  - 
+
+TY  - BOOK
+AU  - Marty, R
+AU  - Peier, S
+AU  - Emjee, T
+TI  - OST Marketplace App for Android and iOS using Kotlin Multiplatform (KMP)
+PB  - eprints.ost.ch
+UR  - https://eprints.ost.ch/id/eprint/1312/
+UR  - https://eprints.ost.ch/id/eprint/1312/1/FS%202025-BA-EP-Emjee-Marty-Peier-OST%20Marketplace%20App%20for%20Android%20and%20iOS%20using%20Kotlin%20Multipl.pdf
+PY  - 2025///
+AB  - … requirements of the Minimum Viable Product (MVP). This included core features such as … A beta and and an MVP release were performed, followed by usability tests with students to …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Мокрий, М
+TI  - Розробка iOS-додатку з використанням багатопоточності
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/bitstream/123456789/22402/1/Mokryi_Bakalavrska_robota.pdf
+UR  - https://ekmair.ukma.edu.ua/bitstream/123456789/22402/1/Mokryi_Bakalavrska_robota.pdf
+PY  - 2021///
+AB  - … Шаблон з’явився для обходу обмежень MVC та MVP та увібрав у себе їхні сильні сторони. … У колі iOS-розробників його навіть жартома називають як Massive View Controller. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Würth, K
+AU  - Barton, T
+TI  - Optimization of Customer Interaction in Online Wine Trade Using the Example of the VICAMPO iOS App
+JF  - … in companies: From theoretical approaches to practical
+PB  - Springer
+DO  - 10.1007/978-3-658-39094-5_13
+UR  - https://link.springer.com/chapter/10.1007/978-3-658-39094-5_13
+PY  - 2024///
+AB  - … The implementation of the developed VICAMPO iOS app is done as a Minimum Viable Product (MVP), which convinces the customer by simplicity and clarity and at the same time offers …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Кульбаев, АБ
+TI  - Модернизация модулей iOS-приложения для продавцов маркетплейса OZON: выпускная бакалаврская работа по направлению подготовки: 09.03. 04 …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:18528/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:18528/SOURCE01
+PY  - 2023///
+AB  - … при помощи архитекторы MVP (Model-ViewPresenter) [22] … SwiftUI и Combine в iOS 13, текущая архитектура не … MVP подход подразумевает оперирование тремя слоями. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Мицкевич, ДЮ
+AU  - Никитин, ДД
+AU  - Пожаров, ДН
+TI  - ОСОБЕННОСТИ ПРИНЦИПОВ SOLID В iOS РАЗРАБОТКЕ
+JF  - … молодых ученых БГТУ им. ВГ Шухова …
+PY  - 2023///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Reid, J
+TI  - IOS Unit Testing by Example
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=AMlYEQAAQBAJ&oi=fnd&pg=PT18&dq=ios+mvp%7C%22model+view+presenter%22&ots=NBh3wf17ra&sig=NqT-xcfYd0LCVk11k_d30goV55g
+PY  - 2020///
+AB  - … Then in Chapter 19, we transform the view controller to use model-view-presenter (MVP). The point isn't to promote any particular UI pattern but rather to show how refactoring makes it …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9941035470792332133&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - BOOK
+AU  - Tavlikos, D
+TI  - iOS development with Xamarin cookbook: over 100 exciting recipes to help you develop iOS applications with Xamarin
+PB  - books.google.com
+DO  - 10.0000/9781783550005-001
+UR  - https://books.google.com/books?hl=en&lr=&id=anagAwAAQBAJ&oi=fnd&pg=PT26&dq=ios+mvp%7C%22model+view+presenter%22&ots=GLgMWXbm8M&sig=ZKndV11hurqfCv92rLWb6u2aHUg
+UR  - https://reference-global.com/download/chapter/9781783550005/10.0000/9781783550005-001.pdf
+PY  - 2014///
+AB  - … Dimitris has a passion for programming, and has recently been awarded the Xamarin MVP designation for his work. He has written a book on iOS development and various articles on …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11950402773559768019&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 1
+ER  - 
+
+TY  - PDF
+AU  - Sauseng, SM
+TI  - Methods for implementing improved privacy and security in iOS messaging applications
+PB  - theses.fh-hagenberg.at
+UR  - https://theses.fh-hagenberg.at/system/files/pdf/Sauseng18.pdf
+UR  - https://theses.fh-hagenberg.at/system/files/pdf/Sauseng18.pdf
+PY  - 2018///
+AB  - … Another mentionable point for developing an iOS messaging application is the range of architectures that can be implemented. The most popular are the MVC, MVP and MVVM for …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - HTML
+AU  - Калюжный, ЕР
+AU  - Красноусов, ВМ
+AU  - Букреев, ЛВ
+AU  - ...
+TI  - Технологии нативной разработки мобильный приложений для операционной системы IOS
+JF  - Colloquium …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/tehnologii-nativnoy-razrabotki-mobilnyy-prilozheniy-dlya-operatsionnoy-sistemy-ios
+UR  - https://cyberleninka.ru/article/n/tehnologii-nativnoy-razrabotki-mobilnyy-prilozheniy-dlya-operatsionnoy-sistemy-ios
+PY  - 2021///
+AB  - … This article discusses technologies for developing mobile applications for operating iOS, namely the Swift and Objective-C programming languages, and the MVVM architecture, as well …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8825206250133383260&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - BOOK
+AU  - Schuh, T
+TI  - Vývoj mobilní aplikace pro organizování času pro iOS a její publikování v App Store
+PB  - dspace.jcu.cz
+UR  - https://dspace.jcu.cz/handle/20.500.14390/39868
+UR  - https://dspace.jcu.cz/bitstream/handle/20.500.14390/39868/BCfinalfinal.pdf?sequence=1
+PY  - 2019///
+AB  - … MVP je zkratka pro Model-View-Presenter a má původ v modelu MVC. Podobně jako model … Jednou z běžných vlastností MVP je, že je zde hodně dvou směrného odesílání. Například …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Altunin, V
+TI  - Understanding the Needs of YouTube Creators and Prototyping a Targeted iOS Solution
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/901547
+UR  - https://www.theseus.fi/bitstream/handle/10024/901547/Altunin_Vladislav.pdf?sequence=2
+PY  - 2025///
+AB  - … The Build phase in the BML cycle focuses on how to build a minimum viable product (MVP). An MVP is supposed to be a very simple (limited) version of the product and its purpose is to …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Титарев, ДВ
+AU  - Новиков, АА
+TI  - … ПРИЛОЖЕНИЯ НА ПЛАТФОРМЕ IOS ДЛЯ КОНТРОЛЯ СОСТОЯНИЯ ЗДОРОВЬЯ ARCHITECTURE OF A MOBILE APPLICATION ON THE IOS PLATFORM …
+JF  - ВЕКТОР НАУЧНОЙ МЫСЛИ
+PB  - vektornm.ru
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+PY  - 2021///
+AB  - … iOS, предназначенных для контроля состояния здоровья. В рамках проведенной работы были изучены архитектуры MVC, MVP … mobile application on the iOS platform for health …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Шевченко, АА
+TI  - ПРИМЕНЕНИЕ MVP ПАТТЕРНА В IOS РАЗРАБОТКЕ
+JF  - … технологии в экономике, образовании и социальной …
+PB  - cepulib.ru
+UR  - http://www.cepulib.ru/documents/ukazateli/iktVobraz/2019_4.pdf#page=19
+UR  - http://www.cepulib.ru/documents/ukazateli/iktVobraz/2019_4.pdf#page=19
+PY  - 2019///
+AB  - … разработки приложений для iOS. В статьях [4–7] … MVP паттерна для операционной системы iOS. Целью статьи является описание практического применения паттерна MVP и …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - HTML
+AU  - Великанова, ЛО
+AU  - Мурлин, АГ
+AU  - ...
+TI  - Принципы разработки приложений под операционную систему iOS
+JF  - Политематический …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/printsipy-razrabotki-prilozheniy-pod-operatsionnuyu-sistemu-ios
+UR  - https://cyberleninka.ru/article/n/printsipy-razrabotki-prilozheniy-pod-operatsionnuyu-sistemu-ios
+PY  - 2017///
+AB  - … MVP означает превосходную тестируемость и большое количество кода. MVC и MVP … -либо событию, а для MVP, когда вид (view) не нужно каждый раз пересоздавать. …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 25 cites: https://scholar.google.com/scholar?cites=6393605714799022326&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 25
+ER  - 
+
+TY  - PDF
+AU  - Романков, СВ
+TI  - Сравнение архитектур мобильных приложений на IOS платформе
+JF  - Проблемы науки
+PB  - staff.tiiame.uz
+UR  - https://staff.tiiame.uz/storage/users/787/articles/0pr5LygZEH6f4HqizvySzoB3bIJO8yoYWhUhami7.pdf#page=12
+UR  - https://staff.tiiame.uz/storage/users/787/articles/0pr5LygZEH6f4HqizvySzoB3bIJO8yoYWhUhami7.pdf#page=12
+PY  - 2022///
+AB  - … на ОС iOS и сервера. Типы архитектурных паттернов могут различаться, но есть 4 наиболее часто используемых: MVC, MVP, … приложения на платформе iOS Apple советует …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 5 cites: https://scholar.google.com/scholar?cites=14527793352691757878&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 5
+ER  - 
+
+TY  - BOOK
+AU  - Будевич, КВ
+AU  - Нестерович, НС
+TI  - Архитектуры проектирования приложений на базе iOS
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/36598
+UR  - https://libeldoc.bsuir.by/bitstream/123456789/36598/1/Budevich_Architektury.pdf
+PY  - 2019///
+AB  - … В итоге View Controller в iOS становится делегатом и источником данных, а также … в то же время идея MVP очень проста. MVP в iOS означает превосходную тестируемость и …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Koval, A
+TI  - Comparative analysis of modern iOS architectures in different development stages
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11247908539014541596&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - HTML
+AU  - Булыга, АИ
+TI  - Анализ и сравнение архитектурных шаблонов проектирования, используемых при разработке мобильных приложений для платформы ios
+JF  - Научный журнал
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/analiz-i-sravnenie-arhitekturnyh-shablonov-proektirovaniya-ispolzuemyh-pri-razrabotke-mobilnyh-prilozheniy-dlya-platformy-ios
+UR  - https://cyberleninka.ru/article/n/analiz-i-sravnenie-arhitekturnyh-shablonov-proektirovaniya-ispolzuemyh-pri-razrabotke-mobilnyh-prilozheniy-dlya-platformy-ios
+PY  - 2022///
+AB  - … (сокращенно -ПО) для платформы iOS. Для начала будут освещены семейства … (по-английски Model View Presenter, сокращенно - MVP), модель представление модель…
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12080876785737819271&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - Comparing Automatic Approaches for Mvc Architecture Detection in Ios Codebases
+JF  - Available at SSRN 4025203
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025203
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4025203
+AB  - … We have focused on the iOS platform and Swift codebases, but the experiments can be reconducted and the approaches applied to other mobile platforms (such as Android), or even to …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Harbade, A
+TI  - iOS design patterns-Part 1 (MVC, MVP, MVVM)
+JF  - … /medium. com/swlh/ios-design-patterns-a9bd07818129 …
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3298519189060630880&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - BOOK
+AU  - Friedrich, V
+TI  - Konzeption und Implementierung einer nativen iOS-App zum Nachrichtenaustausch mit innovativen Funktionalitäten
+PB  - reposit.haw-hamburg.de
+UR  - https://reposit.haw-hamburg.de/handle/20.500.12738/11111
+UR  - https://reposit.haw-hamburg.de/bitstream/20.500.12738/11111/3/BA_iOSApp_Nachrichtenaustausch.pdf
+PY  - 2019///
+AB  - … concept for messaging on the mobile platform iOS that focuses on the opposite side of the … Funktionalität der iOS-App analysiert und konzipiert. Nachdem die Anforderungen an die iOS-…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Hany, M
+TI  - GROUP DELIVERY IOS APP
+PB  - digitalcommons.ncf.edu
+UR  - https://digitalcommons.ncf.edu/theses_etds/6141/
+PY  - 2021///
+AB  - … This thesis project is an iOS mobile application for group … The minimal viable product (MVP) that was developed includes … A user testing was dones on the MVP to test the app features …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS architecture patterns: demystifying MVC, MVP, MVVM and VIPER
+PB  - Nov
+PY  - 2015///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15161367824383133843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - CITATION
+AU  - Пузырев, ПК
+TI  - Сравнительный анализ архитектурных паттернов в IOS разработке
+JF  - Альманах научных работ молодых ученых …
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14626302587988566091&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - CITATION
+AU  - Мубаракшин, АМ
+AU  - Хахина, АМ
+TI  - Архитектурные подходы в разработке мобильных приложений на платформе iOS
+JF  - Информационные технологии: прошлое …
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1482827098969846803&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - JOUR
+AU  - Würth, K
+AU  - Barton, T
+TI  - Optimierung der Kundeninteraktion im Online-Weinhandel am Beispiel der VICAMPO-iOS-App
+JF  - Digitalisierung in Unternehmen: Von den theoretischen …
+PB  - Springer
+DO  - 10.1007/978-3-658-22773-9_13
+UR  - https://link.springer.com/chapter/10.1007/978-3-658-22773-9_13
+PY  - 2018///
+AB  - … Insgesamt ermöglicht der MVP somit zunächst Zugriff auf mobil besonders sinnvolle Funktionen. Diese werden auf rund 35 Screens umgesetzt, welche auf 22 API-Endpunkte zugreifen. …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=782925249896562437&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - JOUR
+AU  - Коняев, ЕВ
+TI  - Принципы разработки и шаблоны проектирования приложений под операционную систему iOS
+JF  - Путь в науку. Прикладные науки. Промышленность
+PB  - journals.psu.by
+UR  - http://journals.psu.by/specialists_industry/article/download/3315/3002
+PY  - 2020///
+AB  - … MVC и MVP парадигмы очень похожи друг на друга, но их … по какому-либо событию, а для MVP, когда вид (view) не … ограничений паттернов MVC и MVP, и объединяющий …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Жарасов, НЖ
+TI  - Концепции разработки приложений под операционную систему IOS на языке Swift
+JF  - НАУКА, ОБРАЗОВАНИЕ, ОБЩЕСТВО: АКТУАЛЬНЫЕ …
+UR  - https://naukaip.ru/wp-content/uploads/2021/03/MK-1044.pdf#page=15
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 3 cites: https://scholar.google.com/scholar?cites=11378076330866935672&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 3
+ER  - 
+
+TY  - BOOK
+AU  - Mamedovs, M
+TI  - iOS lietotņu arhitektūras risinājumi
+PB  - dspace.lu.lv
+UR  - https://dspace.lu.lv/items/2cb7c5bf-74f9-4d00-af55-4a46123fb364
+PY  - 2018///
+AB  - … trīs arhitektūras tēli – MVVM, MVP un VIPER. Arhitektūras tēli … iOS applications, good practices and required technologies to practically maintain them. Three architecture patterns – MVP…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Lacey, M
+AU  - Wagner, MA
+TI  - Creating Cross-Platform C# Applications with Uno Platform: Build apps with C# and XAML that run on Windows, macOS, iOS, Android, and WebAssembly
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=DwlBEAAAQBAJ&oi=fnd&pg=PP1&dq=ios+mvp%7C%22model+view+presenter%22&ots=QJM9fQV7Cy&sig=O6t2kx47I5bPAa2q_jILln7K_tg
+PY  - 2021///
+AB  - … Martin Zikmund is a freelance software developer and Microsoft Developer Technologies MVP. … He has been identified as a Microsoft MVP in recognition of his work and expertise with …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Осина, ПМ
+TI  - Разработка мобильного приложения детектирования и распознавания текстов на изображениях для платформы IOS
+PB  - earchive.tpu.ru
+UR  - https://earchive.tpu.ru/handle/11683/48069
+UR  - https://earchive.tpu.ru/bitstream/11683/48069/1/TPU552789.pdf
+PY  - 2018///
+AB  - … под iOS. В результате исследования было разработано приложение под платформу iOS для … Эта проблема возникает не только в MVP, ее также нужно решать во всех …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - González, D Medina
+TI  - Design and implementation of a full-stack iOS application for advanced portfolio risk management
+PB  - politesi.polimi.it
+UR  - https://www.politesi.polimi.it/handle/10589/244420
+UR  - https://www.politesi.polimi.it/bitstream/10589/244420/1/FinalThesisDiegoMedina.pdf
+PY  - 2024///
+AB  - … The development of the Gamma MVP represents a comprehensive, full-… 3.5 MVP Overview and Core Value Proposition The Gamma MVP is designed as a sophisticated yet intuitive iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - 赵钦
+TI  - iOS 在线商城客户端优化方案设计与实现
+PB  - 北京邮电大学
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - МАНСУРОВА, СР
+TI  - АРХИТЕКТУРА ОПЕРАЦИОННОЙ СИСТЕМЫ IOS И КЛЮЧЕВЫЕ ПРИНЦИПЫ РАЗРАБОТКИ ПРИЛОЖЕНИЙ НА ЯЗЫКЕ ПРОГРАММИРОВАНИЯ …
+JF  - … ЧТЕНИЯ Уфа, 24–28 ноября 2025 …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Pecuch, BT
+TI  - iOS mobile media platform
+JF  - is.muni.cz
+UR  - https://is.muni.cz/th/sb6ql/Master_s-Thesis-Tomas-Pecuch_Archive.pdf
+UR  - https://is.muni.cz/th/sb6ql/Master_s-Thesis-Tomas-Pecuch_Archive.pdf
+AB  - … three common iOS apps which present news content on iOS in … app to our own solution and create iOS app which is easy to … It can be implemented with less code than MVP model, but …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Болгов, ІМ
+TI  - Додаток для діагностування автомобілів на базі OBD-II під мобільну платформу iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/6efe3dda-a9cb-4acc-83a1-34a50158e376
+UR  - https://ela.kpi.ua/bitstreams/4999d146-be91-4e2b-a2da-598a87f1838c/download
+PY  - 2019///
+AB  - … - простота використання: кількість коду в два рази більше в порівнянні з MVC, але в той же час ідея MVP дуже проста. MVP в iOS означає чудову можливість для написання unit-…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Triadi, AR
+AU  - Setiawan, JC
+AU  - ...
+TI  - Kabisa App: iOS-Based Application for Learning Sundanese Script with Game-Based Learning Implementation
+JF  - 2023 International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10277745/
+PY  - 2023///
+AB  - … 3) MVP This MVP is useful for authors to prioritize the features they want to develop. This is made based on how important the feature is to solve problems that occur, and which is the …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=951661441935460339&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - CITATION
+AU  - Дудинский, АН
+TI  - Разработка мобильного приложения на системе iOS для авторизации личности по цифровому изображению лица: аннотация к дипломной …
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Гриб, АС
+AU  - Проходский, ДВ
+TI  - Преимущества и недостатки архитектуры MVP при разработке IOS-приложения
+JF  - Студенческий …
+PB  - Общество с ограниченной …
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14335214555965189370&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - JOUR
+AU  - Downey, E
+TI  - iOS Architecture
+JF  - Practical Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-2280-5_4
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2280-5_4
+PY  - 2016///
+AB  - … This pattern has been associated with MVP and VIPER. MVP stands for model-view-presenter. VIPER stands for view-interactor-presenterentity-routing. The presenter pattern has also …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Mašek, J
+TI  - Architektonické vzory iOS aplikací a jejich implementace v jazyce Swift
+PB  - theses.cz
+UR  - https://theses.cz/id/458ylb/
+PY  - 2020///
+AB  - … vzorů na platformě iOS. Analyzovány jsou architektonické vzory MVC, MVP, MVVM, VIPER a … Cílem práce je poskytnout detailní přehled v problematice architektonických vzorů v iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Волошенюк, І
+TI  - Розробка мобільного додатку для ведення обліку фінансів мовою Swift для платформи iOS
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/items/0f22021e-a4e8-4a39-974b-479503ab1f33
+UR  - https://ekmair.ukma.edu.ua/bitstreams/41fda2b3-ef7a-41b6-8449-2e50710b87d9/download
+PY  - 2022///
+AB  - … Дана курсова робота присвячена розробці мобільного додатку для операційної системи iOS з … Він подібний до MVP, однак не містить прямого зв’язку між View та Model. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Булыга, АИ
+TI  - ОБЗОР ВАРИАНТОВ ДИСПЕТЧЕРИЗАЦИИ МЕТОДОВ И СООБЩЕНИЙ НА ПЛАТФОРМАХ IOS И MACOS
+JF  - Научный журнал
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/obzor-variantov-dispetcherizatsii-metodov-i-soobscheniy-na-platformah-ios-i-macos
+PY  - 2022///
+AB  - … (сокращенно -ПО) для платформы iOS. Для начала будут освещены семейства … (по-английски Model View Presenter, сокращенно - MVP), модель представление модель…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Paula, DG
+TI  - Projeto e Implementação de um Aplicativo iOS para Apoio à Jornada Acadêmica dos Estudantes no PPGCO
+PB  - repositorio.ufu.br
+UR  - https://repositorio.ufu.br/handle/123456789/44162
+UR  - https://repositorio.ufu.br/bitstream/123456789/44162/1/ProjetoeImplementacaoDeUmAplicativoiOSparaApoioJornadaAcademicaDosEstudantesNoPPGCO.pdf
+PY  - 2024///
+AB  - … Contudo, neste trabalho não serão detalhadas as arquiteturas MVC, MVP e VIPER, pois não serão utilizadas. Neste trabalho será utilizado padrão arquitetural MVVM pela …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Ксенофонтова, С
+TI  - Розробка мобільного застосунку для платформи IOS для організації централізованої волонтерської допомоги літнім людям
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/items/17063dd7-1b32-4938-892a-34ccd0fbed3a
+UR  - https://ekmair.ukma.edu.ua/bitstreams/ea9d3ad4-045d-40ec-a111-ffbdf534899a/download
+PY  - 2021///
+AB  - … iOS застосувань, що наразі використовуються в мобільній розробці безумовними лідерами є класичні архітектурні моделі MVC, MVP… використовуваних серед iOS розробників…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Пономаренко, ВО
+TI  - Реализация кэширования новостной ленты для iOS-приложения «Одноклассники»: выпускная квалификационная работа бакалавра: направление 09.03. 04 « …
+PB  - elib.spbstu.ru
+UR  - https://elib.spbstu.ru/dl/3/2025/vr/vr25-1514.pdf/en/info
+PY  - 2025///
+AB  - … и реализацию минимально жизнеспособной версии (MVP). Переход от хранения данных в … , and implementing a minimum viable version (MVP). The transition from storing data as …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - 张帅
+AU  - 张愉
+AU  - 尚兆洁
+TI  - iOS 常用架构模式分析
+JF  - 工程技术 (文摘版)· 建筑
+PY  - 2016///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Sakun, A
+TI  - Vývoj aplikace pro mobilní operační systém iOS
+PB  - theses.cz
+UR  - https://theses.cz/id/qepb0i/
+UR  - https://theses.cz/id/qepb0i/zaverecna_prace.pdf
+PY  - 2019///
+AB  - … on the iOS platform to … MVP, protože zvažuje ViewContoller jako View a v něm neexistuje úzké spojení mezi View a Modelem. Jenom to, že dělá vazby (bindings) stejné jako verze MVP, …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Нєдов, ЄБ
+TI  - Методи та засоби реалізації IOS-додатків управління задачами малого або середнього бізнесу
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/e7956de7-ae57-43fb-b8eb-edac270826d9
+UR  - https://ela.kpi.ua/bitstreams/7e3758d4-6c32-4710-897d-c8ece95cc048/download
+PY  - 2025///
+AB  - … Проте MVP також породжує велику кількість взаємодій між компонентами та підвищує складність синхронізації стану [5]. У монолітних застосунках або проєктах із великою …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Englestone, L
+TI  - NET Developer's Guide to Augmented Reality in IOS: Building Immersive Apps Using Xamarin, ARKit, and C#
+PB  - Springer
+DO  - 10.1007/978-1-4842-6770-7
+UR  - https://link.springer.com/book/10.1007/978-1-4842-6770-7?source=shoppingads&locale=en-jp
+PY  - 2021///
+AB  - … This book introduces and explores iOS augmented reality mobile app development specifically … In recognition of his community contributions, he has been awarded a Microsoft MVP in …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7859075851059715672&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - BOOK
+AU  - Čvrljević, P
+TI  - Arhitekturalni dizajn pri razvoju aplikacija za iOS
+PB  - dabar.srce.hr
+UR  - https://dabar.srce.hr/object/foi:5334
+PY  - 2019///
+AB  - … operativni sustav iOS uz usporedbu iOS i Android … MVP i VIPER prvo teoretski, a zatim i uz kratke primjere. U praktičnom dijelu rada je u suradnji sa udrugom Obitelji 3plus razvijena iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Мацкевич, РГ
+TI  - Создание и продвижение мобильного приложения для iOS в сфере здоровья: аннотация к магистерской диссертации
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Krämer, A
+TI  - Cross-Plattform-Apps mit Xamarin. Forms entwickeln: mit C# für Android und iOS programmieren
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=9DA7EAAAQBAJ&oi=fnd&pg=PR5&dq=ios+mvp%7C%22model+view+presenter%22&ots=650d8u44b6&sig=0kBHtxmkBtRRC3z5EpCn7NCJ0to
+PY  - 2021///
+AB  - … iOS so gut wie gar nicht mehr nachgefragt werden. … 3, nur dass es dieses Mal um iOS und nicht um Android geht. … vor allem Verpackung von iOS-Apps ist ein Mac jedoch unverzichtbar. …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7126025188650752241&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Москалева, ЮП
+TI  - Создание iOS виджета Today Extension в парадигме MV*-паттернов
+JF  - … -компьютерные технологии в …
+PB  - … учреждение высшего образования …
+PY  - 2020///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16754657959297527918&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - JOUR
+AU  - Rashid, A
+AU  - Alqaydi, N
+AU  - Hosam, O
+TI  - MOEI Drive: An iOS App for Real-Time Driving Behavior Monitoring and Eco-Driving Promotion
+JF  - 2025 10th International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11352941/
+PY  - 2025///
+AB  - … This paper details the comprehensive development lifecycle of the MOEI Drive iOS application. Section … The application is deemed a viable minimum viable product (MVP) ready for pilot …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Asensio, C Rodríguez
+TI  - Desarrollo de aplicación para plataformas iOS basada en analítica y minería de textos
+PB  - e-archivo.uc3m.es
+UR  - https://e-archivo.uc3m.es/entities/publication/8c0b8f6c-ad2b-420d-9441-f30343aba1a6
+UR  - https://e-archivo.uc3m.es/bitstreams/bd262b93-c44e-41f2-9844-db51f67decdb/download
+PY  - 2019///
+AB  - … importantes, Android e iOS. Una vez tomada la decisión de desarrollar la aplicación para iOS, vino el … en Android pero que hubo que insertar en iOS mediante Cocoapods, un gestor de …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Marić, P
+TI  - Usporedna analiza programskih pristupa u razvoju mobilnih aplikacija za Android i iOS
+PB  - repozitorij.etfos.hr
+UR  - https://repozitorij.etfos.hr/object/etfos:2569
+UR  - https://repozitorij.etfos.hr/object/etfos:2569/FILE0/download
+PY  - 2020///
+AB  - … te biblioteka Alamofire za iOS mobilnu aplikaciju uz prikaz … detalji mobilnih platformi Android i iOS na kojima se pokreću … razvojna arhitektura programske podrške MVP, načela SOLID te …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Barbosa, CA
+AU  - Silva, IAS da
+TI  - Aplicativo para a Plataforma iOS que Auxilia Pessoas com Deficiência Visual no Manuseio de Cédulas de Real
+PB  - dspace.mackenzie.br
+UR  - https://dspace.mackenzie.br/items/7c33a3dd-9303-4cd3-8375-c757a6e21c22
+UR  - https://dspace.mackenzie.br/bitstreams/9ad3991f-a044-4e6a-bc10-f9df1e794311/download
+PY  - 2021///
+AB  - … Decidiu-se pelo sistema operacional iOS devido à boa documentação dos frameworks, … A arquitetura de projeto utilizada foi a MVP(Model-View-Presenter) com Coordinator. Essa …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Иванов, АЕ
+TI  - Рефакторинг приложения Paltalk для платформы IOS: магистерская диссертация по направлению подготовки: 02.04. 02-Фундаментальная …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:9132/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:9132/SOURCE01
+PY  - 2019///
+AB  - … Платформа iOS занимает весомую долю рынка мобильных устройств. Пользователей … своих программных продуктов для платформы iOS. Приходится учитывать особенности …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Oulladi, S El
+TI  - iOS Swift: MVP Architecture
+JF  - octubre de
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3959930969323116507&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - BOOK
+AU  - Krämer, A
+TI  - Cross-Plattform-Apps mit. NET MAUI entwickeln: Mit C# für Android, iOS, macOS und Windows programmieren.
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=WbAtEQAAQBAJ&oi=fnd&pg=PR5&dq=ios+mvp%7C%22model+view+presenter%22&ots=nZODlkkX7R&sig=y-JUt8DD94F4Orw8Fmr1do1Puog
+PY  - 2024///
+AB  - … Vorteil: E-Book inside beim Kauf des gedruckten Buches Programmieren Sie bereits Desktop-oder Webanwendungen mit C# und.NET und möchten nun auch Apps für Android, iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Markotić, A
+TI  - Izgradnja mobilnih aplikacija interaktivne proširene stvarnosti za platformu iOS
+PB  - zir.nsk.hr
+UR  - https://zir.nsk.hr/object/fer:12527
+UR  - https://zir.nsk.hr/object/fer:12527/FILE0/download
+PY  - 2024///
+AB  - … Također, u okviru rada, razvijat će se aplikacija za iOS platformu kao praktični primjer primjene … Model View Presenter, u daljnjem tekstu MVP) u kombinaciji s Koordinator arhitekturnim …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Tersi, FL
+AU  - Souza-Concilio, I de Almeida
+TI  - AN AUGMENTED REALITY GAME FOR IOS SMARTPHONES
+JF  - scholar.archive.org
+UR  - https://scholar.archive.org/work/z6v2chwu7ffjhlkme5jwr24tju/access/wayback/https://www.iadisportal.org/components/com_booklibrary/ebooks/202304C007.pdf
+UR  - https://scholar.archive.org/work/z6v2chwu7ffjhlkme5jwr24tju/access/wayback/https://www.iadisportal.org/components/com_booklibrary/ebooks/202304C007.pdf
+AB  - … games?", "What are our references of dystopian iOS games?", "How is the game mechanic?, “… Product (MVP) solution proposal was synthesized at first, and it consisted of an iOS game …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Avelino, TF
+AU  - Lianto, R
+AU  - Wijaya, M
+AU  - Rangkuti, AH
+TI  - Development Monitoring Laundry Management System Based on Ios Core Data
+JF  - ICEZ
+PB  - research.binus.ac.id
+UR  - https://research.binus.ac.id/smeei/wp-content/uploads/sites/22/2024/11/ID-126.pdf
+UR  - https://research.binus.ac.id/smeei/wp-content/uploads/sites/22/2024/11/ID-126.pdf
+PY  - 2024///
+AB  - … the application base that will be made, namely iOS. Next, the author formulates the problem and … Next, the author creates an MVP (minimum viable product) to get appropriate results by …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Мамаева, АБ
+AU  - Торхов, АЕ
+TI  - ПРОЕКТИРОВАНИЕ АРХИТЕКТУРЫ IOS ПРИЛОЖЕНИЯ ДЛЯ ПРЕДСТАВЛЕНИЯ АКТУАЛЬНОЙ ИНФОРМАЦИИ ПО УЧЕБНОМУ СЕМЕСТРУ
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Ali, H
+AU  - Gupta, P
+TI  - ABFL EMICard in iOS Application Development
+PB  - ir.juit.ac.in
+UR  - http://www.ir.juit.ac.in:8080/jspui/bitstream/123456789/3970/1/ABFL%20EMICard%20in%20iOS%20Application%20Development.pdf
+UR  - http://www.ir.juit.ac.in:8080/jspui/bitstream/123456789/3970/1/ABFL%20EMICard%20in%20iOS%20Application%20Development.pdf
+PY  - 2018///
+AB  - … I will quickly expound on iOS and its significant segment and fundamental ideas which are … of the organization and in addition to learn iOS improvement and then I worked on the live …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Лаптев, ДВ
+TI  - СИСТЕМА ФОРМИРОВАНИЯ ЗАКАЗОВ ДЛЯ СЕТИ ОБЩЕСТВЕННОГО ПИТАНИЯ НА БАЗЕ СИСТЕМЫ IOS, С ИСПОЛЬЗОВАНИЕМ ЯЗЫКА SWIFT …
+JF  - … и прикладные аспекты компьютерных технологий и …
+PY  - 2023///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Čizmar, D
+TI  - PRIMENA IBEACON PROTOKOLA NA IOS PLATFORMI
+JF  - Zbornik radova Fakulteta tehničkih nauka u Novom …
+PB  - zbornik.ftn.uns.ac.rs
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/173/82
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/173/82
+PY  - 2019///
+AB  - U radu je opisan način rada bikona kao i primena i implementacija iBeacon protokola na iOS platformi. Takođe su opisani problemi kod razvoja aplikacija koje koriste bikone. Postoji …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Xamarin, BIAU
+AU  - Englestone, L
+TI  - .NET Developer's Guide to Augmented Reality in iOS
+JF  - Springer
+DO  - 10.1007/978-1-4842-6770-7
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-6770-7.pdf
+AB  - … In recognition of his community contributions, he has been awarded a Microsoft MVP in Developer Technologies. He can be contacted through LinkedIn at https://www.linkedin.com/in/…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Bengtsson, S
+AU  - Eliasson, P
+AU  - Henriksson, C
+AU  - Jansson, A
+AU  - ...
+TI  - Development of Picwear-A Multi-Platform Mobile Clothing and Fashion Service for Android, iOS and the Web
+PB  - odr.chalmers.se
+UR  - https://odr.chalmers.se/bitstreams/5f30e949-8584-4df0-ad59-e1c261a132d5/download
+UR  - https://odr.chalmers.se/bitstreams/5f30e949-8584-4df0-ad59-e1c261a132d5/download
+PY  - 2015///
+AB  - The purpose of this report is to describe the development of Picwear, a mobile service, in collaboration with a startup with the same name. The service offers consumers to find fashion …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8928561259086135787&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - CITATION
+AU  - Хрипунов, ІМ
+TI  - Дослідження ML моделей для завдань розпізнавання образів на iOS
+PY  - 2023///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Зиненко, ЕИ
+TI  - … ДЛЯ МОНИТОРИНГА ИНДИВИДУАЛЬНЫХ ПАРАМЕТРОВ ПОЛЬЗОВАТЕЛЯ ДЛЯ УСТРОЙСТВ ПОД УПРАВЛЕНИЕМ IOS НА ЯЗЫКЕ SWIFT
+PY  - 2020///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Іванець, ОА
+TI  - Система придбання товарів з урахуванням місцезнаходження користувача для мобільної платформи iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/da5f71e1-ad1e-453f-8ea7-f816d436fc4a
+UR  - https://ela.kpi.ua/bitstreams/a1c42823-9c4c-4778-a67f-661b10fc637c/download
+PY  - 2019///
+AB  - … більш нову та абстрактну модель – MVP(Model-View-Presenter, українською – Модель-Вид… Даний патерн відрізняється від MVC та MVP логікою розподілу відповідальностей між …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Стандрет, ПО
+TI  - Розробка мобільного додатку операційної системи IOS для здійсненням контролю історії пересування користувача з використанням мови Swift та …
+PB  - elartu.tntu.edu.ua
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/36808/1/Standret.pdf
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/36808/1/Standret.pdf
+PY  - 2021///
+AB  - … (post mvp) - Можливість каскадно переглядати дані із групування по адміністративному рівні … під iOS, починаючи від стандартного MVC який пропонує компанія Apple, MVP який …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Keighobad, A
+AU  - Demirel, FB
+TI  - Software Platform for Design and Management of Real-time Data from Microneedle-based Wearable Sensors: A front-end (iOS) and a server-side (Node …
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Milanez, SP
+TI  - Implementação de um aplicativo iOS baseado em processamento de imagens com frameworks nativas.
+PY  - 2024///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Калюжный, ЕР
+AU  - Красноусов, ВМ
+AU  - Букреев, ЛВ
+AU  - ...
+TI  - РЕАЛИЗАЦИЯ МОБИЛЬНОГО ПРИЛОЖЕНИЯ ДЛЯ ПЛАТФОРМЫ IOS «ПУТЕВОДИТЕЛЬ»
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Cortez, PFP
+AU  - Bittencourt, VB
+TI  - Aceleração da Validação de Hipóteses em aplicativos para iOS
+JF  - … Federal do Rio de Janeiro, Rio de …
+PB  - viniciusbitten.com
+UR  - https://www.viniciusbitten.com/assets/pdf/ProjetoFinalGraduacao.pdf
+UR  - https://www.viniciusbitten.com/assets/pdf/ProjetoFinalGraduacao.pdf
+PY  - 2014///
+AB  - … O fato de termos submetido algo que nao era muito mais que o menor produto viável (MVP) nos permitiu saber disso antes de investir no desenvolvimento de uma interface mais …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13402353869109713310&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 1
+ER  - 
+
+TY  - BOOK
+AU  - Chiang, B
+TI  - Motion capture smartphone application synthesizing Bluetooth, Unity, and iOS for real-time data exportation
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/5f1963ad54a8418c3a1e5d31519aa721/1?pq-origsite=gscholar&cbl=18750&diss=y
+UR  - https://search.proquest.com/openview/5f1963ad54a8418c3a1e5d31519aa721/1?pq-origsite=gscholar&cbl=18750&diss=y
+PY  - 2023///
+AB  - … for designing a state-of-the-art iOS mobile app for the Human Performance and Robotics … The application was designed to be native to iOS and be built in Xcode, Apple's integrated …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12612528654566969382&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - CITATION
+AU  - Malviya, R
+AU  - Kumar, P
+TI  - A Mobile iOS Application Development with Case Study: ReadMeLater
+JF  - International Journal of Global Research in Science …
+PY  - 2020///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Тітіков, АО
+TI  - Методи прогнозування LTV для транзакційного методу монетизації в застосунку iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/359971d2-3419-44a4-89e2-e97cb5d740e4
+UR  - https://ela.kpi.ua/bitstreams/b562214f-1e07-47ab-aa4d-3aaa0eb07b70/download
+PY  - 2024///
+AB  - … Після визначення концепції компанія переходить до розробки мінімально життєздатного продукту (MVP). Це версія застосунку з мінімально необхідним набором функцій, що …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Перцев, НН
+AU  - Хадиев, МР
+AU  - ...
+TI  - МЕТОД ПРОГРАММНОЙ РЕАЛИЗАЦИИ СВЕРТОЧНОГО НЕЙРОСЕТЕВОГО РАСПОЗНАВАНИЯ НА БАЗЕ IOS
+JF  - Вестник …
+PB  - … учреждение высшего образования …
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Leite, F
+AU  - Hummel, L
+AU  - Coelho, M
+TI  - Aplicativo iOS com reconhecimento de embalagem para destacar as principais informações da bula de medicamento
+PB  - dspace.mackenzie.br
+UR  - https://dspace.mackenzie.br/items/3b296444-3e8a-4b72-97d8-4b497c52ca9a
+UR  - https://dspace.mackenzie.br/bitstreams/8c33265e-d6f3-4b00-9a85-86d77f76f3a4/download
+PY  - 2023///
+AB  - … Após estas etapas inicia-se a terceira parte, constituída pela implementação de um MVP de um aplicativo iOS. Finalmente, a última etapa, quatro, corresponde a validação da solução. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Середюк, ГВ
+AU  - Пламарчук, ЄА
+TI  - Мобільний додаток на платформі IOS з використанням архітектурного патерну MVVM
+PB  - ir.lib.vntu.edu.ua
+UR  - http://ir.lib.vntu.edu.ua/bitstream/handle/123456789/39530/12157.pdf?sequence=3&isAllowed=y
+UR  - http://ir.lib.vntu.edu.ua/bitstream/handle/123456789/39530/12157.pdf?sequence=3&isAllowed=y
+PY  - 2021///
+AB  - Розглянуто та проаналізовано створення мобільного додатку з архітектурою на основі патерну mvvm для платформи iOS . Вибраний патерн грунтується на різноманітних …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17875478286865159064&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - BOOK
+AU  - Воробей, ДА
+TI  - Приложение для контроля приёма лекарственных средств для платформы IOS
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/43784
+UR  - https://libeldoc.bsuir.by/bitstream/123456789/43784/1/Vorobey_Prilozheniye.pdf
+PY  - 2021///
+AB  - … Гриб, АСПреимущества и недостатки архитектуры MVP при разработке IOS-приложения / АСГриб, ДВПроходский // Студенческий вестник: электрон. научн. журн. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Виджая, С
+TI  - Разработка приложения для отслеживания уровня кофеина для платформ iOS и watchOS: выпускная бакалаврская работа по направлению подготовки …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:20349/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:20349/SOURCE01
+PY  - 2024///
+AB  - … Создание iOS и watchOS-приложений для помощи в отслеживании уровня кофеина в … Спроектированы и разработаны приложения для платформы iOS и watchOS, …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Plšek, D
+TI  - Aplikace pro vyhledávání partnerů do posilovny (iOS)
+PB  - theses.cz
+UR  - https://theses.cz/id/1sixvc/18744_Archive.pdf
+UR  - https://theses.cz/id/1sixvc/18744_Archive.pdf
+PY  - 2016///
+AB  - … byl MVP navrhován pomocí diagramu případu užití, který lze nalézt v příloze A.3. Pokud by byl projeven menší zájem o vyhledávání partnerů, bylo by možné definovat MVP pomocí …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Калюжный, ЕР
+AU  - Букреев, ЛВ
+AU  - Шпаковский, ГА
+AU  - ...
+TI  - МОБИЛЬНЫЕ ПРИЛОЖЕНИЯ ДЛЯ ОПЕРАЦИОННОЙ СИСТЕМЫ IOS: ТЕХНОЛОГИИ РАЗРАБОТКИ
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Moraes, MC
+TI  - Desenvolvimento de um aplicativo nas plataformas Android e IOS utilizando comunicação segura para a solução VoIP UEMA
+PB  - pecs.uema.br
+UR  - https://www.pecs.uema.br/wp-content/uploads/2024/05/Magno-Castro-Moraes-1.pdf
+UR  - https://www.pecs.uema.br/wp-content/uploads/2024/05/Magno-Castro-Moraes-1.pdf
+PY  - 2021///
+AB  - … Em seguida, foi desenvolvido um MVP (Minimum Viable Product) para testar a integração com o ambiente do VoIP UEMA. Neste MVP foi possível realizar o registro diretamente com o …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9613198932965043058&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - PDF
+AU  - Подолянчик, АА
+TI  - Реализация функционала геопозиционирования при помощи фреймворка MapKit для мобильных приложений под управлением ОС IOS
+PB  - elib.belstu.by
+UR  - https://elib.belstu.by/bitstream/123456789/27037/1/Podolyanchik_Realizaciya%20funkcionala.pdf
+UR  - https://elib.belstu.by/bitstream/123456789/27037/1/Podolyanchik_Realizaciya%20funkcionala.pdf
+PY  - 2018///
+AB  - … системы Android существует огромное количество примеров использования различных фреймворков для реализации данного функционала, то для устройств IOS-смейств, …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Pathak, M
+TI  - Study of impact and flexibilities provided by sharing code logic in code architecture layers written using KMM for android &iOS mobile applications.
+PB  - theses.cz
+UR  - https://theses.cz/id/tooir1/
+UR  - https://theses.cz/id/tooir1/zaverecna_prace_Archive.pdf
+PY  - 2022///
+AB  - … After the era of ModelView-Control (MVC), Model-View-Presenter (MVP), the most loved architecture with current stack of the technologies used is Model-View-ViewModel (MVVM). …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Журба, МА
+TI  - Середовище для створення і супроводження iOS застосунків для подорожей
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/4b5cc3b1-1798-4f53-bea2-9573895b36e1
+UR  - https://ela.kpi.ua/bitstreams/bd3f8805-e943-4c02-855c-5814f284eb36/download
+PY  - 2022///
+AB  - … iOS застосунків. Предмет дослідження: методи створення та супроводження iOS … існуючих підходів для розробки схожих між собою iOS застосунків на одній кодовій базі;…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - HTML
+AU  - Vasilev, MD
+AU  - Okhlopkova, SA
+TI  - DESIGN AND DEVELOPMENT OF AN IOS APPLICATION FOR TRACKING ROAD POTHOLES
+JF  - Modern high technologies
+PB  - top-technologies.ru
+UR  - https://www.top-technologies.ru/en/article/view?id=39854
+UR  - https://www.top-technologies.ru/en/article/view?id=39854
+PY  - 2024///
+AB  - … На данном этапе развития проекта разработано MVP – мобильное приложение, … изучены аппаратные и программные возможности iOS для обнаружения неровностей дорог. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Сирота, ОА
+TI  - Дослідження наслідків використання патернів і загальноприйнятих підходів в побудові архітектури крос-платформних додатків під Android і IOS
+PB  - crust.ust.edu.ua
+UR  - https://crust.ust.edu.ua/items/c7c8199e-5b78-48cb-9718-f427fb339ff1
+UR  - https://crust.ust.edu.ua/bitstreams/748b71f7-e9f2-4bf8-85ea-069b0335b6f9/download
+PY  - 2021///
+AB  - … Такою ситуацією може бути розробка MVP продукту. Minimum viable product або MVP – це … Розробка та аналіз MVP продукту дешевша ніж розробка повноцінного програмного …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Tsadok, A
+TI  - Real-World iOS Development
+JF  - Springer
+DO  - 10.1007/979-8-8688-2815-7
+UR  - https://link.springer.com/content/pdf/10.1007/979-8-8688-2815-7.pdf
+AB  - … Did you ever stop and think about how we learn and evolve as iOS developers? Some of us … One of the interviewees told me, “I wish I had this book when I started to develop for iOS” (…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Hoyme, K
+TI  - Developing an iOS App to Support Friendly Competition
+PB  - dr.lib.iastate.edu
+UR  - https://dr.lib.iastate.edu/entities/publication/525de603-6451-4723-9bac-4568cec09b77
+PY  - 2025///
+AB  - … I also wanted to create this app to learn about iOS development and Swift, as well as full-… App MVP from start to finish • Learn about full-stack development • Learn Swift &about iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Jurišić, B
+TI  - Usporedba nativnog i višeplatformskog razvoja mobilne aplikacije u iOS i React-Native tehnologijama
+PB  - repozitorij.unios.hr
+UR  - https://repozitorij.unios.hr/object/etfos:2000
+UR  - https://repozitorij.unios.hr/object/etfos:2000/FILE0/download
+PY  - 2018///
+AB  - … Arhitektura iOS i macOs aplikacija ovisi o razvojnom programeru, no najčešće, arhitekture iOS i macOS … Od poznatijih arhitekturalnih uzoraka važno je spomenuti i MVP, Viper te Rx. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Jakubec, P
+TI  - Multiplatform Keyboard Extension for Android and iOS in Flutter
+PB  - is.muni.cz
+UR  - https://is.muni.cz/th/pkk6a/Jakubec_Pavel_Maters_Thesis_Archive.pdf
+UR  - https://is.muni.cz/th/pkk6a/Jakubec_Pavel_Maters_Thesis_Archive.pdf
+PY  - 2025///
+AB  - This thesis has two primary goals. The first is to explore the usability of Flutter for developing cross-platform app extensions. The second is to migrate the EasyType keyboard, an iOS …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=6487587854313162342&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - 王安卓
+TI  - 基于 iOS 的 O2O 上门按摩服务应用软件的设计与实现
+PB  - 北京邮电大学
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Araújo, D
+AU  - Silva, AM
+TI  - Desenvolvimento em Ambiente iOS de um Aplicativo para Conexões de Redes Privadas Utilizando Protocolo OpenVPN
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Computacao-Unifaccamp/publication/354100186_Desenvolvimento_em_Ambiente_iOS_de_um_Aplicativo_para_Conexoes_de_Redes_Privadas_Utilizando_Protocolo_OpenVPN_Atividade_Pratica_de_Desenvolvimento/links/612503771e95fe241af56f42/Desenvolvimento-em-Ambiente-iOS-de-um-Aplicativo-para-Conexoes-de-Redes-Privadas-Utilizando-Protocolo-OpenVPN-Atividade-Pratica-de-Desenvolvimento.pdf
+UR  - https://www.researchgate.net/profile/Computacao-Unifaccamp/publication/354100186_Desenvolvimento_em_Ambiente_iOS_de_um_Aplicativo_para_Conexoes_de_Redes_Privadas_Utilizando_Protocolo_OpenVPN_Atividade_Pratica_de_Desenvolvimento/links/612503771e95fe241af56f42/Desenvolvimento-em-Ambiente-iOS-de-um-Aplicativo-para-Conexoes-de-Redes-Privadas-Utilizando-Protocolo-OpenVPN-Atividade-Pratica-de-Desenvolvimento.pdf
+AB  - … This article proposes the development of a mobile application prototype, for the iOS platform… protótipo de aplicativo móvel, para plataforma iOS, com o intuito de estabelecer conexões …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Коцулим, ВЄ
+TI  - Розробка переглядача зображень з можливістю керування жестами на платформу iOS для мультимедійного простору
+PB  - elartu.tntu.edu.ua
+UR  - https://elartu.tntu.edu.ua/handle/lib/30663
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/30663/3/dyplom_Kotsulyn_O_2020.pdf
+PY  - 2019///
+AB  - … MVP (Model View Presenter) – загальною моделлю цей шаблон дуже схожий на інші, однак Controller/ViewModel заміняється такою сутністю як Presenter. Presenter – це сутність…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Caçador, A Ribeiro
+TI  - Prototipo de juego para dispositivos iOS en el que se dirige un equipo de baloncesto colegial
+PB  - upcommons.upc.edu
+UR  - https://upcommons.upc.edu/entities/publication/160a0316-1ed9-448e-91e3-cbd54cbee4be
+UR  - https://upcommons.upc.edu/bitstreams/ae3e962c-7190-40e1-ab50-b956061ea246/download
+PY  - 2016///
+AB  - Diamonds Manager is a management game of basketball, iOS mobile client is scheduled swift served data through an API Rest nodejs made. Lean Startup methodologies to the product…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Бацанов, АА
+TI  - Разработка iOS-приложения TSU. Helper 2.0: выпускная бакалаврская работа по направлению подготовки: 09.03. 04-Программная инженерия
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:16580/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:16580/SOURCE01
+PY  - 2022///
+AB  - … Поскольку мобильное приложение должно быть реализовано под iOS, то для … язык программирования, созданный компанией Apple специально для разработки под iOS. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Tsadok, A
+TI  - Pro iOS Testing
+JF  - Springer
+DO  - 10.1007/978-1-4842-6382-2
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-6382-2.pdf
+AB  - … It is a big challenge to write a book while also being a full- time dad and an iOS … iOS, and why it’s important. We also talked about different types of tests that are relevant for iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Duarte, W
+TI  - Delphi para Android e iOS: desenvolvendo aplicativos móveis
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=mmx3CgAAQBAJ&oi=fnd&pg=PA1&dq=ios+mvp%7C%22model+view+presenter%22&ots=TUUJHc1585&sig=NHre9R8LL3pL9__DRg1fyGmDz20
+PY  - 2015///
+AB  - … , iOS 32-bit, iOS 64-bit e simulador iOS) e uma biblioteca visual multiplataforma com tecnologia de ponta chamada FireMonkey. Combinando a solução multidispositivo, são sete …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 7 cites: https://scholar.google.com/scholar?cites=14354503684789999050&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 7
+ER  - 
+
+TY  - PDF
+AU  - BOBÁK, PBP
+AU  - ZEMČÍK, P
+TI  - Mobilní systém pro rozpoznání textu na iOS
+PB  - dspace.vut.cz
+UR  - https://dspace.vut.cz/bitstreams/6ca3ce52-7663-437e-8cc5-4923c358de87/download
+UR  - https://dspace.vut.cz/bitstreams/6ca3ce52-7663-437e-8cc5-4923c358de87/download
+PY  - 2017///
+AB  - … klient-server aplikace pro rozpoznání textu na platformě iOS. Čtenář je v úvodu seznámen s … o platformě iOS a zmiňuje také některé podstatné koncepty charakteristické pro vývoj iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Радченко, ДО
+TI  - Симулятор криптовалютних інвестицій. Розробка iOS-додатку для віртуальної торгівлі та прогнозування цін
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/c5a580b1-5331-4ab0-a75e-c1d02ff4e8cf
+UR  - https://ela.kpi.ua/bitstreams/8b8c7567-fc9a-4c5a-aeb3-9b079080f290/download
+PY  - 2024///
+AB  - … Goal of the thesis – to develop an iOS application for simulating cryptocurrency trading and predicting prices using modern technologies. Research methods – analysis of time series (…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Halama, T
+TI  - Přenositelnost aplikací mezi OS Android, iOS a Windows Phone
+PB  - dspace.zcu.cz
+UR  - https://dspace.zcu.cz/items/3f1a036f-d8e0-4068-b163-031bedfd3ca5
+UR  - https://dspace.zcu.cz/bitstreams/32acb054-d58b-49db-b52d-bb6619737123/download
+PY  - 2017///
+AB  - … Návrhový vzor pro Android aplikace se nazývá Model-View-Presenter (MVP). [8] Vrstva Model reprezentuje třídy přistupující k datům. Vrstva View se implementuje pomocí XML souborů…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Syaputra, R
+AU  - Wiraganda, YP
+TI  - Enjoy Flutter: Membuat Aplikasi Android dan iOS dengan Mudah Menggunakan Flutter Level Intermediate-UDACODING
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=R4qsDwAAQBAJ&oi=fnd&pg=PA9&dq=ios+mvp%7C%22model+view+presenter%22&ots=0WpNSAqbCG&sig=_OlMyI9MIpfMVrnMbeVthBDa980
+PY  - 2019///
+AB  - … dan iOS pada umumnya terdapat architecture/ design pattern yang biasa kita kenal seperti MVC (Model View Controller), MVP (Model View Presenter), … device seperti iOS, android, dan …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 2 cites: https://scholar.google.com/scholar?cites=946327153912033254&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - PDF
+AU  - Шарапов, ДА
+TI  - Разработка iOS-приложения для сервиса аренды техники: выпускная бакалаврская работа по направлению подготовки: 09.03. 04-Программная …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:14360/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:14360/SOURCE01
+PY  - 2021///
+AB  - Спроектировано и разработано мобильное приложение для платформы iOS, позволяющее пользователям оформлять договор лизинга на цифровые устройства и бытовую …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Marín, H Rubio
+TI  - MuixApp. Prototipus d'aplicació mòbil Android/iOS per a la gestió d'assajos, actuacions i catàlegs de figures de colles muixerangueres
+PB  - openaccess.uoc.edu
+UR  - https://openaccess.uoc.edu/items/d4ba867a-2522-4387-9c7a-9ae4b855848b
+UR  - https://openaccess.uoc.edu/bitstreams/a3328ffc-1fbc-4a86-975a-56cbeda9eb1a/download
+PY  - 2022///
+AB  - … En aquest context històric, ia partir de l'experiència de funcionament de la Muixeranga d'Alacant, MuixApp és un prototipus d'aplicació mòbil Android/iOS de codi obert per a la gestió d'…
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Жердій, ПО
+TI  - Інструмент для реактивної роботи з мережею на платформах iOS та macOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/88827c91-00aa-4000-a8eb-9006b8fbc60c
+UR  - https://ela.kpi.ua/bitstreams/7e6f80df-b3fa-4fc4-bfbb-2aeabc95f883/download
+PY  - 2024///
+AB  - … рішень для платформ MacOS та iOS, їх переваги та недоліки. … роботи застосунку на платформах iOS та MacOS. Для … застосунків на платформах iOS та MacOS надано зручний …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Demirel, E
+AU  - Chowdhury, S
+TI  - Återanvända modellkod skriven i C på Android, iOS och HTML5: En studie om möjligheten att återanvända modellkod skriven i C på Android, iOS …
+PY  - 2023///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Рогатовська, АА
+TI  - Розробка мобільного додатку для смарт-пристроїв на базі Android/iOS для планування дієти діабетичних хворих
+PB  - eir.kntu.net.ua
+UR  - https://eir.kntu.net.ua/jspui/handle/123456789/1542
+UR  - https://eir.kntu.net.ua/jspui/bitstream/123456789/1542/1/%D0%A0%D0%BE%D0%B3%D0%B0%D1%82%D0%BE%D0%B2%D1%81%D1%8C%D0%BA%D0%B0%20%D0%90.%20%D0%90.%20%D0%A0%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BA%D0%B0%20%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%83%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D0%BF%D1%80%D0%B8%D1%81%D1%82%D1%80%D0%BE%D1%97%D0%B2%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D0%B7%D1%96%20Android-iOS%20%D0%B4%D0%BB%D1%8F%20%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%D0%B4%D1%96%D1%94%D1%82%D0%B8%20%D0%B4%D1%96%D0%B0%D0%B1%D0%B5%D1%82%D0%B8%D1%87%D0%BD%D0%B8%D1%85%20%D1%85%D0%B2%D0%BE%D1%80%D0%B8%D1%85.pdf
+PY  - 2024///
+AB  - … Програмний додаток реалізовано за шаблоном проектування Model-ViewViewModel (MVVM), який є умовним нащадком шаблонів MVC та MVP, основна перевага якого …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Бондар, ХВ
+TI  - Мобільний додаток для підготовки до ЗНО на платформі IOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/1299ff28-18d7-43cd-a70d-3d915851bda1
+UR  - https://ela.kpi.ua/bitstreams/be99811f-ca4b-4ae9-87f1-8138727f09ae/download
+PY  - 2023///
+AB  - … In this paper, we have created an iOS application using the Swift programming language and the UIKit framework to help users prepare for the EIT. The application provides useful …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Calderón, J Tercero
+TI  - App iOS para buscar negocios locales
+PB  - openaccess.uoc.edu
+UR  - https://openaccess.uoc.edu/bitstreams/b6c57ca0-eaa5-41ed-af22-0837e4eb7051/download
+UR  - https://openaccess.uoc.edu/bitstreams/b6c57ca0-eaa5-41ed-af22-0837e4eb7051/download
+PY  - 2015///
+AB  - … no tienen acceso iOS ni las aplicaciones hechas para iOS. … poner el foco en conseguir lo antes posible un ​MVP ​, que … concentrarnos en obtener el MVP aumenta las posibilidades …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Barreiro, J Ocón
+TI  - Aplicación móvil de iOS, para fans de la Fórmula 1.
+PB  - accedacris.ulpgc.es
+UR  - https://accedacris.ulpgc.es/handle/10553/131625
+UR  - https://accedacris.ulpgc.es/bitstream/10553/131625/1/TFG_Javier_Ocon_Barreiro.pdf
+PY  - 2024///
+AB  - … Disenada para usuarios de iOS, busca proporcionar informacion en tiempo real, analisis de … Se aplicar an habilidades de ingenierıa de software y se desarrollara una aplicacion iOS …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Побігай, АО
+TI  - Пристрій на базі GPS для вимірювання динаміки автомобіля. Додаток для iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/f3c2932e-fbc9-4c05-8e8a-98d47dfcd562
+UR  - https://ela.kpi.ua/bitstreams/6c1922b2-c912-4c5b-8f27-3942223f47d0/download
+PY  - 2019///
+AB  - … Новий продукт вже мав дуже зручну програму для iOS та Android, мав вбудовану батарею, що дозволяло пристрою існувати автономно впродовж 7 годин роботи, компактний …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - SALVIATO, L
+TI  - AWS Monitor: applicazione iOS per la visualizzazione degli allarmi di AWS CloudWatch
+PB  - thesis.unipd.it
+UR  - https://thesis.unipd.it/retrieve/96027698-0b21-4182-a698-05673fe3c7f8/Salviato_Leonardo.pdf
+UR  - https://thesis.unipd.it/retrieve/96027698-0b21-4182-a698-05673fe3c7f8/Salviato_Leonardo.pdf
+PY  - 2025///
+AB  - … La tesi presenta la progettazione e lo sviluppo di un’applicazione mobile per iOS con un … La tesi esplora le possibilità ei limiti legati all’utilizzo di un widget iOS per la visualizzazione …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Meng, W
+AU  - Yin-Xiao, W
+AU  - Hui-Min, TAN
+AU  - Min, W
+AU  - ...
+TI  - … 参考值为 nt, 图片最终的排版应该是: 3, 图片整体偏白没关系, 只要它能够反映出图片整体的白度就行了. 4, 图片的设计结构评分: 苹果的确越来越像 ios 设计四大 …
+JF  - 卡塔尔世界杯
+PB  - 卡塔尔世界杯
+PY  - 2022///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Хайбуллин, ДА
+TI  - Разработка iOS-приложения-«Финансовый помощник 365»: выпускная бакалаврская работа по направлению подготовки: 02.03. 03-Математическое …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:13921/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:13921/SOURCE01
+PY  - 2021///
+AB  - … самые популярные версии iOS. Несмотря на это существуют более ранние версии iOS. По данным ресурса Mixpanel на рынке еще используются версии iOS не ниже 10.0 [4]. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Сутурин, СИ
+TI  - Разработка мобильного приложения для платформы iOS-интернет-магазин" Blooming Room": выпускная бакалаврская работа по направлению …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:14211/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:14211/SOURCE01
+PY  - 2021///
+AB  - … Objective-C для разработки на платформах iOS и macOS. Swift был презентован Apple … -C, использовавшегося ранее для разработки приложений для iOS [6]. Сравнивая эти 2 …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Абросимов, ИС
+TI  - Модификация iOS-приложения для отправки денежных переводов с целью реализации отправки денежных переводов в займ: выпускная бакалаврская …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:20705/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:20705/SOURCE01
+PY  - 2024///
+AB  - … Актуальная версия iOS-приложения уже предлагает две основные услуги: отправку … для приложений Apple и является наиболее популярным выбором для разработки iOS- …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Кривелев, ДА
+TI  - Разработка библиотеки чатов для платформы IOS: выпускная бакалаврская работа по направлению подготовки: 09.03. 04-Программная инженерия
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:18367/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:18367/SOURCE01
+PY  - 2023///
+AB  - Цель работы: разработать библиотеку чатов для платформы iOS и приложение-пример, а также составить требования для серверной части, которая сможет корректно …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Σούμπλης, ΑΙ
+AU  - Τζανάκης-Αρναουτάκης, Λ
+TI  - Εφαρμογή iOS
+PY  - 2015///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Parreiras, TO
+TI  - Desenvolvimento de dois aplicativos iOS tipo Uber.
+PB  - monografias.ufop.br
+UR  - http://monografias.ufop.br/handle/35400000/1858
+UR  - https://monografias.ufop.br/bitstream/35400000/1858/6/MONOGRAFIA_DesenvolvimentoDoisAplicativos.pdf
+PY  - 2019///
+AB  - Mobilidade urbana consiste nos meios utilizados pela população de um perímetro urbano para se deslocar dentro do mesmo, que, devido ao crescente desenvolvimento de grandes …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Pellicer, A Hernández
+TI  - Desarrollo de una plataforma social iOS para compartir recetas de cocina
+PB  - riunet.upv.es
+UR  - https://riunet.upv.es/entities/publication/d453c029-6d48-4f4b-b64d-0b37538ae8c2
+UR  - https://riunet.upv.es/bitstreams/52ba23a6-0be8-4989-a1d7-2c3f4954621f/download
+PY  - 2019///
+AB  - [ES] El objetivo principal de este proyecto es el de crear una aplicación con la intención de crear una red social con la idea de poder compartir recetas propias y recrear platos …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Yunita, A
+TI  - APLIKASI MOBILE AKSES PEMBELAJARAN PADA ORGANISASI NIRLABA PENDIDIKAN BERSINAR PROJECT BERBASIS IOS
+PB  - repository.upnvj.ac.id
+UR  - https://repository.upnvj.ac.id/28365/25/AWAL.pdf
+UR  - https://repository.upnvj.ac.id/28365/25/AWAL.pdf
+PY  - 2024///
+AB  - … The result of this study is the development of an iOS-based Bersinar Project application that can be beneficial and convenient for students to access their learning materials. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Pellicer, AH
+TI  - Desarrollo de una plataforma social iOS para compartir recetas de cocina
+JF  - riunet.upv.es
+UR  - https://riunet.upv.es/server/api/core/bitstreams/52ba23a6-0be8-4989-a1d7-2c3f4954621f/content
+UR  - https://riunet.upv.es/server/api/core/bitstreams/52ba23a6-0be8-4989-a1d7-2c3f4954621f/content
+AB  - El objetivo principal de este proyecto es el de crear una aplicación con la intención de crear una red social con la idea de poder compartir recetas propias y recrear platos realizados …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - HTML
+AU  - Васильев, МД
+AU  - Охлопкова, СА
+TI  - Проектирование и разработка IOS приложения для отслеживания дорожных выбоин
+JF  - Современные наукоемкие …
+PB  - top-technologies.ru
+UR  - https://www.top-technologies.ru/article/view?id=39854
+UR  - https://www.top-technologies.ru/article/view?id=39854
+PY  - 2024///
+AB  - … На данном этапе развития проекта разработано MVP – мобильное приложение, … изучены аппаратные и программные возможности iOS для обнаружения неровностей дорог. …
+M1  - Query date: 2026-09-23 22:03:09
+M1  - 1 cites: https://scholar.google.com/scholar?cites=16479940300555210223&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - BOOK
+AU  - Vyhlídal, O
+TI  - Klient digitální knihovny Kramerius pro iOS
+PB  - is.muni.cz
+UR  - https://is.muni.cz/th/cwg4o
+UR  - https://is.muni.cz/th/cwg4o/OndrejVyhlidal.pdf
+PY  - 2017///
+AB  - … Výsledkem snažení je vytvoření aplikace pro operační systém iOS s ohledem na platné Human … Dalo by se říci, že následující seznam reprezentuje Minimal viable product (MVP): …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - JOUR
+AU  - Eselidze, DV
+AU  - Kutaev, KS
+AU  - ...
+TI  - TESTABILITY ANALYSIS OF ARCHITECTURAL PATTERNS IN iOS
+JF  - Reliability and Quality of …
+PB  - journals.rcsi.science
+UR  - https://journals.rcsi.science/2307-4205/article/view/425690
+PY  - 2026///
+AB  - Background. This paper analyzes the testability of architectural patterns used in the development of mobile applications for iOS. Materials and methods. It examines the characteristics of …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Левчук, ВЮ
+TI  - ПОМІЧНИКОМ ДЛЯ ОС IOS»
+JF  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/server/api/core/bitstreams/d74b4c26-8ac1-4977-aae0-a85a7340217b/content
+UR  - https://ekmair.ukma.edu.ua/server/api/core/bitstreams/d74b4c26-8ac1-4977-aae0-a85a7340217b/content
+AB  - … 3 Реалізація MVP практичної частини … від компанії Amazon, а також у мобільному додатку для iOS та Android Amazon Alexa. Принцип роботи даного помічника аналогічний до …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Антонов, І
+TI  - Технологія розробки мобільного додатку для iOS
+PY  - 2023///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Šebalj, A
+TI  - Uporaba arhitekturnih vzorcev pri razvoju in testiranju iOS aplikacij: magistrsko delo
+PB  - dk.um.si
+UR  - https://dk.um.si/IzpisGradiva.php?id=80755
+PY  - 2021///
+AB  - … We will explore in detail the most commonly used architectural styles in iOS programming, their … for iOS, developed in the MVVM architecture, using Unit tests and User Interface tests. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - CITATION
+AU  - Кондрашков, ВО
+TI  - Мобильное приложение" Органайзер" под платформу iOS
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - BOOK
+AU  - Карцева, ЄС
+TI  - Розробка алгоритму шагоміру для платформи iOS
+PB  - krs.chmnu.edu.ua
+UR  - https://krs.chmnu.edu.ua/jspui/handle/123456789/1410
+UR  - https://krs.chmnu.edu.ua/jspui/bitstream/123456789/1410/1/401%20%D0%9A%D0%B0%D1%80%D1%86%D0%B5%D0%B2%D0%B0%20%D0%84.%D0%A1.%20%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82.pdf
+PY  - 2020///
+AB  - Об’єктами дослідження є алгоритми шагомірів для платформи iOS … iOS. Метою роботи є імплементація створеного та покращеного алгоритму у застосунок для платформи iOS. …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+
+TY  - PDF
+AU  - Ландяк, А
+TI  - Розробка мобільного додатку під iOS з використанням технології доповненої реальності
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/bitstreams/ceea3384-4b23-4f61-8587-368e6220b64d/download
+UR  - https://ekmair.ukma.edu.ua/bitstreams/ceea3384-4b23-4f61-8587-368e6220b64d/download
+PY  - 2022///
+AB  - … Проект хоча й не можна назвати MVP-продуктом, адже у ньому реалізовані всі основні завдання, проте ще існує великий спектр для його подальшого покращення та …
+M1  - Query date: 2026-09-23 22:03:09
+ER  - 
+

@@ -1,0 +1,349 @@
+﻿TY  - JOUR
+AU  - Fowler, S
+TI  - Model-view-update-communicate: Session types meet the Elm architecture
+JF  - arXiv preprint arXiv:1910.11108
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/1910.11108
+UR  - https://arxiv.org/pdf/1910.11108
+PY  - 2019///
+AB  - … In this paper, we bridge this gap by extending the Model-ViewUpdate (MVU) architecture, pioneered by the Elm programming language, to support linear resources. We present λMVU, …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 22 cites: https://scholar.google.com/scholar?cites=629145595463547392&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 22
+ER  - 
+
+TY  - PDF
+AU  - Litt, G
+TI  - Runtime Visualization for Model-View-Update GUIs
+PB  - geoffreylitt.com
+UR  - https://www.geoffreylitt.com/resources/todomvc-vis.pdf
+UR  - https://www.geoffreylitt.com/resources/todomvc-vis.pdf
+PY  - 2020///
+AB  - Visualizing the runtime behavior of programs can help programmers with targeted debugging and general understanding. For understanding complex programs, visualizations …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11711021266961054929&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Chauhan, K
+AU  - Kumar, S
+AU  - Sethia, D
+AU  - ...
+TI  - Performance analysis of Kotlin coroutines on Android in a model-view-intent architecture pattern
+JF  - 2021 2nd International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9456197/
+PY  - 2021///
+AB  - Kotlin Coroutines are generalised subroutines that can suspend and resume execution freely. They exhibit lower overhead than Java Virtual Machine (JVM) Threads, making them …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 22 cites: https://scholar.google.com/scholar?cites=7547002161153434125&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 22
+ER  - 
+
+TY  - BOOK
+AU  - Fowler, S
+TI  - Model-View-Update-Communicate: Session Types Meet the Elm Architecture (Artifact)
+PB  - dagstuhl.sunsite.rwth-aachen.de
+UR  - http://dagstuhl.sunsite.rwth-aachen.de/volltexte/2020/13210/
+PY  - 2020///
+AB  - … Model-View-Update (MVU) is a development pattern for user interfaces pioneered by the Elm programming language. In the accompanying paper, we show a theoretical model of MVU, and …
+M1  - Query date: 2026-09-23 23:17:59
+ER  - 
+
+TY  - JOUR
+AU  - Afina, IF
+AU  - Ilham, AA
+AU  - Yusuf, M
+TI  - Performance Analysis of Kotlin Multiplatform on Android in a Model-View-Intent (MVI) Architecture Pattern
+JF  - 2025 International Conference on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11430736/
+PY  - 2025///
+AB  - Cross-platform development has gained momentum as mobile applications increasingly demand faster development cycles without compromising runtime performance. Kotlin …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5986447598738960168&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Loder, W
+TI  - Elm Architecture and Building Blocks
+JF  - Web Applications with Elm: Functional Programming …
+PB  - Springer
+DO  - 10.1007/978-1-4842-2610-0_5
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2610-0_5
+PY  - 2018///
+AB  - … This chapter is about the Elm architecture, which is the standard way to create applications with the Elm platform. We will learn what this architecture pattern is, how we …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10639691773470170322&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - BOOK
+AU  - ARIF, MUHAALG
+TI  - Optimasi Pengembangan Aplikasi Cross-platform Berbasis Flutter Menggunakan Pendekatan Arsitektur Model MVI (Model-View-Intent)
+PB  - repositori.telkomuniversity.ac.id
+UR  - https://repositori.telkomuniversity.ac.id/home/catalog/id/172356/slug/optimasi-pengembangan-aplikasi-cross-platform-berbasis-flutter-menggunakan-pendekatan-arsitektur-model-mvi-model-view-intent-.html
+PY  - 2021///
+AB  - Permasalahan yang sering muncul dalam membangun sebuah aplikasi berbasis mobile yang cukup besar adalah terlalu banyaknya kelas yang ada yang dapat menyebabkan …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4962904670488376012&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - PDF
+AU  - Fowler, S
+TI  - Model-View-Update-Communicate
+PB  - groups.inf.ed.ac.uk
+UR  - https://groups.inf.ed.ac.uk/abcd/meeting-december2019/slides/Fowler.pdf
+UR  - https://groups.inf.ed.ac.uk/abcd/meeting-december2019/slides/Fowler.pdf
+PY  - 2019///
+AB  - … Session Types meet the Elm Architecture … → I chose Model-View-Update, as pioneered by Elm … run model view update …
+M1  - Query date: 2026-09-23 23:17:59
+ER  - 
+
+TY  - PDF
+AU  - Wissmann, M
+TI  - Exploration of Interactive Visualization in the ELM Architecture
+PB  - cescg.org
+UR  - https://cescg.org/wp-content/uploads/2020/03/Wi%C3%9Fmann-Exploration-of-Interactive-Visualization-in-the-ELM-Architecture-1.pdf
+UR  - https://cescg.org/wp-content/uploads/2020/03/Wi%C3%9Fmann-Exploration-of-Interactive-Visualization-in-the-ELM-Architecture-1.pdf
+PY  - 2020///
+AB  - … the ELM architecture [5] as the basis for our implementation of an interactive ranking view. We explore the ELM architecture for … Media [16], which implements the ELM architecture and …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 1 cites: https://scholar.google.com/scholar?cites=16273355619158743093&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Thompson, A
+AU  - Fazekas, G
+TI  - A model-view-update framework for interactive web audio applications
+JF  - Proceedings of the 14th International Audio …
+PB  - dl.acm.org
+DO  - 10.1145/3356590.3356623
+UR  - https://dl.acm.org/doi/abs/10.1145/3356590.3356623
+UR  - https://dl.acm.org/doi/pdf/10.1145/3356590.3356623
+PY  - 2019///
+AB  - We present the Flow framework1, a front-end framework for interactive Web applications built on the Web Audio API. It encourages a purely declarative approach to application design …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 3 cites: https://scholar.google.com/scholar?cites=1180981255023861381&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - JOUR
+AU  - Pisklov, NA
+AU  - SHamshurin, DA
+AU  - ...
+TI  - FEATURES OF THE MODEL-VIEW-INTENT ARCHITECTURAL PATTERN IN APPLICATION DEVELOPMENT
+JF  - Network-journal. Theory …
+PB  - journal-vniispk.ru
+UR  - https://journal-vniispk.ru/NW/article/download/414718/681811
+PY  - 2023///
+AB  - Network-journal. Theory and Practice English Русский 简体中文 Kazakh Português (Brasil) Page Header Network-journal. Theory and Practice Menu Archives Home About the Journal …
+M1  - Query date: 2026-09-23 23:17:59
+ER  - 
+
+TY  - JOUR
+AU  - Mittal, R
+AU  - Blouin, D
+AU  - Bhobe, A
+AU  - ...
+TI  - Solving the instance model-view update problem in AADL
+JF  - Proceedings of the 25th …
+PB  - dl.acm.org
+DO  - 10.1145/3550355.3552396
+UR  - https://dl.acm.org/doi/abs/10.1145/3550355.3552396
+UR  - https://dl.acm.org/doi/pdf/10.1145/3550355.3552396
+PY  - 2022///
+AB  - The Architecture Analysis and Design Language (AADL) is a rich language for modeling embedded systems through several constructs such as component extension and refinement to …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 8 cites: https://scholar.google.com/scholar?cites=17009249389538788464&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 8
+ER  - 
+
+TY  - JOUR
+AU  - Mittal, R
+TI  - The instance model-view update problem in AADL
+JF  - Proceedings of the 25th International Conference on …
+PB  - dl.acm.org
+DO  - 10.1145/3550356.3552373
+UR  - https://dl.acm.org/doi/abs/10.1145/3550356.3552373
+UR  - https://dl.acm.org/doi/pdf/10.1145/3550356.3552373
+PY  - 2022///
+AB  - The Architecture Analysis and Design Language (AADL) is a rich language for modeling embedded systems through several constructs such as component extension and refinement to …
+M1  - Query date: 2026-09-23 23:17:59
+ER  - 
+
+TY  - CITATION
+AU  - Staltz, A
+TI  - Model-view-intent
+JF  - Cycle. js Project Blog
+PY  - 2016///
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 5 cites: https://scholar.google.com/scholar?cites=961886435781731632&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 5
+ER  - 
+
+TY  - JOUR
+AU  - Mittal, R
+AU  - Blouin, D
+TI  - OSATE-DIM solves the instance model-view update problem in AADL
+JF  - Proceedings of the 25th International Conference on …
+PB  - dl.acm.org
+DO  - 10.1145/3550356.3559083
+UR  - https://dl.acm.org/doi/abs/10.1145/3550356.3559083
+UR  - https://dl.acm.org/doi/pdf/10.1145/3550356.3559083
+PY  - 2022///
+AB  - AADL (Architecture Analysis and Design Language) is a rich modeling language for embedded systems through several constructs such as component extension and refinement to …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 2 cites: https://scholar.google.com/scholar?cites=2806195707336615468&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Kumar, KB Sundhara
+AU  - Bhalaji, N
+TI  - A Novel Hybrid RNN-ELM Architecture for Crime Classification
+JF  - International Conference on Computer …
+PB  - Springer
+DO  - 10.1007/978-3-030-37051-0_98
+UR  - https://link.springer.com/chapter/10.1007/978-3-030-37051-0_98
+PY  - 2019///
+AB  - … However, we introduce the ELM architecture in the end to add another layer of classification. A comparative analysis of RNN with BP and RNN with ELM is provided. The results …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 5 cites: https://scholar.google.com/scholar?cites=3853247737848627913&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 5
+ER  - 
+
+TY  - CITATION
+AU  - Bandt, T
+TI  - Model-View-Update (MVU)–How Does It Work?
+JF  - … na: https://thomasbandt. com/model-view-update [05 …
+PY  - 2020///
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11075621369267085516&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - CITATION
+AU  - Czaplicki, E
+TI  - The elm architecture
+JF  - guide. elm-lang
+PY  - 2016///
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 14 cites: https://scholar.google.com/scholar?cites=2458185680880283708&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 14
+ER  - 
+
+TY  - CITATION
+AU  - Czaplicki, E
+TI  - A Farewell to FRP: Making Signals Unnecessary with The Elm Architecture
+JF  - Accessed May
+PY  - 2016///
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 5 cites: https://scholar.google.com/scholar?cites=1915868148855413107&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 5
+ER  - 
+
+TY  - JOUR
+AU  - Suri, M
+AU  - Parmar, V
+AU  - Sassine, G
+AU  - ...
+TI  - OXRAM based ELM architecture for multi-class classification applications
+JF  - 2015 International Joint …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7280603/
+UR  - https://www.researchgate.net/profile/Gilbert-Sassine/publication/306059937_OXRAM_based_ELM_architecture_for_multi-class_classification_applications/links/57e8f26508aef8bfcc958304/OXRAM-based-ELM-architecture-for-multi-class-classification-applications.pdf
+PY  - 2015///
+AB  - In this paper, we show how metal-oxide (OxRAM) based nanoscale memory devices can be exploited to design low-power Extreme Learning Machine (ELM) architectures. In particular …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 20 cites: https://scholar.google.com/scholar?cites=2286177815805256996&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 20
+ER  - 
+
+TY  - CITATION
+AU  - Pedley, A
+TI  - Functional Model-View-Update Architecture for Flutter, 2019
+JF  - Accessed on
+PY  - 2019///
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7809685410921640685&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - JOUR
+AU  - Писклов, НА
+AU  - Шамшурин, ДА
+AU  - ...
+TI  - ОСОБЕННОСТИ АРХИТЕКТУРНОГО ПАТТЕРНА MODEL-VIEW-INTENT В РАЗРАБОТКЕ ПРИЛОЖЕНИЙ
+JF  - … сети. Теория и практика
+PB  - journal-vniispk.ru
+UR  - https://journal-vniispk.ru/NW/article/view/417813/684627
+PY  - 2023///
+AB  - (40) BC/NW 2023 № 1 (40):4.1 ОСОБЕННОСТИ АРХИТЕКТУРНОГО ПАТТЕРНА MODEL-VIEW-INTENT В РАЗ … В мобильной разработке и разработке сайтов стал популярен архитектурный …
+M1  - Query date: 2026-09-23 23:17:59
+ER  - 
+
+TY  - JOUR
+AU  - Mishra, A
+AU  - Goel, A
+TI  - A novel HVS based gray scale image watermarking scheme using fast fuzzy-ELM hybrid architecture
+JF  - Proceedings of ELM-2014 Volume 2: Applications
+PB  - Springer
+DO  - 10.1007/978-3-319-14066-7
+UR  - https://link.springer.com/content/pdf/10.1007/978-3-319-14066-7.pdf#page=152
+PY  - 2015///
+AB  - In this paper, a novel image watermarking scheme using HVS characteristics is proposed in transform domain. The HVS is modeled using 10 rules constituting the Fuzzy Inference …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 8 cites: https://scholar.google.com/scholar?cites=16935990797647501978&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 8
+ER  - 
+
+TY  - JOUR
+AU  - Andrade, DC de
+AU  - Trabasso, LG
+TI  - ELM based architecture for general purpose automatic weight and structure learning
+JF  - Neurocomputing
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0925231217315394
+PY  - 2018///
+AB  - … In this paper, the new MSATELM framework is proposed to automate ELM architecture selection along with model weight training, allowing selection of a simple model that achieves …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12928350613105221075&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - JOUR
+AU  - Zhai, J
+AU  - Shao, Q
+AU  - Wang, X
+TI  - Architecture selection of ELM networks based on sensitivity of hidden nodes
+JF  - Neural Processing Letters
+PB  - Springer
+DO  - 10.1007/s11063-015-9470-1
+UR  - https://link.springer.com/article/10.1007/s11063-015-9470-1
+PY  - 2016///
+AB  - Extreme learning machine (ELM) was proposed as a new algorithm for training single-hidden layer feed-forward neural networks (SLFNs). One of the issues in EML is how to determine …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 23 cites: https://scholar.google.com/scholar?cites=14686908802764765177&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 23
+ER  - 
+
+TY  - JOUR
+AU  - El-Tohamy, A
+AU  - Maghawry, HA
+AU  - ...
+TI  - A Combined ELM and CNN Model Architecture for Accurate Viral Family DNA Classification
+JF  - … Conference on Intelligent …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10391109/
+PY  - 2023///
+AB  - … Section 3 describes the dataset along with the proposed CNN-ELM architecture in detail, … The ELM architecture proposed for this research paper incorporates the following elements: …
+M1  - Query date: 2026-09-23 23:17:59
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13455649175577441901&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+

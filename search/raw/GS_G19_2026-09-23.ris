@@ -1,0 +1,1498 @@
+﻿TY  - PDF
+AU  - Шкурко, КЮ
+TI  - Сравнительный анализ стратегий управления состоянием в реактивных мобильных архитектурах: MVI vs Redux-like подходы на примере Jetpack …
+JF  - ББК 1 Н 34
+PB  - na-journal.ru
+UR  - https://na-journal.ru/pdf/nauchnyi_aspekt_1-2023_t11_web.pdf#page=66
+UR  - https://na-journal.ru/pdf/nauchnyi_aspekt_1-2023_t11_web.pdf#page=66
+AB  - … в предсказуемости состояния и тестируемости, тогда как Redux-like архитектуры показывают лучшую … В экосистеме iOS аналогом выступил подход, основанный на принципах …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Roldan, CS
+TI  - React Cookbook: Create dynamic web apps with React using Redux, Webpack, Node. js, and GraphQL
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=5kZsDwAAQBAJ&oi=fnd&pg=PP1&dq=redux+ios%7Ciphone%7Cswift&ots=fsPHHKUDlt&sig=WGuhFFEaVjpc5dsmNMDE1kcOI10
+PY  - 2018///
+AB  - … doing Web applications and combined with Redux, we get a powerful … iOS and Android) using React Native, if you are a beginner you should learn how to install Android SDK or the iOS …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 11 cites: https://scholar.google.com/scholar?cites=16332214168524927574&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 11
+ER  - 
+
+TY  - BOOK
+AU  - Bennett, J
+TI  - Install Exodus Redux Addon in 2023–Not Working? Fix it Here
+PB  - kodivedia.com
+UR  - https://kodivedia.com/exodus-redux/
+PY  - 2022///
+AB  - … Redux is among the popular Kodi add-ons used for streaming movies and TV shows. But before we go into more details about installing Exodus Redux… install the Exodus Redux add-on: …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - McKinney, CM
+TI  - DartDraw: The Design and Implementation of Global State Management, User Interaction Management, and Text in a React-Redux Drawing Application
+PB  - digitalcommons.dartmouth.edu
+UR  - https://digitalcommons.dartmouth.edu/senior_theses/131/
+UR  - https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1130&context=senior_theses
+PY  - 2018///
+AB  - … not a single team member had previous Swift experience. It was … the Redux documentation notes that it works especially well … React can define a UI in terms of a global state, and Redux …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Banks, A
+AU  - Porcello, E
+TI  - Learning React: functional web development with React and Redux
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=ycTADgAAQBAJ&oi=fnd&pg=PP1&dq=redux+ios%7Ciphone%7Cswift&ots=cx_Hkjy8jI&sig=has-CxO4zMJPhANwneiZcyPh26c
+PY  - 2017///
+AB  - … React Native, released in 2015, allows you to take the benefits of React applications into iOS and Android native apps. It’s still early, but React VR, a framework for building interactive, …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 250 cites: https://scholar.google.com/scholar?cites=25082271262377215&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 250
+ER  - 
+
+TY  - JOUR
+AU  - Tidal, J
+TI  - One site to rule them all, redux: The second round of usability testing of a responsively designed web site
+JF  - Journal of Web Librarianship
+PB  - Taylor &Francis
+DO  - 10.1080/19322909.2016.1243458
+UR  - https://www.tandfonline.com/doi/abs/10.1080/19322909.2016.1243458
+UR  - https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1123&context=ny_pubs
+PY  - 2017///
+AB  - This article examines the usability testing of a responsively redesigned library Web site. Responsive design provides a unified user experience regardless of the device used to view a …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 13 cites: https://scholar.google.com/scholar?cites=11481326934328100114&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 13
+ER  - 
+
+TY  - BOOK
+AU  - Pandey, S
+TI  - Build client-side web applications of Shift Manager using React and Redux
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/337041
+UR  - https://www.theseus.fi/bitstream/handle/10024/337041/BachelorsThesis_SurendraPandey.pdf?sequence=2
+PY  - 2020///
+AB  - … In addition, this section talks about the benefits seen during the development process due to the use of React and Redux. … There is no need for separate applications for Android and IOS.…
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Mettler, M
+TI  - Qobuz Redux: Three years ago, French upstarts Qobuz made quite a splash upon entering the US streaming market. What has happened with the high-res service in …
+JF  - Sound &Vision
+PB  - go.gale.com
+UR  - https://go.gale.com/ps/i.do?id=GALE%7CA687676769&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=15375838&p=AONE&sw=w
+PY  - 2021///
+AB  - … for Chrome; ditto the app for iOS and Android usage. Two new … Then there's Apple CarPlay support, which enables iOS … , whether via my HP laptop, on my iPhone, in my Ford Escape, or …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Paul, A
+AU  - Nalwaya, A
+TI  - Solving Problems Differently with Flux and Redux
+JF  - … to Create Stunning iOS and Android Applications
+PB  - Springer
+DO  - 10.1007/978-1-4842-4454-8_3
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-4454-8_3
+PY  - 2019///
+AB  - … Redux uses something called reducers, which are pure functions. We will learn in detail about reducers and other Redux … The Redux module is required so that you can use Redux with …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5117994997613944506&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 1
+ER  - 
+
+TY  - JOUR
+AU  - Arce, DG
+TI  - Platform pricing redux
+JF  - Southern Economic Journal
+PB  - Wiley Online Library
+DO  - 10.1002/soej.12462
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/soej.12462
+UR  - https://www.researchgate.net/profile/Daniel-Arce/publication/334612960_Platform_Pricing_Redux/links/5d35e6cea6fdcc370a57570d/Platform-Pricing-Redux.pdf
+PY  - 2020///
+AB  - … Prior to the start of class, students are often on smart phones running on Android or iOS. They purchase used phones on eBay, Swappa, or Gazelle. Apps such as Spotify connect via …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9048725647836233988&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - CITATION
+AU  - MARTTILA, R
+TI  - Handling data flow in React and Redux
+JF  - Tampere University of
+PY  - 2016///
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=7541219756124886897&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 1
+ER  - 
+
+TY  - HTML
+AU  - Whitmire, CJ
+AU  - Stanley, GB
+TI  - Rapid sensory adaptation redux: a circuit perspective
+JF  - Neuron
+PB  - cell.com
+UR  - https://www.cell.com/neuron/fulltext/S0896-6273(16)30651-1
+UR  - https://www.cell.com/neuron/fulltext/S0896-6273(16)30651-1
+PY  - 2016///
+AB  - Adaptation is fundamental to life. All organisms adapt over timescales that span from evolution to generations and lifetimes to moment-by-moment interactions. The nervous system is …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 183 cites: https://scholar.google.com/scholar?cites=6687244130161769600&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 183
+ER  - 
+
+TY  - BOOK
+AU  - Ross, DM
+AU  - Schenk, CR
+TI  - Banking groups redux–Société Financière Européene, banking cooperation and the origins of SWIFT 1967–1977
+PB  - ora.ox.ac.uk
+UR  - https://ora.ox.ac.uk/objects/uuid:11e2cffa-d8af-4592-8339-63a63b1b2dbf
+UR  - https://ora.ox.ac.uk/objects/uuid:11e2cffa-d8af-4592-8339-63a63b1b2dbf/files/sfx719p852
+PY  - 2025///
+AB  - … the SWIFT Advisory Committee ‘which is responsible for advising directly the SWIFT General … ’19 Ashurst claimed that the EBIC Group managed to change the SWIFT constitution to …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - III, JH Beales
+AU  - Muris, TJ
+TI  - FTC Consumer Protection at 100: 1970s Redux or Protecting Markets to Protect Consumers
+JF  - Geo. Wash. L. Rev.
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/gwlr83&section=77
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2756671
+PY  - 2014///
+AB  - FTC Consumer Protection at 100: 1970s Redux or Protecting … FTC Consumer Protection at 100: 1970s Redux or Protecting … Punishment is usually swift for underperforming sellers. …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 52 cites: https://scholar.google.com/scholar?cites=8100707981272598347&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 52
+ER  - 
+
+TY  - BOOK
+AU  - Ross, DM
+AU  - Schenk, CR
+TI  - Banking Groups Redux–rethinking cooperative banking strategies 1969–1977
+PB  - ora.ox.ac.uk
+UR  - https://ora.ox.ac.uk/objects/uuid:42bd5b2e-b2b4-4cea-bbe1-59961a0117c9
+UR  - https://ora.ox.ac.uk/objects/uuid:42bd5b2e-b2b4-4cea-bbe1-59961a0117c9/files/rsb397b96j
+PY  - 2025///
+AB  - … SWIFT is a cooperative organisation owned by the banks themselves and headquartered in … Cross-border payments systems like SWIFT and CLS Bank remain a formal form of …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Mumby, DK
+AU  - Thomas, R
+AU  - Martí, I
+AU  - ...
+TI  - Resistance redux
+JF  - Organization Studies
+PB  - journals.sagepub.com
+DO  - 10.1177/0170840617717554
+UR  - https://journals.sagepub.com/doi/abs/10.1177/0170840617717554
+UR  - https://orca.cardiff.ac.uk/id/eprint/101129/1/Resistance%20Redux_Final.pdf
+PY  - 2017///
+AB  - The last 15 years have witnessed renewed interest in resistance in and around organizations. In this essay, we offer a conceptual framework to thematize this burgeoning conceptual …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 398 cites: https://scholar.google.com/scholar?cites=16606124182746389154&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 398
+ER  - 
+
+TY  - JOUR
+AU  - Chow, C
+TI  - Siren (Redux) by Haley Tien-Warrior—25th Anniversary Oral History/DJ Cliffhanger Remix—MUST LISTEN! THE FEELS... Awesome...
+JF  - Prairie Schooner
+PB  - JSTOR
+UR  - https://www.jstor.org/stable/44985312
+PY  - 2017///
+AB  - … The impact of her crash into the road divider squeezed the front of her Suzuki Swift into an … Her face glows with light, presumably reflected from her iPhone's screen, but it also looks …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Fagiolo, G
+AU  - Roventini, A
+TI  - Macroeconomic policy in DSGE and agent-based models redux: New developments and challenges ahead
+JF  - Available at SSRN 2763735
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2763735
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2763735
+PY  - 2016///
+AB  - The Great Recession seems to be a natural experiment for economic analysis, in that it has shown the inadequacy of the predominant theoretical framework-the New Neoclassical …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 447 cites: https://scholar.google.com/scholar?cites=7887775763988675112&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 447
+ER  - 
+
+TY  - JOUR
+AU  - Azzollini, A
+AU  - Kuin, P
+AU  - Page, K
+AU  - ...
+TI  - The ultraviolet development of recurrent novae in outbursts: a Swift redux on RS Oph, V745 Sco, and V3890 Sgr with guidance from V407 Cyg
+JF  - … Society Annual Meeting
+PB  - ui.adsabs.harvard.edu
+UR  - https://ui.adsabs.harvard.edu/abs/2022eas..conf.1395A/abstract
+PY  - 2022///
+AB  - We present UV-optical grism observations (1700-7000A) obtained the Neil Gehrel Swift satellite, for three symbiotic-like recurrent novae contrasted with contemporaneous optical …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Arcand, JL
+AU  - Berkes, E
+AU  - Panizza, U
+TI  - Too much finance redux
+JF  - The Manchester School
+PB  - Wiley Online Library
+DO  - 10.1111/manc.70057
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/manc.70057
+UR  - https://onlinelibrary.wiley.com/doi/pdf/10.1111/manc.70057
+PY  - 2026///
+AB  - This paper revisits the “too much finance” hypothesis by reassessing the relationship between financial depth and economic growth using an expanded dataset (1960–2019) and a …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 7 cites: https://scholar.google.com/scholar?cites=1785462590104971722&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 7
+ER  - 
+
+TY  - JOUR
+AU  - Boehner, R
+AU  - Gold, S
+TI  - The influence of the marketing mix on the diffusion of innovation: Bass model redux
+JF  - Available at SSRN 2626947
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2626947
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2626947
+PY  - 2015///
+AB  - … with the actions of Apple with its iPhone and Google with the Android operating system where … The willingness of early adopters of iPhone and iPad to demonstrate their product to their …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 14 cites: https://scholar.google.com/scholar?cites=17134720795380577701&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 14
+ER  - 
+
+TY  - BOOK
+AU  - Sakwa, R
+TI  - Putin redux: Power and contradiction in contemporary Russia
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=3d2hAwAAQBAJ&oi=fnd&pg=PP1&dq=redux+ios%7Ciphone%7Cswift&ots=3Q_QtQJm96&sig=7CkW3QtMOF1-qrMJeWWKsf_p7Zk
+PY  - 2014///
+AB  - This book builds on the strengths of the previous volumes by the same author to provide the most detailed and nuanced account of the man, his politics and his profound influence on …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 182 cites: https://scholar.google.com/scholar?cites=4944204584949971543&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 182
+ER  - 
+
+TY  - JOUR
+AU  - Bansal, R
+TI  - Wrath of Grapes Redux [Microwave Surfing]
+JF  - IEEE Microwave Magazine
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9702121/
+UR  - https://ieeexplore.ieee.org/iel7/6668/9702097/09702121.pdf
+PY  - 2022///
+AB  - Wrath of Grapes Redux Page 1 10 March 2022 ■ Rajeev Bansal YouTubers have gone grape crazy. In a plethora of Internet videos, kitchen scientists have cut a grape almost in half—…
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 5 cites: https://scholar.google.com/scholar?cites=1681472475524666925&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 5
+ER  - 
+
+TY  - PDF
+AU  - Selden, A
+AU  - Selden, J
+TI  - PROBABILITY REDUX
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Annie-Selden/publication/259980397_UME_Trends_Research_Sampler_Column_Probability_Redux/links/0deec52ee78b350258000000/UME-Trends-Research-Sampler-Column-Probability-Redux.pdf
+UR  - https://www.researchgate.net/profile/Annie-Selden/publication/259980397_UME_Trends_Research_Sampler_Column_Probability_Redux/links/0deec52ee78b350258000000/UME-Trends-Research-Sampler-Column-Probability-Redux.pdf
+AB  - Changing people's intuitive ideas of probability appears to be an exceedingly difficult task. The teacher is confronted with a veritable minefield of student misconceptions. Although we …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - Rajala, S
+TI  - State management techniques in UI development: Redux, Context API, and Zustand
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Srini-Rajala/publication/410950542_STATE_MANAGEMENT_TECHNIQUES_IN_UI_DEVELOPMENT/links/6a6a0645b0f5ac1f8ec98f02/STATE-MANAGEMENT-TECHNIQUES-IN-UI-DEVELOPMENT.pdf
+UR  - https://www.researchgate.net/profile/Srini-Rajala/publication/410950542_STATE_MANAGEMENT_TECHNIQUES_IN_UI_DEVELOPMENT/links/6a6a0645b0f5ac1f8ec98f02/STATE-MANAGEMENT-TECHNIQUES-IN-UI-DEVELOPMENT.pdf
+PY  - 2025///
+AB  - … This article is a comparative analysis of the three popular Redux, Context API and Zustand … the level of trust React users are reclaiming in it, which is evidenced by its swift adoption. …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 11 cites: https://scholar.google.com/scholar?cites=11158622110419947499&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 11
+ER  - 
+
+TY  - BOOK
+AU  - Mardan, A
+TI  - React quickly: painless web apps with React, JSX, Redux, and GraphQL
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=_TgzEAAAQBAJ&oi=fnd&pg=PT14&dq=redux+ios%7Ciphone%7Cswift&ots=aF8KVxDv8U&sig=ZV1nX2KbFg7Ze52hzJOKpjy1u78
+PY  - 2017///
+AB  - … Developers need to pair it with a library like Redux or React Router to achieve functionality comparable to Angular or Ember. This can also be an advantage if you need a minimalistic UI …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 33 cites: https://scholar.google.com/scholar?cites=8610460350520440248&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 33
+ER  - 
+
+TY  - JOUR
+AU  - Rolf, S
+AU  - Zajontz, T
+AU  - Schindler, S
+TI  - Structural power redux: geoeconomic rivalry in a networked world
+JF  - Globalizations
+PB  - Taylor &Francis
+DO  - 10.1080/14747731.2026.2675839
+UR  - https://www.tandfonline.com/doi/abs/10.1080/14747731.2026.2675839
+UR  - https://www.tandfonline.com/doi/pdf/10.1080/14747731.2026.2675839
+PY  - 2026///
+AB  - The US and China are locked in a spiralling geopolitical competition to renegotiate globalization. This competition centres on establishing control over the transnational financial, …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 4 cites: https://scholar.google.com/scholar?cites=613886001603740247&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 4
+ER  - 
+
+TY  - BOOK
+AU  - Khuat, T
+TI  - Developing a frontend application using ReactJS and Redux
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/150837
+UR  - https://www.theseus.fi/bitstream/handle/10024/150837/Tung_Khuat_1301747_Thesis.pdf
+PY  - 2018///
+AB  - Following the rapid growth of social networking applications, Content Management Systems were developed to manage vast amounts of data. This thesis details the development …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 29 cites: https://scholar.google.com/scholar?cites=10669892809184497392&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 29
+ER  - 
+
+TY  - BOOK
+AU  - Le, T
+TI  - Comparison of state management solutions between context api and redux hook in reactjs
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/494321
+UR  - https://www.theseus.fi/bitstream/handle/10024/494321/Le_Thanh.pdf
+PY  - 2021///
+AB  - … The methodology chosen for this report was to present how Context API or Redux operate, … scope while Redux performs better in bigger applications. Besides that, Redux supplies a …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 10 cites: https://scholar.google.com/scholar?cites=1588399015742990917&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 10
+ER  - 
+
+TY  - JOUR
+AU  - Kuh, GD
+AU  - Heileman, GL
+AU  - Abdallah, CT
+AU  - ...
+TI  - Lessons from the mountains redux
+JF  - About …
+PB  - journals.sagepub.com
+DO  - 10.1002/abc.21164
+UR  - https://journals.sagepub.com/doi/abs/10.1002/abc.21164
+PY  - 2014///
+AB  - … Because snowboarders don't use poles and favor swift, sweeping, seemingly random turns that put them horizontal only a foot or two above the snow, some skiers labeled them “knuckle…
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5012160059754405631&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 1
+ER  - 
+
+TY  - JOUR
+AU  - Jiménez, AC
+TI  - Auto-construction redux: The city as method
+JF  - Cultural Anthropology
+PB  - journal.culanth.org
+UR  - https://journal.culanth.org/index.php/ca/article/view/ca32.3.09
+UR  - https://journal.culanth.org/index.php/ca/article/download/ca32.3.09/178
+PY  - 2017///
+AB  - This article recuperates the concept of auto-construction as a heuristic for anthropological theory and method. Drawing on the concept’s original usage in urban studies, I suggest that …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 58 cites: https://scholar.google.com/scholar?cites=10897068395516384853&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 58
+ER  - 
+
+TY  - BOOK
+AU  - Desmurs-Linczewska, A
+TI  - Simplifying state management in react native: master state management from hooks and context through to redux, mobx, xstate, jotai and react query
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=moKhEAAAQBAJ&oi=fnd&pg=PP1&dq=redux+ios%7Ciphone%7Cswift&ots=N0oDGIWvnJ&sig=JjjSeVpwj-yRPJbfzBraRGCnCWY
+PY  - 2023///
+AB  - … going over the basic ReactJS “mindset” Explore all that ReactJS has to offer to manage state in apps by building an app Understand existing state management libraries such as Redux, …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 7 cites: https://scholar.google.com/scholar?cites=14877924879780506506&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 7
+ER  - 
+
+TY  - JOUR
+AU  - Owsiak, AP
+AU  - Vasquez, JA
+TI  - The cart and the horse redux: The timing of border settlement and joint democracy
+JF  - British Journal of Political Science
+PB  - cambridge.org
+UR  - https://www.cambridge.org/core/journals/british-journal-of-political-science/article/cart-and-the-horse-redux-the-timing-of-border-settlement-and-joint-democracy/DCC246393BC81A98B0D44C80384DC703
+PY  - 2019///
+AB  - … Of course, this democratic movement may not be swift or large; the renegotiation of a ruler’s constraints might take time, and movement is likely to be incremental.Nonetheless, the …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 18 cites: https://scholar.google.com/scholar?cites=17370595116853993805&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 18
+ER  - 
+
+TY  - BOOK
+AU  - Caiumi, A
+AU  - Peri, G
+TI  - Immigration's Effect on US Wages and Employment Redux
+PB  - nber.org
+UR  - https://www.nber.org/papers/w32389
+UR  - https://www.nber.org/system/files/working_papers/w32389/w32389.pdf
+PY  - 2024///
+AB  - In this article we revive, extend and improve the approach used in a series of influential papers written in the 2000s to estimate how changes in the supply of immigrant workers affected …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 51 cites: https://scholar.google.com/scholar?cites=5353094576467090244&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 51
+ER  - 
+
+TY  - JOUR
+AU  - Kaya, Y
+AU  - Sunar, L
+TI  - The culture wars redux? The polarization of social and political attitudes in Turkey
+JF  - Social Currents
+PB  - journals.sagepub.com
+DO  - 10.1177/2329496515603729
+UR  - https://journals.sagepub.com/doi/abs/10.1177/2329496515603729
+UR  - https://lutfisunar.net/wp-content/uploads/2020/05/The-Culture-Wars-Redux-The-Polarization-of-Social-and-Political-Attitudes-in-Turkey.pdf
+PY  - 2015///
+AB  - This study assesses whether social and political attitudes became polarized in Turkish society between 1990 and 2011. In recent years, many in academia and the public debate have …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 33 cites: https://scholar.google.com/scholar?cites=13229827880251817112&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 33
+ER  - 
+
+TY  - JOUR
+AU  - Neacsu, D
+TI  - DRM Redux
+JF  - Digital Rights Management: The Librarian's Guide
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=WIvpDAAAQBAJ&oi=fnd&pg=PA173&dq=redux+ios%7Ciphone%7Cswift&ots=Gta5G5kRt7&sig=BVCxomCbQYslqr0kiitto2q-xHo
+PY  - 2016///
+AB  - … Thus, a user who likes a specific technology, for example, the iPhone, can afford it only if she … an “unlocked” iPhone, the market price is often up to five times the price of a locked iPhone. …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Gabrial, B
+TI  - History of writing technologies redux
+JF  - The Routledge international handbook of research on …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=RemiEAAAQBAJ&oi=fnd&pg=PT84&dq=redux+ios%7Ciphone%7Cswift&ots=ak0VS1yRvW&sig=b5NV_01ar903DwpTLXDutk5m9Mo
+PY  - 2023///
+AB  - … com/story/guide-iphone/). It is worth noting that the earliest word processors were humans. Centuries before the PC or the typewriter, scribes produced manuscripts quickly and …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 2 cites: https://scholar.google.com/scholar?cites=195493741666169464&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Sperrin, D
+TI  - Imperial Satire Redux: A Political Reading of Dryden's 'Discourse'on Satire
+JF  - Literature &History
+PB  - journals.sagepub.com
+DO  - 10.1177/03061973241295317
+UR  - https://journals.sagepub.com/doi/abs/10.1177/03061973241295317
+UR  - https://journals.sagepub.com/doi/pdf/10.1177/03061973241295317
+PY  - 2024///
+AB  - … Ultimately, the intellectual agents and auxiliaries of that famous last Tory ministry (Swift included) set the conditions for a longue durée of anti-Hanoverian satire which would prove to be …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=17532729151641098206&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - HTML
+AU  - Geppert, CMA
+TI  - Medical Marijuana Redux
+JF  - Federal Practitioner
+PB  - pmc.ncbi.nlm.nih.gov
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC6368053/
+UR  - https://pmc.ncbi.nlm.nih.gov/articles/PMC6368053/
+PY  - 2018///
+AB  - There were so many developments that oc-curred in the first months of 2018 that could potentially affect federal health care—the government shutdown, the proposed change in rights of …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - DIMOV, D
+TI  - OPPORTUNITY IDENTIFICATON REDUX CM GAGLIO
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Dimo-Dimov-7/publication/326294709_Opportunity_identification_redux/links/5b448225aca272dc385c6026/Opportunity-Identification-Redux.pdf
+UR  - https://www.researchgate.net/profile/Dimo-Dimov-7/publication/326294709_Opportunity_identification_redux/links/5b448225aca272dc385c6026/Opportunity-Identification-Redux.pdf
+PY  - 2018///
+AB  - … Even Apple’s iPhone was only on the drawing boards. The sheer number of disruptive businesses and their associated new goods and services effectively negated MacMillan and Katz’…
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Neacsu, D
+TI  - Chapter Nine DRM Redux
+JF  - Digital Rights Management: The Librarian's Guide
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=5l92EQAAQBAJ&oi=fnd&pg=PA173&dq=redux+ios%7Ciphone%7Cswift&ots=350fI7gaBQ&sig=UfM8mjepg4iSOqhQ9xNSuIT5_8w
+PY  - 2016///
+AB  - … Thus, a user who likes a specific technology, for example, the iPhone, can afford it only if she … an “unlocked” iPhone, the market price is often up to five times the price of a locked iPhone. …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - HTML
+AU  - Löfflmann, G
+TI  - The Bush Doctrine redux: changes and continuities in American grand strategy since '9/11'
+JF  - International Politics
+PB  - Springer
+DO  - 10.1057/s41311-023-00461-9
+UR  - https://link.springer.com/article/10.1057/s41311-023-00461-9
+UR  - https://link.springer.com/article/10.1057/s41311-023-00461-9
+PY  - 2024///
+AB  - This article examines the ideational dimension and political performance of American grand strategy since ‘9/11’ and explores to what extent the strategic assumptions, ideological …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 22 cites: https://scholar.google.com/scholar?cites=17719175304174569632&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 22
+ER  - 
+
+TY  - PDF
+AU  - Miftachudin, MKH
+AU  - Arfianto, AZ
+TI  - State Management of API Web Service using Redux on React Native App
+PB  - scitepress.org
+UR  - https://www.scitepress.org/Papers/2021/109667/109667.pdf
+UR  - https://www.scitepress.org/Papers/2021/109667/109667.pdf
+PY  - 2023///
+AB  - … to make React Native-Redux application. The first step is to … Data which is resulted from the source stored in Redux state. … Android application using the Redux management state. The …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14671084986162447314&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Scott-Railton, J
+AU  - Marczak, B
+AU  - Razzak, B Abdul
+AU  - ...
+TI  - Reckless Redux: Senior Mexican Legislators and Politicians Targeted with NSO Spyware
+PB  - utoronto.scholaris.ca
+UR  - https://utoronto.scholaris.ca/items/6ba5ffd9-0ea5-47b1-9dcd-c01ccfe9d7b1
+UR  - https://utoronto.scholaris.ca/bitstreams/4f4907d6-0aaf-42db-a531-20954d17b4e3/download
+PY  - 2017///
+AB  - … RECKLESS REDUX … RECKLESS REDUX … Clicking on the link would have infected Roberto Gil Zuarth’s iPhone with Pegasus spyware. …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=5775126111281168787&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - JOUR
+AU  - Erger, K
+TI  - Reading Redux
+JF  - Ill. BJ
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.barjournals/ilbj0109&section=62
+PY  - 2021///
+AB  - " I mentioned... the kind of rereading distinctive to the fan.... Such rereading is not purely a matter of escapism, even though that is one reason for its attraction: we should note that it's not …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Riosmena, F
+TI  - Worlds in Motion Redux? Expanding Migration Theories and Their Interconnections
+JF  - Population and development review
+PB  - Wiley Online Library
+DO  - 10.1111/padr.12630
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/padr.12630
+UR  - https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/padr.12630
+PY  - 2024///
+AB  - … Labor demand most clearly increases when swift sector expansion due to political–economic (often, state-supported) action increases the number of jobs available (eg, manufacturing …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 34 cites: https://scholar.google.com/scholar?cites=14064043968774163884&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 34
+ER  - 
+
+TY  - BOOK
+AU  - Bugl, D
+TI  - Learning Redux
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=apZGDwAAQBAJ&oi=fnd&pg=PP1&dq=redux+ios%7Ciphone%7Cswift&ots=fyybLD_NnY&sig=dEYlHGPqvNSGQBdjD_tJlSJ6J2o
+PY  - 2017///
+AB  - … Redux, helping me create redux-undo, and letting me create a recipe page in the Redux … Meetup, which deepened my interest in React and Redux. Special thanks for letting me give a …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 17 cites: https://scholar.google.com/scholar?cites=9293930018758033229&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 17
+ER  - 
+
+TY  - PDF
+AU  - Adler, BE
+AU  - Philippon, T
+TI  - Resolution Authority Redux
+JF  - Regulating Wall Street: CHOICE Act vs. Dodd …
+PB  - stern.nyu.edu
+UR  - https://www.stern.nyu.edu/sites/default/files/assets/documents/STERN%20White%20Paper%202017-03%20withcover%20(1)_0.pdf#page=59
+UR  - https://www.stern.nyu.edu/sites/default/files/assets/documents/STERN%20White%20Paper%202017-03%20withcover%20(1)_0.pdf#page=59
+PY  - 2017///
+AB  - … 39 The key to the proposal, after all, is to provide swift rescue and payment of those obligations that are still in-the-money, despite the firm’s inability to make good on all its obligations. …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=7829338995051521472&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - BOOK
+AU  - Guilló, A García
+TI  - Desarrollo de una aplicación móvil multiplataforma para búsqueda de empleo utilizando React Native, Redux y Firebase
+PB  - dspace.umh.es
+UR  - http://dspace.umh.es/handle/11000/8542
+UR  - http://dspace.umh.es/bitstream/11000/8542/1/TFG-Garc%C3%ADa%20Guill%C3%B3%2C%20Alberto.pdf
+PY  - 2024///
+AB  - … desarrollar aplicaciones nativas para Android e iOS mediante un único proyecto programado en JavaScript. También se comenta el papel que juega Redux junto con React Native, y …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14024994609627477806&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - HTML
+AU  - Song, X
+AU  - Hallensleben, C
+AU  - Wang, H
+AU  - Guo, J
+AU  - Zhang, W
+AU  - ...
+TI  - Factors influencing REducing Delay through edUcation on eXacerbations (REDUX) implementation: A stakeholder analysis
+JF  - Clinical eHealth
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2588914125000048
+UR  - https://www.sciencedirect.com/science/article/pii/S2588914125000048
+PY  - 2025///
+AB  - … HCPs to implement REDUX, which can help to measure the return of REDUX. In addition, … factors influencing the REDUX implementation. To improve the REDUX implementation, …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - Kaskarelis, L
+AU  - Kund, AG
+AU  - Skrutkowski, M
+AU  - ...
+TI  - Capital markets union redux: towards a deeper and more accessible savings and investments union
+JF  - Discussion Papers Series …
+PB  - esm.europa.eu
+UR  - https://www.esm.europa.eu/system/files/document/2025-11/DP%2025%20CMU.pdf
+UR  - https://www.esm.europa.eu/system/files/document/2025-11/DP%2025%20CMU.pdf
+PY  - 2025///
+AB  - Cross-border capital flows and capital markets union: Quo vadis Europe Page 1 Capital markets union redux: towards a deeper and more accessible savings and investments union …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 4 cites: https://scholar.google.com/scholar?cites=2150244264882920415&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 4
+ER  - 
+
+TY  - JOUR
+AU  - Appollon, S
+TI  - My Mother's Haiti, Redux
+JF  - Psychoanalytic Dialogues
+PB  - Taylor &Francis
+DO  - 10.1080/10481885.2025.2493613
+UR  - https://www.tandfonline.com/doi/abs/10.1080/10481885.2025.2493613
+PY  - 2025///
+AB  - … I began writing “My Mother’s Haiti, Redux” six months after my mother’s death in hopes of a … It’s swift and subtle, carrying the smell of the Caribbean Sea. Manman mwen.” Manman …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3159607589971127955&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - BOOK
+AU  - Muñoz, M Coleto
+TI  - Desarrollo de Aplicaciones Frontend con arquitectura Redux
+PB  - riunet.upv.es
+UR  - https://riunet.upv.es/entities/publication/b8bed590-de93-48d9-8229-1d7f8bc991c3
+UR  - https://riunet.upv.es/bitstreams/60fb3c17-8616-4cf6-b657-5862f7bb4fc4/download
+PY  - 2018///
+AB  - [ES] En este proyecto se muestra la arquitectura Redux para la creación de nuevas aplicaciones. Se utilizan como ejemplo dos aplicaciones propias actualmente en producción. Se …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Patton, MQ
+TI  - How far dare an evaluator go toward saving the world?: Redux, update, and a reflective practice facilitation tool
+JF  - American Journal of Evaluation
+PB  - journals.sagepub.com
+DO  - 10.1177/1098214020927095
+UR  - https://journals.sagepub.com/doi/abs/10.1177/1098214020927095
+UR  - https://www.utilization-focusedevaluation.org/s/How-far-dare-AJE-MQP-2021.pdf
+PY  - 2021///
+AB  - … Redux, from the Latin verb, reducere, means “to bring back.” Fortuna Redux in ancient Rome meant to bring back luck. Evaluation Redux, in our contemporary context, means to bring …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 28 cites: https://scholar.google.com/scholar?cites=6809222268546288205&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 28
+ER  - 
+
+TY  - PDF
+AU  - Teslyuk, V
+AU  - Kazarian, A
+AU  - Kryvinska, N
+AU  - Tsmots, I
+AU  - Teslyuk, T
+TI  - Automated Synthesis Method of" Smart" Home Systems Based on the Architectural Pattern Redux.
+JF  - DCSMart
+PB  - ceur-ws.org
+UR  - https://ceur-ws.org/Vol-2533/paper6.pdf
+UR  - https://ceur-ws.org/Vol-2533/paper6.pdf
+PY  - 2019///
+AB  - … Redux architectural pattern has been developed. The method is based on the adaptation of the Redux … change speed before using and after applying the architectural Redux pattern. …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=5316084884400388427&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - PDF
+AU  - Obstfeld, M
+TI  - Global imbalances redux
+JF  - Paris Report 4: The New Global Imbalances
+PB  - cepr.org
+UR  - https://cepr.org/system/files/2026-04/P397_Chapter4.pdf
+UR  - https://cepr.org/system/files/2026-04/P397_Chapter4.pdf
+PY  - 2026///
+AB  - When the industrial countries abandoned fixed dollar exchange rates in 1973, some hoped that the automatic adjustment of floating rates would make global current account …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 8 cites: https://scholar.google.com/scholar?cites=6040673477954316660&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 8
+ER  - 
+
+TY  - JOUR
+AU  - Wells, B
+TI  - The Foreign Tax Credit Redux
+JF  - Chap. L. Rev.
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/chlr26&section=8
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4223615
+PY  - 2022///
+AB  - This has been a remarkable two years. In October 2021, the Organisation for Economic Co-operation and Development (" OECD") and G-20 set forth a joint statement indicating their …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 16 cites: https://scholar.google.com/scholar?cites=10468570592676568708&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 16
+ER  - 
+
+TY  - JOUR
+AU  - Thaxton, L
+AU  - Espey, E
+TI  - Family planning American style redux: unintended pregnancy improves, barriers remain
+JF  - Obstetrics and Gynecology Clinics
+PB  - obgyn.theclinics.com
+UR  - https://www.obgyn.theclinics.com/article/S0889-8545(16)30090-0/abstract
+PY  - 2017///
+AB  - … The impact of the ACA was swift: the proportion of reproductive-aged women who were uninsured fell by 40%. Many women for the first time were able to afford their desired …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 9 cites: https://scholar.google.com/scholar?cites=14164267615872615673&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 9
+ER  - 
+
+TY  - PDF
+AU  - Gelman, I
+AU  - Dinkevich, B
+TI  - The Complete Redux Book
+PB  - digitalbreakdown.net
+UR  - http://www.digitalbreakdown.net/sandbox/Ebooks/React/redux-book.pdf
+UR  - http://www.digitalbreakdown.net/sandbox/Ebooks/React/redux-book.pdf
+PY  - 2015///
+AB  - … In this chapter we briefly covered the history of Redux and Flux, and how Redux works at its core. We also discussed basic functional programming principles, such as pure functions …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=13022028051929541050&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - PDF
+AU  - Garrett, BL
+TI  - Convicting the innocent redux
+PB  - scholarship.law.duke.edu
+UR  - https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=7347&context=faculty_scholarship
+UR  - https://scholarship.law.duke.edu/cgi/viewcontent.cgi?article=7347&context=faculty_scholarship
+PY  - 2017///
+AB  - I want to say I feel bad about what happened to this woman, but the people who really did this, they are laughing at her, and I hope they will never find her because the day that they do …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 18 cites: https://scholar.google.com/scholar?cites=9356995789673984266&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 18
+ER  - 
+
+TY  - JOUR
+AU  - Dombrowski, K
+AU  - Habecker, P
+AU  - Gauthier, GR
+AU  - ...
+TI  - Relocation redux: Labrador Inuit population movements and inequalities in the land claims era
+JF  - Current …
+PB  - journals.uchicago.edu
+DO  - 10.1086/689210
+UR  - https://www.journals.uchicago.edu/doi/abs/10.1086/689210
+UR  - https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1723&context=sociologyfacpub
+PY  - 2016///
+AB  - … This process, which began in the early 1970s but accelerated quickly after the end of the Cold War, has seen the swift demilitarization of the North and a rapid opening of much of the …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 21 cites: https://scholar.google.com/scholar?cites=290750045521063660&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 21
+ER  - 
+
+TY  - BOOK
+AU  - Hughes, JRT
+TI  - The governmental habit redux: economic controls from colonial times to the present
+PB  - torrossa.com
+UR  - https://www.torrossa.com/gs/resourceProxy?an=5581830&publisher=FZO137
+PY  - 2014///
+AB  - WHEN I STARTED WORK on this book in the late 1960s the prospect before us was a great expansion of government influence in the private lives of Americans. That would have been …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 102 cites: https://scholar.google.com/scholar?cites=15070045750542687604&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 102
+ER  - 
+
+TY  - JOUR
+AU  - Caputi, M
+TI  - The" Great Refusal" Redux: Antidote to Mindless
+JF  - Teaching Marx &Critical Theory in the 21st Century
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=fcCnDwAAQBAJ&oi=fnd&pg=PA127&dq=redux+ios%7Ciphone%7Cswift&ots=urYuonnsSw&sig=fiWvtNzTPXj-urycDZlJQtPp48Q
+PY  - 2019///
+AB  - … Asking students to consider whether the iPhone's texting feature has prefabricated and thus colonized how we communicate gets them talking, as do questions such as “When is more …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10381147236757278679&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 1
+ER  - 
+
+TY  - HTML
+AU  - Botts, EA
+AU  - CoomberSewell, JE
+TI  - The Ever-Present Past: A Redux
+JF  - Essex Student Journal
+PB  - publications.essex.ac.uk
+UR  - https://publications.essex.ac.uk/esj/article/id/460/
+UR  - https://publications.essex.ac.uk/esj/article/id/460/
+PY  - 2026///
+AB  - … The response from the academic establishment was swift and remarkably unified: a coalition of left-wing, liberal, secular, and feminist historians (predominantly from upper-caste …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Blokhuis, JC
+TI  - Rights Talk, Redux.
+JF  - Philosophy of Education Yearbook
+PB  - openurl.ebsco.com
+UR  - https://openurl.ebsco.com/contentitem/gcd:142921964?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:142921964&crl=c&jrnl=87566575
+UR  - https://scholar.archive.org/work/yimjtclzorf5xiqnf7fki6ukrq/access/wayback/https://www.philofed.org/_files/ugd/803b74_19909a4cadfe421daf240c6a6ff15b1b.pdf?index=true
+PY  - 2018///
+AB  - … Wilson then undertakes a selective review of literature in which an interest in autonomy is ascribed to children (referencing Brighouse &Swift, Feinberg, Reich); in which the moral status …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Hadfield, A
+AU  - Turner, C
+TI  - Entente Cordiale Redux: the impact of Brexit on British and French foreign and security policy
+JF  - Contemporary British History
+PB  - Taylor &Francis
+DO  - 10.1080/13619462.2023.2237315
+UR  - https://www.tandfonline.com/doi/abs/10.1080/13619462.2023.2237315
+UR  - https://www.tandfonline.com/doi/pdf/10.1080/13619462.2023.2237315
+PY  - 2023///
+AB  - … found itself tied in knots: after initially taking strong action in the sanctioning of the Nord Stream II pipeline and supporting the decision to remove some Russian banks from the SWIFT …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 4 cites: https://scholar.google.com/scholar?cites=15012629098371332805&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 4
+ER  - 
+
+TY  - BOOK
+AU  - Бэнкс, А
+TI  - React и Redux: функциональная веб-разработка
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=1FgSEQAAQBAJ&oi=fnd&pg=PT3&dq=redux+ios%7Ciphone%7Cswift&ots=7OYoS8Mb0u&sig=WHjbBhLn-qZ1KsRw1A09V3HqONE
+PY  - 2022///
+AB  - … Средство React Native, выпущенное в 2015 году, позволяет пользоваться преимуществами React-приложений в программах, предназначенных для работы под iOS и Android. …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 83 cites: https://scholar.google.com/scholar?cites=16786869232145130198&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 83
+ER  - 
+
+TY  - BOOK
+AU  - Le, DA
+TI  - E-Commercial Full Stack Web Application Development: with React, Redux, NodeJS, and MongoDB
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/802860
+UR  - https://www.theseus.fi/bitstream/handle/10024/802860/E-Commercial%20Full%20Stack%20Web%20Application%20Development.pdf?sequence=2
+PY  - 2023///
+AB  - … This thesis utilizes the technologies React, Redux, and SASS for the front-end, and Node.js and Express for the back-end. The primary database system of the program is MongoDB. …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - Kadriu, A
+AU  - Bilalli, S
+TI  - Comparison of Context API and Redux Working with Complex State
+JF  - Repository. Seeu. Edu. Mk
+PB  - repository.seeu.edu.mk
+UR  - https://repository.seeu.edu.mk/sites/thesis/ThesisSharedDocs/MA_126307.pdf
+UR  - https://repository.seeu.edu.mk/sites/thesis/ThesisSharedDocs/MA_126307.pdf
+AB  - … compare the Context API with Redux to have a better understanding of React's state management methods. The distinctions between Context API and Redux will be highlighted in this …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=2375213295465169580&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 0000): 1
+ER  - 
+
+TY  - JOUR
+AU  - Anderson, W
+TI  - The Philippine Covidscape Colonial Public Health Redux?
+JF  - Philippine Studies: Historical and Ethnographic …
+PB  - muse.jhu.edu
+UR  - https://muse.jhu.edu/pub/146/article/773014/summary
+PY  - 2020///
+AB  - … ANDERSON / COLONIAL PUBLIC HEALTH REDUX? … The government’s reaction to the new pandemic was swift and inflexibly martial. On 9 March, Pres. Rodrigo Duterte issued …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 6 cites: https://scholar.google.com/scholar?cites=13837632826695951101&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 6
+ER  - 
+
+TY  - JOUR
+AU  - Chapman, TL
+AU  - Pascoe, H
+TI  - Information and Institutions Redux: A Response to Fey, Jo, and Kenkel
+JF  - Journal of Conflict Resolution
+PB  - journals.sagepub.com
+DO  - 10.1177/0022002713503296
+UR  - https://journals.sagepub.com/doi/abs/10.1177/0022002713503296
+PY  - 2015///
+AB  - In “Information and Institutions Revisited,” Fey et al. point out some corrections to the equilibrium analyzed in Chapman. In this brief response, we argue that while these corrections are …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=6520518122504901070&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - BOOK
+AU  - Gaglio, CM
+AU  - Dimov, D
+TI  - Opportunity identification redux
+PB  - emerald.com
+UR  - https://www.emerald.com/books/edited-volume/13988/chapter-abstract/84871553
+PY  - 2018///
+AB  - … Even Apple’s iPhone was only on the drawing boards. The sheer number of disruptive businesses, and their associated new goods and services, effectively negated MacMillan and Katz…
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 7 cites: https://scholar.google.com/scholar?cites=6521696938143391637&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 7
+ER  - 
+
+TY  - JOUR
+AU  - Morris, CJ
+TI  - A Tale of Two Statutes Redux: Anti-Union Employment Discharges Under the NLRA and RLA, with a Solution
+JF  - Berkeley J. Emp. &Lab. L.
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/berkjemp40&section=18
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3397213
+PY  - 2019///
+AB  - … may be several causes for this extreme difference in attitude under the two statutes, but whatever the minor causes might be,92 the major cause is clearly the certainty of sure and swift …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=17911810818709256421&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - BOOK
+AU  - Мардан, А
+TI  - React быстро. Веб-приложения на React, JSX, Redux и GraphQL: Предисловие Джона Сонмеза
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=NlkSEQAAQBAJ&oi=fnd&pg=PT3&dq=redux+ios%7Ciphone%7Cswift&ots=Ii_gytepDL&sig=d8lqpHSKR_GGIY74s3tBY7LN08Q
+PY  - 2023///
+AB  - … Следите за объяснениями Азата, работайте над приведенными проектами — и вскоре вы начнете понимать React, Redux, GraphQL, Webpack и Jest и сможете применять их …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 15 cites: https://scholar.google.com/scholar?cites=1092746141894494044&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 15
+ER  - 
+
+TY  - BOOK
+AU  - Green, DR
+AU  - Mullen, WF
+TI  - Fallujah redux: The Anbar awakening and the struggle with Al-Qaeda
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=gGwmBAAAQBAJ&oi=fnd&pg=PA1974&dq=redux+ios%7Ciphone%7Cswift&ots=NRaJgBNx4F&sig=NcwN2E1Po0rKyYseU9UMmqyBIVc
+PY  - 2014///
+AB  - Fallujah Redux is the first book about the Fallujah Awakening written by Operation Iraqi Freedom military veterans who served there, providing a comprehensive account of the turning …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 13 cites: https://scholar.google.com/scholar?cites=18046640718200387536&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 13
+ER  - 
+
+TY  - JOUR
+AU  - Holper, M
+TI  - JRAD Redux: Judicial Recommendation Against Immigration Detention
+JF  - Geo. Wash. L. Rev.
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/gwlr91&section=18
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4054646
+PY  - 2023///
+AB  - … This proposal is a JRAD redux-instead of a judicial recommendation against deportation (" JRAD"), as previously existed in immigration law, it is a judicial recommendation against …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 8 cites: https://scholar.google.com/scholar?cites=2172983759447584110&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 8
+ER  - 
+
+TY  - JOUR
+AU  - Lees, DE
+TI  - Berkeley redux: imagination as ethical power in Shelley's" Mont Blanc"
+JF  - Texas Studies in Literature and Language
+PB  - muse.jhu.edu
+UR  - https://muse.jhu.edu/pub/15/article/629011/summary
+UR  - https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1006&context=writing_facpubs
+PY  - 2016///
+AB  - The wind blew away the clouds hiding Mount Blanc’s massive peak before which Shelley stood looking up. He later described the scene in a letter:“The immensity of these aerial …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=12305096921474691577&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 3
+ER  - 
+
+TY  - JOUR
+AU  - West, GD
+TI  - Consequential Damages Redux: An Updated Study of the Ubiquitous and Problematic Excluded Losses Provision in Private Company Acquisition Agreements
+JF  - Bus. Law.
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/busl70&section=59
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=2597364
+PY  - 2014///
+AB  - An" excluded losses" provision is standard fare as an exception to the scope of indemnification otherwise available fr the seller's breach of representations and warranties in private …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 12 cites: https://scholar.google.com/scholar?cites=18325360273107737119&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 12
+ER  - 
+
+TY  - JOUR
+AU  - Cowan, C
+TI  - Open and Closed Software Security Redux
+JF  - IEEE Security &Privacy
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10005837/
+PY  - 2023///
+AB  - Twenty years ago, we surveyed the landscape of software security for open source systems. While some things remain the same, other things have changed, in both predictable and …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - Rooney, JJ
+TI  - Golden Dome: Star Wars Redux or Ready for Primetime
+JF  - Security and Intelligence
+PB  - gsis.scholasticahq.com
+UR  - https://gsis.scholasticahq.com/article/164128.pdf
+UR  - https://gsis.scholasticahq.com/article/164128.pdf
+PY  - 2026///
+AB  - Impressed by the effectiveness of the Israeli Iron Dome defense system against short- to medium-range rockets and drones, US President Donald Trump directed an ambitious plan for …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Lu, D
+AU  - Zhou, H
+TI  - Tolerance of Flexibility: Foreign Exchange Intervention and Managed Floating Redux
+JF  - Available at SSRN 3380122
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3380122
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3380122
+PY  - 2019///
+AB  - In recent decades, there has been a rising share of countries with limited exchange rate flexibility (Ilzetzki et al., 2019), and foreign exchange (FX) intervention is commonly used among …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Swiercz, PM
+TI  - Peace Corps Redux: Assessing Intentional Turnover as an HR Policy
+PB  - sk.sagepub.com
+UR  - https://sk.sagepub.com/cases/peace-corps-redux-assessing-intentional-turnover-as-an-hr-policy
+PY  - 2017///
+AB  - … The Peace Corps prides itself on its ability to change with the world, an ability achieved chiefly through the implementation of development projects in new areas of focus and swift move…
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Stassi, L
+TI  - Romance Redux: Finding Love in Your Later Years
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=AppxEAAAQBAJ&oi=fnd&pg=PR7&dq=redux+ios%7Ciphone%7Cswift&ots=Na6TGLGIsb&sig=OSpHvD9bqYWFVpELBLAB5GwPahA
+PY  - 2022///
+AB  - Offers encouragement and hope to older adults who are ready to date again, with advice and tips from relationship experts and the author’s own experiences. Romance Reduxlooks at …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Ramirez, CD
+TI  - pizzalab complex redux porn
+PB  - r5j6lo76b1.topclean-nettoyage.fr
+UR  - https://r5j6lo76b1.topclean-nettoyage.fr/archive
+PY  - 2025///
+AB  - … Pizzalab Complex Redux 0.1.4.0 may contain content you must be 18+ to view. … PIZZALAB COMPLEX L 0.2 Redux Patreon by AXRIVYX on Patreon. Join AXRIVYX's community for …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Sharma, K
+AU  - Garg, P
+AU  - Sharma, V
+TI  - User Login Portal Using React and JWT Authentication and Recipe Search Application using Redux and Saga
+PB  - ir.juit.ac.in
+UR  - http://www.ir.juit.ac.in:8080/jspui/handle/123456789/10229
+UR  - http://www.ir.juit.ac.in:8080/jspui/bitstream/123456789/10229/1/User%20Login%20Portal%20Using%20React%20and%20JWT%20Authentication%20and%20Recipe%20Search%20Application%20using%20Redux%20and%20Saga.pdf
+PY  - 2023///
+AB  - … This permits designers to make versatile applications for iOS and Android utilizing the equivalent codebase, which can assist with diminishing advancement expenses and time to …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Benedikter, R
+AU  - Siepmann, K
+TI  - Global systemic shift Redux: the state of the art
+JF  - New Global Studies
+PB  - degruyterbrill.com
+DO  - 10.1515/ngs-2015-0014
+UR  - https://www.degruyterbrill.com/document/doi/10.1515/ngs-2015-0014/html
+UR  - https://www.academia.edu/download/43716627/Global_Systemic_Shift_Redux_The_State_of20160314-7209-noc3me.pdf
+PY  - 2015///
+AB  - … , in which economy, coupled with politics, diplomacy and the military-industrial complex, continued to set the undisputed parameters of the order, the present is characterized by the swift …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=16225692176960681591&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - JOUR
+AU  - Kim, SH
+TI  - Constitutional Revolution Redux: Postwar Japan and South Korea
+JF  - Yonsei LJ
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/yonsei10&section=7
+PY  - 2020///
+AB  - … CONSTITUTIONAL REVOLUTION REDUX … How can we measure, if at all, a swift alteration of constitutional identity, which is inclusive of customs, culture, and ideology? Whose …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=105160255067507419&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 3
+ER  - 
+
+TY  - PDF
+AU  - Gutiérrez, A Salvador
+TI  - BookStand: Aplicación multiplataforma de gestión de bibliotecas personales basada en React Native, Redux, Firebase y Cloud Messaging
+PB  - idus.us.es
+UR  - https://idus.us.es/bitstreams/a2496b02-500d-49ea-837d-f5d203f51aca/download
+UR  - https://idus.us.es/bitstreams/a2496b02-500d-49ea-837d-f5d203f51aca/download
+PY  - 2021///
+AB  - Desde que los teléfonos inteligentes llegaron a nuestras vidas, hemos sido testigos de un cambio a la hora de relacionarnos con nuestro alrededor. Muchas de las tareas cotidianas …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=7082268216054700343&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - JOUR
+AU  - Baker, DJ
+TI  - Britain redux
+JF  - Spenser Studies
+PB  - journals.uchicago.edu
+DO  - 10.7756/spst.029.002.21-36
+UR  - https://www.journals.uchicago.edu/doi/abs/10.7756/spst.029.002.21-36
+UR  - https://www.journals.uchicago.edu/doi/pdf/10.7756/spst.029.002.21-36
+PY  - 2014///
+AB  - This essay traces the development, around the turn of the twenty-first century, of the “New British History,” a non-Anglo-centric critical approach that takes into account the historical and …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 10 cites: https://scholar.google.com/scholar?cites=13697894543145024550&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 10
+ER  - 
+
+TY  - HTML
+AU  - Arrow, M
+TI  - I Am Woman, redux: feminism on television in 2015
+PB  - academia.edu
+UR  - https://www.academia.edu/download/50158802/Small_Screens.pdf
+UR  - https://www.academia.edu/download/50158802/Small_Screens.pdf
+PY  - 2016///
+AB  - The research analyzes Judith Lucy's television series' Judith Lucy Is All Woman'and discusses its portrayal of contemporary feminism, particularly from the perspective of older women …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - Andoni, S
+TI  - Dirac Equation redux by direct quantization of the 4-momentum vector
+JF  - preprint DOI
+PB  - assets-eu.researchsquare.com
+UR  - https://assets-eu.researchsquare.com/files/rs-313921/v8_covered.pdf
+UR  - https://assets-eu.researchsquare.com/files/rs-313921/v8_covered.pdf
+PY  - 2022///
+AB  - The Dirac Equation (DE) is a cornerstone of quantum physics. We prove that direct quantization of the 4-momentum vector p with modulus equal to the rest energy 𝑚 (𝑐= 1) yields a …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 3 cites: https://scholar.google.com/scholar?cites=8817070571917139548&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 3
+ER  - 
+
+TY  - HTML
+AU  - Benzon, B
+TI  - No End in Sight: John Horgan's End of Science, Redux
+PB  - academia.edu
+UR  - https://www.academia.edu/download/66754582/No_End_in_Sight_EoS_Redux_WP.pdf
+UR  - https://www.academia.edu/download/66754582/No_End_in_Sight_EoS_Redux_WP.pdf
+PY  - 2021///
+AB  - Through Macksey I became steeped in structuralism, particularly Lévi-Strauss. I learned about generative grammar from James Deese, a psycholinguists, and about Jean Piaget (who …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Хоменко, ВМ
+TI  - Вебзастосунок обміну повідомленнями із використанням React/Redux
+PB  - krs.chmnu.edu.ua
+UR  - https://krs.chmnu.edu.ua/jspui/handle/123456789/2361
+UR  - https://krs.chmnu.edu.ua/jspui/bitstream/123456789/2361/1/401%20%D0%A5%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BE%20%D0%92%D1%96%D0%BA%D1%82%D0%BE%D1%80%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%D1%87.pdf
+PY  - 2022///
+AB  - … Що досягається за рахунок використання «рідних» для кожної платформи мовних середовищ: Swift та Objective-C для iOS, а також Java та Kotlin для Android. Крім того, за …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - JOHN , late Cold War PETER
+AU  - ...
+TI  - Great Game redux: The US, Europe, and Gulf security in the late Cold War
+JF  - … -American Relations and …
+PB  - api.taylorfrancis.com
+UR  - https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9780203851449-21&type=chapterpdf
+PY  - 2019///
+AB  - Introduction Throughout the Cold War, the US aimed to establish and hold a preponderance of power in both Western Europe and Northeast Asia.1 American policy-makers understood …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Sheff, JN
+TI  - Brand Renegades Redux
+JF  - IDEA
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/idea59&section=20
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=3204510
+PY  - 2018///
+AB  - In my 2011 article Brand Renegades, 2 I outlined a new frontier of trademark enforcement. Noting that purchasers often consume branded products as a way to communicate their …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Obstfeld, M
+TI  - Policy Insight 149: Global imbalances redux
+PB  - cepr.org
+UR  - https://cepr.org/index.php/publications/policy-insight-149-global-imbalances-redux
+UR  - https://cepr.org/system/files/publication-files/296971-policy_insight_149_global_imbalances_redux.pdf
+PY  - 2026///
+AB  - When the industrial countries abandoned fixed dollar exchange rates in 1973, some hoped that the automatic adjustment of floating rates would make global current account …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - HTML
+AU  - Telfer, T
+TI  - Equitable subordination redux? Section 183 of the Bankruptcy and Insolvency Act and respecting the'legislative will'of Parliament
+JF  - Business law journal
+PB  - academia.edu
+UR  - https://www.academia.edu/download/108059582/viewcontent.pdf
+UR  - https://www.academia.edu/download/108059582/viewcontent.pdf
+PY  - 2021///
+AB  - This article discusses the applicability of the American doctrine of equitable subordination within Canadian law, specifically under section 183 of the Bankruptcy and Insolvency Act (BIA)…
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Teslyuk, VM
+AU  - Tsmots, IH
+AU  - Kazarian, AG
+AU  - ...
+TI  - Метод проектування систем" розумного" будинку з використанням архітектурного шаблону Redux
+JF  - Scientific Bulletin of …
+PB  - nv.nltu.edu.ua
+UR  - https://nv.nltu.edu.ua/index.php/journal/article/view/2022
+UR  - https://nv.nltu.edu.ua/index.php/journal/article/view/2022/2081
+PY  - 2019///
+AB  - … До базових концепцій архітектурного шаблону Redux відносять події, сховище та … Redux використовує тільки одне сховище для всього стану параметрів системи. Redux не дає …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Telfer, TGW
+TI  - Equitable Subordination Redux? Section 183 of the Bankruptcy and Insolvency Act and respecting the" Legislative Will" of Parliament
+JF  - Can. Bus. LJ
+PB  - HeinOnline
+UR  - https://access.heinonline.com/hol-cgi-bin/get_pdf.cgi?handle=hein.journals/canadbus64&section=23
+PY  - 2020///
+AB  - The Supreme Court of Canada has" twice side-stepped making a ruling on the doctrine" 1 of equitable subordination leaving the matter" open for another day". 2 The American doctrine …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - Kott, J
+TI  - … Realisierung einer UX-optimierten App des Hamburger Verkehrsverbunds (HVV): auf möglicher Grundlage von React Native unter Zuhilfenahme von Redux …
+PB  - reposit.haw-hamburg.de
+UR  - https://reposit.haw-hamburg.de/bitstream/20.500.12738/10986/3/UX-optimierte_App_HVV.pdf
+UR  - https://reposit.haw-hamburg.de/bitstream/20.500.12738/10986/3/UX-optimierte_App_HVV.pdf
+PY  - 2019///
+AB  - … Redux problemlos verbunden werden. Die einzigen Libraries, die dafür nötig sind und explizit installiert werden müssen, sind redux und react-redux. … Wenn wir React (Native) mit Redux …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Fagiolo, G
+AU  - Roventini, A
+TI  - Macroeconomic Policy in DGSE and Agent-Based Models Redux
+PB  - sciencespo.hal.science
+UR  - https://sciencespo.hal.science/hal-03459348/
+UR  - https://sciencespo.hal.science/hal-03459348/file/wp2016-11-fagiolo-macroeconomic-policy.pdf
+PY  - 2016///
+AB  - The Great Recession seems to be a natural experiment for economic analysis, in that it has shown the inadequacy of the predominant theoretical framework | the New Neoclassical …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - ЛОТЮК, Ю
+AU  - АНАНЧЕНКО, В
+TI  - ПЕРЕВАГИ ТА НЕДОЛІКИ REDUX ТА CONTEXT API ДЛЯ УПРАВЛІННЯ СТАНОМ У REACT ЗАСТОСУНКАХ
+JF  - Herald of Khmelnytskyi …
+PB  - heraldts.khmnu.edu.ua
+UR  - https://heraldts.khmnu.edu.ua/index.php/heraldts/article/view/320
+UR  - https://heraldts.khmnu.edu.ua/index.php/heraldts/article/download/320/709
+PY  - 2024///
+AB  - … , Redux often … Redux and the Context API in projects of different complexity and scale. Experimental studies demonstrate that in less demanding projects, the Context API ensures swift …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - JOUR
+AU  - Stolzenberg, NM
+TI  - Challenging the Sovereign Shtetl: Communitarianism From the Bottom Up, Redux
+JF  - Jewish Studies Quarterly
+PB  - JSTOR
+UR  - https://www.jstor.org/stable/44861490
+PY  - 2016///
+AB  - The years between 1977 and 1989 witnessed a remarkable sequence of events: first, the establishment of an officially recognized municipality, the Village of Kiryas Joel, populated …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11902971773260699528&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 1
+ER  - 
+
+TY  - JOUR
+AU  - Фурса, СЄ
+AU  - Борісевіч, ЄС
+TI  - Методи та інструменти управління проектами на прикладі створення архіву книжок на технології React-redux.
+JF  - Збірники наукових праць …
+PB  - jpvs.donnu.edu.ua
+UR  - http://jpvs.donnu.edu.ua/article/view/7282/7310
+PY  - 2019///
+AB  - … Особливостями реалізованого додатку є використання Redux – бібліотеки, яка зберігає … розробки мобільного додатку на Android і IOS за допомогою фреймворка React Native. …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Hartmann, N
+AU  - Zeigermann, O
+TI  - React: Grundlagen, fortgeschrittene Techniken und Praxistipps–mit TypeScript und Redux
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=2zrCDwAAQBAJ&oi=fnd&pg=PT12&dq=redux+ios%7Ciphone%7Cswift&ots=KlNUG3bqFg&sig=P1mGpd1BkqQJ_iNHFYp6A1qsDO8
+UR  - https://raw.githubusercontent.com/nilshartmann/react-talk/master/code-days-2022-react-einstieg.pdf
+PY  - 2019///
+AB  - … Ein solches Tool zeigen wir dir am Beispiel von Redux. Abschließend werden wir uns noch ansehen, wie die Anwendung mit TypeScript entwickelt werden kann. Der Einsatz eines …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 4 cites: https://scholar.google.com/scholar?cites=6135419257707452950&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - JOUR
+AU  - III, DS Hartley
+AU  - Jobson, KO
+TI  - The technium—plus, redux
+JF  - Cognitive Superiority: Information to Power
+PB  - Springer
+DO  - 10.1007/978-3-030-60184-3_5
+UR  - https://link.springer.com/chapter/10.1007/978-3-030-60184-3_5
+PY  - 2020///
+AB  - Chapter 5 discusses several selected sciences and technologies to provide a deeper look at some of the transformative influences of our environment. The topics include complex …
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 1 cites: https://scholar.google.com/scholar?cites=11913853185742419929&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - BOOK
+AU  - Marković, T
+TI  - Razvoj web aplikacija pomoću React i Redux programskih biblioteka
+PB  - repozitorij.pmfst.unist.hr
+UR  - https://repozitorij.pmfst.unist.hr/object/pmfst:1439
+UR  - https://repozitorij.pmfst.unist.hr/object/pmfst:1439/FILE0/download
+PY  - 2022///
+AB  - … web applications using React and Redux technologies. React is … Redux is a predictable state container for JavaScript apps. It helps … The emphasis is on the use of Redux Toolkit that is …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Граб, ДВ
+TI  - Розробка інтернет-магазину «Modern Store» з використанням бібліотек React і Redux та програмного інтерфейсу IndexedDB
+PB  - elartu.tntu.edu.ua
+UR  - https://elartu.tntu.edu.ua/handle/lib/41642
+UR  - https://elartu.tntu.edu.ua/bitstream/lib/41642/1/2023_KRB_SN-41_Hrab_DV.pdf
+PY  - 2023///
+AB  - … Мобільний додаток – програма, яку розробляють під певну мобільну платформу (Android, Windows Phone, iOS). Мобільні програми можуть бути встановлені на мобільному …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Aarnio, T
+TI  - Redux-tilanhallinnan korvaaminen ReactJS: n uusilla ominaisuuksilla
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/226505
+UR  - https://www.theseus.fi/bitstream/handle/10024/226505/Redux-tilanhallinnan_korvaaminen_Aarnio_Tiia.pdf?sequence=2
+PY  - 2019///
+AB  - … management replacement of Redux with the new … Redux is currently in use. In addition, the study compared the application code readability and the DOM structure clarity after Redux …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - BOOK
+AU  - Cotner, J
+AU  - Biddanda, B
+AU  - Godwin, C
+TI  - Data for'A trophic gradient redux: Polyphosphate, the growth rate hypothesis and eutrophication'
+PB  - conservancy.umn.edu
+UR  - https://conservancy.umn.edu/items/99afc318-bf8a-4948-b02e-1ddd0f588bbf
+PY  - 2026///
+AB  - Data for a manuscript on the stoichiometry of plankton in lakes. Data were collected in summer 2013. There is a special emphasis on phosphorus composition in cells, looking at DNA, …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - PDF
+AU  - Pacheco, M
+AU  - Patricio, A
+AU  - Guerra, DA Paredes
+AU  - ...
+TI  - … de un sistema software multiplataforma basado en un modelo de gestión administrativa enmarcado en la arquitectura REST y REDUX para la optimización de …
+JF  - repositorio.espe.edu.ec
+UR  - https://repositorio.espe.edu.ec/bitstreams/95611ac3-1369-4237-ab35-1c90667ee829/download
+UR  - https://repositorio.espe.edu.ec/bitstreams/95611ac3-1369-4237-ab35-1c90667ee829/download
+AB  - Dedico el resultado de este proyecto a mi madre quien ha sido el pilar de mi vida y la persona a la que le debo todo lo que soy hoy como persona tanto a nivel profesional como moral. …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - HTML
+AU  - Lamouliatte-Schmitt, H
+TI  - Palimpsestes ou l'image au second degré: Gail Albert Halaban, Hopper Redux, et Laetitia Molenaar, Here comes the Sun [it is all right]
+JF  - … Revue électronique d'études sur le …
+PB  - journals.openedition.org
+UR  - https://journals.openedition.org/erea/4585
+UR  - https://journals.openedition.org/erea/4585
+PY  - 2015///
+AB  - … Pour concevoir la série Hopper Redux, Gail Albert Halaban a retrouvé certaines maisons peintes … In order to create the Hopper Redux series, Gail Albert Halaban went to a small New …
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - CITATION
+AU  - Graeve, J De
+TI  - iOS Redux Architectuur. De voordelen, de nadelen en de onderhoudbaarheid ervan binnen een team
+PY  - 2019///
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - CITATION
+AU  - Bennett, J
+TI  - Instale o Exodus Redux Addon em 2022-Não está funcionando? Corrija aqui
+PB  - Kodi Vedia
+PY  - 2022///
+M1  - Query date: 2026-09-23 23:15:50
+ER  - 
+
+TY  - CITATION
+AU  - MUÑOZ, M COLETO
+TI  - Desarrollo de Aplicaciones Frontend con arquitectura Redux
+PY  - 2018///
+M1  - Query date: 2026-09-23 23:15:50
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17178766276403441149&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+

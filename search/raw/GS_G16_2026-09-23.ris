@@ -1,0 +1,407 @@
+﻿TY  - BOOK
+AU  - Lano, K
+AU  - Tehrani, SY
+TI  - Introduction to Software Architecture: Innovative Design Using Clean Architecture and Model-driven Engineering
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=gO3aEAAAQBAJ&oi=fnd&pg=PA2&dq=%22clean+architecture%22+ios%7Ciphone%7Cswift&ots=sVQDtLSO2o&sig=SK2zYlCiM-ZI-q5DTAW08V-8_F0
+PY  - 2023///
+AB  - … This book provides a comprehensive introduction to software architecture concepts and techniques, with a focus upon the ‘clean architecture’principles (Chapter 2), which have been …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 12 cites: https://scholar.google.com/scholar?cites=18029129784750708167&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 12
+ER  - 
+
+TY  - JOUR
+AU  - Kisić, F
+AU  - Furjan, K
+AU  - Bele, D
+TI  - Clean Architecture in mobile development by practice
+JF  - Security Issues in Communication …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=XF-NEQAAQBAJ&oi=fnd&pg=PP20&dq=%22clean+architecture%22+ios%7Ciphone%7Cswift&ots=h4c8tRRzin&sig=NBFCbqE5-fqwWwvR47dldi-5gas
+PY  - 2025///
+AB  - … in iOS projects, and the increasingly popular Clean Architecture. All … to successfully implement Clean Architecture by following the … within Clean Architecture tailored for iOS applications. …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - JOUR
+AU  - Boukhary, S
+AU  - Colmenares, E
+TI  - A clean approach to flutter development through the flutter clean architecture package
+JF  - 2019 international conference on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9071367/
+PY  - 2019///
+AB  - … based on the Clean Architecture by Uncle Bob. The Flutter Clean Architecture proposed in … The Flutter Clean Architecture provides a solution to the state management problem as well …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 105 cites: https://scholar.google.com/scholar?cites=1940446043428060011&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 105
+ER  - 
+
+TY  - PDF
+AU  - Sánchez, JN
+TI  - Modelo de Arquitectura de Software para Aplicaciones iOS basado en Clean Architecture
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+PY  - 2017///
+AB  - El desarrollo de software para la plataforma iOS se ha convertido en estos últimos años en una parte importante dentro del sector del desarrollo de software. La velocidad a la que ha …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - PDF
+AU  - Nguyen, AD
+TI  - Refactoring Prozess einer mobilen Applikation basierend auf Clean Architecture Prinzipien
+JF  - inf.fu-berlin.de
+UR  - https://www.inf.fu-berlin.de/inst/ag-se/theses/Nguyen22-refactoring-clean-architecture.pdf
+UR  - https://www.inf.fu-berlin.de/inst/ag-se/theses/Nguyen22-refactoring-clean-architecture.pdf
+AB  - … Um dieser Komplexität eine Struktur zu verleihen, wird das GitJournal App mit der Hilfe von den klassischen Refaktorisierungsmethoden und der Prinzipien der "Clean Architecture" …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - BOOK
+AU  - Salikhodjaev, I
+TI  - Migrating a Legacy Code Base to Contemporary Clean-Architecture Solution: A Design Science Research Approach—Case Study in Migration Challenges and …
+PB  - aaltodoc.aalto.fi
+UR  - https://aaltodoc.aalto.fi/items/f631bb86-03e2-403d-b3f9-e2ab74678ad0
+UR  - https://aaltodoc.aalto.fi/bitstreams/80130720-a444-410b-9cbb-646ae539c440/download
+PY  - 2026///
+AB  - … Multiplatform (CMP) and strict Clean Architecture principles. The designed artifact was … a legacy monolithic project towards Clean Architecture is a strategically sound decision. …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - JOUR
+AU  - Sinatria, MB
+AU  - Komarudin, O
+AU  - Prihandani, K
+TI  - Penerapan Clean Architecture Dalam Membangun Aplikasi Berbasis Mobile Dengan Framework Google Flutter
+JF  - INFOTECH journal
+PB  - ejournal.unma.ac.id
+UR  - http://www.ejournal.unma.ac.id/index.php/infotech/article/view/5237
+UR  - http://www.ejournal.unma.ac.id/index.php/infotech/article/download/5237/3039
+PY  - 2023///
+AB  - … Sedangkan iOS adalah sistem operasi perangkat bergerak dari Apple Inc. Sistem operasi ini pertama diluncurkan tahun 2007 untuk iPhone dan iPod Touch, dan telah dikembangkan …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 23 cites: https://scholar.google.com/scholar?cites=11931711021235358314&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 23
+ER  - 
+
+TY  - PDF
+AU  - Tehrani, SY
+AU  - Lano, K
+TI  - Using MDE with the Clean Architecture.
+JF  - Agile MDE …
+PB  - ceurspt.wikidata.dbis.rwth-aachen …
+UR  - https://ceurspt.wikidata.dbis.rwth-aachen.de/Vol-3620/agilemde23_paper01.pdf
+UR  - https://ceurspt.wikidata.dbis.rwth-aachen.de/Vol-3620/agilemde23_paper01.pdf
+PY  - 2023///
+AB  - … The ‘clean architecture’is a set of principles for software architecture, which aim to reduce … of the clean architecture principles and hence reduce the e ort needed to employ them. …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3167199595138337234&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Solanes, J Mas
+TI  - MyEMenu. Implementant clean architecture
+PB  - openaccess.uoc.edu
+UR  - https://openaccess.uoc.edu/items/4356fef2-9470-4060-8552-50679d9d47a9
+UR  - https://openaccess.uoc.edu/bitstreams/5d73879b-92fa-406e-907c-c959ec4a8a4f/download
+PY  - 2018///
+AB  - … S’aplicaran els principis de Clean Architecture i es durà a terme una implementació dels … The principles of Clean Architecture will be applied and an implementation of them will be …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - BOOK
+AU  - Jordan, A
+AU  - Giovani, AVS
+AU  - Souza, EC
+AU  - Assunção, IX
+AU  - ...
+TI  - Aplicação de clean architecture no desenvolvimento de um sistema de voluntários para área tech: um estudo de caso
+PB  - ri.ucsal.br
+UR  - https://ri.ucsal.br/items/ef42897e-a547-4422-bf87-008f5ead2b2f
+UR  - https://ri.ucsal.br/bitstreams/b6560a61-8b3d-430e-a58c-e889408e632b/download
+PY  - 2024///
+AB  - … Este trabalho explora a aplicação da Clean Architecture no … Por meio da aplicação dos princípios da Clean Architecture, a … as vantagens práticas da Clean Architecture na criação de …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - BOOK
+AU  - Krasko, R
+AU  - Oskin, A
+TI  - Clean Architecture For Android Applications
+PB  - elib.psu.by
+UR  - https://elib.psu.by/bitstream/123456789/31154/1/256-257.pdf
+PY  - 2020///
+AB  - … The article describes the features of developing a mobile Android application using a clean architecture. A set of tools for software implementation of this approach was proposed. …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 1 cites: https://scholar.google.com/scholar?cites=16288446110833656772&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Defriani, M
+AU  - Jaelani, I
+AU  - Sanjaya, LP
+AU  - ...
+TI  - Implementation of Model-View-ViewModel and Clean Architecture in Android Mobile App Development
+JF  - CoreID …
+PB  - journal.genintelektual.id
+UR  - https://www.journal.genintelektual.id/index.php/coreid/article/view/163
+UR  - https://www.journal.genintelektual.id/index.php/coreid/article/download/163/197
+PY  - 2026///
+AB  - … and Clean Architecture … Clean Architecture improves application modularity, allowing each layer to be tested independently. It shows that by implementing MVVM and Clean Architecture…
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - PDF
+AU  - Dıez, MG
+TI  - CLEAN ARCHITECTURE Y RXJAVA EN ANDROID
+JF  - Repositorio. ucundinamarca. edu. co
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/bitstreams/d817b0d0-bfea-4178-9754-852175431c51/download
+UR  - https://diposit.ub.edu/bitstreams/d817b0d0-bfea-4178-9754-852175431c51/download
+PY  - 2016///
+AB  - … This document will review and apply the best technologies available in the Android Development as well as the architecture proposed by Robert C Martin, called Clean Architecture, …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3035028819523311480&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 1
+ER  - 
+
+TY  - JOUR
+AU  - Lano, K
+AU  - Tehrani, S Yassipour
+TI  - Introduction to clean architecture concepts
+JF  - … Innovative Design using Clean Architecture …
+PB  - Springer
+DO  - 10.1007/978-3-031-44143-1_2
+UR  - https://link.springer.com/content/pdf/10.1007/978-3-031-44143-1_2.pdf
+PY  - 2023///
+AB  - This chapter covers the key concepts of the clean architecture approach to architectural design, and defines some quality measures and quality aspects of architectures with respect to …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 5 cites: https://scholar.google.com/scholar?cites=18146828053740322345&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 5
+ER  - 
+
+TY  - BOOK
+AU  - Vassallo, A
+TI  - La Clean Architecture applicata allo sviluppo mobile in ambiente Android= Clean Architecture applied to mobile development in the Android environment
+PB  - webthesis.biblio.polito.it
+UR  - https://webthesis.biblio.polito.it/16662/
+UR  - https://webthesis.biblio.polito.it/16662/1/tesi.pdf
+PY  - 2020///
+AB  - … cui viene discusso è la Clean Architecture, ideata da Robert … l’applicazione della Clean Architecture consente di separare … alle regole della Clean Architecture sfruttando il pattern …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10681492558828594809&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Budhiastawa, IDAA
+AU  - Ratnasari, D
+AU  - ...
+TI  - Clean Architecture Implementation for Android Application Rinjani Visitor
+JF  - Journal of …
+PB  - jcosine.if.unram.ac.id
+UR  - https://jcosine.if.unram.ac.id/index.php/jcosine/article/view/660
+UR  - https://jcosine.if.unram.ac.id/index.php/jcosine/article/download/660/177
+PY  - 2026///
+AB  - … of the process of clean architecture implementation, which is meticulously detailed and easy to understand. This includes how to implement Clean Architecture with the development …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - CITATION
+AU  - Souza, WO
+TI  - Uso de flutter, node. js e clean architecture no desenvolvimento de um software mobile para monitoria acadêmica
+PB  - Pontifícia Universidade Católica de …
+PY  - 2024///
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9864194902709215142&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - JOUR
+AU  - Bukovčan, M
+AU  - Blažević, D
+AU  - Nenadić, K
+AU  - ...
+TI  - Clean architecture of client-side software development for smart furniture control
+JF  - 2022 11th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9797122/
+PY  - 2022///
+AB  - … This paper emphasizes the importance of application development following clean architecture … To make this easier to do, this paper provides basic clean architecture guidelines for …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 6 cites: https://scholar.google.com/scholar?cites=11972440383325935475&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 6
+ER  - 
+
+TY  - CITATION
+AU  - Azziqra, MZ
+AU  - Nuryasin, I
+TI  - Implementasi Clean Architecture Pada Aplikasi Mobile Al-Quran Berbasis Flutter
+JF  - JOISIE (Journal Of Information Systems And Informatics …
+UR  - https://pdfs.semanticscholar.org/7f9a/d94bd73b779b8e346afcd903404ba26a2ad6.pdf
+PY  - 2024///
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 11 cites: https://scholar.google.com/scholar?cites=3391523144813145985&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 11
+ER  - 
+
+TY  - BOOK
+AU  - Salazar, JA Santiago
+TI  - Modelo de Clean Architecture para el desarrollo de proyectos Android nativos, optimizando la modularidad, escalabilidad y mantenibilidad del código.
+PB  - repositorioinstitucional.ufpso.edu.co
+UR  - https://repositorioinstitucional.ufpso.edu.co/handle/20.500.14167/6047
+UR  - https://repositorioinstitucional.ufpso.edu.co/xmlui/bitstream/handle/20.500.14167/6047/Trabajo_de_grado_.pdf?sequence=1&isAllowed=y
+PY  - 2025///
+AB  - … análisis y adaptación de Clean Architecture en el desarrollo Android nativo. No incluye la implementación de Clean Architecture en otras plataformas como iOS o en aplicaciones web …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - BOOK
+AU  - Sánchez, J Nieto
+TI  - Modelo de arquitectura de software para aplicaciones iOS basado en clean architecture
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/dspace/handle/2445/120321
+PY  - 2017///
+AB  - [en] The development of software for the iOS platform have … for the development of iOS applications will be studied and … to ensure the sustainability of an iOS software project. Finally, the …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13677837253963742438&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - PDF
+AU  - Yadati, N
+TI  - Architecture Design (MVVM+ Clean Architecture)
+JF  - Journal of Artificial Intelligence, Machine Learning and …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Naga-Satya-Praveen-Kumar-Yadati/publication/382494352_Architecture_Design_MVVM_Clean_Architecture/links/66a08b5b27b00e0ca43df6f0/Architecture-Design-MVVM-Clean-Architecture.pdf
+UR  - https://www.researchgate.net/profile/Naga-Satya-Praveen-Kumar-Yadati/publication/382494352_Architecture_Design_MVVM_Clean_Architecture/links/66a08b5b27b00e0ca43df6f0/Architecture-Design-MVVM-Clean-Architecture.pdf
+PY  - 2023///
+AB  - … This section will provide a detailed case study of implementing the combined MVVM and Clean Architecture in an Android application. The project will involve building a task …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 4 cites: https://scholar.google.com/scholar?cites=11323131471243690502&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 4
+ER  - 
+
+TY  - BOOK
+AU  - Alifiansyah, RY
+TI  - Metode Penerapan Clean Architecture Dengan Kotlin Multiplatform Mobile Pada Aplikasi Bukalapak
+PB  - elib.unikom.ac.id
+UR  - https://elib.unikom.ac.id/id/eprint/6362/
+UR  - https://elib.unikom.ac.id/id/eprint/6362/8/12.UNIKOM_RADHIKA%20YUSUF%20ALIFIANSYAH_BAB%202.pdf
+PY  - 2022///
+AB  - … Karena pada setiap pembuatan fitur aplikasi datasource yang dipakai pada antar platform (Android dan iOS) itu sama, maka implementasi Data Layer ini bisa kita lakukan dengan …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8671069520809520829&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - CITATION
+AU  - Mobile, M
+TI  - Meet VIPER: Mutual Mobile's Application of Clean Architecture for iOS Apps
+JF  - Last modified September
+PY  - 2014///
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 4 cites: https://scholar.google.com/scholar?cites=16398427595908749791&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 4
+ER  - 
+
+TY  - JOUR
+AU  - Saifulloh, T
+AU  - Kharisma, AP
+AU  - Brata, DW
+TI  - Pengembangan Aplikasi Perangkat Bergerak Pencarian Partner Lomba berbasis Android menggunakan Clean Architecture
+JF  - … Pengembangan Teknologi dan …
+PB  - j-ptiik.ub.ac.id
+UR  - https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/12524
+UR  - https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/download/12524/5690
+PY  - 2023///
+AB  - … Pada tahap implementasi kode, arsitektur yang digunakan adalah Clean Architecture dengan … Clean Architecture yang digunakan saat mengimplementasikan kode memberi manfaat …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 5 cites: https://scholar.google.com/scholar?cites=9096998696626875794&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 5
+ER  - 
+
+TY  - BOOK
+AU  - ČELOUD, T
+TI  - Vývoj Multiplatformní Mobilní Aplikace Podle Principu Clean Architecture
+PB  - theses.cz
+UR  - https://theses.cz/id/xz259e/
+PY  - 2025///
+AB  - … Development of a Cross-Platform Mobile Application Based on the Clean Architecture … vývojové prostředí je zvolen framework Flutter, jenž umožňuje vývoj aplikací pro Android i iOS …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - CITATION
+AU  - Castro, AM
+TI  - Clean architecture en ios: Viper
+JF  - enero de
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9953574174069485834&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - BOOK
+AU  - Lobo, FS
+AU  - Oliveira, FM
+AU  - Almeida, IS
+AU  - Conceição, LS
+AU  - ...
+TI  - Aplicação dos princípios de clean code e clean architecture no desenvolvimento de um sistema de dispensa de medicamentos na metrópole Salvador–BA
+PB  - ri.ucsal.br
+UR  - https://ri.ucsal.br/items/50d4566e-3bc0-4487-80c5-90955da5549d
+UR  - https://ri.ucsal.br/bitstreams/49a2e12e-be76-4e1e-b506-d168d879aab2/download
+PY  - 2025///
+AB  - … Este trabalho evidencia a relevância da adoção de boas práticas no desenvolvimento de software, como o Clean Code e a Clean Architecture. Essas abordagens asseguram a …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - CITATION
+AU  - Kudinov, O
+TI  - Clean architecture and mvvm on ios
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 2 cites: https://scholar.google.com/scholar?cites=13935169208318250094&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - PDF
+AU  - Badrudduja, MH
+AU  - Putra, RE
+TI  - Penerapan Clean Architecture pada Aplikasi Pemesanan Makanan menggunakan Metode Slope One Algorithm
+JF  - Journal of Informatics and …
+PB  - ejournal.unesa.ac.id
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/download/47370/39604
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/download/47370/39604
+PY  - 2022///
+AB  - … menerapkan prinsip Clean Architecture. Pengujian pada penelitian ini dilakukan dengan membandingkan antara aplikasi yang menerapkan prinsip Clean Architecture dengan aplikasi …
+M1  - Query date: 2026-09-23 22:36:54
+M1  - 5 cites: https://scholar.google.com/scholar?cites=757458642839097290&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 5
+ER  - 
+
+TY  - BOOK
+AU  - Pasanau, M
+TI  - Aplicació Android: clean architecture, RX Java i Dagger Injection
+PB  - upcommons.upc.edu
+UR  - https://upcommons.upc.edu/entities/publication/659f175c-2584-478a-85b1-6808421eada7
+UR  - https://upcommons.upc.edu/bitstreams/e03c5c1c-7fd2-4e52-ad96-5647d16aac5c/download
+PY  - 2018///
+AB  - … ilara de iom apliiar l’arquiteitura Clean Architecture i d’alguis dels mètodes … la Clean Architecture i dels ioiieptes ilaus d’aquest treball, apart dels iihereits a la pròpia Clean Architecture …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+
+TY  - BOOK
+AU  - Kurniawan, AH
+TI  - TA: PENGEMBANGAN FITUR CHAT REAL-TIME DAN STICKY MESSAGE PADA RCTI+ MENGGUNAKAN CLEAN ARCHITECTURE BERBASIS GOLANG
+PB  - repository.polinela.ac.id
+UR  - https://repository.polinela.ac.id/7468/
+PY  - 2025///
+AB  - … Sistem dikembangkan dengan mengacu pada prinsip Clean Architecture sehingga pemisahan tanggung jawab lebih jelas, proses pemeliharaan lebih efisien, dan pengembangan …
+M1  - Query date: 2026-09-23 22:36:54
+ER  - 
+

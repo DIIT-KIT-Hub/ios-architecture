@@ -1,0 +1,768 @@
+﻿TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - Develop well-structured applications using tested techniques and patterns. When you start to develop an application, you not only have to think about the idea of the finished application…
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - HTML
+AU  - Шкарин, ЕА
+TI  - Архитектура VIPER для разработки мобильных приложений
+JF  - StudNet
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/arhitektura-viper-dlya-razrabotki-mobilnyh-prilozheniy
+UR  - https://cyberleninka.ru/article/n/arhitektura-viper-dlya-razrabotki-mobilnyh-prilozheniy
+PY  - 2022///
+AB  - … This paper discusses the VIPER architecture for developing mobile applications for IOS. One of the main problems in writing mobile apps is choosing the right architecture. Apple offers …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 4 cites: https://scholar.google.com/scholar?cites=10613235008634461723&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 4
+ER  - 
+
+TY  - BOOK
+AU  - Babayev, N
+TI  - The Challenges and Possibilities of Using VIPER Architecture in SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/806261
+UR  - https://www.theseus.fi/bitstream/handle/10024/806261/Babayev_Natig.pdf?sequence=2
+PY  - 2023///
+AB  - … SwiftUI in established iOS applications that employ VIPER architecture and UIKit. While Nordea Bank is the beneficiary of this work, the study was applied on Nordea Mobile iOS. The …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1202005664741306575&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - JOUR
+AU  - Andika, MR
+AU  - Selviandro, N
+AU  - ...
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern
+JF  - 2023 3rd International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10428901/
+PY  - 2023///
+AB  - … We will develop iOS applications based on the VIPER architecture pattern in the implementation phase. This application will be an evaluation material at a later stage. The evaluation …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12049607874919303211&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - BOOK
+AU  - Bunoza, D
+TI  - Usporedba VIPER i MVVM arhitektura za razvoj iOS aplikacija
+PB  - repozitorij.etfos.hr
+UR  - https://repozitorij.etfos.hr/object/etfos:4139
+UR  - https://repozitorij.etfos.hr/object/etfos:4139/FILE0/download
+PY  - 2023///
+AB  - … sustav iOS, a to su MVC, MVP, MVVM i VIPER. … iOS, smjernice za ljudsko učenje, značajke programskog jezika Swift, mogućnosti integriranog razvojnog okruženja Xcode, testiranje iOS …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - BOOK
+AU  - ANDIKA, MR
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern-Dalam bentuk buku karya ilmiah
+PB  - repositori.telkomuniversity.ac.id
+UR  - https://repositori.telkomuniversity.ac.id/home/catalog/id/210151/slug/understanding-the-impact-of-modularity-in-ios-app-performance-using-viper-architecture-pattern-dalam-bentuk-buku-karya-ilmiah.html
+PY  - 2024///
+AB  - … ’ performance, especially when using the VIPER structure. In order to do this, … iOS applications organized using VIPER. This study uses an experimental framework to examine nine iOS …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … comparison of MVVM and VIPER with SwiftUI-based iOS applications will be conducted. The … how MVVM and VIPER differ when implemented with modern iOS technologies—SwiftUI 5, …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Vennaro, E
+TI  - VIPER
+JF  - iOS Development at Scale: App Architecture and …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9456-7_9
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9456-7_9
+PY  - 2023///
+AB  - … This chapter includes an in-depth look at the VIPER design pattern, tradeoffs, and … Stream example from MVC to VIPER to highlight the benefits of the VIPER pattern and potential usage …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16519112453719494934&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - BOOK
+AU  - Haravy, Y
+AU  - Surto, S
+TI  - Modern approaches to android app architecture: Mvvm, mvp, viper
+PB  - elib.psu.by
+UR  - https://elib.psu.by/handle/123456789/31705
+UR  - https://elib.psu.by/bitstream/123456789/31705/1/206-208.pdf
+PY  - 2018///
+AB  - … VIPER is a clean architecture mainly used in iOS app development but now we can implement the same in Android environment. It helps to keep the code clean and organized, …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10362391477191936888&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - JOUR
+AU  - García, RF
+TI  - Viper: View–interactor–presenter–entity–router
+JF  - iOS Architecture Patterns: MVC, MVP, MVVM, VIPER …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9_5
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9069-9_5
+PY  - 2023///
+AB  - … Once we have seen the characteristics of the VIPER … During the explanation of the implementation of the VIper … When we work with the VIPER architecture, it is not only important to …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 1 cites: https://scholar.google.com/scholar?cites=974325373649034937&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - CITATION
+AU  - Altman, A
+TI  - VIPER: iOS architecture pattern
+JF  - iOS Journal
+PY  - 2016///
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 2 cites: https://scholar.google.com/scholar?cites=5402210321048441461&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - CITATION
+AU  - Humeniuk, V
+TI  - Android Architecture Comparison: MVP vs. VIPER
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 8 cites: https://scholar.google.com/scholar?cites=8527808434245001347&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 8
+ER  - 
+
+TY  - PDF
+AU  - Smith, M
+AU  - Greenwood, S
+AU  - Nelson, N
+AU  - Thompson, N
+AU  - ...
+TI  - Virtual interaction with physics enhanced reality (VIPER): using augmented reality to visualize and interact with ionizing radiation data
+PB  - osti.gov
+UR  - https://www.osti.gov/servlets/purl/1879962
+UR  - https://www.osti.gov/servlets/purl/1879962
+PY  - 2022///
+AB  - … This paper provides a high-level description of the activities of the overall VIPER project, app … Other HL2-generated spatial maps [2] and iPhone LiDAR geometries were also generated …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 7 cites: https://scholar.google.com/scholar?cites=354941902215459014&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 7
+ER  - 
+
+TY  - PDF
+AU  - Xu, Y
+AU  - Deng, J
+AU  - Zhang, T
+AU  - Nguyen, T Van
+AU  - ...
+TI  - A 'little dragon'from Kunming City: a new green pit viper from Yunnan Province, China (Squamata, Viperidae, Trimeresurus)
+JF  - Zoosystematics and …
+PB  - zse.pensoft.net
+UR  - https://zse.pensoft.net/article/175879/download/pdf/
+UR  - https://zse.pensoft.net/article/175879/download/pdf/
+PY  - 2025///
+AB  - … on the dorsal surface of the snout enlarged, flat, smooth, and irregular in shape, gradually decreasing in size posteriorly; cephalic scales small, smooth, and irregularly shaped; IOS 9; …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 4 cites: https://scholar.google.com/scholar?cites=11940269108913276991&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 4
+ER  - 
+
+TY  - JOUR
+AU  - Vechio, F Dal
+AU  - Prates, I
+AU  - Grazziotin, FG
+AU  - ...
+TI  - Phylogeography and historical demography of the arboreal pit viper Bothrops bilineatus (Serpentes, Crotalinae) reveal multiple connections between Amazonian and …
+JF  - Journal of …
+PB  - Wiley Online Library
+DO  - 10.1111/jbi.13421
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1111/jbi.13421
+UR  - https://www.academia.edu/download/111394121/Dal-Vechio_et_al_2018.pdf
+PY  - 2018///
+AB  - Aim To examine historical connections between rain forest habitats in the Neotropics based on the evolutionary history of the arboreal pit viper Bothrops bilineatus. Location Amazonia …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 74 cites: https://scholar.google.com/scholar?cites=10062028615469807793&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 74
+ER  - 
+
+TY  - JOUR
+AU  - Aissi, MS
+AU  - Grislain, C
+AU  - Chetouani, M
+AU  - Sigaud, O
+AU  - ...
+TI  - Viper: Visual perception and explainable reasoning for sequential decision-making
+JF  - arXiv preprint arXiv …
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2503.15108
+UR  - https://arxiv.org/pdf/2503.15108?
+PY  - 2025///
+AB  - … of VIPER in Figure 3. Specifically, we report the performance of VIPER trained only with BC (VIPER … A.2), only PPO (VIPER PPO), and the sequential approach where PPO follows BC (…
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 10 cites: https://scholar.google.com/scholar?cites=3650933299111555537&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 10
+ER  - 
+
+TY  - JOUR
+AU  - Pretschner, A
+TI  - Viper: A Verification Infrastructure for Permission-Based Reasoning1
+JF  - Dependable Software Systems Engineering
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=ovA-DwAAQBAJ&oi=fnd&pg=PA104&dq=viper+ios%7Ciphone&ots=C47257cQhg&sig=rysmwbbbZU9Vemqg1RXiYpArkOc
+PY  - 2017///
+AB  - … In this section we illustrate the core features of the Viper language using two examples. We use an implementation of a sorted list to illustrate how Viper supports the specification and …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - PDF
+AU  - Do, MS
+AU  - Choi, S
+AU  - Jang, HJ
+AU  - Suh, JH
+TI  - Predicting the distribution of three Korean pit viper species (Gloydius brevicaudus, G. ussuriensis, and G. intermedius) under climate change.
+JF  - Russian Journal of …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Min-Seock-Do/publication/364685016_Predicting_the_Distribution_of_Three_Korean_Pit_Viper_Species_Gloydius_brevicaudus_G_ussuriensis_and_G_intermedius_under_Climate_Change/links/63572f9b6e0d367d91c409bf/Predicting-the-Distribution-of-Three-Korean-Pit-Viper-Species-Gloydius-brevicaudus-G-ussuriensis-and-G-intermedius-under-Climate-Change.pdf
+UR  - https://www.researchgate.net/profile/Min-Seock-Do/publication/364685016_Predicting_the_Distribution_of_Three_Korean_Pit_Viper_Species_Gloydius_brevicaudus_G_ussuriensis_and_G_intermedius_under_Climate_Change/links/63572f9b6e0d367d91c409bf/Predicting-the-Distribution-of-Three-Korean-Pit-Viper-Species-Gloydius-brevicaudus-G-ussuriensis-and-G-intermedius-under-Climate-Change.pdf
+PY  - 2022///
+AB  - … Under both RCP 4.5 and 8.5 scenarios, the habitat of Central Asian pit viper was predicted to be destroyed nationwide, except for a portion of the northern region (GW) (Fig. 4C, F). …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 14 cites: https://scholar.google.com/scholar?cites=6360698873770189060&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 14
+ER  - 
+
+TY  - JOUR
+AU  - Owen, DAS
+AU  - Carter, ET
+AU  - Holding, ML
+AU  - Islam, K
+AU  - ...
+TI  - Roads are associated with a blunted stress response in a North American pit viper
+JF  - General and …
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0016648014001506
+PY  - 2014///
+AB  - Whereas numerous studies have examined roads as anthropogenic stressors in birds and mammals, comparatively few studies have been undertaken on reptiles. We investigated …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 46 cites: https://scholar.google.com/scholar?cites=18321064090417722792&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 46
+ER  - 
+
+TY  - JOUR
+AU  - Zhang, J
+AU  - Ji, Y
+AU  - Mu, S
+AU  - Tan, C
+TI  - Viper: A fast snapshot isolation checker
+JF  - … of the Eighteenth European Conference on …
+PB  - dl.acm.org
+DO  - 10.1145/3552326.3567492
+UR  - https://dl.acm.org/doi/abs/10.1145/3552326.3567492
+UR  - https://dl.acm.org/doi/pdf/10.1145/3552326.3567492
+PY  - 2023///
+AB  - … viper, an SI checker that is sound, complete, fast, and supports major SI variants. By sound and complete, we mean that viper … viper to study how different components contribute to viper’…
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 31 cites: https://scholar.google.com/scholar?cites=1830459621150548900&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 31
+ER  - 
+
+TY  - CITATION
+AU  - Gilbert, J
+AU  - Stoll, C
+TI  - Architecting ios apps with viper
+PB  - objc
+PY  - 2014///
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 10 cites: https://scholar.google.com/scholar?cites=7502818853542925464&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 10
+ER  - 
+
+TY  - CITATION
+AU  - Mobile, M
+TI  - Meet VIPER: Mutual Mobile's Application of Clean Architecture for iOS Apps
+JF  - Last modified September
+PY  - 2014///
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 4 cites: https://scholar.google.com/scholar?cites=16398427595908749791&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 4
+ER  - 
+
+TY  - HTML
+AU  - Brouw, B Op den
+AU  - Coimbra, FCP
+AU  - Bourke, LA
+AU  - Huynh, TM
+AU  - ...
+TI  - Extensive Variation in the Activities of Pseudocerastes and Eristicophis Viper Venoms Suggests Divergent Envenoming Strategies Are Used for Prey …
+JF  - Toxins
+PB  - mdpi.com
+UR  - https://www.mdpi.com/2072-6651/13/2/112
+UR  - https://www.mdpi.com/2072-6651/13/2/112
+PY  - 2021///
+AB  - … To address this knowledge gap, this study analysed the venoms of the desert viper clade via proteomics and functional venomics. Venom protein profiles were visualised via one-…
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 22 cites: https://scholar.google.com/scholar?cites=4097558381334766681&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 22
+ER  - 
+
+TY  - PDF
+AU  - HOSER, RT
+TI  - Europe gets new viper species: Vipera ammodytes (Linnaeus, 1758) sensu lato formally divided!
+JF  - Australasian Journal of Herpetology
+PB  - smuggled.com
+UR  - http://www.smuggled.com/AJH-61-Pages-19-64.pdf
+UR  - http://www.smuggled.com/AJH-61-Pages-19-64.pdf
+AB  - The well-known European Long-nosed Viper, Vipera ammodytes (Linnaeus, 1758) sensu lato, has been subject of taxonomic splitting many times over the past 250 years. However …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - JOUR
+AU  - Núñez, F
+AU  - Gonzales, L
+AU  - Andino, S
+AU  - ...
+TI  - Automatic disassembly system using Computer Vision for the Omron Viper 650 robotic arm
+JF  - … on Control and …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11093519/
+PY  - 2025///
+AB  - This paper presents an automated disassembly system using the Omron Viper 650 robotic arm, focused on separating two plates joined by four screws. In the first phase, different end …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 2 cites: https://scholar.google.com/scholar?cites=5941663939724533784&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - Онишору, К
+TI  - Технологии языка SWIFT и архитектуры VIPER в мобильной разработке
+JF  - Sesiune națională cu participare internațională de …
+PB  - ibn.idsi.md
+UR  - https://ibn.idsi.md/vizualizare_articol/102922
+PY  - 2020///
+AB  - … Основой же или “скелетом” послужила архитектура VIPER. VIPER является реализацией чистой архитектуры (Clean Architecture) для IOS приложений. Чистая архитектура …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS architecture patterns: demystifying MVC, MVP, MVVM and VIPER
+PB  - Nov
+PY  - 2015///
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15161367824383133843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - HTML
+AU  - Brouw, B op den
+AU  - Ghezellou, P
+AU  - Casewell, NR
+AU  - ...
+TI  - Pharmacological Characterisation of Pseudocerastes and Eristicophis Viper Venoms Reveal Anticancer (Melanoma) Properties and a Potentially Novel …
+JF  - International Journal of …
+PB  - mdpi.com
+UR  - https://www.mdpi.com/1422-0067/22/13/6896
+UR  - https://www.mdpi.com/1422-0067/22/13/6896
+PY  - 2021///
+AB  - … The activities of these venoms largely adhere to the coagulopathic pathophysiology that is characteristic of viper envenoming. In contrast, presynaptic neurotoxic phospholipase A 2 …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 18 cites: https://scholar.google.com/scholar?cites=3252260383785611012&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 18
+ER  - 
+
+TY  - PDF
+AU  - Johnston, RE
+AU  - Mulley, J
+TI  - The biter bit? Investigation of possible in-ovo self-envenomation in an Egyptian saw-scaled viper using region of interest X-ray microtomography
+PB  - peerj.com
+UR  - https://peerj.com/preprints/624.pdf
+UR  - https://peerj.com/preprints/624.pdf
+PY  - 2014///
+AB  - … A clutch of thirteen eggs were laid by a wild-caught Egyptian saw-scaled viper (E. … The specimen was 93 imaged using a Leica MSV269 stereoscope and an Apple iPhone 5. To …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9745557390097599314&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 1
+ER  - 
+
+TY  - CITATION
+AU  - Castro, AM
+TI  - Clean architecture en ios: Viper
+JF  - enero de
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9953574174069485834&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Eckermann, F
+TI  - Architecting iOS apps with VIPER
+PB  - Packt Publishing
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1873749501041330089&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Гуменюк, ВВ
+TI  - Метод порівняння архітектур для Андроід на прикладі Viper та Mvp
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - PDF
+AU  - Grassby-Lewis, RJ
+AU  - Brakels, P
+AU  - Maury, N
+AU  - ...
+TI  - A new endemic karst-associated species of lance-headed pit viper (Squamata, Viperidae, Protobothrops) from Laos
+JF  - …
+PB  - herpetozoa.pensoft.net
+UR  - https://herpetozoa.pensoft.net/article/146004/download/pdf/
+UR  - https://herpetozoa.pensoft.net/article/146004/download/pdf/
+PY  - 2025///
+AB  - … We describe a new species of lance-headed pit viper from north-western Laos, based on morphological and molecular (6092 bp from cyt b, ND4, COI, 12S rRNA and 16S rRNA …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 8 cites: https://scholar.google.com/scholar?cites=8491667483278428222&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 8
+ER  - 
+
+TY  - PDF
+AU  - Hasan, N
+AU  - Dutta, J
+AU  - Noman, M
+AU  - Rahman, MM
+AU  - ...
+TI  - Expanding habitat suitability under changing climate and land use may drive rapid expansion of Russell's viper (Daboia russelii) in Bangladesh
+JF  - …
+PB  - herpetozoa.pensoft.net
+UR  - https://herpetozoa.pensoft.net/article/143411/download/pdf/
+UR  - https://herpetozoa.pensoft.net/article/143411/download/pdf/
+PY  - 2025///
+AB  - … In Bangladesh, the known range of Russell’s viper (Daboia … dry-season precipitation, facilitating the viper’s spread into … of Russell’s viper envenoming, increasingly frequent human …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 3 cites: https://scholar.google.com/scholar?cites=4762810786236916697&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 3
+ER  - 
+
+TY  - JOUR
+AU  - Shi, J
+AU  - Wang, G
+AU  - Chen, X
+AU  - Fang, Y
+AU  - Ding, L
+AU  - Huang, S
+AU  - ...
+TI  - A new moth-preying alpine pit viper species from Qinghai-Tibetan Plateau (Viperidae, Crotalinae)
+JF  - Amphibia-Reptilia
+PB  - brill.com
+UR  - https://brill.com/view/journals/amre/38/4/article-p517_10.xml
+UR  - https://www.researchgate.net/profile/Jingsong-Shi/publication/339375967_A_new_moth-preying_alpine_pit_viper_species_from_Qinghai-Tibetan_Plateau_Viperidae_Crotalinae/links/5fe9aeec92851c13feca1072/A-new-moth-preying-alpine-pit-viper-species-from-Qinghai-Tibetan-Plateau-Viperidae-Crotalinae.pdf
+PY  - 2017///
+AB  - … Here, we describe a new pit viper species, Gloydius … In this study, a new species of Asian pit viper (Gloydius) has … /m 2 , based on the pit viper population survey conducted by the Snake …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 29 cites: https://scholar.google.com/scholar?cites=7307015756741302853&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 29
+ER  - 
+
+TY  - JOUR
+AU  - Sudarsky, NM
+TI  - Peter Piper and the Celtic Viper
+JF  - New England Review
+PB  - muse.jhu.edu
+UR  - https://muse.jhu.edu/pub/154/article/922926/summary
+PY  - 2024///
+AB  - … Before the Steadicam, before video, before the iPhone, the seeds of kinetic modernity had been planted. That summer, my father shot 320 reels of film (each 16mm magazine could …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - HTML
+AU  - Wenner, B
+AU  - Móré, A
+AU  - Radovics, D
+AU  - Bancsik, B
+AU  - Budai, M
+AU  - ...
+TI  - The Smooth Snake is not a threat to the Meadow Viper: predator–prey interactions of a reptile specialist snake
+JF  - Community …
+PB  - Springer
+DO  - 10.1007/s42974-025-00234-9
+UR  - https://link.springer.com/article/10.1007/s42974-025-00234-9
+UR  - https://link.springer.com/article/10.1007/s42974-025-00234-9
+PY  - 2025///
+AB  - … there is limited data on the diet of this species from Central Europe, and it was considered a potential predator of the endangered Vipera ursinii rakosiensis (Hungarian Meadow Viper), …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 4 cites: https://scholar.google.com/scholar?cites=17625101006803897140&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 4
+ER  - 
+
+TY  - PDF
+AU  - Min, S Do
+AU  - Jeon, HS
+AU  - Lee, YS
+AU  - Nam, HK
+AU  - ...
+TI  - Two new subspecies of the red-tongued pit viper Gloydius ussuriensis (Emelianov, 1929)(Viperidae, Crotalinae) in the Republic of Korea: Genetics, morphology …
+JF  - Journal of Species …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Min-Seock-Do/publication/401649698_Two_new_subspecies_of_the_red-tongued_pit_viper_Gloydius_ussuriensis_Emelianov_1929_Viperidae_Crotalinae_in_the_Republic_of_Korea_Genetics_morphology_and_ecology/links/69abf188a91b826e4347d89e/Two-new-subspecies-of-the-red-tongued-pit-viper-Gloydius-ussuriensis-Emelianov-1929-Viperidae-Crotalinae-in-the-Republic-of-Korea-Genetics-morphology-and-ecology.pdf
+UR  - https://www.researchgate.net/profile/Min-Seock-Do/publication/401649698_Two_new_subspecies_of_the_red-tongued_pit_viper_Gloydius_ussuriensis_Emelianov_1929_Viperidae_Crotalinae_in_the_Republic_of_Korea_Genetics_morphology_and_ecology/links/69abf188a91b826e4347d89e/Two-new-subspecies-of-the-red-tongued-pit-viper-Gloydius-ussuriensis-Emelianov-1929-Viperidae-Crotalinae-in-the-Republic-of-Korea-Genetics-morphology-and-ecology.pdf
+PY  - 2026///
+AB  - … the temporomandibular joint), interorbital space (IOS; widest distance between two points on … to 1 mm increments, whereas HL, HW, and IOS were measured using a caliper (CD-15APX; …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - PDF
+AU  - Bringsøe, H
+TI  - Vipera ammodytes,“Sand Viper”–origin of its name, and a sand habitat in Greece
+JF  - Podarcis
+PB  - academia.edu
+UR  - https://www.academia.edu/download/87289656/Podarcis_20102_202019_20Vipera_20ammodytes__20_E2_80_9CSand_20Viper_E2_80_9D_20_E2_80_93_20origin_20of_20its_20name__20and_20a_20sand_20.pdf
+UR  - https://www.academia.edu/download/87289656/Podarcis_20102_202019_20Vipera_20ammodytes__20_E2_80_9CSand_20Viper_E2_80_9D_20_E2_80_93_20origin_20of_20its_20name__20and_20a_20sand_20.pdf
+PY  - 2020///
+AB  - … (2005) provided several examples of occurrences on sandy substrate: a forest with sandy substrate near Istanbul, as well as sandy beaches on Mykonos and Ios (the Cyclades). Our …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12869179627671691567&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Ibrahem, WH
+AU  - Al–Nakeeb, GD
+TI  - Morphological and Histological study of pancreas in (Saw-scaled viper) Echis carinatus scochureki (Stemmler, 1969)
+JF  - Baghdad Science Journal
+PB  - bsj.uobaghdad.edu.iq
+UR  - https://bsj.uobaghdad.edu.iq/home/vol12/iss2/3/
+UR  - https://bsj.uobaghdad.edu.iq/cgi/viewcontent.cgi?article=2180&context=home
+PY  - 2015///
+AB  - … structure of pancreas gland in the Saw-scaled viper snake, (Echis carinatus scochureki). The … Saw-scaled viper snake had giant islets prevalent in the region adjacent to the spleen. …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - JOUR
+AU  - Wang, K
+AU  - Ren, J
+AU  - Dong, W
+AU  - Jiang, K
+AU  - Shi, J
+AU  - Siler, CD
+AU  - ...
+TI  - A new species of plateau pit viper (Reptilia: Serpentes: Gloydius) from the upper Lancang (= Mekong) Valley in the Hengduan Mountain Region, Tibet, China
+JF  - Journal of …
+PB  - BioOne
+DO  - 10.1670/18-126.short
+UR  - https://bioone.org/journals/journal-of-herpetology/volume-53/issue-3/18-126/A-New-Species-of-Plateau-Pit-Viper-Reptilia--Serpentes/10.1670/18-126.short
+UR  - https://www.researchgate.net/profile/Kai-Wang-39/publication/335806917_A_New_Species_of_Plateau_Pit_Viper_Reptilia_Serpentes_Gloydius_from_the_Upper_Lancang_Mekong_Valley_in_the_Hengduan_Mountain_Region_Tibet_China/links/5d7e9ee3299bf1d5a9808041/A-New-Species-of-Plateau-Pit-Viper-Reptilia-Serpentes-Gloydius-from-the-Upper-Lancang-Mekong-Valley-in-the-Hengduan-Mountain-Region-Tibet-China.pdf
+PY  - 2019///
+AB  - … On the basis of genetic and morphological data, we find the Tibetan population of Plateau Viper distinct from topotypic G. strauchi and all other known congeners, and herein describe it …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 21 cites: https://scholar.google.com/scholar?cites=2978903204060054988&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 21
+ER  - 
+
+TY  - JOUR
+AU  - Dow, CR
+AU  - Nguyen, DB
+AU  - Cheng, S
+AU  - Lai, PY
+AU  - Hwang, SF
+TI  - VIPER: an adaptive guidance and notification service system in internet of vehicles
+JF  - World Wide Web
+PB  - Springer
+DO  - 10.1007/s11280-018-0617-7
+UR  - https://link.springer.com/article/10.1007/s11280-018-0617-7
+PY  - 2019///
+AB  - … Considering these issues, we propose VIPER, a real time adaptive guide and notification … subscribers, AMQP consumers and HTTP clients are deployed using the services for iOS. …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 7 cites: https://scholar.google.com/scholar?cites=8655452269326489843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 7
+ER  - 
+
+TY  - CITATION
+AU  - Хоркуш, АВ
+AU  - Вдовых, ПЕ
+AU  - Осипова, ДА
+AU  - Иванова, ЯС
+AU  - ...
+TI  - ИСПОЛЬЗОВАНИЕ АРХИТЕКТУРЫ VIPER В РАЗРАБОТКЕ МОБИЛЬНОГО ПРИЛОЖЕНИЯ РАСПИСАНИЕ СФУ
+JF  - Наука и образование …
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - BOOK
+AU  - Полуэктов, НА
+TI  - Использование архитектурного шаблона VIPER для мобильных приложений
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/48033
+PY  - 2022///
+AB  - … модулей VIPER и их взаимосвязь между друг другом. Архитектурный шаблон VIPER разрабатывался и получил свое распространение исключительно для iOS приложений [1]. …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - BOOK
+AU  - Roussos, SA
+TI  - Integrative evolutionary biogeography of the nose-horned viper (Viperidae: Squamata) in the Cycladic archipelago and continental Greece
+PB  - ttu-ir.tdl.org
+UR  - https://ttu-ir.tdl.org/items/f2c707e3-0ba3-44ea-87b3-b898c114ba33
+UR  - https://ttu-ir.tdl.org/bitstreams/cea0c35f-2422-460b-bbc4-89933ddee9c7/download
+PY  - 2021///
+AB  - The main goal of this dissertation was to use an integrative approach to understanding the morphology, evolutionary relationships and phylogeography of the nose-horned viper (Vipera …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 4 cites: https://scholar.google.com/scholar?cites=1308678018144612211&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 4
+ER  - 
+
+TY  - JOUR
+AU  - Dong, X
+AU  - Liu, X
+AU  - Ni, L
+AU  - Zhang, J
+AU  - ...
+TI  - Viper: Priority-based High-Visibility Per-flow Packet Sampling for SDNs
+JF  - IEEE Transactions on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11293381/
+PY  - 2025///
+AB  - … by the controller significantly impacts Viper’s performance. … sampling framework for SDNs, called Viper. It avoids the control … We model Viper’s collaboratively control process as a …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - CITATION
+AU  - Peter, M
+AU  - Malte, S
+TI  - Viper: A Verification Infrastructure for Permission-Based Reasoning
+JF  - NATO Science for Peace and Security Series-D …
+PB  - cir.nii.ac.jp
+UR  - https://cir.nii.ac.jp/crid/1360306914400878080
+PY  - 2017///
+AB  - < jats: p> The automation of verification techniques based on first-order logic specifications has benefitted greatly from verification infrastructures such as Boogie and Why. These offer …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 1 cites: https://scholar.google.com/scholar?cites=959603902547779014&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - PDF
+AU  - Tyler, S
+AU  - Legnani, A
+AU  - Zhao, J
+AU  - Shen, Z
+AU  - ...
+TI  - SMT-based Deductive Verification of Device Drivers using the Pancake-to-Viper Transpiler
+JF  - Proceedings of the …
+PB  - trustworthy.systems
+UR  - https://www.trustworthy.systems/publications/papers/Tyler_LZSWTH_26.pdf
+UR  - https://www.trustworthy.systems/publications/papers/Tyler_LZSWTH_26.pdf
+PY  - 2026///
+AB  - … We develop a Viper frontend for Pancake that largely retains Viper’s annotation syntax, and encode the driver’s device and OS interfaces in Viper, resulting in an efficient and modular …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - PDF
+AU  - Hu, W
+AU  - Zhou, Z
+AU  - Serban, R
+AU  - Negrut, D
+TI  - Using an SPH-based continuum representation of granular terrain to simulate VIPER rover mobility
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Wei-Hu-24/publication/355033546_Using_an_SPH-based_continuum_representation_of_granular_terrain_to_simulate_VIPER_rover_mobility/links/61592cc1e7bb415a5d50cfb5/Using-an-SPH-based-continuum-representation-of-granular-terrain-to-simulate-VIPER-rover-mobility.pdf
+UR  - https://www.researchgate.net/profile/Wei-Hu-24/publication/355033546_Using_an_SPH-based_continuum_representation_of_granular_terrain_to_simulate_VIPER_rover_mobility/links/61592cc1e7bb415a5d50cfb5/Using-an-SPH-based-continuum-representation-of-granular-terrain-to-simulate-VIPER-rover-mobility.pdf
+AB  - … We propose a framework to investigate the mobility of a replica of NASA’s VIPER rover while operating on deformable granular material terrains under different scenarios. In order to …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - JOUR
+AU  - AMIR, AM EL
+AU  - MOHAMED, SG
+AU  - SHAKER, LS
+AU  - ...
+TI  - Studies on venoms of the Egyptian cobra (Naja haja), the horned viper (Cerastes cerastes), and the honey bee (Apis mellifera): comparison safety study for 1/10 LD50
+JF  - Journal of the …
+PB  - journals.ekb.eg
+UR  - https://journals.ekb.eg/article_165968.html
+UR  - https://journals.ekb.eg/article_165968_3e3561f8dd63352b372197eb8524ede9.pdf
+PY  - 2021///
+AB  - … The horned viper C. cerastes gasperetti (Gasperetti’s sand viper) of family Viperidae is the most common snake in Saudi Arabia (AlSadoon et al, 2013a), as well as Egypt, Jordan and …
+M1  - Query date: 2026-09-23 22:33:04
+M1  - 6 cites: https://scholar.google.com/scholar?cites=8448527190735637403&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 6
+ER  - 
+
+TY  - PDF
+AU  - Coimbra, FCP
+AU  - Bourke, LA
+AU  - Huynh, TM
+AU  - Vlecken, DHW
+AU  - ...
+TI  - Extensive Variation in the Activities of Pseudocerastes and Eristicophis Viper Venoms Suggests Divergent Envenoming Strategies Are Used for Prey Capture …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/115881338/pdf.pdf
+UR  - https://www.academia.edu/download/115881338/pdf.pdf
+PY  - 2021///
+AB  - … To address this knowledge gap, this study analysed the venoms of the desert viper clade via proteomics and functional venomics. Venom protein profiles were visualised via one-…
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - JOUR
+AU  - Giusto, C
+AU  - Guizouarn, LG
+AU  - Henrio, L
+AU  - ...
+TI  - Formalising Futures and Promises in Viper
+JF  - JFLA 2022-33èmes …
+PB  - inria.hal.science
+UR  - https://inria.hal.science/hal-03626843/
+UR  - https://inria.hal.science/hal-03626843/document
+PY  - 2022///
+AB  - … We begin with a short introduction to Viper in Section 2. In Section 3 we present the promise/future mechanism, the challenges of its verification, and its implementation in Viper. In …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - CITATION
+AU  - Елсуфьев, КА
+AU  - Муравьёва, ЯИ
+AU  - ...
+TI  - ПРИМЕНЕНИЕ АРХИТЕКТУРЫ VIPER ДЛЯ РАЗРАБОТКИ МОБИЛЬНОГО ПРИЛОЖЕНИЯ AQUA НА БАЗЕ ОС ANDROID
+JF  - Colloquium …
+PB  - … міськрайонний центр зайнятості …
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - PDF
+AU  - Fong, T
+TI  - Space Robotics: The Next Generation–Astrobee, CADRE, and VIPER
+JF  - Bay Area Robotics Symposium 2024
+PB  - ntrs.nasa.gov
+UR  - https://ntrs.nasa.gov/api/citations/20240012890/downloads/BARS-2024.pdf
+UR  - https://ntrs.nasa.gov/api/citations/20240012890/downloads/BARS-2024.pdf
+PY  - 2024///
+AB  - … VIPER will characterize the distribution and physical state of lunar polar water and volatiles VIPER will help NASA evaluate the potential of In-Situ Resource Utilization (ISRU) from the …
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+
+TY  - CITATION
+AU  - Calderon, W
+TI  - Viper SMARTkey te permite bloquear y desbloquear su auto con un smartphone
+PB  - Tecnologia Geek| Noticias …
+PY  - 2014///
+M1  - Query date: 2026-09-23 22:33:04
+ER  - 
+

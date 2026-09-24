@@ -1,0 +1,1374 @@
+﻿TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - Develop well-structured applications using tested techniques and patterns. When you start to develop an application, you not only have to think about the idea of the finished application…
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - BOOK
+AU  - Phan, DH
+TI  - Benchmarking Common Architectural Patterns in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/167317
+UR  - https://www.theseus.fi/bitstream/handle/10024/167317/Hai_Phan.pdf?sequence=2
+PY  - 2019///
+AB  - … patterns used in iOS development, namely MVC, MVP, MVVM, and VIPER. As a result, an iOS application called … Thus, there is no ideal architecture for all iOS applications. For example, …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 4 cites: https://scholar.google.com/scholar?cites=14854737299071308674&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 4
+ER  - 
+
+TY  - JOUR
+AU  - Zahr, A
+AU  - Haidar, A
+AU  - Sliman, L
+TI  - Towards Actionable Guidelines for Advanced iOS Software Architecture
+JF  - Computer Science On-line Conference
+PB  - Springer
+DO  - 10.1007/978-3-032-04725-0_20
+UR  - https://link.springer.com/chapter/10.1007/978-3-032-04725-0_20
+PY  - 2025///
+AB  - … The findings of this research provide valuable insights into the strengths and weaknesses of prominent iOS architectural patterns—MVC, MVP, MVVM, and VIPER—in addressing …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - HTML
+AU  - Еселидзе, ДВ
+AU  - Кутаев, КС
+AU  - ...
+TI  - АНАЛИЗ ТЕСТИРУЕМОСТИ АРХИТЕКТУРНЫХ ПАТТЕРНОВ В iOS
+JF  - Надежность и качество …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/analiz-testiruemosti-arhitekturnyh-patternov-v-ios
+UR  - https://cyberleninka.ru/article/n/analiz-testiruemosti-arhitekturnyh-patternov-v-ios
+PY  - 2026///
+AB  - … В сфере мобильной разработки под iOS наибольшее распространение получили архитектурные паттерны MVC, MVP, MVVM и VIPER, каждый из которых предлагает …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - MVVM, V
+TI  - iOS Architecture Patterns
+JF  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9069-9.pdf
+AB  - As we will see throughout the book, various architectural patterns have been developed to apply in the development of our applications–some well known (and older), such as MVC or …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Bunoza, D
+TI  - Usporedba VIPER i MVVM arhitektura za razvoj iOS aplikacija
+PB  - repozitorij.etfos.hr
+UR  - https://repozitorij.etfos.hr/object/etfos:4139
+UR  - https://repozitorij.etfos.hr/object/etfos:4139/FILE0/download
+PY  - 2023///
+AB  - … sustav iOS, a to su MVC, MVP, MVVM i VIPER. … iOS, smjernice za ljudsko učenje, značajke programskog jezika Swift, mogućnosti integriranog razvojnog okruženja Xcode, testiranje iOS …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Vennaro, E
+TI  - iOS Development at Scale
+JF  - Springer
+DO  - 10.1007/978-1-4842-9456-7
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9456-7.pdf
+AB  - This book will teach you how to build mobile applications that will scale for millions of users while growing your career to the staff and principal levels. The book is structured to mirror an …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Blum, R
+AU  - Schilter, P
+TI  - Traildevils iOS App
+PB  - eprints.ost.ch
+UR  - https://eprints.ost.ch/id/eprint/553/
+UR  - https://eprints.ost.ch/id/eprint/553/1/HS16-SA-EP-Blum-Schilter-TraildevilsiOSApp.pdf
+PY  - 2016///
+AB  - … nichtfunktionalen Anforderungen mit Mapbox auf iOS Geräten umsetzen lassen. Für … VIPER verfolgt einen anderen Ansatz als bekanntere Architekturen wie MVC oder MVVM. In VIPER …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Andika, MR
+AU  - Selviandro, N
+AU  - ...
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern
+JF  - 2023 3rd International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10428901/
+PY  - 2023///
+AB  - … We will develop iOS applications based on the VIPER architecture pattern in the implementation phase. This application will be an evaluation material at a later stage. The evaluation …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12049607874919303211&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Furjan, K
+AU  - Kisić, F
+AU  - Bele, D
+TI  - Declarative iOS programming and architectural patterns
+JF  - Security Issues in Communication …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=TltQEQAAQBAJ&oi=fnd&pg=PA18&dq=ios+viper&ots=WFN_EUEcea&sig=QeUz48UW0vPAuA4o7AvPnAQc26c
+PY  - 2025///
+AB  - … VIPER is a structure within Clean Architecture tailored for iOS applications. Clean Architecture divides an application's logical framework into distinct layers of responsibility, aiding in …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1369001407168491116&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - BOOK
+AU  - ANDIKA, MR
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern-Dalam bentuk buku karya ilmiah
+PB  - repositori.telkomuniversity.ac.id
+UR  - https://repositori.telkomuniversity.ac.id/home/catalog/id/210151/slug/understanding-the-impact-of-modularity-in-ios-app-performance-using-viper-architecture-pattern-dalam-bentuk-buku-karya-ilmiah.html
+PY  - 2024///
+AB  - … ’ performance, especially when using the VIPER structure. In order to do this, … iOS applications organized using VIPER. This study uses an experimental framework to examine nine iOS …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Kumar, S
+AU  - Desai, J
+TI  - Development And Simulation Of Ios App To Detect Cotton Plant Diseases Using Machine Learning Techniques
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4007166
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4007166
+PY  - 2022///
+AB  - … In this paper, an iOS app is developed which will detect the … The app is based on the iOS ML model which is used for … The app is based on the VIPER iOS app architecture which …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16832516899722301573&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … comparison of MVVM and VIPER with SwiftUI-based iOS applications will be conducted. The … how MVVM and VIPER differ when implemented with modern iOS technologies—SwiftUI 5, …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - PDF
+AU  - Amores, PC
+TI  - A real case of a cognitive multiplayer game: design and development of the iOS client in Swift and its cloud architecture
+PB  - oa.upm.es
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+PY  - 2015///
+AB  - … Finally, the mobile iOS client developed using the latest and more relevant technologies is … apps while minimizing bugs) and the VIPER architecture (a SOLID architecture that enforces …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Sholichin, F
+AU  - Isa, M
+AU  - Halim, SA
+AU  - Harun, MFB
+TI  - Review of ios architectural pattern for testability, modifiability, and performance quality
+JF  - Journal of Theoretical and Applied …
+PY  - 2019///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 25 cites: https://scholar.google.com/scholar?cites=18377645001088869643&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 25
+ER  - 
+
+TY  - BOOK
+AU  - Vo, TD
+TI  - Application of protocol-oriented programming in iOS development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/171220
+UR  - https://www.theseus.fi/bitstream/handle/10024/171220/Thesis.pdf
+PY  - 2019///
+AB  - … in Swift and developed for iOS devices. Created solely for the … iOS application with better performance and software design. … For iOS and OSX development, MVC is the most well-known …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=152510681873300784&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - JOUR
+AU  - Tolstoluzka, OG
+AU  - Afanasieva, KO
+TI  - Model for taking into account the research activity of education system employees based on the IOS operating system
+JF  - Bulletin of VN Karazin …
+PB  - periodicals.karazin.ua
+UR  - https://periodicals.karazin.ua/mia/article/view/16492
+UR  - https://periodicals.karazin.ua/mia/article/download/16492/15297
+PY  - 2020///
+AB  - … The architectural templates have been analyzed and the Viper has been selected as the … The purpose of the work is to create a mobile application for the operating system "iOS", version …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Magalhães, ÍL
+TI  - Um estudo comparativo entre padrões arquiteturais para o desenvolvimento de aplicativos para a plataforma iOS
+JF  - Universidade Federal da Paraíba
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17153232554652434851&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - BOOK
+AU  - Nguyen, KN Luong
+TI  - Application of Protocol-Oriented MVVM Architecture in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/129037
+UR  - https://www.theseus.fi/bitstream/handle/10024/129037/Nguyen_Luong.pdf?sequence=1
+PY  - 2017///
+AB  - … The main product of this thesis is a fully functional iOS application written in Swift. Also, for learning purposes, parts of the application’s code base are extracted, modified and can be …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10714691182654003652&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - CITATION
+AU  - Souza, AAB
+TI  - Análise comparativa de arquiteturas mobile para aplicações iOS: MVC, MVVM e VIP-C
+PY  - 2026///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - Model View Controller in iOS mobile applications development.
+JF  - SEKE
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Dragos-Dobrean/publication/335151640_Model_View_Controller_in_iOS_mobile_applications_development/links/5d81f6c4458515cbd195a443/Model-View-Controller-in-iOS-mobile-applications-development.pdf
+UR  - https://www.researchgate.net/profile/Dragos-Dobrean/publication/335151640_Model_View_Controller_in_iOS_mobile_applications_development/links/5d81f6c4458515cbd195a443/Model-View-Controller-in-iOS-mobile-applications-development.pdf
+PY  - 2019///
+AB  - … To the best of our knowledge, an MVC analysis in the iOS context was … The rest of the paper will focus on the iOS platform on its … At the centre of every iOS application, we find the View …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 15 cites: https://scholar.google.com/scholar?cites=1191152595437426580&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 15
+ER  - 
+
+TY  - BOOK
+AU  - Mihalj, M
+TI  - Upotreba MVVM arhitekture za razvoj IOS aplikacija
+PB  - repozitorij.unios.hr
+UR  - https://repozitorij.unios.hr/object/etfos:4847
+UR  - https://repozitorij.unios.hr/object/etfos:4847/FILE0/download
+PY  - 2024///
+AB  - … Uvođenje i implementacija VIPER arhitekture može … Unatoč tomu, za veće i kompleksnije iOS aplikacije, VIPER se često … VIPER omogućuje bolju modularnost i fleksibilnost u razvoju, …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Sánchez, JN
+TI  - Modelo de Arquitectura de Software para Aplicaciones iOS basado en Clean Architecture
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+PY  - 2017///
+AB  - … Pese a que VIPER no describe cómo debe aplicar la … para iOS, por lo que podría entenderse la arquitectura planteada en este trabajo como una evolución del planteamiento VIPER, …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Medak, Z
+TI  - Primjena proširene stvarnosti u razvoju računalne igre za platformu iOS
+PB  - repozitorij.etfos.hr
+UR  - https://repozitorij.etfos.hr/object/etfos:3627
+UR  - https://repozitorij.etfos.hr/object/etfos:3627/FILE0/download
+PY  - 2022///
+AB  - … inačica iOS sustava od iOS 13 do trenutno najnovijeg iOS 15. Također, potrebno je pisati čitljiv i razumljiv kod poštivanjem načela arhitekture VIPER i principa SOLID kako bi se …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Vennaro, E
+TI  - iOS Development at Scale: App Architecture and Design Patterns for Mobile Engineers
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=wzycEQAAQBAJ&oi=fnd&pg=PR5&dq=ios+viper&ots=6JO2qAcMbQ&sig=wjZAMAhK0GUkmhKmEyHRHKYo6w8
+PY  - 2023///
+AB  - … Upon completing iOS Development at Scale, you'll … to the iOS platform Implement knowledge of iOS architecture and … Who This Book Is For iOS software engineers and mobile engineer …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10930750649397831523&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 3
+ER  - 
+
+TY  - JOUR
+AU  - Magics-Verkman, H
+AU  - Zmaranda, DR
+AU  - ...
+TI  - A comparison of architectural patterns for testability and performance quality for iOS mobile applications development
+JF  - … on Engineering of …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10171619/
+PY  - 2023///
+AB  - … iOS development such as Model View Controller (MVC), Model View Presenter (MVP), Model View ViewModel (MVVM), and View Interactor Presenter Entity Router (VIPER) … on iOS: two …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 13 cites: https://scholar.google.com/scholar?cites=3197959365046203255&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 13
+ER  - 
+
+TY  - PDF
+AU  - Романков, СВ
+TI  - Сравнение архитектур мобильных приложений на IOS платформе
+JF  - Проблемы науки
+PB  - staff.tiiame.uz
+UR  - https://staff.tiiame.uz/storage/users/787/articles/0pr5LygZEH6f4HqizvySzoB3bIJO8yoYWhUhami7.pdf#page=12
+UR  - https://staff.tiiame.uz/storage/users/787/articles/0pr5LygZEH6f4HqizvySzoB3bIJO8yoYWhUhami7.pdf#page=12
+PY  - 2022///
+AB  - … на ОС iOS и сервера. Типы архитектурных паттернов могут различаться, но есть 4 наиболее часто используемых: MVC, MVP, MVVM и Viper. … на платформе iOS Apple советует …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 5 cites: https://scholar.google.com/scholar?cites=14527793352691757878&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 5
+ER  - 
+
+TY  - PDF
+AU  - Титарев, ДВ
+AU  - Новиков, АА
+TI  - … ПРИЛОЖЕНИЯ НА ПЛАТФОРМЕ IOS ДЛЯ КОНТРОЛЯ СОСТОЯНИЯ ЗДОРОВЬЯ ARCHITECTURE OF A MOBILE APPLICATION ON THE IOS PLATFORM …
+JF  - ВЕКТОР НАУЧНОЙ МЫСЛИ
+PB  - vektornm.ru
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+PY  - 2021///
+AB  - … подходит для разработки на платформах iOS и WatchOS. … Архитектура VIPER хоть и выглядит довольно удобной и … на архитектуру VIPER (для приложения на платформе iOS). …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Habchi, S
+AU  - Hecht, G
+AU  - Rouvoy, R
+AU  - ...
+TI  - Code smells in ios apps: How do they compare to android?
+JF  - 2017 IEEE/ACM 4th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7972725/
+UR  - https://inria.hal.science/hal-01471294/file/Mobilesoft17-Habchi.pdf
+PY  - 2017///
+AB  - … iOS-specific code smells by analyzing 279 opensource iOS … of iOS apps developed in Objective-C or Swift. We report on the results of this analysis as well as a comparison between iOS …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 52 cites: https://scholar.google.com/scholar?cites=13665448912969378869&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 52
+ER  - 
+
+TY  - BOOK
+AU  - Martan, D
+TI  - Primjena paradigme čiste arhitekture pri razvoju mobilnih aplikacija za iOS
+PB  - repozitorij.foi.unizg.hr
+UR  - https://repozitorij.foi.unizg.hr/object/foi:7433
+UR  - https://repozitorij.foi.unizg.hr/object/foi:7433/FILE0/download
+PY  - 2022///
+AB  - … , MVP, MVVM, VIPER i VIP. Valja napomenuti da od svih navedenih arhitektura u ovom poglavlju, jedino su VIPER i VIP arhitekture kreirane specifično za razvoj iOS aplikacija i obje …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Ковалёв, ДА
+TI  - Проектирование и разработка системы менторинга сотрудников компании для ОС iOS: магистерская диссертация
+PB  - elar.urfu.ru
+UR  - https://elar.urfu.ru/handle/10995/140292
+UR  - https://elar.urfu.ru/bitstream/10995/140292/1/m_th_d.a.kovalev_2024.pdf
+PY  - 2024///
+AB  - … менторинга сотрудников на платформе iOS для улучшения бизнес-… приложения для платформы iOS и определении … в сообществе iOS-разработчиков – VIPER. Аббревиатура …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Мельниченко, КС
+TI  - Система поліпшення проведення занять (клієнт для iOS)
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/bitstreams/a919c486-e340-4510-b8b4-c7fb426e0fab/download
+UR  - https://ela.kpi.ua/bitstreams/a919c486-e340-4510-b8b4-c7fb426e0fab/download
+PY  - 2019///
+AB  - … Мета роботи — розробка програмного продукту для платформи iOS, який сприятиме … Також було обрано архітектури VIPER та MVC для побудови модулів системи. Записка …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Kumar, S
+AU  - Ratan, R
+AU  - Desai, JV
+TI  - Design of an iOS app architecture for cotton plant disease detection using artificial intelligence and machine learning techniques
+JF  - … of Data Analytics and Management: ICDAM …
+PB  - Springer
+DO  - 10.1007/978-981-16-6289-8_55
+UR  - https://link.springer.com/chapter/10.1007/978-981-16-6289-8_55
+PY  - 2022///
+AB  - … VIPER goes a step further by separating the view logic from the data model. Only, the presenter talks to the view, and only the interactor talks to an entity (model). The presenter and …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 3 cites: https://scholar.google.com/scholar?cites=1155505687304999252&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 3
+ER  - 
+
+TY  - BOOK
+AU  - Будевич, КВ
+AU  - Нестерович, НС
+TI  - Архитектуры проектирования приложений на базе iOS
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/36598
+UR  - https://libeldoc.bsuir.by/bitstream/123456789/36598/1/Budevich_Architektury.pdf
+PY  - 2019///
+AB  - … на базе iOS, такие как MVC, MVP, MVVM, VIPER. В проектировании iOS приложений ни … В проектировании приложений на базе iOS существуют 4 основные архитектурные …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - HTML
+AU  - Спиринцев, ВВ
+AU  - Шитик, НА
+TI  - Анализ современных архитектурных шаблонов, используемых при проектировании приложений в среде iOS
+JF  - Вестник Херсонского национального …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/analiz-sovremennyh-arhitekturnyh-shablonov-ispolzuemyh-pri-proektirovanii-prilozheniy-v-srede-ios
+UR  - https://cyberleninka.ru/article/n/analiz-sovremennyh-arhitekturnyh-shablonov-ispolzuemyh-pri-proektirovanii-prilozheniy-v-srede-ios
+PY  - 2016///
+AB  - … шаблоны для мобильной платформы iOS: MVC и VIPER. Указанные паттерны реализуют … шаблона VIPER позволяет решить данную задачу. С другой стороны, VIPER …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8901081288849726911&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 1
+ER  - 
+
+TY  - CITATION
+AU  - Gilbert, J
+AU  - Stoll, C
+TI  - Architecting ios apps with viper
+PB  - objc
+PY  - 2014///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 10 cites: https://scholar.google.com/scholar?cites=7502818853542925464&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 10
+ER  - 
+
+TY  - CITATION
+AU  - Altman, A
+TI  - VIPER: iOS architecture pattern
+JF  - iOS Journal
+PY  - 2016///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=5402210321048441461&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - CITATION
+AU  - Mobile, M
+TI  - Meet VIPER: Mutual Mobile's Application of Clean Architecture for iOS Apps
+JF  - Last modified September
+PY  - 2014///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 4 cites: https://scholar.google.com/scholar?cites=16398427595908749791&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 4
+ER  - 
+
+TY  - CITATION
+AU  - Castro, AM
+TI  - Clean architecture en ios: Viper
+JF  - enero de
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9953574174069485834&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS architecture patterns: demystifying MVC, MVP, MVVM and VIPER
+PB  - Nov
+PY  - 2015///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15161367824383133843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - CITATION
+AU  - Eckermann, F
+TI  - Architecting iOS apps with VIPER
+PB  - Packt Publishing
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1873749501041330089&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Koval, A
+TI  - Comparative analysis of modern iOS architectures in different development stages
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=11247908539014541596&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Оцевик, ВА
+TI  - Модель мобільного застосунку iOS з додаванням базових сервісів та розширень
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Aljamea, M
+AU  - Alkandari, M
+TI  - MMVMi: A validation model for MVC and MVVM design patterns in iOS applications
+JF  - IAENG Int. J. Comput. Sci
+PB  - iaeng.org
+UR  - https://www.iaeng.org/IJCS/issues_v45/issue_3/IJCS_45_3_03.pdf
+UR  - https://www.iaeng.org/IJCS/issues_v45/issue_3/IJCS_45_3_03.pdf
+PY  - 2018///
+AB  - Design patterns have gained popularity as they provide strategies for solving specific problems. This paper explores two common design patterns in iOS development field: Model View …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 36 cites: https://scholar.google.com/scholar?cites=11320826897853503977&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 36
+ER  - 
+
+TY  - PDF
+AU  - Жеребкін, СЄ
+AU  - Шевельов, ЮА
+AU  - ...
+TI  - ПОРІВНЯЛЬНИЙ АНАЛІЗ АРХІТЕКТУРНИХ ШАБЛОНІВ У РОЗРОБЦІ IOS ДОДАТКІВ
+JF  - Організатори …
+PB  - sci.ldubgd.edu.ua
+UR  - https://sci.ldubgd.edu.ua/jspui/bitstream/123456789/7584/1/%D0%9CI%D0%A22020.pdf#page=17
+UR  - https://sci.ldubgd.edu.ua/jspui/bitstream/123456789/7584/1/%D0%9CI%D0%A22020.pdf#page=17
+PY  - 2020///
+AB  - … VIPER шаблон (рис. 1в) покликаний підвищити рівень абстракції, знизити зв'язаність … Код мобільного додатку при використанні шаблону VIPER розбивається на модулі і …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Krzysztof, Z
+TI  - Good iOS Application Architecture: MVVM vs
+JF  - MVC vs. VIPER, May
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=2473552238898821717&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - PDF
+AU  - Real, PM
+TI  - Desarrollo de TechPeopleCare iOS App. Visualización de Cursos Audiovisuales de Alfabetización Digital
+PB  - oa.upm.es
+UR  - https://oa.upm.es/69898/1/TFG_PABLO_MARINA_REAL.pdf
+UR  - https://oa.upm.es/69898/1/TFG_PABLO_MARINA_REAL.pdf
+PY  - 2022///
+AB  - … iOS existen varias implementaciones donde estuvimos dudando y recopilando información a cerca de los modelos VIPER y MVVM [7] individualmente y comparando entre ellos. [8] …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Sauseng, SM
+TI  - Methods for implementing improved privacy and security in iOS messaging applications
+PB  - theses.fh-hagenberg.at
+UR  - https://theses.fh-hagenberg.at/system/files/pdf/Sauseng18.pdf
+UR  - https://theses.fh-hagenberg.at/system/files/pdf/Sauseng18.pdf
+PY  - 2018///
+AB  - … Since this work focuses on privacy and security for native iOS messaging applications, only … Therefore the VIPER architecture that provides new concepts and other approaches for iOS …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Бойчук, ДС
+TI  - Параллельная разработка ANDROID и iOS: проблемы, подходы и решения
+JF  - Universum: технические науки
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/parallelnaya-razrabotka-android-i-ios-problemy-podhody-i-resheniya
+PY  - 2025///
+AB  - … Parallel development of mobile applications for Android and iOS is a process that requires team coordination, a unified architectural approach, and efficient management. Differences in …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8633422656397340345&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Мубаракшин, АМ
+AU  - Хахина, АМ
+TI  - Архитектурные подходы в разработке мобильных приложений на платформе iOS
+JF  - Информационные технологии: прошлое …
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1482827098969846803&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Суслов, КА
+AU  - Шаповал, ПВ
+AU  - Коликова, ТВ
+TI  - Разработка мобильного приложения для страхования транспортных средств Под Android ос и IOS
+JF  - Современные технологии в теории и …
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9112219772327493737&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 1
+ER  - 
+
+TY  - BOOK
+AU  - Geszti, B
+TI  - Az én iOS webáruházam
+PB  - dea.lib.unideb.hu
+UR  - https://dea.lib.unideb.hu/items/f50ee101-c0d5-4d25-8a9f-9fadb04e0473
+PY  - 2020///
+AB  - … választottam iOS platformra. Az applikációt Swift nyelvben készítettem el és VIPER architektúrát … A dolgozatom során kitértem az iOS app felépítésére, annak rétegeire. Kitértem a …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Ходарёнок, НА
+AU  - Петрович, ЮЮ
+TI  - Потоковые сервисы на комплексе мобильных устройств IOS
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/56359
+UR  - https://libeldoc.bsuir.by/bitstream/123456789/56359/1/Hodaryonok_Potokovye.pdf
+PY  - 2024///
+AB  - … При разработке мобильного приложения придерживались архитектурного решения VIPER. VIPER является реализацией Clean Architecture для iOS-проектов. Его структура …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Mamedovs, M
+TI  - iOS lietotņu arhitektūras risinājumi
+PB  - dspace.lu.lv
+UR  - https://dspace.lu.lv/items/2cb7c5bf-74f9-4d00-af55-4a46123fb364
+PY  - 2018///
+AB  - … – MVVM, MVP un VIPER. Arhitektūras tēli … iOS applications, good practices and required technologies to practically maintain them. Three architecture patterns – MVP, MVVM and VIPER …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Мицкевич, ДЮ
+AU  - Никитин, ДД
+AU  - Пожаров, ДН
+TI  - ОСОБЕННОСТИ ПРИНЦИПОВ SOLID В iOS РАЗРАБОТКЕ
+JF  - … молодых ученых БГТУ им. ВГ Шухова …
+PY  - 2023///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Chiang, B
+TI  - Motion capture smartphone application synthesizing Bluetooth, Unity, and iOS for real-time data exportation
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/5f1963ad54a8418c3a1e5d31519aa721/1?pq-origsite=gscholar&cbl=18750&diss=y
+UR  - https://search.proquest.com/openview/5f1963ad54a8418c3a1e5d31519aa721/1?pq-origsite=gscholar&cbl=18750&diss=y
+PY  - 2023///
+AB  - … for designing a state-of-the-art iOS mobile app for the Human Performance and Robotics … The application was designed to be native to iOS and be built in Xcode, Apple's integrated …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12612528654566969382&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Андрейченко, КО
+TI  - Месенджер миттєвих повідомлень для операційної системи iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/b1c38c8a-603d-4601-b844-ad2bef76cbc8
+UR  - https://ela.kpi.ua/bitstreams/35ae489a-a47a-470f-b13f-779f31d14ef6/download
+PY  - 2022///
+AB  - … The aim of this project was to develop a mobile application for the iOS … created, an iOS client was created. Key words: MESSENGER, … VIPER є моєю реалізацією Clean Architecture для …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Курлович, МВ
+TI  - Мобильное iOS приложение навигации и выбора объектов по заданным критериям: аннотация к дипломной работе
+PB  - БГУ, ФРКТ, Кафедра …
+PY  - 2022///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Sakun, A
+TI  - Vývoj aplikace pro mobilní operační systém iOS
+PB  - theses.cz
+UR  - https://theses.cz/id/qepb0i/
+UR  - https://theses.cz/id/qepb0i/zaverecna_prace.pdf
+PY  - 2019///
+AB  - … iOS platform to help of reactive programming. The basis of the theoretical part was created by the application. I did of comparison of different software architectures on iOS … tom, že Viper …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Pranata, A Adi
+AU  - Selviandro, N
+AU  - Adrian, M
+TI  - Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development∗
+JF  - Proceedings of the 2022 5th …
+PB  - dl.acm.org
+DO  - 10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/abs/10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/pdf/10.1145/3520084.3520097
+PY  - 2022///
+AB  - … Besides that, according to the literature [10], Presenter Layer implementation on MVP and VIPER is working as a middle-man to handle a business logical and presented state for …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 1 cites: https://scholar.google.com/scholar?cites=972346116264678306&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - CITATION
+AU  - МАНСУРОВА, СР
+TI  - АРХИТЕКТУРА ОПЕРАЦИОННОЙ СИСТЕМЫ IOS И КЛЮЧЕВЫЕ ПРИНЦИПЫ РАЗРАБОТКИ ПРИЛОЖЕНИЙ НА ЯЗЫКЕ ПРОГРАММИРОВАНИЯ …
+JF  - … ЧТЕНИЯ Уфа, 24–28 ноября 2025 …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Schuh, T
+TI  - Vývoj mobilní aplikace pro organizování času pro iOS a její publikování v App Store
+PB  - dspace.jcu.cz
+UR  - https://dspace.jcu.cz/handle/20.500.14390/39868
+UR  - https://dspace.jcu.cz/bitstream/handle/20.500.14390/39868/BCfinalfinal.pdf?sequence=1
+PY  - 2019///
+AB  - … Teoretická část bakalářské práce představuje vývojovou platformu Xamarin, nástroje potřebné pro vývoj aplikace a popis vytváření iOS aplikace pomocí vývojové platformy Xamarin ve …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Ксенофонтова, С
+TI  - Розробка мобільного застосунку для платформи IOS для організації централізованої волонтерської допомоги літнім людям
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/items/17063dd7-1b32-4938-892a-34ccd0fbed3a
+UR  - https://ekmair.ukma.edu.ua/bitstreams/ea9d3ad4-045d-40ec-a111-ffbdf534899a/download
+PY  - 2021///
+AB  - … сфері iOS розробки являється VIPER [12], котрий з’явився на ринку досить недавно і одразу завоював прихильність серед розробників. Абревіатура VIPER розшифровується …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - HTML
+AU  - Nuzhdin, D
+TI  - Comparative analysis of approaches to building iOS applications in B2C and B2B environments: UX, architecture, and performance metrics
+JF  - Professional Bulletin: Information Technology and …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/comparative-analysis-of-approaches-to-building-ios-applications-in-b2c-and-b2b-environments-ux-architecture-and-performance-metrics
+UR  - https://cyberleninka.ru/article/n/comparative-analysis-of-approaches-to-building-ios-applications-in-b2c-and-b2b-environments-ux-architecture-and-performance-metrics
+PY  - 2025///
+AB  - … The project is based on the VIPER architectural pattern and employs UIKit for interface development, as well as Tuist for managing a scalable multimodule architecture. This setup …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14383169228287288962&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - BOOK
+AU  - Mašek, J
+TI  - Architektonické vzory iOS aplikací a jejich implementace v jazyce Swift
+PB  - theses.cz
+UR  - https://theses.cz/id/458ylb/
+PY  - 2020///
+AB  - … na platformě iOS. Analyzovány jsou architektonické vzory MVC, MVP, MVVM, VIPER a Clean … Cílem práce je poskytnout detailní přehled v problematice architektonických vzorů v iOS …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Матус, АС
+TI  - PolyVent. Разработка мобильного приложения под платформу iOS для организации студенческих мероприятий: выпускная квалификационная работа …
+PB  - elib.spbstu.ru
+UR  - https://elib.spbstu.ru/dl/3/2023/vr/vr23-3685.pdf/en/info
+PY  - 2023///
+AB  - … с использованием фреймворка UIKit и архитектурой VIPER в среде разработке XCode 14.3 … , using the UIKit framework and the VIPER architecture in the XCode 14.3 development …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Касьяненко, ІІ
+TI  - iOS додаток управління педагогічними та науковими аспектами роботи кафедри
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/44c3b2e9-3889-4957-8ba4-1d6beabf2620
+UR  - https://ela.kpi.ua/bitstreams/44af3573-002f-45f6-bce0-a968eb1700ce/download
+PY  - 2018///
+AB  - … well as the platform iOS. The subject of the research is the new iOS development tools that will … використовуються архітектурні патерни MVVM та VIPER (clean architecture [19]). На …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - HTML
+AU  - Daniil, N
+TI  - Performance and fault tolerance of iOS applications: optimization strategies at the architectural and UI thread levels
+JF  - Холодная наука
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/performance-and-fault-tolerance-of-ios-applications-optimization-strategies-at-the-architectural-and-ui-thread-levels
+UR  - https://cyberleninka.ru/article/n/performance-and-fault-tolerance-of-ios-applications-optimization-strategies-at-the-architectural-and-ui-thread-levels
+PY  - 2025///
+AB  - … This principle is particularly important in modular architectures such as Clean Architecture or VIPER, where one module's failure should not affect the stability of the others. …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18015023012227858328&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - 赵钦
+TI  - iOS 在线商城客户端优化方案设计与实现
+PB  - 北京邮电大学
+PY  - 2018///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Asensio, C Rodríguez
+TI  - Desarrollo de aplicación para plataformas iOS basada en analítica y minería de textos
+PB  - e-archivo.uc3m.es
+UR  - https://e-archivo.uc3m.es/entities/publication/8c0b8f6c-ad2b-420d-9441-f30343aba1a6
+UR  - https://e-archivo.uc3m.es/bitstreams/bd262b93-c44e-41f2-9844-db51f67decdb/download
+PY  - 2019///
+AB  - … VIPER es una aplicación de “Clean Architecture” para aplicaciones iOS. Se divide la estructura lógica de una aplicación en distintos niveles de responsabilidad. Esto hace, como se …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Осина, ПМ
+TI  - Разработка мобильного приложения детектирования и распознавания текстов на изображениях для платформы IOS
+PB  - earchive.tpu.ru
+UR  - https://earchive.tpu.ru/handle/11683/48069
+UR  - https://earchive.tpu.ru/bitstream/11683/48069/1/TPU552789.pdf
+PY  - 2018///
+AB  - … Исходя из выше описанного VIPER является наилучшим вариантом для проектирования приложения под iOS, но есть один существенный недостаток: необходимость писать …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Мацкевич, РГ
+TI  - Разработка мобильного приложения для контроля перемещения персонала и транспорта на базе OS iOS: аннотация к дипломной работе
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Grzelj, L
+TI  - Primjena pristupa deklarativnog programiranja iOS aplikacija korištenjem razvojnih okvira SwiftUI i Combine
+PB  - dabar.srce.hr
+UR  - https://dabar.srce.hr/object/foi:8965
+PY  - 2025///
+AB  - … Arhitekture poput MVVM-a, Clean Swift-a ili VIPER-a donose modularnost, testabilnost i dugoročnu održivost, što je presudno za skalabilne projekte. Primjer aplikacije PlantManiac …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Vig, LI
+TI  - Alkalmazásfejlesztés iOS-re
+PB  - dea.lib.unideb.hu
+UR  - https://dea.lib.unideb.hu/items/403b12f3-294d-4253-9b30-d9591724f4b4
+PY  - 2021///
+AB  - … Szakdolgozatom célja, az iOS alkalmazás … használt VIPER architektúrát és ennek komponenseit. Az applikáció támogatja a rendszer által használt sötét és világos témát is. A 14-es …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Downey, E
+TI  - iOS Architecture
+JF  - Practical Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-2280-5_4
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2280-5_4
+PY  - 2016///
+AB  - … This chapter will discuss software architecture and design patterns in iOS. This is the first … associated with MVP and VIPER. MVP stands for model-view-presenter. VIPER stands for view-…
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Čvrljević, P
+TI  - Arhitekturalni dizajn pri razvoju aplikacija za iOS
+PB  - dabar.srce.hr
+UR  - https://dabar.srce.hr/object/foi:5334
+PY  - 2019///
+AB  - … operativni sustav iOS uz usporedbu iOS i Android … VIPER prvo teoretski, a zatim i uz kratke primjere. U praktičnom dijelu rada je u suradnji sa udrugom Obitelji 3plus razvijena iOS …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Blum, R
+AU  - Schilter, P
+TI  - Tourenplaner für die Traildevils iOS App
+PB  - eprints.ost.ch
+UR  - https://eprints.ost.ch/id/eprint/591/
+UR  - https://eprints.ost.ch/id/eprint/591/1/FS%202017-BA-EP-Blum-Schilter-Tourenplaner%20f%C3%BCr%20die%20Traildevils%20iOS%20App.pdf
+PY  - 2017///
+AB  - … 2016/17 ein Prototyp als native iOS Applikation entwickelt, welche nun durch einen … Der zweite Test bestätigte, dass sowohl iOS als auch Android Benutzer eine Tour effizient …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Егоров, МЭ
+TI  - IOS приложение для поиска мастера в сфере красоты и записи на услугу: выпускная квалификационная работа бакалавра: направление 09.03. 04 « …
+PB  - elib.spbstu.ru
+UR  - https://elib.spbstu.ru/dl/3/2021/vr/vr21-859.pdf/info
+PY  - 2021///
+AB  - … с принципами SOLID и приближенно к VIPER архитектуре. В результате работы над ВКР … The client part is designed in accordance with the SOLID principles and is close to VIPER …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Петрачков, СВ
+TI  - ВВЕДЕНИЕ В ПРОБЛЕМУ АРХИТЕКТУРЫ IOS ПРИЛОЖЕНИЙ
+JF  - Наука и молодежь: проблемы, поиски, решения
+PY  - 2017///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Gonçalves, RD
+TI  - Desenvolvimento do jogo Garotas espertas para plataformas Apple: iOS, iPadOS e MacOS
+PB  - riu.ufam.edu.br
+UR  - https://riu.ufam.edu.br/handle/prefix/9620
+UR  - https://riu.ufam.edu.br/bitstream/prefix/9620/8/TCC_RafaelGon%C3%A7alves.pdf
+PY  - 2026///
+AB  - … o porte do jogo Garotas Espertas para as plataformas Apple iOS, iPadOS e macOS. O jogo foi … profissional de desenvolvimento iOS, com destaque para o SwiftUI e a arquitetura MVVM. …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Волошенюк, І
+TI  - Розробка мобільного додатку для ведення обліку фінансів мовою Swift для платформи iOS
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/items/0f22021e-a4e8-4a39-974b-479503ab1f33
+UR  - https://ekmair.ukma.edu.ua/bitstreams/41fda2b3-ef7a-41b6-8449-2e50710b87d9/download
+PY  - 2022///
+AB  - … Крім того, існує архітектура Viper, розроблена спеціально для iOS. ЇЇ відмінність від попереднього патерну в тому, що рівень ViewModel розділено на Interacter та Presenter, для …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Мамаева, АБ
+AU  - Торхов, АЕ
+TI  - ПРОЕКТИРОВАНИЕ АРХИТЕКТУРЫ IOS ПРИЛОЖЕНИЯ ДЛЯ ПРЕДСТАВЛЕНИЯ АКТУАЛЬНОЙ ИНФОРМАЦИИ ПО УЧЕБНОМУ СЕМЕСТРУ
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Čizmar, D
+TI  - PRIMENA IBEACON PROTOKOLA NA IOS PLATFORMI
+JF  - Zbornik radova Fakulteta tehničkih nauka u Novom …
+PB  - zbornik.ftn.uns.ac.rs
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/173/82
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/173/82
+PY  - 2019///
+AB  - … VIPER i druge. Ne postoji striktno propisana softverska arhitektura koja se mora koristiti ali Apple preporučuje korišćenje MVC softverske arhitekture. Model predstavlja sloj koji treba da …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Мокрий, М
+TI  - Розробка iOS-додатку з використанням багатопоточності
+PB  - ekmair.ukma.edu.ua
+UR  - https://ekmair.ukma.edu.ua/bitstream/123456789/22402/1/Mokryi_Bakalavrska_robota.pdf
+UR  - https://ekmair.ukma.edu.ua/bitstream/123456789/22402/1/Mokryi_Bakalavrska_robota.pdf
+PY  - 2021///
+AB  - … До цих нових шаблонів можна віднести MVVM та VIPER. … У колі iOS-розробників його навіть жартома називають як … Щоб цього не сталося iOS представляє багато інструментів …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Mañas, EL
+TI  - 100 Questions and Answers to Help You Land Your Dream IOS Job: Or to Hire the Right Candidate!
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=U8l-DwAAQBAJ&oi=fnd&pg=PR3&dq=ios+viper&ots=JJxBg1F-sy&sig=CHZHgFo-AI3N5qvjVTO_mMkUE0Y
+PY  - 2018///
+AB  - … My purpose in writing this book is to help you land your dream iOS job, increase your knowledge of iOS, or … Other alternatives could include Viper and using functional reactive code. …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Dream, YLY
+TI  - 100 Questions and Answers to Help You Land Your Dream iOS Job
+JF  - Springer
+DO  - 10.1007/978-1-4842-4273-5
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-4273-5.pdf
+AB  - … The questions presented in this chapter are basic iOS questions. Senior developers should be very … Other alternatives could include Viper and using functional reactive code. …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Устименко, ДВ
+TI  - Інформаційна система мобільного супроводу користувача у підтриманні фізичного стану для платформи iOS
+PB  - essuir.sumdu.edu.ua
+UR  - https://essuir.sumdu.edu.ua/items/17a84f1f-ef1e-4b69-802d-b5a52b5f6b2e
+UR  - https://essuir.sumdu.edu.ua/bitstreams/a90d87ac-c02f-431c-9239-36d240cc4a62/download
+PY  - 2026///
+AB  - … супроводу для платформи iOS дозволяє вирішити проблему … мобільного супроводу для платформи iOS, спрямованої на … Розроблено повнофункціональний нативний iOS-…
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - HTML
+AU  - Маркова, АА
+TI  - СРАВНИТЕЛЬНЫЙ АНАЛИЗ ФРЕЙМВОРКОВ SWIFTUI И UIKIT ПРИ РАЗРАБОТКЕ МОБИЛЬНЫХ ПРИЛОЖЕНИЙ ДЛЯ IOS
+JF  - Вестник науки
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/sravnitelnyy-analiz-freymvorkov-swiftui-i-uikit-pri-razrabotke-mobilnyh-prilozheniy-dlya-ios
+UR  - https://cyberleninka.ru/article/n/sravnitelnyy-analiz-freymvorkov-swiftui-i-uikit-pri-razrabotke-mobilnyh-prilozheniy-dlya-ios
+PY  - 2026///
+AB  - … для операционной системы iOS. Выполнен сравнительный анализ … и поддержке устаревших версий iOS. Полученные … шаблоны, такие как MVVM, VIPER и Clean Architecture. …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Dias, TP
+TI  - Development of a piano learning application in the iOS ecosystem: integration between swiftUI and MVVM
+PB  - lume.ufrgs.br
+UR  - https://lume.ufrgs.br/handle/10183/313071
+UR  - https://lume.ufrgs.br/bitstream/handle/10183/313071/001312230.pdf?sequence=1
+PY  - 2026///
+AB  - … This project presents the development of an iOS piano learning application focused on … (CBL) methodology, good practices in iOS development, and musical information retrieval …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Абросимов, ИС
+TI  - Модификация iOS-приложения для отправки денежных переводов с целью реализации отправки денежных переводов в займ: выпускная бакалаврская …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:20705/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:20705/SOURCE01
+PY  - 2024///
+AB  - … В VIPER он не содержит бизнес-логику, а только отображает данные, … разработки для приложений Apple и является наиболее популярным выбором для разработки iOS- …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Tsadok, A
+TI  - Real-World iOS Development
+JF  - Springer
+DO  - 10.1007/979-8-8688-2815-7
+UR  - https://link.springer.com/content/pdf/10.1007/979-8-8688-2815-7.pdf
+AB  - … Did you ever stop and think about how we learn and evolve as iOS developers? Some of us … One of the interviewees told me, “I wish I had this book when I started to develop for iOS” (…
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Bueno, N Gómez
+TI  - Desarrollo de una interfaz de aplicación entre SYNC3® e iOS
+PB  - repositorio.upct.es
+UR  - https://repositorio.upct.es/entities/publication/c61770a0-1fbf-4df9-8290-f57a9f687e23
+UR  - https://repositorio.upct.es/bitstreams/60e483d0-350e-4ce3-8122-3f19927d5e1a/download
+PY  - 2017///
+AB  - … diferenciados, uno para Android y otro para iOS no dan soporte a Windows Phone. … En este caso usaremos la versión estable 4.2.46 de iOS, ya que nuestro limitante es la versión de …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Болгов, ІМ
+TI  - Додаток для діагностування автомобілів на базі OBD-II під мобільну платформу iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/6efe3dda-a9cb-4acc-83a1-34a50158e376
+UR  - https://ela.kpi.ua/bitstreams/4999d146-be91-4e2b-a2da-598a87f1838c/download
+PY  - 2019///
+AB  - … The realization will base on a mobile application for iOS … Рисунок 2.5 – Структура архітектури VIPER VIPER робить … , а не як частина модуля VIPER. Presenter містить бізнес-логіку, …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Gomes, MFSL
+AU  - Romano, SMV
+AU  - Dias, JC
+TI  - Modularização de aplicativos iOS
+JF  - Revista Processando o …
+PB  - fatecpg.edu.br
+UR  - https://www.fatecpg.edu.br/revista/index.php/ps/article/view/270
+UR  - https://www.fatecpg.edu.br/revista/index.php/ps/article/download/270/173
+PY  - 2023///
+AB  - … entregas rápidas e consistentes para empresas que necessitam de um aplicativo escalável, foi listado pontos chaves para produzir aplicativos com ênfase no sistema operacional iOS. …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1766770215846750592&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - PDF
+AU  - Абдулаева, УБ
+AU  - Ибраимов, АГ
+AU  - Москалева, ЮП
+AU  - ...
+TI  - Реализация базовой идеи MV*-паттернов в архитектуре iOS виджета
+JF  - Перспективы …
+PB  - moofrnk.com
+UR  - https://moofrnk.com/assets/files/journals/science-prospects/141/science-prospect-6(141)-main.pdf#page=29
+UR  - https://moofrnk.com/assets/files/journals/science-prospects/141/science-prospect-6(141)-main.pdf#page=29
+PY  - 2021///
+AB  - … Для удобства использования мобильного приложения в iOS существуют расширения, ко… Увидеть виджеты на iPhone под управлением iOS можно несколькими способами, …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 8 cites: https://scholar.google.com/scholar?cites=16389722541587580325&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 8
+ER  - 
+
+TY  - BOOK
+AU  - Vera, HE De la torre
+AU  - Moran, DA Torres
+TI  - Ampliación de los sistemas de Teleconsulta: Integración de iOS y monitorización de signos vitales mediante Bluetooth
+PB  - dspace.espol.edu.ec
+UR  - https://www.dspace.espol.edu.ec/handle/123456789/66068
+UR  - https://www.dspace.espol.edu.ec/bitstream/123456789/66068/1/T-115338%20INGE-2740%20DE%20LA%20TORRE%20VERA%20HENRY.pdf
+PY  - 2025///
+AB  - … aplicación móvil para dispositivos iOS que monitoree datos … de una aplicación nativa para iOS utilizando Swift y SwiftUI, con … y eficiencia en dispositivos iOS para validar la interfaz y el …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Paula, DG
+TI  - Projeto e Implementação de um Aplicativo iOS para Apoio à Jornada Acadêmica dos Estudantes no PPGCO
+PB  - repositorio.ufu.br
+UR  - https://repositorio.ufu.br/handle/123456789/44162
+UR  - https://repositorio.ufu.br/bitstream/123456789/44162/1/ProjetoeImplementacaoDeUmAplicativoiOSparaApoioJornadaAcademicaDosEstudantesNoPPGCO.pdf
+PY  - 2024///
+AB  - … Contudo, neste trabalho não serão detalhadas as arquiteturas MVC, MVP e VIPER, pois não serão utilizadas. Neste trabalho será utilizado padrão arquitetural MVVM pela …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Побігай, АО
+TI  - Пристрій на базі GPS для вимірювання динаміки автомобіля. Додаток для iOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/f3c2932e-fbc9-4c05-8e8a-98d47dfcd562
+UR  - https://ela.kpi.ua/bitstreams/6c1922b2-c912-4c5b-8f27-3942223f47d0/download
+PY  - 2019///
+AB  - … Новий продукт вже мав дуже зручну програму для iOS та Android, мав вбудовану батарею, що дозволяло пристрою існувати автономно впродовж 7 годин роботи, компактний …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Калюжный, ЕР
+AU  - Красноусов, ВМ
+AU  - Букреев, ЛВ
+AU  - ...
+TI  - РЕАЛИЗАЦИЯ МОБИЛЬНОГО ПРИЛОЖЕНИЯ ДЛЯ ПЛАТФОРМЫ IOS «ПУТЕВОДИТЕЛЬ»
+PY  - 2021///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Tsadok, A
+TI  - Pro iOS Testing
+JF  - Springer
+DO  - 10.1007/978-1-4842-6382-2
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-6382-2.pdf
+AB  - … It is a big challenge to write a book while also being a full- time dad and an iOS … iOS, and why it’s important. We also talked about different types of tests that are relevant for iOS …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Кулакевич, ОР
+AU  - Грудецький, РЯ
+AU  - ...
+TI  - РОЗРОБКА IOT: IOS-ЗАСТОСУНОК ДЛЯ УПРАВЛІННЯ ОБЛАДНАННЯМ
+JF  - Перспективні …
+PB  - eforum.lntu.edu.ua
+UR  - https://eforum.lntu.edu.ua/index.php/jurnal/article/view/1590
+UR  - https://eforum.lntu.edu.ua/index.php/jurnal/article/download/1590/1445
+PY  - 2024///
+AB  - … нам потрібно передбачити просту і зрозумілу архітектуру проекту, яка буде легко читатися та може буде розширена згодом, такою архітектурою було обрано саме VIPER (…
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Jurišić, B
+TI  - Usporedba nativnog i višeplatformskog razvoja mobilne aplikacije u iOS i React-Native tehnologijama
+PB  - repozitorij.unios.hr
+UR  - https://repozitorij.unios.hr/object/etfos:2000
+UR  - https://repozitorij.unios.hr/object/etfos:2000/FILE0/download
+PY  - 2018///
+AB  - … Arhitektura iOS i macOs aplikacija ovisi o razvojnom programeru, no najčešće, arhitekture iOS i macOS … Od poznatijih arhitekturalnih uzoraka važno je spomenuti i MVP, Viper te Rx. …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Середюк, ГВ
+AU  - Пламарчук, ЄА
+TI  - Мобільний додаток на платформі IOS з використанням архітектурного патерну MVVM
+PB  - ir.lib.vntu.edu.ua
+UR  - http://ir.lib.vntu.edu.ua/bitstream/handle/123456789/39530/12157.pdf?sequence=3&isAllowed=y
+UR  - http://ir.lib.vntu.edu.ua/bitstream/handle/123456789/39530/12157.pdf?sequence=3&isAllowed=y
+PY  - 2021///
+AB  - … Розглянуто та проаналізовано створення мобільного додатку з архітектурою на основі патерну mvvm для платформи iOS . Вибраний патерн грунтується на різноманітних …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17875478286865159064&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Москалева, ЮП
+TI  - Создание iOS виджета Today Extension в парадигме MV*-паттернов
+JF  - … -компьютерные технологии в …
+PB  - … учреждение высшего образования …
+PY  - 2020///
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16754657959297527918&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - CITATION
+AU  - Demirel, E
+AU  - Chowdhury, S
+TI  - Återanvända modellkod skriven i C på Android, iOS och HTML5: En studie om möjligheten att återanvända modellkod skriven i C på Android, iOS …
+PY  - 2023///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - 千葉大志
+TI  - iOS アプリ開発デザインパターン入門
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=VeNeDwAAQBAJ&oi=fnd&pg=PT3&dq=ios+viper&ots=ZIGAwTGYSa&sig=cnZhkjsZn-jCCfvhC25G0AdAOzE
+PY  - 2018///
+AB  - … <本書の対象読者> iPhone アプリ入門書を一通り読んだが具体的な作り方がわからない人 iOS 歴 6 ヶ月未満の初級者 iOS エンジニア教育担当者 [目次] 第 1 章 前準備~ おすすめ書籍 1.1 …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Agudo, A Oria
+TI  - Aplicación iOS orientada a la sugerencia de comidas de restaurantes.
+PB  - gredos.usal.es
+UR  - https://gredos.usal.es/handle/10366/150065
+UR  - https://gredos.usal.es/bitstream/handle/10366/150065/memoria_y_anexos.%20ORIA%20AGUDO.pdf?sequence=1
+PY  - 2021///
+AB  - … Existen otras arquitecturas que subsanan esta desventaja del modelo MVC como son la Modelo-Vista-VistaModelo (MVVM) o la VIPER. En este caso se ha decidido continuar con la …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Журба, МА
+TI  - Середовище для створення і супроводження iOS застосунків для подорожей
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/4b5cc3b1-1798-4f53-bea2-9573895b36e1
+UR  - https://ela.kpi.ua/bitstreams/bd3f8805-e943-4c02-855c-5814f284eb36/download
+PY  - 2022///
+AB  - … iOS застосунків. Предмет дослідження: методи створення та супроводження iOS … існуючих підходів для розробки схожих між собою iOS застосунків на одній кодовій базі;…
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - HTML
+AU  - Науменко, АЕ
+TI  - Методы решения задачи локализации iOS-приложений
+JF  - Известия Кабардино-Балкарского научного …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/metody-resheniya-zadachi-lokalizatsii-ios-prilozheniy
+UR  - https://cyberleninka.ru/article/n/metody-resheniya-zadachi-lokalizatsii-ios-prilozheniy
+PY  - 2024///
+AB  - … Мы рассмотрели основные методы локализации компонентов приложения для iOS, доступные для XCode 14. Также рассмотрели решение задач, требующих немного …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Бондар, ХВ
+TI  - Мобільний додаток для підготовки до ЗНО на платформі IOS
+PB  - ela.kpi.ua
+UR  - https://ela.kpi.ua/items/1299ff28-18d7-43cd-a70d-3d915851bda1
+UR  - https://ela.kpi.ua/bitstreams/be99811f-ca4b-4ae9-87f1-8138727f09ae/download
+PY  - 2023///
+AB  - … In this paper, we have created an iOS application using the Swift programming language and the UIKit framework to help users prepare for the EIT. The application provides useful …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Ткачев, ИЕ
+AU  - Рудикова, ЛВ
+TI  - О разработке приложения для оптимизации работы логистических компаний на базе мобильной платформы IOS
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/34169
+UR  - https://libeldoc.bsuir.by/bitstream/123456789/34169/1/Tkachev_O.PDF
+PY  - 2018///
+AB  - … Каждая вкладка – это самостоятельный модуль, который выполняет строго свою функцию и построен на основе VIPER. После того как Status-модуль был вызван, он …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Хайбуллин, ДА
+TI  - Разработка iOS-приложения-«Финансовый помощник 365»: выпускная бакалаврская работа по направлению подготовки: 02.03. 03-Математическое …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:13921/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:13921/SOURCE01
+PY  - 2021///
+AB  - … самые популярные версии iOS. Несмотря на это существуют более ранние версии iOS. По данным ресурса Mixpanel на рынке еще используются версии iOS не ниже 10.0 [4]. …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Parreiras, TO
+TI  - Desenvolvimento de dois aplicativos iOS tipo Uber.
+PB  - monografias.ufop.br
+UR  - http://monografias.ufop.br/handle/35400000/1858
+UR  - https://monografias.ufop.br/bitstream/35400000/1858/6/MONOGRAFIA_DesenvolvimentoDoisAplicativos.pdf
+PY  - 2019///
+AB  - Mobilidade urbana consiste nos meios utilizados pela população de um perímetro urbano para se deslocar dentro do mesmo, que, devido ao crescente desenvolvimento de grandes …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Сутурин, СИ
+TI  - Разработка мобильного приложения для платформы iOS-интернет-магазин" Blooming Room": выпускная бакалаврская работа по направлению …
+PB  - vital.lib.tsu.ru
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:14211/SOURCE01
+UR  - https://vital.lib.tsu.ru/vital/access/services/Download/vital:14211/SOURCE01
+PY  - 2021///
+AB  - … Objective-C для разработки на платформах iOS и macOS. Swift был презентован Apple … -C, использовавшегося ранее для разработки приложений для iOS [6]. Сравнивая эти 2 …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - HTML
+AU  - Григорян, ДА
+TI  - АНАЛИЗ ПРОИЗВОДИТЕЛЬНОСТИ АКТОРНЫХ МЕХАНИЗМОВ И GCD В IOS С ИСПОЛЬЗОВАНИЕМ ЯЗЫКА ПРОГРАММИРОВАНИЯ SWIFT
+JF  - Научный журнал
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/analiz-proizvoditelnosti-aktornyh-mehanizmov-i-gcd-v-ios-s-ispolzovaniem-yazyka-programmirovaniya-swift
+UR  - https://cyberleninka.ru/article/n/analiz-proizvoditelnosti-aktornyh-mehanizmov-i-gcd-v-ios-s-ispolzovaniem-yazyka-programmirovaniya-swift
+PY  - 2022///
+AB  - … Барьеры в iOS реализованы в стандартной библиотеке libdispatch, поставляемой iOS … Используя барьеры в iOS, можно также добиться подхода блокировки чтения-записи (…
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - JOUR
+AU  - Eselidze, DV
+AU  - Kutaev, KS
+AU  - ...
+TI  - TESTABILITY ANALYSIS OF ARCHITECTURAL PATTERNS IN iOS
+JF  - Reliability and Quality of …
+PB  - journals.rcsi.science
+UR  - https://journals.rcsi.science/2307-4205/article/view/425690
+PY  - 2026///
+AB  - … This paper analyzes the testability of architectural patterns used in the development of mobile applications for iOS. Materials and methods. It examines the characteristics of popular …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Turna, R
+TI  - Realtime aplikace na platformě iOS
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - BOOK
+AU  - Šebalj, A
+TI  - Uporaba arhitekturnih vzorcev pri razvoju in testiranju iOS aplikacij: magistrsko delo
+PB  - dk.um.si
+UR  - https://dk.um.si/IzpisGradiva.php?id=80755
+PY  - 2021///
+AB  - … We will explore in detail the most commonly used architectural styles in iOS programming, their … for iOS, developed in the MVVM architecture, using Unit tests and User Interface tests. …
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - CITATION
+AU  - Килинник, МА
+AU  - Глава, МГ
+TI  - Методика зниження порогу входження у процес розробки iOS-застосунків для інтернет-магазинів
+JF  - Матеріали дванадцятої міжнародної …
+PB  - Одеса: ОП
+PY  - 2022///
+M1  - Query date: 2026-09-23 22:21:48
+ER  - 
+
+TY  - PDF
+AU  - Волкова, СА
+AU  - Малышев, ИД
+AU  - ...
+TI  - Разработка методических указаний по выбору архитектурного подхода для разработки мобильного IOS-приложения
+JF  - … науки и общества в …
+PB  - aeterna-ufa.ru
+UR  - https://aeterna-ufa.ru/sbornik/NK-534-2.pdf#page=21
+UR  - https://aeterna-ufa.ru/sbornik/NK-534-2.pdf#page=21
+PY  - 2023///
+AB  - … архитектурного подхода для разработки мобильных приложений на платформе iOS. … архитектурного подхода для разработки мобильных приложений на платформе iOS. …
+M1  - Query date: 2026-09-23 22:21:48
+M1  - 2 cites: https://scholar.google.com/scholar?cites=4449591478420983482&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+

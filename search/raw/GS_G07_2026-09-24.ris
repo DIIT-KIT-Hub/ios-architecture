@@ -1,0 +1,674 @@
+﻿TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - … VIP, Architecture Patterns that seeks to make applications easily maintainable, modularized, and highly scalable. All of which are hallmarks of Clean Architecture. Architecture patterns …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - PDF
+AU  - Indrawan, D
+AU  - Kusumo, DS
+AU  - ...
+TI  - Analysis of the implementation of mvvm architecture pattern on performance of ios mobile-based applications
+JF  - JIPI (Jurnal Ilmiah …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+PY  - 2023///
+AB  - … of the impact of architecture patterns on the quality of iOS-based software. AR Ruler is an iOS-based … ARKit is an Augmented Reality framework created by Apple to integrate iOS device …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 24 cites: https://scholar.google.com/scholar?cites=11410803713727988760&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 24
+ER  - 
+
+TY  - BOOK
+AU  - Vennaro, E
+TI  - iOS Development at Scale: App Architecture and Design Patterns for Mobile Engineers
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=wzycEQAAQBAJ&oi=fnd&pg=PR5&dq=ios+architecture&ots=6JO2qBcIjS&sig=eyfgJ6K-bWU3I0Ogxa0VrrttyWQ
+PY  - 2023///
+AB  - … to the iOS platform Implement knowledge of iOS architecture and best … architecture and industry best practices to identify and address gaps in your codebase Who This Book Is For iOS …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10930750649397831523&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 3
+ER  - 
+
+TY  - JOUR
+AU  - Zahr, A
+AU  - Haidar, A
+AU  - Sliman, L
+TI  - Towards Actionable Guidelines for Advanced iOS Software Architecture
+JF  - Computer Science On-line Conference
+PB  - Springer
+DO  - 10.1007/978-3-032-04725-0_20
+UR  - https://link.springer.com/chapter/10.1007/978-3-032-04725-0_20
+PY  - 2025///
+AB  - … iOS tools, this study also aligns with current development trends, offering actionable insights for developers on architecture selection and transition strategies in iOS projects. …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - BOOK
+AU  - Nguyen, KN Luong
+TI  - Application of Protocol-Oriented MVVM Architecture in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/129037
+UR  - https://www.theseus.fi/bitstream/handle/10024/129037/Nguyen_Luong.pdf?sequence=1
+PY  - 2017///
+AB  - … , an architecture inspired by the Protocol Oriented Programming paradigm. This thesis explains the architecture … Drawbacks of modern architecture like Model View Controller are also …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10714691182654003652&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … software architecture is a very important choice in the contemporary iOS development since … In this thesis, a comparative analysis of two popular iOS architecture patterns, namely Model…
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Andika, MR
+AU  - Selviandro, N
+AU  - ...
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern
+JF  - 2023 3rd International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10428901/
+PY  - 2023///
+AB  - … demonstrates that monolithic architecture outperforms modular architecture in terms of … effect of modular architecture, especially on iOS applications with the VIPER architecture pattern, …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12049607874919303211&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - HTML
+AU  - Nuzhdin, D
+TI  - Comparative analysis of approaches to building iOS applications in B2C and B2B environments: UX, architecture, and performance metrics
+JF  - Professional Bulletin: Information Technology and …
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/comparative-analysis-of-approaches-to-building-ios-applications-in-b2c-and-b2b-environments-ux-architecture-and-performance-metrics
+UR  - https://cyberleninka.ru/article/n/comparative-analysis-of-approaches-to-building-ios-applications-in-b2c-and-b2b-environments-ux-architecture-and-performance-metrics
+PY  - 2025///
+AB  - … and support a modular iOS architecture capable of rapid feature … analysis of design solutions for iOS applications for end users … on backend system architecture, emphasizing structural …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14383169228287288962&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - Kumar, S
+AU  - Ratan, R
+AU  - Desai, JV
+TI  - Design of an iOS app architecture for cotton plant disease detection using artificial intelligence and machine learning techniques
+JF  - … of Data Analytics and Management: ICDAM …
+PB  - Springer
+DO  - 10.1007/978-981-16-6289-8_55
+UR  - https://link.springer.com/chapter/10.1007/978-981-16-6289-8_55
+PY  - 2022///
+AB  - … architecture design of the iOS app which will be used to identify cotton plant diseases. The proposed architecture is designed with the latest iOS … proposed iOS mobile app architecture …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=1155505687304999252&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 3
+ER  - 
+
+TY  - JOUR
+AU  - MVVM, V
+TI  - iOS Architecture Patterns
+JF  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-9069-9.pdf
+AB  - … From a generic point of view of software development, there are numerous architecture patterns, but we will focus on the most used for the development of iOS applications: …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - JOUR
+AU  - Xu, X
+AU  - Wang, X
+AU  - Xu, H
+AU  - Wang, G
+AU  - Tu, Z
+AU  - ...
+TI  - IoS-OSA: open system architecture for Internet of Services
+JF  - … Conference on Web …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9885740/
+UR  - https://drive.google.com/file/d/1PAX49oHZ9mbRWAUEvcGzwhSI15Qa0xVE/view
+PY  - 2022///
+AB  - … and collect these scattered views into a comprehensive IoS framework. 2) We provide a reference architecture for systematic IoS studies and it serves as a guide for future IoS research. …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=16039982292489984191&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - JOUR
+AU  - Schimanke, F
+AU  - Mertens, R
+AU  - ...
+TI  - Architecture considerations for spaced repetition based mobile learning games on iOS
+JF  - 2014 IEEE International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7033052/
+UR  - https://www.researchgate.net/profile/Florian-Schimanke/publication/270475187_Architecture_Considerations_for_Spaced_Repetition_Based_Mobile_Learning_Games_on_iOS/links/54ab9db70cf25c4c472f7db9/Architecture-Considerations-for-Spaced-Repetition-Based-Mobile-Learning-Games-on-iOS.pdf
+PY  - 2014///
+AB  - … the game’s underlying architecture. This paper shows how the architecture of our prototype … of research with a focus on software architecture and the concept of using frameworks and …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 5 cites: https://scholar.google.com/scholar?cites=12146707559528492615&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 5
+ER  - 
+
+TY  - JOUR
+AU  - Kubiak, T
+TI  - A Local-First Architecture for Privacy-Preserving Personalization in iOS Health and Fitness Applications
+JF  - American Impact Review
+PB  - americanimpactreview.com
+UR  - https://americanimpactreview.com/article/e2026058
+UR  - https://americanimpactreview.com/articles/e2026058.pdf
+PY  - 2026///
+AB  - … On iOS, these signals may be adjacent to health data even … problem; it is an architecture problem concerning where raw … architecture for privacy-preserving personalization in iOS health …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - PDF
+AU  - Sánchez, JN
+TI  - Modelo de Arquitectura de Software para Aplicaciones iOS basado en Clean Architecture
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+UR  - https://diposit.ub.edu/bitstreams/42ffe7a2-e98d-4b64-a6c2-bac414c2b6cf/download
+PY  - 2017///
+AB  - … the architecture models used to date obsolete to meet the needs of a long-term development. In this paper, the existing architecture models for the development of iOS … an architecture …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - JOUR
+AU  - Feng, Y
+AU  - Huang, X
+TI  - Design and implementation of a physical game architecture based on iOS
+JF  - … Science and Applications: Proceedings of the …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=JMbECQAAQBAJ&oi=fnd&pg=PA411&dq=ios+architecture&ots=PLw0p7stBJ&sig=yYoshMPs3tT2TmR5UVwl0sCB-xE
+PY  - 2015///
+AB  - … as per a physical game architecture on the iOS platform. The architecture integrates the cocos2d-… can be quickly and easily achieved on an iOS platform base on this architecture. …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - HTML
+AU  - Vornberger, O
+TI  - Architecture Considerations for Spaced Repetition Based Mobile Learning Games on iOS
+JF  - 2014 IEEE International Symposium on Multimedia
+PB  - academia.edu
+UR  - https://www.academia.edu/download/49973545/Architecture_Considerations_for_Spaced_R20161029-12447-c57emq.pdf
+UR  - https://www.academia.edu/download/49973545/Architecture_Considerations_for_Spaced_R20161029-12447-c57emq.pdf
+PY  - 2014///
+AB  - … A useful architecture would design interaction between the spaced … architecture. This paper discusses possible software architectures for spaced repetition learning games on the iOS …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - JOUR
+AU  - Jasek, R
+TI  - Security deficiencies in the architecture and overview of Android and iOS mobile operating systems
+JF  - Proc. 10th Int. Conf. Cyber Warf. Secur. ICCWS 2015
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=piikBwAAQBAJ&oi=fnd&pg=PA153&dq=ios+architecture&ots=EZzMrjCyfz&sig=gLQoQIv8Js3c6bqA6kcGgf3F1Es
+UR  - https://publikace.k.utb.cz/bitstream/handle/10563/1005777/Fulltext_1005777.pdf?sequence=1
+PY  - 2015///
+AB  - … Despite the simplicity of the Graphical User Interface (GUI), the underlying architecture … details security architecture and proceeds and provides to an overview of the Android and iOS (…
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14166913105747619779&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 2
+ER  - 
+
+TY  - JOUR
+AU  - Reis, JZ
+AU  - Gonçalves, RF
+TI  - The role of internet of services (ios) on industry 4.0 through the service oriented architecture (soa)
+JF  - IFIP International Conference on Advances in …
+PB  - Springer
+DO  - 10.1007/978-3-319-99707-0_3
+UR  - https://link.springer.com/chapter/10.1007/978-3-319-99707-0_3
+UR  - https://inria.hal.science/hal-02177890/file/472851_1_En_3_Chapter.pdf
+PY  - 2018///
+AB  - … Then through the Internet of Services (IoS), both internal and … the technical integration of IoT and IoS as enablers to create … on Internet of Services or IoS, addressing the service context …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 81 cites: https://scholar.google.com/scholar?cites=6985548316813361620&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 81
+ER  - 
+
+TY  - JOUR
+AU  - Silva, LFW
+AU  - Nisso, GAC
+AU  - Pereira, MRP
+TI  - Architecture of a 2D game for Android and IOS using Cocos2DX
+JF  - Visión electrónica
+PB  - dialnet.unirioja.es
+UR  - https://dialnet.unirioja.es/servlet/articulo?codigo=8899766
+UR  - https://dialnet.unirioja.es/descarga/articulo/8899766.pdf
+PY  - 2022///
+AB  - … the architecture and tools used in the development a 2D game that works on both Android and IOS. … And finally, we show the game operation using the proposed architecture and tools …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13366700660900198853&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - JOUR
+AU  - Philip, J
+AU  - Raju, M
+TI  - An overview about the security architecture of the mobile operating system iOS
+JF  - Indian Journal of Computer Science
+PB  - indianjournalofmarketing.com
+UR  - https://indianjournalofmarketing.com/index.php/tcsj/article/view/142412
+UR  - https://indianjournalofmarketing.com/index.php/tcsj/article/download/142412/100377
+PY  - 2019///
+AB  - … Machine (ARM) Architecture [13], [14]. iOS versions released before iOS 7 can only support devices with 32bit ARM … The current version of iOS that is iOS 12 is based on Darwin 18. …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 7 cites: https://scholar.google.com/scholar?cites=1185140544646149231&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 7
+ER  - 
+
+TY  - JOUR
+AU  - Pranata, A Adi
+AU  - Selviandro, N
+AU  - Adrian, M
+TI  - Analysis and Implementation of Presenter Layer on MVC Architecture iOS Application Development∗
+JF  - Proceedings of the 2022 5th …
+PB  - dl.acm.org
+DO  - 10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/abs/10.1145/3520084.3520097
+UR  - https://dl.acm.org/doi/pdf/10.1145/3520084.3520097
+PY  - 2022///
+AB  - … To fix the SRP violation on MVC architecture without change the characteristic and still friendly with all developer level, we propose an idea to modify the MVC architecture, the idea is …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 1 cites: https://scholar.google.com/scholar?cites=972346116264678306&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - PDF
+AU  - Nascimento, EB
+AU  - Moreno, ED
+AU  - Douglas, DJ
+TI  - IOS Press Ebooks-Towards an Architecture for... http://ebooks. iospress. nl/publication/53825
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Erick-Nascimento-2/publication/339697360_Towards_an_Architecture_for_Information-Centric_Network_with_Content_Replication_in_Edge_Computing/links/649d852cb9ed6874a5e6f737/Towards-an-Architecture-for-Information-Centric-Network-with-Content-Replication-in-Edge-Computing.pdf
+UR  - https://www.researchgate.net/profile/Erick-Nascimento-2/publication/339697360_Towards_an_Architecture_for_Information-Centric_Network_with_Content_Replication_in_Edge_Computing/links/649d852cb9ed6874a5e6f737/Towards-an-Architecture-for-Information-Centric-Network-with-Content-Replication-in-Edge-Computing.pdf
+AB  - … Thus, in this chapter book a model of architecture is suggested that can to provide content replicated through the network, allowing the storage of reliable contents between nodes (…
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - JOUR
+AU  - Dobrean, D
+AU  - Diosan, L
+TI  - Comparing Automatic Approaches for Mvc Architecture Detection in Ios Codebases
+JF  - Available at SSRN 4025203
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4025203
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=4025203
+AB  - Abstract Model View Controller (MVC) is one of the most widespread and used software architecture in client-side software. We are interested in automatically inferring and analyzing …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - JOUR
+AU  - Wanumen-Silva, L Felipe
+AU  - ...
+TI  - Architecture of a 2D Game for Android and IOS Using Cocos2DX.
+JF  - Visión …
+PB  - openurl.ebsco.com
+UR  - https://openurl.ebsco.com/contentitem/gcd:160448040?sid=ebsco:plink:crawler-gcd&id=ebsco:gcd:160448040&crl=c&jrnl=19099746
+PY  - 2022///
+AB  - … the architecture and tools used in the development a 2D game that works on both Android and IOS. … And finally, we show the game operation using the proposed architecture and tools …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - PDF
+AU  - Amores, PC
+TI  - A real case of a cognitive multiplayer game: design and development of the iOS client in Swift and its cloud architecture
+PB  - oa.upm.es
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+UR  - https://oa.upm.es/40013/6/TFG_Pablo_Carcelen_Amores.pdf
+PY  - 2015///
+AB  - … This section covers the iOS architecture, which was designed for the Temporis mobile client. One of the goals the mobile client has is that it supports multiple devices (OS X, …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - BOOK
+AU  - Chen, B
+TI  - A Reusable Software Architecture for Deploying MATLAB Machine Learning Models in Android and iOS Mobile Apps, and Interactive Websites
+PB  - conservancy.umn.edu
+UR  - https://conservancy.umn.edu/items/d816c8cf-e39f-4c62-954e-443b33a8b290
+UR  - https://conservancy.umn.edu/bitstreams/70c6e529-7fbb-484d-84c6-5725953c1caa/download
+PY  - 2021///
+AB  - … A novel and reusable software architecture was developed for … This new architecture directly deploys the MATLAB model, … This new architecture uses a server with an x86-64 CPU to …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - BOOK
+AU  - Eidhof, C
+AU  - Gallagher, M
+AU  - Kugler, F
+TI  - App Architecture: iOS Application Design Patterns in Swift
+PB  - dl.acm.org
+DO  - 10.5555/3265461
+UR  - https://dl.acm.org/doi/abs/10.5555/3265461
+PY  - 2018///
+AB  - This book explains a range of application design patterns and their implementation techniques using a single example app, fully implemented in five design patterns. Instead of …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 4 cites: https://scholar.google.com/scholar?cites=8144288025327337744&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 4
+ER  - 
+
+TY  - JOUR
+AU  - Downey, E
+TI  - iOS Architecture
+JF  - Practical Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-2280-5_4
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2280-5_4
+PY  - 2016///
+AB  - … will discuss software architecture and design patterns in iOS. … Please note that this chapter is based on architecture I have used and … Experiment with architecture and figure out your best …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - JOUR
+AU  - Penchala, SK
+TI  - Leveraging Server-Sent Events Architecture for Secure IoT Device Connectivity: An Enterprise-Grade Approach with iOS Platform Integration.
+JF  - Journal of Computational Analysis & …
+PB  - search.ebscohost.com
+UR  - https://search.ebscohost.com/login.aspx?direct=true&profile=ehost&scope=site&authtype=crawler&jrnl=15211398&AN=190422588&h=gVtB8nFZyjMXgl0Ea%2F70woNzH8SRXioqRvwem6%2FAhoGuAIBLIg5CxOCoCLmE7s85mjZrNJ%2FSWMVSQEWsPf28cw%3D%3D&crl=c
+PY  - 2025///
+AB  - … Considerable attention is given to iOS security features, … management strategies for iOS platforms, comprehensive … convergence of SSE architecture with iOS security capabilities …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - CITATION
+AU  - Lee, DH
+AU  - Nam, YU
+AU  - Cho, KY
+AU  - ...
+TI  - A design of FACE-compliant IOS and TS segments architecture based on ARINC653 in avionics system
+JF  - Journal of …
+PB  - The Korean Navigation Institute
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - BOOK
+AU  - Silva, LF Wanumen
+AU  - Nisso, GA Cavanzo
+AU  - ...
+TI  - Architecture of a2D Game for Android and IOS Using Cocos2DX
+PB  - ru.dgb.unam.mx
+UR  - https://ru.dgb.unam.mx/items/ebbf504c-906c-47df-8e6b-0afb69869cc9
+PY  - 2022///
+AB  - … the architecture and tools used in the development a 2D game that works on both Android and IOS. … And finally, we show the game operation using the proposed architecture and tools. …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - BOOK
+AU  - Pathak, M
+TI  - Study of impact and flexibilities provided by sharing code logic in code architecture layers written using KMM for android &iOS mobile applications.
+PB  - theses.cz
+UR  - https://theses.cz/id/tooir1/
+UR  - https://theses.cz/id/tooir1/zaverecna_prace_Archive.pdf
+PY  - 2022///
+AB  - … layers of MVVM architecture for android &iOS using KMM and … At the uppermost level, the iOS works an intermediary between … in Figure 12 iOS architecture with brief details about them. …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - BOOK
+AU  - Sánchez, J Nieto
+TI  - Modelo de arquitectura de software para aplicaciones iOS basado en clean architecture
+PB  - diposit.ub.edu
+UR  - https://diposit.ub.edu/dspace/handle/2445/120321
+PY  - 2017///
+AB  - … the architecture models used to date obsolete to meet the needs of a long-term development. In this paper, the existing architecture models for the development of iOS … an architecture …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13677837253963742438&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - PDF
+AU  - Титарев, ДВ
+AU  - Новиков, АА
+TI  - … ПРИЛОЖЕНИЯ НА ПЛАТФОРМЕ IOS ДЛЯ КОНТРОЛЯ СОСТОЯНИЯ ЗДОРОВЬЯ ARCHITECTURE OF A MOBILE APPLICATION ON THE IOS PLATFORM …
+JF  - ВЕКТОР НАУЧНОЙ МЫСЛИ
+PB  - vektornm.ru
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+PY  - 2021///
+AB  - в работе изложен обзор архитектур мобильных приложений на платформе iOS, предназначенных для контроля состояния здоровья. В рамках проведенной работы были …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - BOOK
+AU  - ANDIKA, MR
+TI  - Understanding the Impact of Modularity in iOS App Performance using VIPER Architecture Pattern-Dalam bentuk buku karya ilmiah
+PB  - repositori.telkomuniversity.ac.id
+UR  - https://repositori.telkomuniversity.ac.id/home/catalog/id/210151/slug/understanding-the-impact-of-modularity-in-ios-app-performance-using-viper-architecture-pattern-dalam-bentuk-buku-karya-ilmiah.html
+PY  - 2024///
+AB  - … based on the principles of Clean Architecture and is preferred for creating … of iOS applications organized using VIPER. This study uses an experimental framework to examine nine iOS …
+M1  - Query date: 2026-09-24 01:03:15
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS Architecture Patterns
+JF  - Badoo Tech Blog
+PY  - 2016///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 7 cites: https://scholar.google.com/scholar?cites=7062150957184303747&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 7
+ER  - 
+
+TY  - CITATION
+AU  - Cacheaux, R
+AU  - Berlin, J
+TI  - Advanced IOS App Architecture: Real-world App Architecture in Swift
+PB  - Razeware
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10439844347024418998&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - CITATION
+AU  - Marthari, M
+TI  - Architecture, seals and aspects of social organisation in the peak period of the Early Bronze Age Cyclades: the evidence from the major settlement at …
+JF  - Überschuss ohne Staat-Politische Formen in der …
+PB  - dialnet.unirioja.es
+UR  - https://dialnet.unirioja.es/servlet/articulo?codigo=6639908
+PY  - 2018///
+AB  - Architecture, seals and aspects of social organisation in the peak period of the Early Bronze Age Cyclades: the evidence from the major settlement at Skarkos on the island of Ios - Dialnet …
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 12 cites: https://scholar.google.com/scholar?cites=1561961617848206288&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 12
+ER  - 
+
+TY  - CITATION
+AU  - Altman, A
+TI  - VIPER: iOS architecture pattern
+JF  - iOS Journal
+PY  - 2016///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=5402210321048441461&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - CITATION
+AU  - Gondi, T
+TI  - iOS–architecture
+PB  - … . com/2015/01/14/ios-architecture
+PY  - 2015///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7651850851767029286&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 2
+ER  - 
+
+TY  - CITATION
+AU  - Sirota, OA
+TI  - … of using Patterns and Common Approaches in Building the Architecture of Cross-Platform Applications for Android and IOS: diploma work for obtaining …
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3807759617007369432&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Reis, J Zonichenn
+AU  - Gonçalves, RF
+TI  - The Role of Internet of Services (IoS) on Industry 4.0 Through the Service Oriented Architecture (SOA). U I. Moon, GM Lee, J. Park, D. Kiritsis i G. von …
+JF  - Advances in Production Management Systems …
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=13537056358299625500&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 3
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS architecture patterns: demystifying MVC, MVP, MVVM and VIPER
+PB  - Nov
+PY  - 2015///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15161367824383133843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - CITATION
+AU  - Berlin, J
+AU  - Team, RT
+TI  - Advanced IOS App Architecture: Real-World App Architecture in Swift
+PB  - Razeware LLC
+PY  - 2021///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8390102011169647200&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - CITATION
+AU  - Reis, J
+AU  - Gonçalves, R
+TI  - The Role of Internet of Services (IoS) on Industry 4.0 Through the Service Oriented Architecture (SOA), FIP WG 5.7 International Conference, APMS 2018 …
+JF  - Proceedings, Part II
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=2467783086257414395&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+
+TY  - CITATION
+AU  - Krzysztof, Z
+TI  - Good iOS Application Architecture: MVVM vs
+JF  - MVC vs. VIPER, May
+PY  - 2017///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=2473552238898821717&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Mobile, M
+TI  - Meet VIPER: Mutual Mobile's Application of Clean Architecture for iOS Apps
+JF  - Last modified September
+PY  - 2014///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 4 cites: https://scholar.google.com/scholar?cites=16398427595908749791&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 4
+ER  - 
+
+TY  - CITATION
+AU  - Raymond, L
+TI  - Clean swift ios architecture for fixing massive view controller
+PY  - 2015///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=12298131719836874622&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - CITATION
+AU  - Zonichenn, RJ
+AU  - Franco, GR
+TI  - The Role of Internet of Services (IoS) on Industry 4.0 Though the Service Oriented Architecture (SOA)(Advances in Production Management Systems
+JF  - Smart Manufacturing for Industry 4.0)
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=14638526525323889788&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 2
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - „iOS Architecture Patterns “, 2015
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=18014855517332455848&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - CITATION
+AU  - Aleem, F
+TI  - Layered Architecture Used by iOS and Its Performance &Portability. July, 0–19
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15710168231397774270&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - CITATION
+AU  - Castro, AM
+TI  - Clean architecture en ios: Viper
+JF  - enero de
+PY  - 2017///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=9953574174069485834&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Garcıa, RF
+TI  - iOS Architecture Patterns
+PB  - Apress
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=18334218077544169573&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - CITATION
+AU  - Kudinov, O
+TI  - Clean architecture and mvvm on ios
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=13935169208318250094&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - CITATION
+AU  - Aleem, F
+TI  - Layered Architecture used by iOS and its Performance &Portability
+PY  - 2019///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15647509206043415921&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - CITATION
+AU  - Oulladi, S El
+TI  - iOS Swift: MVP Architecture
+JF  - octubre de
+PY  - 2018///
+M1  - Query date: 2026-09-24 01:03:15
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3959930969323116507&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 2
+ER  - 
+

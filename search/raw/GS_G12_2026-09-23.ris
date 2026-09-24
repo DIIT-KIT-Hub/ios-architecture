@@ -1,0 +1,958 @@
+﻿TY  - BOOK
+AU  - García, RF
+TI  - IOS Architecture Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9
+UR  - https://link.springer.com/book/10.1007/978-1-4842-9069-9
+PY  - 2023///
+AB  - Develop well-structured applications using tested techniques and patterns. When you start to develop an application, you not only have to think about the idea of the finished application…
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 11 cites: https://scholar.google.com/scholar?cites=7901297304651206072&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - BOOK
+AU  - Nguyen, KN Luong
+TI  - Application of Protocol-Oriented MVVM Architecture in iOS Development
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/129037
+UR  - https://www.theseus.fi/bitstream/handle/10024/129037/Nguyen_Luong.pdf?sequence=1
+PY  - 2017///
+AB  - … model for iOS development and mobile development as a whole. The use of POP MVVM in … Especially in the case of inexperienced developers, POP MVVM should be considered an …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10714691182654003652&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 3
+ER  - 
+
+TY  - BOOK
+AU  - Moloudi, B
+TI  - Optimizing architecture in iOS development: a comparative study of MVVM and VIPER using SwiftUI
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/908051
+UR  - https://www.theseus.fi/bitstream/handle/10024/908051/Moloudi_Behzad.pdf?sequence=2
+PY  - 2025///
+AB  - … -oriented comparison of MVVM and VIPER with SwiftUI-based iOS applications will be … MVVM and VIPER differ when implemented with modern iOS technologies—SwiftUI 5, Swift …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 1 cites: https://scholar.google.com/scholar?cites=18430465872431589494&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - BOOK
+AU  - Risek, N
+TI  - Izrada iOS aplikacije korištenjem okvira SwiftUI primjenom uzorka dizajna MVVM
+PB  - zir.nsk.hr
+UR  - https://zir.nsk.hr/object/foi:8672
+UR  - https://zir.nsk.hr/object/foi:8672/FILE0/download
+PY  - 2025///
+AB  - … jezik Swift te okvir SwiftUI kao najbolje opcije za izradu iOS aplikacija i analizirati prednosti korištenja arhitekturalnog uzorka dizajna MVVM… rada pratiti postupak kreiranja iOS aplikacije. …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - BOOK
+AU  - Dias, TP
+TI  - Development of a piano learning application in the iOS ecosystem: integration between swiftUI and MVVM
+PB  - lume.ufrgs.br
+UR  - https://lume.ufrgs.br/handle/10183/313071
+UR  - https://lume.ufrgs.br/bitstream/handle/10183/313071/001312230.pdf?sequence=1
+PY  - 2026///
+AB  - … This project presents the development of an iOS piano learning application focused on … (CBL) methodology, good practices in iOS development, and musical information retrieval …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Suarez-Carvajal, FE
+AU  - Lobo-Quintero, R
+AU  - Santoyo, J
+AU  - ...
+TI  - MVVM in the Era of Modern Android: A Systematic Literature Review and Taxonomy of Architectural Trade-offs
+JF  - CLEI Electronic …
+PB  - clei.org
+UR  - https://www.clei.org/cleiej/index.php/cleiej/article/view/1004
+UR  - https://www.clei.org/cleiej/index.php/cleiej/article/download/1004/577
+PY  - 2026///
+AB  - … It should be noted that although the MVVM pattern is applicable to various platforms (iOS, Xamarin, MAUI), this study is deliberately limited to the native Android ecosystem. This …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 1 cites: https://scholar.google.com/scholar?cites=17661341565279110604&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 1
+ER  - 
+
+TY  - BOOK
+AU  - Bunoza, D
+TI  - Usporedba VIPER i MVVM arhitektura za razvoj iOS aplikacija
+PB  - repozitorij.etfos.hr
+UR  - https://repozitorij.etfos.hr/object/etfos:4139
+UR  - https://repozitorij.etfos.hr/object/etfos:4139/FILE0/download
+PY  - 2023///
+AB  - … razvoju mobilnih aplikacija za operacijski sustav iOS su MVVM … za operacijski sustav iOS, a to su MVC, MVP, MVVM i VIPER. … aplikacija za operacijski sustav iOS, smjernice za ljudsko …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - PDF
+AU  - Aljamea, M
+AU  - Alkandari, M
+TI  - MMVMi: A validation model for MVC and MVVM design patterns in iOS applications
+JF  - IAENG Int. J. Comput. Sci
+PB  - iaeng.org
+UR  - https://www.iaeng.org/IJCS/issues_v45/issue_3/IJCS_45_3_03.pdf
+UR  - https://www.iaeng.org/IJCS/issues_v45/issue_3/IJCS_45_3_03.pdf
+PY  - 2018///
+AB  - … Section 4 introduces MMVMi, our model to validate MVC or MVVM in iOS applications, and explains its two phases. Followed by applying MMVMi to two cases and demonstrating the …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 36 cites: https://scholar.google.com/scholar?cites=11320826897853503977&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 36
+ER  - 
+
+TY  - PDF
+AU  - Indrawan, D
+AU  - Kusumo, DS
+AU  - ...
+TI  - Analysis of the implementation of mvvm architecture pattern on performance of ios mobile-based applications
+JF  - JIPI (Jurnal Ilmiah …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+PY  - 2023///
+AB  - … (MVVM) architecture. The application of the architecture is carried out to analyze how practical the application of the MVVM … usage and execution Time on MVVM are smaller than Base …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 24 cites: https://scholar.google.com/scholar?cites=11410803713727988760&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 24
+ER  - 
+
+TY  - BOOK
+AU  - Mihalj, M
+TI  - Upotreba MVVM arhitekture za razvoj IOS aplikacija
+PB  - repozitorij.unios.hr
+UR  - https://repozitorij.unios.hr/object/etfos:4847
+UR  - https://repozitorij.unios.hr/object/etfos:4847/FILE0/download
+PY  - 2024///
+AB  - … MVVM arhitekturu za razvoj aplikacija. Usporediti s drugim suvremenim arhitekturama razvoja te na primjeru izrade IOS aplikacije pokazati prednosti i izazove korištenju MVVM …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Ларионов, СС
+AU  - Цапко, ИВ
+TI  - Использование технологии MVVM в среде разработки Xamarin Studio для мобильного приложения под управлением iOS
+JF  - … и молодых ученых, г. Томск, 7-11 …
+PB  - earchive.tpu.ru
+UR  - https://earchive.tpu.ru/bitstream/11683/37133/1/conference_tpu-2016-C04_V2_p17-18.pdf
+PY  - 2016///
+AB  - … Также в ходе реализации проекта было принято решение использовать шаблон MVVM для разделения представления (пользовательского интерфейса) и модели данных (…
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - ЧОРНОНОГ, С
+TI  - ДОСЛІДЖЕННЯ ПРОБЛЕМИ МІГРАЦІЇ MVVM АРХІТЕКТУРИ НА СУЧАСНІ IOS-ДОДАТКИ ПОБУДОВАНІ НА SWIFTUI
+JF  - … : Computer Science, Software Engineering and Cyber …
+PY  - 2024///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - BOOK
+AU  - Johnson, P
+TI  - Using MVVM Light with Your Xamarin Apps
+PB  - Springer
+DO  - 10.1007/978-1-4842-2475-5
+UR  - https://link.springer.com/content/pdf/10.1007/978-1-4842-2475-5.pdf
+PY  - 2018///
+AB  - … MVVM has often been compared to MVC on iOS and web where a data model is kept separate from the view controller, leading to some of the early examples of separation of concerns…
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 5 cites: https://scholar.google.com/scholar?cites=6722340434701414917&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 5
+ER  - 
+
+TY  - JOUR
+AU  - Fuksa, M
+AU  - Speth, S
+AU  - Becker, S
+TI  - Mvvm revisited: Exploring design variants of the model-view-viewmodel pattern
+JF  - International Conference on Enterprise …
+PB  - Springer
+DO  - 10.1007/978-3-031-78338-8_9
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-78338-8_9
+UR  - https://arxiv.org/pdf/2504.18191
+PY  - 2024///
+AB  - … review of MVVM design aspects and trade-offs, extending beyond the standard MVVM definition. … for Android apps [14], while it is also popular in iOS development [11]. The origin of the …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 26 cites: https://scholar.google.com/scholar?cites=291270789735677688&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 26
+ER  - 
+
+TY  - CITATION
+AU  - Souza, AAB
+TI  - Análise comparativa de arquiteturas mobile para aplicações iOS: MVC, MVVM e VIP-C
+PY  - 2026///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Wongtanuwat, W
+AU  - Senivongse, T
+TI  - Detection of violation of MVVM design pattern in objective-C programs
+JF  - … of the 8th International Conference on …
+PB  - dl.acm.org
+DO  - 10.1145/3411174.3411193
+UR  - https://dl.acm.org/doi/abs/10.1145/3411174.3411193
+UR  - https://dl.acm.org/doi/pdf/10.1145/3411174.3411193
+PY  - 2020///
+AB  - … the code to comply with the MVVM pattern, this paper has studied the MVVM design pattern, … and maintenance of many iOS applications. Although MVVM has been adopted by the …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 3 cites: https://scholar.google.com/scholar?cites=2118568923075765305&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 3
+ER  - 
+
+TY  - JOUR
+AU  - Fuksa, M
+AU  - Speth, S
+AU  - BeckerD, S
+TI  - MVVM Revisited: Exploring Design
+JF  - Enterprise Design, Operations …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=BgREEQAAQBAJ&oi=fnd&pg=PA163&dq=mvvm+ios%7Ciphone%7Cswift&ots=Evu3LVixHI&sig=gsHlNGXXjrShU35vsfJo_Sl4DU8
+PY  - 2025///
+AB  - … Therefore, this paper presents an extensive review of MVVM design aspects and trade-offs, … it is also popular in iOS development [11]. The origin of the MVVM pattern is often defined …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Wisnuadhi, B
+AU  - Munawar, G
+AU  - ...
+TI  - Performance comparison of native android application on MVP and MVVM
+JF  - International Seminar of …
+PB  - atlantis-press.com
+UR  - https://www.atlantis-press.com/proceedings/issat-20/125949769
+UR  - https://www.atlantis-press.com/article/125949769.pdf
+PY  - 2020///
+AB  - … architectures: MVC, MVP, MVVM, and VIPER on the iOS application. It also measured aspects … of MVVM and VIPER is better than the other two architectures (MVC, and MVP). MVVM is …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 27 cites: https://scholar.google.com/scholar?cites=11069315499674413036&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 27
+ER  - 
+
+TY  - PDF
+AU  - Lou, T
+TI  - A comparison of Android native app architecture MVC, MVP and MVVM
+JF  - Eindhoven University of Technology
+PB  - research.tue.nl
+UR  - https://research.tue.nl/files/48628529/Lou_2016.pdf
+UR  - https://research.tue.nl/files/48628529/Lou_2016.pdf
+PY  - 2016///
+AB  - … This thesis aims to provide a thorough analysis to find out whether MVP and MVVM … That is, MVP and MVVM are better than MVC on the selected three criteria. But for MVP and MVVM, …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 81 cites: https://scholar.google.com/scholar?cites=1803893916514794777&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 81
+ER  - 
+
+TY  - JOUR
+AU  - Sun, W
+AU  - Chen, H
+AU  - Yu, W
+TI  - The exploration and practice of mvvm pattern on android platform
+JF  - 2016 4th International Conference on …
+PB  - atlantis-press.com
+UR  - https://www.atlantis-press.com/proceedings/icmmita-16/25868250
+UR  - https://www.atlantis-press.com/article/25868250.pdf
+PY  - 2017///
+AB  - … This paper compared the commonality and variability of MVVM with the commonly used MVC … jar techniques and the use of MVVM pattern on Android platform was explored. Three key …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 22 cites: https://scholar.google.com/scholar?cites=647544394224578495&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 22
+ER  - 
+
+TY  - PDF
+AU  - Nijs, P
+AU  - Ortinau, D
+TI  - The MVVM Pattern in .NET MAUI
+JF  - Birmingham: Packt Publishing
+PB  - reference-global.com
+DO  - 10.0000/9781805120704-001
+UR  - https://reference-global.com/download/chapter/9781805120704/10.0000/9781805120704-001.pdf
+UR  - https://reference-global.com/download/chapter/9781805120704/10.0000/9781805120704-001.pdf
+PY  - 2023///
+AB  - … The MVVM Pattern in .NET MAUI: A definitive guide to essential … MVVM in general; we delve deep into its practical application within this specific framework. Even if you’re new to MVVM …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 6 cites: https://scholar.google.com/scholar?cites=14647221218508467644&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 6
+ER  - 
+
+TY  - JOUR
+AU  - Sheikh, W
+AU  - Sheikh, N
+TI  - A model-view-viewmodel (MVVM) application framework for hearing impairment diagnosis
+JF  - arXiv preprint arXiv:1911.08289
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/1911.08289
+UR  - https://arxiv.org/pdf/1911.08289
+PY  - 2019///
+AB  - … The researchers in [22] present a feasibility study of an Apple® iOS®-based automated audiometry application. The application performed pure-tone hearing test on the iPhone®, iPod® …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 10 cites: https://scholar.google.com/scholar?cites=5643757155431490613&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 10
+ER  - 
+
+TY  - JOUR
+AU  - Andrade, F
+AU  - Paula, H de
+AU  - Brito, A
+AU  - Cardoso, L
+AU  - ...
+TI  - Impact of MVC and MVVM Architectures on Test Quality: An Analysis of GitHub Open-Source Repositories
+JF  - Simpósio Brasileiro de …
+PB  - sol.sbc.org.br
+UR  - https://sol.sbc.org.br/index.php/sbqs/article/view/39015
+UR  - https://sol.sbc.org.br/index.php/sbqs/article/download/39015/38787/
+PY  - 2025///
+AB  - … of iOS architectural patterns, including MVC, MVP, MVVM, and VIPER, using metrics such as cohesion, coupling, and resource consumption. Their analysis showed that MVVM stood …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Pettersson, T
+AU  - Bulai, T
+TI  - Passive MVC och MVVM designmönster i Android: En jämförelse av kodkomplexitet mellan Passive MVC och MVVM
+PY  - 2016///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Khairat, MISB
+AU  - Priyadi, Y
+AU  - Adrian, M
+TI  - Usability measurement in user interface design using heuristic evaluation &severity rating (case study: Mobile ta application based on MVVM)
+JF  - 2022 IEEE 12th Annual …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9720876/
+PY  - 2022///
+AB  - … In addition, for the MVVM implementation, we have implemented interface design, for example, applied to the LoginAction class to avoid using ENUM. The implementation of View on ‘…
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 30 cites: https://scholar.google.com/scholar?cites=3591984728299140934&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 30
+ER  - 
+
+TY  - BOOK
+AU  - Maharjan, B
+TI  - Puzzle game using Android MVVM Architecture
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/145871
+UR  - https://www.theseus.fi/bitstream/handle/10024/145871/Maharjan_Bikesh.pdf?sequence=1
+PY  - 2018///
+AB  - … with iOS and other … MVVM, View Model is an independent business domain, which handles all the data transformation and operations. The objective of this thesis is to implement MVVM …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 7 cites: https://scholar.google.com/scholar?cites=4917016957279658656&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 7
+ER  - 
+
+TY  - JOUR
+AU  - Azimi, I
+AU  - Akmal, MR
+TI  - Enhancing Diabetes Self-Monitoring via Mobile App: An MVVM and Firebase Approach
+JF  - Jurnal Informatika Ekonomi Bisnis
+PB  - infeb.org
+UR  - https://infeb.org/index.php/infeb/article/view/1468
+UR  - https://infeb.org/index.php/infeb/article/download/1468/744
+PY  - 2026///
+AB  - … -View-ViewModel (MVVM) architecture the application achieves … robust operational logic of the MVVM framework. Furthermore, … seamless deployment for iOS users while maintaining …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - BOOK
+AU  - Lindström, M
+TI  - Windows Phone 8-sovelluksen toteuttaminen MVVM-arkkitehtuurilla
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/88430
+UR  - https://www.theseus.fi/bitstream/handle/10024/88430/Opinnaytetyo_lindstrom.pdf?sequence=1
+PY  - 2015///
+AB  - … MVVM-arkkitehtuuri mahdollistaa käyttöliittymän suunnittelun ja toteutuksen erillään … samankaltainen IOS-version kanssa. Tämä onnistui parhaiten tutkimalla IOSversion käyttämiä värejä…
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Mishra, A
+TI  - The MVVM Architectural Pattern
+JF  - … and Behavior-Driven Development with Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-2689-6_3
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2689-6_3
+PY  - 2017///
+AB  - … learn, MVVM can be easily adapted to be used within iOS/Swift applications. MVVM is an … common scenarios that you will encounter while creating iOS apps with the MVVM pattern. …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 11 cites: https://scholar.google.com/scholar?cites=17733806010907542119&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 11
+ER  - 
+
+TY  - JOUR
+AU  - Kentaro, N
+AU  - Satoshi, F
+TI  - Browser-Based Manipulation of Virtual Objects Through MVVM Architecture with Data Binding
+JF  - 2021 Ninth International Symposium on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/9643961/
+PY  - 2021///
+AB  - … of interactive Web application framework based on the MVVM (Model-View-ViewModel) … Index Terms-MVVM architecture, remote manipulation of virtual objects, interactive Web …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 5 cites: https://scholar.google.com/scholar?cites=11062405473445575033&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 5
+ER  - 
+
+TY  - JOUR
+AU  - Samudra, AW
+AU  - Wirawan, R
+AU  - ...
+TI  - Design and Development of Book Tracker Application Using MVVM Architecture on Android to Improve the Literacy of FIK UPNVJ Student
+JF  - … , Multimedia, Cyber and …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11327212/
+PY  - 2025///
+AB  - … Book Tracker application with MVVM architectural pattern to … design and development implementing MVVM components. The … The implementation of MVVM architecture successfully …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Arif, MS
+AU  - Musthafa, A
+AU  - ...
+TI  - Implementation of Model-View-ViewModel (MVVM) Architecture Pattern in the Sistem Informasi Akademik UNIDA Gontor Mobile Application
+JF  - … Conference on Science …
+PB  - sunankalijaga.org
+UR  - http://sunankalijaga.org/prosiding/index.php/icse/article/view/514
+UR  - https://sunankalijaga.org/prosiding/index.php/icse/article/download/514/488
+PY  - 2020///
+AB  - … Therefore, this research aims to implement the MVVM … From those trial results, show that the implementation of MVVM … operating system, such as iOS, Tizen, Harmony OS, etc …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 8 cites: https://scholar.google.com/scholar?cites=17305299089998035350&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 8
+ER  - 
+
+TY  - JOUR
+AU  - Yang, Y
+AU  - Hu, A
+AU  - Zheng, Y
+AU  - Zhao, B
+AU  - Zhang, X
+AU  - ...
+TI  - MVVM: Deploy Your AI Agents-Securely, Efficiently, Everywhere
+JF  - arXiv preprint arXiv …
+PB  - arxiv.org
+UR  - https://arxiv.org/abs/2410.15894
+UR  - https://arxiv.org/pdf/2410.15894
+PY  - 2024///
+AB  - … We present MVVM, a WebAssembly-based secure container framework … MVVM introduces two key innovations: (1) a two-way … Our evaluation demonstrates that MVVM is validated on …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 5 cites: https://scholar.google.com/scholar?cites=7154971922596016578&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 5
+ER  - 
+
+TY  - PDF
+AU  - Heikkilä, J
+TI  - MVVM-mallin toteutus KnockoutJS-kirjastoa käyttäen
+PB  - theseus.fi
+UR  - https://www.theseus.fi/bitstream/handle/10024/95129/Heikkila_Jukka.pdf?sequence=1
+UR  - https://www.theseus.fi/bitstream/handle/10024/95129/Heikkila_Jukka.pdf?sequence=1
+PY  - 2015///
+AB  - … by using Model-ViewViewModel (MVVM)-pattern. The purpose … using MVVM-pattern and what are the benefits of using MVVM … elements that work using MVVM-pattern and KnockoutJS …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - HTML
+AU  - Старушенкова, ЕЕ
+AU  - Палютин, РР
+TI  - Паттерн проектирования mvvm, как один из способов написания «чистого» кода в android-приложении на jetpack compose
+JF  - E-Scio
+PB  - cyberleninka.ru
+UR  - https://cyberleninka.ru/article/n/pattern-proektirovaniya-mvvm-kak-odin-iz-sposobov-napisaniya-chistogo-koda-v-android-prilozhenii-na-jetpack-compose
+UR  - https://cyberleninka.ru/article/n/pattern-proektirovaniya-mvvm-kak-odin-iz-sposobov-napisaniya-chistogo-koda-v-android-prilozhenii-na-jetpack-compose
+PY  - 2023///
+AB  - … In this article we will discuss how Jetpack Compose helps to implement the MVVM design … the MVVM approach, as well as evaluate the capabilities of Compose to implement the MVVM …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10767854766968081613&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 3
+ER  - 
+
+TY  - PDF
+AU  - Munawar, BWG
+AU  - Wahyu, U
+TI  - Performance Comparison of Native Android Application on MVP and MVVM
+PB  - academia.edu
+UR  - https://www.academia.edu/download/112816281/125949769.pdf
+UR  - https://www.academia.edu/download/112816281/125949769.pdf
+PY  - 2020///
+AB  - … architectures: MVC, MVP, MVVM, and VIPER on the iOS application. It also measured aspects … of MVVM and VIPER is better than the other two architectures (MVC, and MVP). MVVM is …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - PDF
+AU  - Andrade, FSF de
+TI  - Impacto das Arquiteturas MVC e MVVM na Qualidade de Testes: Uma Análise de Repositórios Open-Source do GitHub
+JF  - bib.pucminas.br
+UR  - https://bib.pucminas.br/pergamumweb/download/1F0D9A89-F60F-44B0-BC1C-D7801A2F27FE.pdf
+UR  - https://bib.pucminas.br/pergamumweb/download/1F0D9A89-F60F-44B0-BC1C-D7801A2F27FE.pdf
+AB  - This study compared the quality of test code in projects based on the Model-View-Controller (MVC) and Model-View-ViewModel (MVVM) architectures in GitHub repositories. The …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Wulandari, GP
+AU  - Asri, JS
+AU  - Anwar, N
+AU  - ...
+TI  - Perancangan dan Implementasi Sistem Microlearning Menggunakan Arsitektur Model-View-ViewModel (MVVM)
+JF  - Bulletin of Computer …
+PB  - hostjournals.com
+UR  - http://hostjournals.com/bulletincsr/article/view/1295
+UR  - http://hostjournals.com/bulletincsr/article/download/1295/747
+PY  - 2026///
+AB  - … -View-ViewModel (MVVM). Sistem dikembangkan menggunakan … Penerapan MVVM digunakan untuk memisahkan logika … bahwa penerapan arsitektur MVVM memberikan struktur …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - García, RF
+TI  - MVVM: model–view–viewmodel
+JF  - … Patterns: MVC, MVP, MVVM, VIPER, and VIP in Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-9069-9_4
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9069-9_4
+PY  - 2023///
+AB  - … Although the MVVM … , MVVM solves the coupling problem between the View and Presenter of the MVP (in which the View has a reference to the Presenter and vice versa): in the MVVM …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 11 cites: https://scholar.google.com/scholar?cites=5062677548084698422&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 11
+ER  - 
+
+TY  - BOOK
+AU  - Steyer, R
+TI  - Building web applications with Vue. js: MVVM patterns for conventional and single-page websites
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=AmKFEAAAQBAJ&oi=fnd&pg=PR5&dq=mvvm+ios%7Ciphone%7Cswift&ots=b6xsWZRQ16&sig=djCenYWmsgYo3FA9zuFutkFn-64
+PY  - 2022///
+AB  - Get started with Vue. js quickly and easily with this book This book provides a compact and practical introduction to the popular Vue. js. Use the MVVC concept for applications on the …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 6 cites: https://scholar.google.com/scholar?cites=5459859851059895307&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 6
+ER  - 
+
+TY  - CITATION
+AU  - 최지철
+AU  - 신근재
+AU  - 이용구
+AU  - 이재민
+AU  - 김경수
+TI  - 크로스 플랫폼에서의 MVVM 패턴 활용의 용이성
+JF  - Proceedings of KIIT …
+PB  - dbpia.co.kr
+UR  - https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11485448
+PY  - 2023///
+AB  - … effects of using the MVVM pattern in cross-platform app development. The MVVM pattern can … Therefore, the MVVM pattern is one of the important factors to consider in developing cross-…
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - 陈威翔
+AU  - 王大全
+AU  - 王兴起
+TI  - 解除数据绑定的 MVVM 设计模式在 iOS 平台下的实践
+JF  - 工业控制计算机
+PY  - 2016///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - PDF
+AU  - Середюк, ГВ
+AU  - Пламарчук, ЄА
+TI  - Мобільний додаток на платформі IOS з використанням архітектурного патерну MVVM
+PB  - ir.lib.vntu.edu.ua
+UR  - http://ir.lib.vntu.edu.ua/bitstream/handle/123456789/39530/12157.pdf?sequence=3&isAllowed=y
+UR  - http://ir.lib.vntu.edu.ua/bitstream/handle/123456789/39530/12157.pdf?sequence=3&isAllowed=y
+PY  - 2021///
+AB  - … The creation of a mobile application with an architecture based on the mvvm pattern for the iOS … template in the Xcode development environment in the swift programming language.. …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 2 cites: https://scholar.google.com/scholar?cites=17875478286865159064&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - JOUR
+AU  - Gunawan, AH
+AU  - Wijaya, A
+AU  - Wijaya, D
+TI  - Design and build customer complain applications for mobile based MVVM architecture method
+JF  - Tech-E
+PB  - jurnal.ubd.ac.id
+UR  - https://jurnal.ubd.ac.id/index.php/te/article/view/297
+UR  - https://jurnal.ubd.ac.id/index.php/te/article/download/297/181
+PY  - 2020///
+AB  - … IOS (formerly Iphone OS) is a mobile operating system … MVVM is the most common architectural pattern used in … The purpose of the MVVM architecture is almost the same as the MVC …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 6 cites: https://scholar.google.com/scholar?cites=1384578828927564716&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 6
+ER  - 
+
+TY  - JOUR
+AU  - Arfianto, B
+AU  - Prapanca, A
+TI  - Analisis Perbandingan Performa Pola Arsitektur Model-View-ViewModel (MVVM) dan Model-View-Presenter (MVP) pada Pengembangan Aplikasi Desa Wisata …
+JF  - Journal of Informatics and Computer …
+PB  - ejournal.unesa.ac.id
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/view/61773
+UR  - https://ejournal.unesa.ac.id/index.php/jinacs/article/download/61773/47164
+PY  - 2024///
+AB  - … memiliki kinerja yang lebih baik dibandingkan MVVM dalam aplikasi laporan hasil belajar … MVVM dan MVP pada aplikasi Android. Hasil penelitian mereka menunjukkan bahwa MVVM …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 10 cites: https://scholar.google.com/scholar?cites=5483831247235893690&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 10
+ER  - 
+
+TY  - JOUR
+AU  - Vennaro, E
+TI  - Model View View-Model (MVVM)
+JF  - iOS Development at Scale: App Architecture and …
+PB  - Springer
+DO  - 10.1007/978-1-4842-9456-7_8
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-9456-7_8
+PY  - 2023///
+AB  - … In this chapter, we will apply a similar format to explain the MVVM pattern and apply it to our Photo Stream application while considering our architecture decisions from the previous …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 1 cites: https://scholar.google.com/scholar?cites=4424110896215064465&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - BOOK
+AU  - Lukac, I
+TI  - Mobilna Android aplikacija za upravljanje performansama nogometnog kluba zasnovana na predlošku programske arhitekture MVVM
+PB  - repozitorij.unios.hr
+UR  - https://repozitorij.unios.hr/object/etfos:4214
+UR  - https://repozitorij.unios.hr/object/etfos:4214/FILE0/download
+PY  - 2023///
+AB  - … Također, moguće je da drugačije rješenje postoji i na App Storeu, koji je platforma za objavljivanje aplikacija za iPhone uređaje, odnosno uređaje s operacijskim sustavom iOS. Na …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Downey, E
+TI  - Grocery App: MVVM
+JF  - Practical Swift
+PB  - Springer
+DO  - 10.1007/978-1-4842-2280-5_10
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2280-5_10
+PY  - 2016///
+AB  - … In Chapter 4 , we discussed design patterns; specifically MVVM, which is the design pattern … There are other advantages to using MVVM as well, which we will explore in later chapters. …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - BOOK
+AU  - Vinocunga, FF Constante
+TI  - Aplicación móvil de pasarela de pagos para procesos E-commerce B2C en PYMES, utilizando la arquitectura MVVM.
+PB  - dspace.unach.edu.ec
+UR  - http://dspace.unach.edu.ec/handle/51000/15622
+UR  - http://dspace.unach.edu.ec/jspui/bitstream/51000/15622/1/Constante%20V.%2C%20Fausto%20F.%20%282025%29%20Aplicaci%C3%B3n%20m%C3%B3vil%20de%20pasarela%20de%20pagos%20para%20procesos%20E-commerce%20B2C%20en%20PYMES%2C%20utilizando%20la%20arquitectura%20MVVM..pdf
+PY  - 2025///
+AB  - … La integración de React con la arquitectura MVVM ofrece … Para llevar a cabo este proyecto, se utilizará la arquitectura MVVM y … crear aplicaciones móviles para Android e iOS utilizando …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - BOOK
+AU  - Haravy, Y
+AU  - Surto, S
+TI  - Modern approaches to android app architecture: Mvvm, mvp, viper
+PB  - elib.psu.by
+UR  - https://elib.psu.by/handle/123456789/31705
+UR  - https://elib.psu.by/bitstream/123456789/31705/1/206-208.pdf
+PY  - 2018///
+AB  - … VIPER is a clean architecture mainly used in iOS app … MVVM makes a lot of sense if you use it alongside data … UIViewController or Storyboard handles this in an iOS project and later …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10362391477191936888&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - PDF
+AU  - Đorđević, M
+TI  - RAZVOJ IOS APLIKACIJE ZA PRAĆENJE ZDRAVSTVENOG STANJA KORISNIKA UZ UPOTREBU ČISTE ARHITEKTURE I MVVM DIZAJN PATERNA
+JF  - Zbornik radova Fakulteta tehničkih nauka u …
+PB  - zbornik.ftn.uns.ac.rs
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/3015/2686
+UR  - https://zbornik.ftn.uns.ac.rs/index.php/zbornik/article/download/3015/2686
+PY  - 2023///
+AB  - U ovom radu opisano je rešenje implementacije iOS mobilne aplikacije korišćenjem čiste arhitekture i MVVM dizajn paterna. Ovakav pristup pruža skalabilno, pouzdano, testabilno i …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - 陈威翔
+TI  - 基于 iOS 的非绑定式 MVVM 设计模式与滑动性能优化的应用研究
+PB  - 杭州电子科技大学
+PY  - 2017///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Johnson, P
+TI  - Installing MVVM Light
+JF  - Using MVVM Light with your Xamarin Apps
+PB  - Springer
+DO  - 10.1007/978-1-4842-2475-5_1
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2475-5_1
+PY  - 2017///
+AB  - … to create a project, and for MVVM Light we need to create a shared project that provides us with a portable class library as well as the Android, iOS, and Windows Phone shell projects (…
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Johnson, P
+TI  - Your First MVVM Light Mobile App
+JF  - Using MVVM Light with your Xamarin Apps
+PB  - Springer
+DO  - 10.1007/978-1-4842-2475-5_2
+UR  - https://link.springer.com/chapter/10.1007/978-1-4842-2475-5_2
+PY  - 2017///
+AB  - … is a very good demonstration of the beauty of the MVVM pattern. The UI is kept apart from the … For iOS, we register with the navigation service within the FinishedLoading method within …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Mehta, S
+TI  - Beyond MVVM: Modular Architecture with Horizontal and Vertical Slicing for Enterprise Mobile Applications
+JF  - Available at SSRN 6759938
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6759938
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=6759938
+PY  - 2026///
+AB  - … While some layered architectural patterns, such as MVVM, MVP, and VIPER, offer some separation of concerns, they do not provide the level of separation required to control module …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - BOOK
+AU  - Григор'єв, ДО
+TI  - … система для роботи з тегами ID3v2 для mp3 файлів. Інтерфейс користувача з використанням технології WPF та паттерну MVVM, робота з файловими …
+PB  - krs.chmnu.edu.ua
+UR  - https://krs.chmnu.edu.ua/jspui/handle/123456789/628
+UR  - https://krs.chmnu.edu.ua/jspui/bitstream/123456789/628/1/%D0%90%D0%B2%D1%82%D0%BE%D1%80%D0%B5%D1%84%D0%B5%D1%80%D0%B0%D1%82%20%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D1%8C%D0%B5%D0%B2%20%D0%94.%D0%9E%20403.pdf
+PY  - 2019///
+AB  - … Архітектура програми має відповідати всім практикам розробки програмного забезпечення з використанням патерном MVVM. Який дозволить відділити логіку застосунку від …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Krzysztof, Z
+TI  - Good iOS Application Architecture: MVVM vs
+JF  - MVC vs. VIPER, May
+PY  - 2017///
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 2 cites: https://scholar.google.com/scholar?cites=2473552238898821717&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Бородич, АЭ
+TI  - Проектирование и разработка фреймворка для нативных iOS приложений c архитектурой MVVM с использованием протоколориентированного …
+PB  - ММФ, Кафедра веб-технологий и …
+PY  - 2020///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Савинов, ДЕ
+AU  - Уварова, АВ
+TI  - ИССЛЕДОВАНИЕ ПРОИЗВОДИТЕЛЬНОСТИ TCA И MVVM АРХИТЕКТУР НА SWIFT
+JF  - ПРИКЛАДНАЯ МАТЕМАТИКА: СОВРЕМЕННЫЕ …
+PY  - 2023///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Harbade, A
+TI  - iOS design patterns-Part 1 (MVC, MVP, MVVM)
+JF  - … /medium. com/swlh/ios-design-patterns-a9bd07818129 …
+PY  - 2017///
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 2 cites: https://scholar.google.com/scholar?cites=3298519189060630880&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 2
+ER  - 
+
+TY  - CITATION
+AU  - Orlov, B
+TI  - iOS architecture patterns: demystifying MVC, MVP, MVVM and VIPER
+PB  - Nov
+PY  - 2015///
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 3 cites: https://scholar.google.com/scholar?cites=15161367824383133843&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 3
+ER  - 
+
+TY  - CITATION
+AU  - Đinh, CQT
+AU  - Nguyễn, TH
+TI  - Research and Develop a mobile application (Give and Take) based on MVVM-Cross framework to run on both iOS and Android
+PB  - thuvienso.dut.udn.vn
+UR  - http://thuvienso.dut.udn.vn/handle/DUT/5509
+PY  - 2019///
+AB  - With the ambition to bring Danang to become a Smart City 4.0, we dedicated a platform for people to give and take items on their wills. The points of the application are, helping people …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Гатин, РР
+TI  - Применение паттерна проектирования MVVM в разработке современных программных решений
+JF  - … на современном предприятии: тактика и стратегия
+PY  - 2023///
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10043264231717058121&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 1
+ER  - 
+
+TY  - JOUR
+AU  - Ulhaq, AZ
+AU  - Adilukito, AZ
+AU  - Neru, SMPG
+AU  - ...
+TI  - Aplikasi Pencatatan Kalori Harian Berbasis Android Dengan Arsitektur MVVM
+JF  - Computer Science (CO …
+PB  - jurnal.bsi.ac.id
+UR  - http://jurnal.bsi.ac.id/index.php/co-science/article/view/3443
+UR  - http://jurnal.bsi.ac.id/index.php/co-science/article/download/3443/2025
+PY  - 2025///
+AB  - … The application created is an Android-based application created with the Kotlin programming language and MVVM architecture as a design pattern that is easy to learn and makes the …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 3 cites: https://scholar.google.com/scholar?cites=6756336650411877120&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 3
+ER  - 
+
+TY  - CITATION
+AU  - Kudinov, O
+TI  - Clean architecture and mvvm on ios
+PY  - 2019///
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 2 cites: https://scholar.google.com/scholar?cites=13935169208318250094&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 2
+ER  - 
+
+TY  - PDF
+AU  - Hikaa, GR
+AU  - Dwidasmaraa, IBG
+AU  - Wibawaa, IGA
+AU  - ...
+TI  - Pengembangan Aplikasi Rekomendasi Pet Shop Berbasis Android Menggunakan Arsitektur MVVM (Model-View-ViewModel)
+JF  - Jurnal Elektronik Ilmu …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Ida-Bagus-Gede-Dwidasmara/publication/366263724_Pengembangan_Aplikasi_Rekomendasi_Pet_Shop_Berbasis_Android_Menggunakan_Arsitektur_MVVM_Model-View-Viewmodel/links/66edbd1dc0570c21feafa5e8/Pengembangan-Aplikasi-Rekomendasi-Pet-Shop-Berbasis-Android-Menggunakan-Arsitektur-MVVM-Model-View-Viewmodel.pdf
+UR  - https://www.researchgate.net/profile/Ida-Bagus-Gede-Dwidasmara/publication/366263724_Pengembangan_Aplikasi_Rekomendasi_Pet_Shop_Berbasis_Android_Menggunakan_Arsitektur_MVVM_Model-View-Viewmodel/links/66edbd1dc0570c21feafa5e8/Pengembangan-Aplikasi-Rekomendasi-Pet-Shop-Berbasis-Android-Menggunakan-Arsitektur-MVVM-Model-View-Viewmodel.pdf
+AB  - … Firebase Authentication adalah salah satu layanan Back-end, fitur untuk Android, iOS, SDK yang mudah untuk digunakan, dan tampilan interface yang siap pakai untuk …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Arif, M
+AU  - Musthafa, A
+AU  - Muriyatmoko, D
+TI  - Implementasi Pola Arsitektur Model-View-ViewModel (MVVM) pada Sistem Informasi Akademik Universitas Darussalam Gontor Berbasis Mobile
+PY  - 2019///
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 3 cites: https://scholar.google.com/scholar?cites=14903410193609215946&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 3
+ER  - 
+
+TY  - CITATION
+AU  - Hodapp, D
+TI  - Model–View–ViewModel (MVVM). Architektur, Datenbindung in WPF und Vergleich mit dem Model–View–Controller (MVC)
+PB  - GRIN Verlag
+PY  - 2025///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Jaelani, MNHA
+AU  - Asriningtias, Y
+TI  - Optimalisasi Aplikasi Financial Tracker berbasis Mobile dengan Penerapan Design Pattern MVVM untuk Mengelola Keuangan
+JF  - Edumatic: Jurnal …
+PB  - e-journal.hamzanwadi.ac.id
+UR  - https://e-journal.hamzanwadi.ac.id/index.php/edumatic/article/view/27709
+UR  - https://e-journal.hamzanwadi.ac.id/index.php/edumatic/article/download/27709/6092
+PY  - 2024///
+AB  - … of MVVM implementation. Our findings show that the mobile-based financial tracker application developed with MVVM … This study contributes by demonstrating how MVVM improves …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 3 cites: https://scholar.google.com/scholar?cites=9142351790897920560&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 3
+ER  - 
+
+TY  - BOOK
+AU  - Лукашеня, ИВ
+AU  - Сивоконь, АВ
+TI  - Паттерн MVVM для разработки программного обеспечения
+PB  - libeldoc.bsuir.by
+UR  - https://libeldoc.bsuir.by/handle/123456789/32714
+PY  - 2018///
+AB  - … Паттерн MVVM позволяет улучшить архитектуру и качество программного обеспечения. Паттерн MVVM позволяет отделить логику приложения от визуальной части (…
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - JOUR
+AU  - Лєсніков, МО
+TI  - Розробка CRM-системи для ресторанного бізнесу на основі патерну SDUI-MVVM
+JF  - biblio.umsf.dp.ua
+UR  - http://biblio.umsf.dp.ua/jspui/handle/123456789/7442
+UR  - http://biblio.umsf.dp.ua/jspui/bitstream/123456789/7442/1/2025_Lesnikov_122_Mag.pdf
+AB  - … for the restaurant business based on the SDUI-MVVM (Server-Driven UI with Model-View-… The primary focus is on the SDUI-MVVM pattern, which ensures centralized control of the …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - BOOK
+AU  - Cortès, A Blanch
+TI  - Desenvolupament d'una app per a Android de la cartellera de cinema en català utilitzant MVVM i Android Architecture Components
+PB  - upcommons.upc.edu
+UR  - https://upcommons.upc.edu/entities/publication/70e80b55-1e5e-43da-beb7-99bb98b1ffd2
+UR  - https://upcommons.upc.edu/bitstreams/2e4c1bda-c882-4eab-a3e2-c6f78c303b2e/download
+PY  - 2018///
+AB  - … permet programar aplicacions per a Android i iOS utilitzant tecnologies web com HTML5, … A més, la possibilitat de fer apps per a Android i iOS de forma simultània és una opció molt …
+M1  - Query date: 2026-09-23 21:47:46
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9885533663004539658&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - CITATION
+AU  - НАЗМУТДИНОВ, АХ
+TI  - ОСОБЕННОСТИ ПРИМЕНЕНИЯ ПАТТЕРНА MVVM В КЛИЕНТСКИХ ПРИЛОЖЕНИЯХ С ИСПОЛЬЗОВАНИЕМ ПЛАТФОРМЫ …
+JF  - МОЛОДЕЖЬ И СИСТЕМНАЯ МОДЕРНИЗАЦИЯ …
+PY  - 2019///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Stinner, T
+TI  - Entwicklung eines iOS-Protoypen durch Verbindung einer Realtime-Datenbank mittels Realm Cloud nach MVVM-Pattern unter Verwendung der Apple …
+PB  - monami.hs-mittweida.de
+UR  - https://monami.hs-mittweida.de/frontdoor/index/index/docId/12437
+PY  - 2020///
+AB  - Im Rahmen der Abschlussarbeit soll untersucht werden, inwiefern die Kombination von live objects der Realm Database auf der einen Seite und Combine und SwiftUI auf der anderen, …
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Забаштина, ЕС
+AU  - Болотова, СЮ
+TI  - РАЗРАБОТКА IOS ПРИЛОЖЕНИЯ “FRIENDS” С АРХИТЕКТУРНЫМ ШАБЛОНОМ MVVM
+JF  - Математика, информационные технологии …
+PY  - 2023///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Langundi, RI
+AU  - Pramono, D
+AU  - Pradana, F
+TI  - Analisis Perbandingan Performa Design Pattern MVVM dan MVP pada Dashboard Aplikasi Manajemen Kos Berbasis Android (Studi Kasus: Kos Gendhis …
+JF  - … Teknologi Informasi dan Ilmu …
+PB  - j-ptiik.ub.ac.id
+UR  - https://j-ptiik.ub.ac.id/index.php/j-ptiik/article/view/14532
+PY  - 2025///
+AB  - … Analysis of The Implementation of MVVM Architecture Pattern on Performance of IOS Mobile-Based Applications. JIPI (Jurnal Ilmiah Penelitian Dan Pembelajaran Informatika), 8(1), 59-…
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+
+TY  - CITATION
+AU  - Саакян, ИЭ
+TI  - ДИНАМИЧЕСКОЕ ОБНОВЛЕНИЕ СТРОКИ ПОДКЛЮЧЕНИЯ ПРИ ИСПОЛЬЗОВАНИИ ENTITY FRAMEWORK (DATABASE FIRS) В MVVM …
+JF  - … СИСТЕМЫ УПРАВЛЕНИЯ В ОТРАСЛЯХ …
+PY  - 2020///
+M1  - Query date: 2026-09-23 21:47:46
+ER  - 
+

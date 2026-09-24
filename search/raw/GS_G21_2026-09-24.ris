@@ -1,0 +1,1408 @@
+﻿TY  - JOUR
+AU  - Marinin, AK
+TI  - Choosing an architecture for mobile applications
+JF  - News of the Kabardino-Balkarian Scientific …
+PB  - journals.rcsi.science
+UR  - https://journals.rcsi.science/1991-6639/article/view/274271
+PY  - 2024///
+AB  - … of mobile applications. As a result of the comparative analysis of the templates, we conclude that the MVVM architecture is a suitable option for developing mobile … All architecture …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=15989420834543485898&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 2
+ER  - 
+
+TY  - BOOK
+AU  - Nunkesser, R
+TI  - Choosing a global architecture for mobile applications
+PB  - techrxiv.org
+DO  - 10.36227/techrxiv.14212571
+UR  - https://www.techrxiv.org/doi/abs/10.36227/techrxiv.14212571
+UR  - https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.14212571
+PY  - 2021///
+AB  - … applications require an appropriate global architecture. If used correctly, the high-level … such as MVC, MVVM, and MVI/MVU may make an important contribution to the architecture, but …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 4 cites: https://scholar.google.com/scholar?cites=8799371377799903197&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 4
+ER  - 
+
+TY  - PDF
+AU  - Nunkesser, R
+TI  - Using Hexagonal Architecture for Mobile Applications.
+JF  - ICSOFT
+PB  - scitepress.org
+UR  - https://www.scitepress.org/Papers/2022/110751/110751.pdf
+UR  - https://www.scitepress.org/Papers/2022/110751/110751.pdf
+PY  - 2022///
+AB  - … applications require an appropriate global architecture. If used correctly, the high-level … such as MVC, MVVM, and MVI/MVU may make an important contribution to the architecture, but …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 17 cites: https://scholar.google.com/scholar?cites=16941248811376429743&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 17
+ER  - 
+
+TY  - PDF
+AU  - Mulla, F
+TI  - Choosing the best architecture for mobile applications
+JF  - ResearchGate Publication, December
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Farooq-Mulla/publication/387174643_Choosing_the_Best_Architecture_for_Mobile_Applications/links/6762ffab8cfcdf077fe40c83/Choosing-the-Best-Architecture-for-Mobile-Applications.pdf
+UR  - https://www.researchgate.net/profile/Farooq-Mulla/publication/387174643_Choosing_the_Best_Architecture_for_Mobile_Applications/links/6762ffab8cfcdf077fe40c83/Choosing-the-Best-Architecture-for-Mobile-Applications.pdf
+PY  - 2024///
+AB  - … The Model-View-ViewModel (MVVM) pattern has emerged as a … across mobile information systems indicates that MVVM … According to mobile computing research, Clean Architecture …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 27 cites: https://scholar.google.com/scholar?cites=1007154799517453223&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 27
+ER  - 
+
+TY  - BOOK
+AU  - Vassallo, A
+TI  - La Clean Architecture applicata allo sviluppo mobile in ambiente Android= Clean Architecture applied to mobile development in the Android environment
+PB  - webthesis.biblio.polito.it
+UR  - https://webthesis.biblio.polito.it/16662/
+UR  - https://webthesis.biblio.polito.it/16662/1/tesi.pdf
+PY  - 2020///
+AB  - … mobile aderendo alle regole della Clean Architecture sfruttando il pattern architetturale MVVM. … Infine, l’ultimo capitolo si concentra sui test e sul perché l’utilizzo della Clean Architecture …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10681492558828594809&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 1
+ER  - 
+
+TY  - JOUR
+AU  - Kisić, F
+AU  - Furjan, K
+AU  - Bele, D
+TI  - Clean Architecture in mobile development by practice
+JF  - Security Issues in Communication …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=XF-NEQAAQBAJ&oi=fnd&pg=PP20&dq=architecture+mobile+mvc%7Cmvvm%7Cmvp%7Cviper%7C%22clean+architecture%22&ots=h4c8tSRtoj&sig=Ot7QE98n0s9d2DITUajF4meBOho
+PY  - 2025///
+AB  - … The application’s architecture from the very start determines … an architecture approach applicable to mobile applications. … Clean Architecture by following the best practices in mobile …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Sinatria, MB
+AU  - Komarudin, O
+AU  - Prihandani, K
+TI  - Penerapan Clean Architecture Dalam Membangun Aplikasi Berbasis Mobile Dengan Framework Google Flutter
+JF  - INFOTECH journal
+PB  - ejournal.unma.ac.id
+UR  - http://www.ejournal.unma.ac.id/index.php/infotech/article/view/5237
+UR  - http://www.ejournal.unma.ac.id/index.php/infotech/article/download/5237/3039
+PY  - 2023///
+AB  - … Building a mobile-based application with Flutter needs to use the right architecture to easily adapt … The right architecture will greatly reduce the expenditure on maintenance and greatly …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 23 cites: https://scholar.google.com/scholar?cites=11931711021235358314&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 23
+ER  - 
+
+TY  - PDF
+AU  - Ilham, MA
+TI  - Evaluating Software Architecture Patterns for Scalable Mobile App Development
+JF  - researchgate.net
+UR  - https://www.researchgate.net/profile/Muhammad-Ilham-81/publication/393539601_Evaluating_Software_Architecture_Patterns_for_Scalable_Mobile_App_Development/links/686f47dee9b6c13c89e7ebff/Evaluating-Software-Architecture-Patterns-for-Scalable-Mobile-App-Development.pdf
+UR  - https://www.researchgate.net/profile/Muhammad-Ilham-81/publication/393539601_Evaluating_Software_Architecture_Patterns_for_Scalable_Mobile_App_Development/links/686f47dee9b6c13c89e7ebff/Evaluating-Software-Architecture-Patterns-for-Scalable-Mobile-App-Development.pdf
+AB  - … applications requires careful selection of appropriate software architecture … —MVC, MVP, MVVM, and Clean Architecture—to determine their effectiveness in building scalable mobile …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Yataco, CPA
+AU  - Salinas, MAL
+TI  - Mobile Application Based on Clean Architecture for Sustainable Tourism Recommendation Using BERT
+JF  - International Journal of …
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/5f051d6eecbc147dc0a3213e65904b3c/1?pq-origsite=gscholar&cbl=5444811
+PY  - 2025///
+AB  - … In this case, the proposed artifact consists of a mobile application that recommends … embeddings with BERT and a modular architecture based on Clean Architecture in the backend and …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3988939588475884819&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - JOUR
+AU  - Begum, A
+AU  - David, S Alex
+AU  - Cyrilraj, V
+TI  - Evaluation of Mobile Application Architecture Structure Styles with Fuzzy Analytic Hierarchy Process
+JF  - International Conference on …
+PB  - Springer
+DO  - 10.1007/978-981-96-4691-3_14
+UR  - https://link.springer.com/chapter/10.1007/978-981-96-4691-3_14
+PY  - 2024///
+AB  - … with five mobile application architecture structures (MVC, EMVC, MVP, MVVM, VIPER) … geometric mean method is used in architecture structure evaluation with MATLAB code and …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 19 cites: https://scholar.google.com/scholar?cites=13537129297082078636&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 19
+ER  - 
+
+TY  - JOUR
+AU  - Defriani, M
+AU  - Jaelani, I
+AU  - Sanjaya, LP
+AU  - ...
+TI  - Implementation of Model-View-ViewModel and Clean Architecture in Android Mobile App Development
+JF  - CoreID …
+PB  - journal.genintelektual.id
+UR  - https://www.journal.genintelektual.id/index.php/coreid/article/view/163
+UR  - https://www.journal.genintelektual.id/index.php/coreid/article/download/163/197
+PY  - 2026///
+AB  - … From the perspective of modifiability, the MVVM architecture achieved the … MVVM architecture has better maintainability and testability compared to traditional architectures such as MVC …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - PDF
+AU  - Indrawan, D
+AU  - Kusumo, DS
+AU  - ...
+TI  - Analysis of the implementation of mvvm architecture pattern on performance of ios mobile-based applications
+JF  - JIPI (Jurnal Ilmiah …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+UR  - https://www.academia.edu/download/110344951/3293-8770-1-PB.pdf
+PY  - 2023///
+AB  - … This study analyzes the MVP and MVVM architecture patterns in the Point of Sales … MVVM architecture pattern on the android application produces better performance than MVP…
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 24 cites: https://scholar.google.com/scholar?cites=11410803713727988760&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 24
+ER  - 
+
+TY  - PDF
+AU  - Tripathi, SP
+AU  - Narang, T
+TI  - Applying model view view-model and layered architecture for mobile applications
+JF  - Journal of International Academy of Physical …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/56361015/677-1272-1-SM.pdf
+UR  - https://www.academia.edu/download/56361015/677-1272-1-SM.pdf
+PY  - 2017///
+AB  - … like MVC, MVVM and MVP. Earlier the … The mobile application is need of every mobile user and it should be more users friendly and more responsive in nature. The architecture that is …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 6 cites: https://scholar.google.com/scholar?cites=14343551789945915099&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 6
+ER  - 
+
+TY  - PDF
+AU  - Sokolova, K
+AU  - Lemercier, M
+AU  - Garcia, L
+AU  - ...
+TI  - Towards high quality mobile applications: Android passive MVC architecture
+JF  - … Journal On Advances …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Karina-Sokolova/publication/286936519_Towards_High_Quality_Mobile_Applications_Android_Passive_MVC_Architecture/links/5671751a08aececfd555391c/Towards-High-Quality-Mobile-Applications-Android-Passive-MVC-Architecture.pdf
+UR  - https://www.researchgate.net/profile/Karina-Sokolova/publication/286936519_Towards_High_Quality_Mobile_Applications_Android_Passive_MVC_Architecture/links/5671751a08aececfd555391c/Towards-High-Quality-Mobile-Applications-Android-Passive-MVC-Architecture.pdf
+PY  - 2014///
+AB  - … architecture on the MVC model, as MVC is well-known and widely used in desktop and web systems as well as in iOS mobile … easily appropriate the Android development architecture. …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 20 cites: https://scholar.google.com/scholar?cites=14602041092560852226&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 20
+ER  - 
+
+TY  - JOUR
+AU  - Miroiu, S
+AU  - Bucerzan, D
+TI  - Architecture for Mobile Development
+JF  - … of the 9th International Workshop Soft …
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=TJ7fEAAAQBAJ&oi=fnd&pg=PA286&dq=architecture+mobile+mvc%7Cmvvm%7Cmvp%7Cviper%7C%22clean+architecture%22&ots=Fzv6jKfdUy&sig=YTMh16MP9JyysVJriWAk0FR2bbM
+PY  - 2023///
+AB  - … Most applications use the MVC [5, 6] design pattern which … The MVVM [5] architecture is structured so it allows the … We took the MVVM [5] design pattern and the Coordinator design …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Gunawan, AH
+AU  - Wijaya, A
+AU  - Wijaya, D
+TI  - Design and build customer complain applications for mobile based MVVM architecture method
+JF  - Tech-E
+PB  - jurnal.ubd.ac.id
+UR  - https://jurnal.ubd.ac.id/index.php/te/article/view/297
+UR  - https://jurnal.ubd.ac.id/index.php/te/article/download/297/181
+PY  - 2020///
+AB  - … the success rate of customer complaints application design and engineering activities of the MVVM Architecture method based on mobile multiplatform at DinTaiFung restaurant. …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 6 cites: https://scholar.google.com/scholar?cites=1384578828927564716&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 6
+ER  - 
+
+TY  - JOUR
+AU  - Arif, MS
+AU  - Musthafa, A
+AU  - ...
+TI  - Implementation of Model-View-ViewModel (MVVM) Architecture Pattern in the Sistem Informasi Akademik UNIDA Gontor Mobile Application
+JF  - … Conference on Science …
+PB  - sunankalijaga.org
+UR  - http://sunankalijaga.org/prosiding/index.php/icse/article/view/514
+UR  - https://sunankalijaga.org/prosiding/index.php/icse/article/download/514/488
+PY  - 2020///
+AB  - … Gontor accessed from the mobile devices. Therefore, this research aims to implement the MVVM architecture pattern in the SIAKAD UNIDA Gontor mobile application, to increase its user…
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 8 cites: https://scholar.google.com/scholar?cites=17305299089998035350&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 8
+ER  - 
+
+TY  - JOUR
+AU  - Capilla, R
+AU  - Kazman, R
+AU  - Romera, C
+AU  - ...
+TI  - Usability implications in software architecture: The case study of a mobile app
+JF  - Software: Practice and …
+PB  - Wiley Online Library
+DO  - 10.1002/spe.2883
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.2883
+PY  - 2020///
+AB  - … such as MVC or pipe and filter. The majority of the functionality in our architecture is located in the business logic layer and the data layer; we believe any pattern such as MVC would …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 16 cites: https://scholar.google.com/scholar?cites=8632998425072061549&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 16
+ER  - 
+
+TY  - JOUR
+AU  - Garriga, M
+AU  - Rozas, K
+AU  - Anabalon, D
+AU  - ...
+TI  - RESTful mobile architecture for social security services: A case study
+JF  - 2016 XLII Latin …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7833367/
+PY  - 2016///
+AB  - … mobile applications. For all these reasons, this work defines a mobile service-oriented software architecture … implemented as a three-tier MVC architecture. The view layer provides to the …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 3 cites: https://scholar.google.com/scholar?cites=4891517571652668564&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 3
+ER  - 
+
+TY  - JOUR
+AU  - Behera, TK
+TI  - Architecture principles for enterprise software and mobile application development
+JF  - Designing and developing innovative mobile …
+PB  - igi-global.com
+UR  - https://www.igi-global.com/chapter/architecture-principles-for-enterprise-software-and-mobile-application-development/322061
+PY  - 2023///
+AB  - … mobile application development, it is only possible to make it successful with the help of a good architecture … It has been found that applications that use the principles of architecture are …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8224809548798294350&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Murtadho, ARI
+AU  - Sa'adah, U
+AU  - ...
+TI  - Design and Evaluation of a Modular Backend Architecture for a Mobile App Builder Evaluated with the McCall Software Quality Model
+JF  - 2025 International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11161923/
+PY  - 2025///
+AB  - … HMVC is an evolution of the traditional MVC architecture, in which each module contains its control logic, view, and data model independently. The implementation of this architecture …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Azziqra, MZ
+AU  - Nuryasin, I
+TI  - Implementasi Clean Architecture Pada Aplikasi Mobile Al-Quran Berbasis Flutter
+JF  - JOISIE (Journal Of Information Systems And Informatics …
+UR  - https://pdfs.semanticscholar.org/7f9a/d94bd73b779b8e346afcd903404ba26a2ad6.pdf
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 11 cites: https://scholar.google.com/scholar?cites=3391523144813145985&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 11
+ER  - 
+
+TY  - BOOK
+AU  - Snider, E
+TI  - Mastering Xamarin. Forms: App architecture techniques for building multi-platform, native mobile apps with Xamarin. Forms 4
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=32LHDwAAQBAJ&oi=fnd&pg=PP1&dq=architecture+mobile+mvc%7Cmvvm%7Cmvp%7Cviper%7C%22clean+architecture%22&ots=QVgo-0yjX9&sig=Yoya-CGn3WeVegkMJFl810I8IC0
+PY  - 2019///
+AB  - … new TripLog mobile app project, we will need to create the initial solution architecture. We … Models are a key pillar in the MVVM pattern and data binding, which we will explore more in …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 5 cites: https://scholar.google.com/scholar?cites=12919117527468415485&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 5
+ER  - 
+
+TY  - JOUR
+AU  - Miroiu, S
+AU  - Bucerzan, D
+TI  - Reactive-Based and Scalable-Driven Architecture for Mobile Development
+JF  - International Workshop Soft Computing …
+PB  - Springer
+DO  - 10.1007/978-3-031-23636-5_22
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-23636-5_22
+PY  - 2020///
+AB  - … Most applications use the MVC [5… The MVVM [5] architecture is structured so it allows the project to scale, … We took the MVVM [5] design pattern and the Coordinator design pattern [13], …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Salazar, FJA
+AU  - Brambilla, M
+TI  - Tailoring software architecture concepts and process for mobile application development
+JF  - … Software Development Lifecycle for Mobile
+PB  - dl.acm.org
+DO  - 10.1145/2804345.2804350
+UR  - https://dl.acm.org/doi/abs/10.1145/2804345.2804350
+UR  - https://dl.acm.org/doi/pdf/10.1145/2804345.2804350
+PY  - 2015///
+AB  - … how the VIPER reference architecture was a core asset that informed the final architectural design of the Coursera application. Other assets like Layers pattern, the MVVM architectural …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 11 cites: https://scholar.google.com/scholar?cites=11273916661927156340&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 11
+ER  - 
+
+TY  - CITATION
+AU  - Souza, WO
+TI  - Uso de flutter, node. js e clean architecture no desenvolvimento de um software mobile para monitoria acadêmica
+PB  - Pontifícia Universidade Católica de …
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=9864194902709215142&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - PDF
+AU  - Farkhondeh, S
+TI  - Modern architecture for testing mobile applications
+PB  - webthesis.biblio.polito.it
+UR  - https://webthesis.biblio.polito.it/15342/1/tesi.pdf
+UR  - https://webthesis.biblio.polito.it/15342/1/tesi.pdf
+PY  - 2020///
+AB  - … There are 4 different layers defined in this project, as we expected for clean architecture. The first step of our testing is related to checking the architecture of the application. In order, to …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - PDF
+AU  - Rajasekaran, MN
+AU  - ...
+TI  - … expert judgment technique applied with capability maturity model integration to validate the agile Scrum-based MVP architecture framework for Android mobile …
+JF  - Int. J. Innov. Technol …
+PB  - researchgate.net
+UR  - https://www.researchgate.net/profile/Rajasekaran-Nataraj/publication/367360785_al_A_Delphi_based_Expert_Judgment_Techniques_applied_with_Capability_Maturity_Model_Integration_to_validate_the_Agile_Scrum_based_MVP_Architecture_Framework_for_Android_Mobile_Application_Development_/links/63cf7284e922c50e99bb53fe/al-A-Delphi-based-Expert-Judgment-Techniques-applied-with-Capability-Maturity-Model-Integration-to-validate-the-Agile-Scrum-based-MVP-Architecture-Framework-for-Android-Mobile-Application-Development.pdf
+UR  - https://www.researchgate.net/profile/Rajasekaran-Nataraj/publication/367360785_al_A_Delphi_based_Expert_Judgment_Techniques_applied_with_Capability_Maturity_Model_Integration_to_validate_the_Agile_Scrum_based_MVP_Architecture_Framework_for_Android_Mobile_Application_Development_/links/63cf7284e922c50e99bb53fe/al-A-Delphi-based-Expert-Judgment-Techniques-applied-with-Capability-Maturity-Model-Integration-to-validate-the-Agile-Scrum-based-MVP-Architecture-Framework-for-Android-Mobile-Application-Development.pdf
+PY  - 2021///
+AB  - … the Agile Scrum based MVP architecture framework (ASM-MVP) through this process, at … MVP in Agile Scrum and also they asses the CMMI maturity level in this proposed architecture…
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12280910866837807493&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - JOUR
+AU  - Dobrean, D
+AU  - Dioşan, L
+TI  - Pathways for statically mining the Model-View-Controller software architecture on mobile applications: D. Dobrean, L. Dioşan
+JF  - Soft Computing
+PB  - Springer
+DO  - 10.1007/s00500-022-06908-0
+UR  - https://link.springer.com/article/10.1007/s00500-022-06908-0
+PY  - 2022///
+AB  - … The codebases were chosen as they implemented a MVC architecture or a variation (MVC + Coordinators) based on our analysis. That is why in the analysis phase we have accounted …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=15913845185612122510&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 2
+ER  - 
+
+TY  - PDF
+AU  - Pukha, V
+TI  - Scalable Mobile Game Architecture: Design and Development
+PB  - theses.cz
+UR  - https://theses.cz/id/dqtbjf/zaverecna_prace.pdf_
+UR  - https://theses.cz/id/dqtbjf/zaverecna_prace.pdf_
+PY  - 2024///
+AB  - … architecture for a mobile game that effectively accommodates the dynamic requirements of modern mobile … This section delves into the crucial importance of clean architecture and code …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Chmielewski, M
+AU  - Pieczonka, P
+AU  - Kukiełka, M
+AU  - ...
+TI  - Software architecture optimization of mobile biomedical sensor-based tools providing analytical services for disease diagnostics and assistance
+JF  - Procedia …
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978920308404
+UR  - https://www.sciencedirect.com/science/article/pii/S2351978920308404/pdf?md5=85075a5f46a20a85c8e46ef6865d84ed&pid=1-s2.0-S2351978920308404-main.pdf
+PY  - 2020///
+AB  - … The following diagram shows the sequence of data flow in a mobile application based on MVVM [8]. The application logic is based on the operation of services, built-in Android …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 5 cites: https://scholar.google.com/scholar?cites=15854979620822950300&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2020): 5
+ER  - 
+
+TY  - BOOK
+AU  - Conesa, F Vilà
+TI  - Implement a mobile application architecture for school gamification
+PB  - upcommons.upc.edu
+UR  - https://upcommons.upc.edu/entities/publication/764aaa50-7fa8-4ae9-902f-b1bd117b9692
+UR  - https://upcommons.upc.edu/bitstreams/f3d00e95-af21-40f2-8e57-cabf5986f2db/download
+PY  - 2017///
+AB  - … Next we will see the list of requirements to accomplish the MVP. These … This architecture could be considered a multichannel architecture because we can use multiple channels (mobile …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Armanda, AS
+TI  - … MOBILE UNTUK MONITORING PADA AREA PERTAMBANGAN MENGGUNAKAN CLEAN ARCHITECTURE DENGAN FRAMEWORK FLUTTER
+PB  - POLITEKNIK NEGERI …
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Erdiyana, HF
+TI  - ERP system integration with mobile applications using service oriented architecture
+JF  - 2019 International Conference on Information …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8843745/
+UR  - https://www.researchgate.net/profile/Suharjito-Suharjito/publication/335946145_ERP_System_Integration_with_Mobile_Applications_Using_Service_Oriented_Architecture/links/60a6a06e92851ca9dc4d9e9c/ERP-System-Integration-with-Mobile-Applications-Using-Service-Oriented-Architecture.pdf
+PY  - 2019///
+AB  - … , web services that are used for integration between Mobile applications and ERP will use the restful method built using ASP.net MVC and generate RESTful using the json format and …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 9 cites: https://scholar.google.com/scholar?cites=9435376105223925764&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2019): 9
+ER  - 
+
+TY  - JOUR
+AU  - Mehta, S
+TI  - Beyond MVVM: Modular Architecture with Horizontal and Vertical Slicing for Enterprise Mobile Applications
+JF  - Available at SSRN 6759938
+PB  - papers.ssrn.com
+UR  - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6759938
+UR  - https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=6759938
+PY  - 2026///
+AB  - … Today in order to scale mobile applications in large enterprises, robust architecture is … MVVM, MVP, and even the more structured VIPER. While these patterns provide clean architecture …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - HTML
+AU  - Przewięźlikowska, A
+AU  - Ślusarczyk, W
+AU  - Wójcik, K
+AU  - ...
+TI  - Efficient and scalable architecture for location-based mobile applications using metrica
+JF  - Automation in …
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580525000962
+UR  - https://www.sciencedirect.com/science/article/pii/S0926580525000962
+PY  - 2025///
+AB  - … architecture for such applications. Through the Metrica application for land surveyors, an architecture … The architecture successfully enhances the speed and quality of civil engineers' …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 4 cites: https://scholar.google.com/scholar?cites=7592316465508378863&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 4
+ER  - 
+
+TY  - JOUR
+AU  - Wijayanto, RA
+AU  - Hajar, RR
+AU  - Sejati, P
+TI  - Implementing Flutter clean architecture for mobile tourism application development
+JF  - International Journal of …
+PB  - eprints.uty.ac.id
+UR  - https://eprints.uty.ac.id/15720/1/5200411407_RISTU%20AJI%20WIJAYANTO_ABSTRAK.pdf
+PY  - 2023///
+AB  - Tourism is an important industry that can have potential for the economic development of a region. One of them is Bantul Regency which has a variety of interesting tourist attractions. …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 9 cites: https://scholar.google.com/scholar?cites=8458129390557322918&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 9
+ER  - 
+
+TY  - JOUR
+AU  - Jaramillo, D
+AU  - Furht, B
+AU  - Agarwal, A
+TI  - Mobile Virtualization Reference Architecture
+JF  - Virtualization Techniques for Mobile …
+PB  - Springer
+DO  - 10.1007/978-3-319-05741-5_5
+UR  - https://link.springer.com/chapter/10.1007/978-3-319-05741-5_5
+PY  - 2014///
+AB  - … application container and deployment mechanism for mobile devices has the potential to provide … Such an architecture can provide a set of security and mobile device management …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Jitnupong, B
+AU  - Gumseda, T
+AU  - ...
+TI  - Dengue Vector Control Mobile Application: Architecture and Features
+JF  - 2024 8th International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/10823399/
+PY  - 2024///
+AB  - … Herein, we provide the architecture and functionality for the Dengue Management Mobile Application from an MVC perspective. The model layer comprises an on-premises database …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=1016169683215254536&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 1
+ER  - 
+
+TY  - JOUR
+AU  - Enciso-Quispe, L
+AU  - Quichimbo, J
+AU  - Luzón, F
+AU  - ...
+TI  - REST architecture in the implementation of a web and mobile application for vehicular tariff rotating parking
+JF  - 2017 12th Iberian …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7975782/
+PY  - 2017///
+AB  - This article describes the infrastructure and architecture required for the implementation of an automation system for the current SIMERT Tariff Municipal System of Rotating Parking in …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 33 cites: https://scholar.google.com/scholar?cites=1838452578329413870&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 33
+ER  - 
+
+TY  - CITATION
+AU  - Sari, PI
+AU  - Nashirin, K
+AU  - Arifudin, M
+AU  - Setiawan, Y
+AU  - ...
+TI  - Android Mobile Application system for pet care services using MVVM architecture
+JF  - Indonesian Journal of …
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 7 cites: https://scholar.google.com/scholar?cites=5545657975954399509&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 7
+ER  - 
+
+TY  - JOUR
+AU  - Alvarado, LAR
+AU  - Domínguez, EL
+AU  - Velázquez, YH
+AU  - ...
+TI  - Layered software architecture for the development of mobile learning objects with augmented reality
+JF  - IEEE …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8485281/
+UR  - https://ieeexplore.ieee.org/iel7/6287639/8274985/08485281.pdf
+PY  - 2018///
+AB  - … software architecture that models, based on an architectural pattern in layers, the characteristics and quality attributes of mobile … 2) based on the pattern Model-ViewView-Model (MVVM) …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 24 cites: https://scholar.google.com/scholar?cites=4518187444226016849&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 24
+ER  - 
+
+TY  - JOUR
+AU  - Davila-Nicanor, L
+AU  - Juarez, IA
+AU  - Vega, JA De La
+AU  - ...
+TI  - Performance on Software Architecture Design to Serious Games for Mobile Devices
+JF  - Software Engineering for …
+PB  - Springer
+DO  - 10.1007/978-3-031-33338-5_4
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-33338-5_4
+PY  - 2023///
+AB  - … The Wrapper, Singleton, and MVC patterns are used in this work. They consider the functionality of the application. Better system evolution is another observed advantage of this …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=8168982740549574132&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Kaczmarek, P
+AU  - Piotrowski, Z
+TI  - The architecture of the mobile application for Android with the use of the MVVM pattern and the HILT, LiveData, Room, Retrofit and Kotlin coroutines libraries
+JF  - IBIMA Conference on Artificial intelligence …
+PB  - Springer
+DO  - 10.1007/978-3-031-62843-6_28
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-62843-6_28
+PY  - 2023///
+AB  - … of a mobile application. The application architecture was proposed using the MVVM design … As a result, a generic application architecture model will be presented, which can be used …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=7464266212093915847&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Romero, OJ
+AU  - Akoju, SA
+TI  - An efficient mobile-based middleware architecture for building robust, high-performance apps
+JF  - … Conference on Software Architecture …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8432189/
+UR  - http://www.cs.cmu.edu/~oscarr/pdf/publications/2018_icsa.pdf
+PY  - 2018///
+AB  - … construction of mobile apps. Our contributions are: a) we used the clean architecture approach to guarantee a better separation of concerns; b) middleware’s architecture abstracts away …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 7 cites: https://scholar.google.com/scholar?cites=4370733268850005654&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 7
+ER  - 
+
+TY  - JOUR
+AU  - Alfin, K
+AU  - Ardana, A
+AU  - Pratama, Y
+AU  - ...
+TI  - A Smart Mobile Waste Sorting App Based on Clean Architecture with Product Classification using Random Forest and KNN
+JF  - … Conference on ICT …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11389502/
+PY  - 2025///
+AB  - … Clean Architecture Model Figure 1 shows the architecture of a Clean Architecturebased application, which consists of a Presentation Layer, Domain Layer, and Data Layer. The Data …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - HTML
+AU  - Alccahuamani, LA Pfuño
+AU  - Bautista, A Meza
+AU  - Rojas, H
+TI  - Hybrid web architecture with AI and mobile notifications to optimize incident management in the public sector
+JF  - Computers
+PB  - mdpi.com
+UR  - https://www.mdpi.com/2073-431X/15/1/47
+UR  - https://www.mdpi.com/2073-431X/15/1/47
+PY  - 2026///
+AB  - … In summary, the system’s MVC architecture—structured into well-defined layers and supported by a relational model in MariaDB—integrates role-specific workflows and hybrid …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 6 cites: https://scholar.google.com/scholar?cites=2244885596187509740&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2026): 6
+ER  - 
+
+TY  - BOOK
+AU  - Alifiansyah, RY
+TI  - Metode Penerapan Clean Architecture Dengan Kotlin Multiplatform Mobile Pada Aplikasi Bukalapak
+PB  - elib.unikom.ac.id
+UR  - https://elib.unikom.ac.id/id/eprint/6362/
+UR  - https://elib.unikom.ac.id/id/eprint/6362/8/12.UNIKOM_RADHIKA%20YUSUF%20ALIFIANSYAH_BAB%202.pdf
+PY  - 2022///
+AB  - … Clean Architecture Proses reengineering dalam penelitian ini menggunakan Clean Architecture, dimana hal ini bertujuan agar membagi kode program menjadi beberapa layer …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=8671069520809520829&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2022): 1
+ER  - 
+
+TY  - HTML
+AU  - Rivas, LY Contreras
+AU  - Domínguez, E López
+AU  - ...
+TI  - A Layered Software Architecture for the Development of Smart Mobile Distributed Systems Oriented to the Management of Emergency Cases
+JF  - Applied Sciences
+PB  - mdpi.com
+UR  - https://www.mdpi.com/2076-3417/15/7/3664
+UR  - https://www.mdpi.com/2076-3417/15/7/3664
+PY  - 2025///
+AB  - … The proposed software architecture is based on tiers, layers, and architectural patterns such as MVC and MVVM to meet the requirements REQ33, REQ34, REQ35, REQ36, REQ37, and …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 5 cites: https://scholar.google.com/scholar?cites=11086674762011767891&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 5
+ER  - 
+
+TY  - BOOK
+AU  - Alccahuamani, LAP
+AU  - Bautista, AM
+AU  - Rojas, H
+TI  - Hybrid Web Architecture with AI and Mobile Notifications to Optimize Incident Management in the Public Sector
+PB  - preprints.org
+UR  - https://www.preprints.org/manuscript/202512.1056
+UR  - https://www.preprints.org/frontend/manuscript/1fbc894fd1533213bbb7170552a6900d/download_pub
+PY  - 2025///
+AB  - … In summary, the system’s MVC architecture—structured into well-defined layers and supported by a relational model in MariaDB—integrates role-specific workflows and hybrid …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=12992609671694939318&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 2
+ER  - 
+
+TY  - JOUR
+AU  - Qasim, MM
+AU  - Ahmad, M
+AU  - Omar, M
+TI  - Conceptual Persuasive Mobile Healthcare Architecture for Monitoring Children's Obesity Status Among Parents
+JF  - Advanced Science Letters
+PB  - ingentaconnect.com
+UR  - https://www.ingentaconnect.com/contentone/asp/asl/2016/00000022/F0020005/art00045
+UR  - https://www.academia.edu/download/58255199/2016-Conceptual_Persuasive_Mobile_Healthcare_Architecture_for_Monitoring_Childrens_Obesity_Status_among_Parents.pdf
+PY  - 2016///
+AB  - … software architecture in mobile healthcare to be … MVC design pattern is implicitly an integral in the android software development kit (SDK). Consequently, this study proposes an MVC …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=2182963094393298040&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 2
+ER  - 
+
+TY  - BOOK
+AU  - Shah, RJ
+TI  - NutriAI: A Partitioned Edge-Cloud AI Architecture for Privacy-Preserving and Personalized Mobile Health Management
+PB  - techrxiv.org
+DO  - 10.36227/techrxiv.176827180.05580888
+UR  - https://www.techrxiv.org/doi/abs/10.36227/techrxiv.176827180.05580888
+UR  - https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176827180.05580888
+PY  - 2026///
+AB  - … and validate the Minimum Viable Product (MVP). The technical implementation was guided by the MVVM (ModelView-ViewModel) design pattern to ensure modularity and scalability. …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Male, G
+AU  - Shaghouei, E
+AU  - Pattinson, C
+TI  - Towards the development of a Culture Aware Reference Architecture for mobile technology: A tools and methodology perspective
+JF  - 2017 IEEE AFRICON
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/8095613/
+PY  - 2017///
+AB  - … of the proposed architecture drew from the Model View Controller (MVC) pattern … architecture. This pattern provides support for different implementations of the Model component of MVC …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=5313109049878298759&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 1
+ER  - 
+
+TY  - HTML
+AU  - Munro, D
+AU  - Calitz, AP
+AU  - Vogts, D
+TI  - Architecture and architectural patterns for mobile augmented reality
+JF  - South African Computer Journal
+PB  - scielo.org.za
+UR  - https://www.scielo.org.za/scielo.php?pid=S2313-78352021000100005&script=sci_arttext
+UR  - https://www.scielo.org.za/scielo.php?pid=S2313-78352021000100005&script=sci_arttext
+PY  - 2021///
+AB  - … For example, the rendering/interaction module may choose to use a MVC related architecture, with the MVC components interacting with task nodes to obtain or update the system state. …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 3 cites: https://scholar.google.com/scholar?cites=3491388984280933272&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 3
+ER  - 
+
+TY  - PDF
+AU  - Ridwan, M
+TI  - MOBILE DATA WAREHOUSE ARCHITECTURE FOR PORTABLE PADDY MANAGEMENT SYSTEM
+JF  - academia.edu
+UR  - https://www.academia.edu/download/116369136/PID73.pdf
+UR  - https://www.academia.edu/download/116369136/PID73.pdf
+AB  - … DW Application for PMS, the Microsoft .NET Framework is used as the server architecture of … ASP.NET MVC tools that support the development of mobile web application and mobile …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - PDF
+AU  - Fernandes, JCL
+AU  - Okano, MT
+AU  - Lopes, WAC
+AU  - ...
+TI  - An architecture to identify aromatic herbs using augmented reality (AR) and mobile application
+JF  - … on Environment and …
+PB  - repositorio.unip.br
+UR  - https://repositorio.unip.br/wp-content/uploads/tainacan-items/79358/170131/2023_PB_AP_An-Architecture-to-Identify-Aromatic-Herbs-using-Augmented-Reality-AR-and-Mobile-Application.pdf
+UR  - https://repositorio.unip.br/wp-content/uploads/tainacan-items/79358/170131/2023_PB_AP_An-Architecture-to-Identify-Aromatic-Herbs-using-Augmented-Reality-AR-and-Mobile-Application.pdf
+PY  - 2023///
+AB  - … by the company Google intended for the system Android mobile operating system, that is, a … MVP. This solution can evolve depending on the new control needs of CEAGESP products. …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 6 cites: https://scholar.google.com/scholar?cites=7872508795263123384&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 6
+ER  - 
+
+TY  - BOOK
+AU  - PUTRA, AND
+TI  - Implementasi Clean Architecture pada Aplikasi Mobile Mitra Antria dengan Flutter-Dalam bentuk buku karya ilmiah
+PB  - openlibrary.telkomuniversity.ac.id
+UR  - https://openlibrary.telkomuniversity.ac.id/home/catalog/id/216266/slug/implementasi-clean-architecture-pada-aplikasi-mobile-mitra-antria-dengan-flutter-dalam-bentuk-buku-karya-ilmiah.html
+PY  - 2024///
+AB  - … mobile mitra antria akan dikembangkan menggunakan framework Flutter dan menerapkan clean architecture … menunjukkan bahwa implementasi Clean Architecture dengan bantuan …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Al-Zaidi, MS
+AU  - Joy, M
+AU  - Sinclair, J
+TI  - Micro notes application for education: a proposed mobile micro note-taking architecture
+JF  - Proceedings 13th European …
+PB  - wrap.warwick.ac.uk
+UR  - https://wrap.warwick.ac.uk/id/eprint/72076/
+UR  - https://wrap.warwick.ac.uk/id/eprint/72076/1/WRAP_alzaidi_joy_sinclair_ecel_2014_postprint.pdf
+PY  - 2014///
+AB  - … architecture that provides undergraduate students with a new innovative note-taking tool. The architecture … The proposed architecture was built based on a MVC three tier model that is …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=3744595667810103518&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 1
+ER  - 
+
+TY  - BOOK
+AU  - HANIF, AS
+TI  - Implementasi Clean Architecture pada Aplikasi Pelanggan Antria Berbasis Mobile Menggunakan Flutter-Dalam bentuk buku karya ilmiah
+PB  - openlibrary.telkomuniversity.ac.id
+UR  - https://openlibrary.telkomuniversity.ac.id/home/catalog/id/216277/slug/implementasi-clean-architecture-pada-aplikasi-pelanggan-antria-berbasis-mobile-menggunakan-flutter-dalam-bentuk-buku-karya-ilmiah.html
+PY  - 2024///
+AB  - … Flutter dengan mengimplementasikan clean Architecture. Pada Clean architecture akan … , yang menunjukkan bahwa implementasi clean architecture berhasil menjaga kualitas kode…
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Levchenko, G
+TI  - QUALITY OF MOBILE APPS AND THEIR ARCHITECTURE
+JF  - Достижения и перспективы инноваций и технологий
+PY  - 2020///
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - BOOK
+AU  - ANBESSA, A
+TI  - HYBRID MOBILE LEARNING ARCHITECTURE FOR HIGHER EDUCATION
+PB  - repository.smuc.edu.et
+UR  - http://repository.smuc.edu.et/handle/123456789/3137
+UR  - http://repository.smuc.edu.et/bitstream/123456789/3137/2/Thesis%20revised%20final%20draftppf.pdf
+PY  - 2017///
+AB  - … In android studio, MVC is the inherent structure for every app project file. This way of … The prototype design of the mobile app in this study followed the MVC project file structure as in …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Rajasekaran, N
+AU  - Jagatheesan, SM
+AU  - Krithika, S
+AU  - ...
+TI  - Development and Testing of Incorporated ASM with MVP Architecture Model for Android Mobile App Development.
+JF  - FMDB Transactions on …
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 28 cites: https://scholar.google.com/scholar?cites=5960021011728302429&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 28
+ER  - 
+
+TY  - BOOK
+AU  - Zinkevich, R
+TI  - Design and development of the backend web architecture for knowledge marketplace mobile app
+PB  - theseus.fi
+UR  - https://www.theseus.fi/handle/10024/912711
+UR  - https://www.theseus.fi/bitstream/handle/10024/912711/Zinkevich_Roman.pdf?sequence=2
+PY  - 2026///
+AB  - … (non-functional requirements), the architecture I chose for the project, and key components of the app. The goal for this project was to create a working MVP (Minimum Viable Product). …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Macedo, AA
+AU  - Gonçalves, VS
+AU  - Mandrá, PP
+AU  - Motti, V
+AU  - ...
+TI  - A mobile application and system architecture for online speech training in Portuguese: design, development, and evaluation of SofiaFala
+JF  - Multimedia Tools and …
+PB  - Springer
+DO  - 10.1007/s11042-024-19980-5
+UR  - https://link.springer.com/article/10.1007/s11042-024-19980-5
+PY  - 2025///
+AB  - … Concerning the software architecture in Fig. 2, SofiaFala explores the Model-ViewPresenter (MVP) design pattern, which organizes the information exchanged between the data layer …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 5 cites: https://scholar.google.com/scholar?cites=6712158431814206598&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 5
+ER  - 
+
+TY  - JOUR
+AU  - Riabchun, Y
+AU  - Stuzhuk, I
+AU  - Sachenko, I
+AU  - ...
+TI  - Adaptive Cross-Platform Architecture for Carpooling Information Systems in Mobile and Desktop Environments
+JF  - 2026 IEEE 6th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11596129/
+PY  - 2026///
+AB  - … This paper investigates whether this architecture is sufficient for … React Native provides a bridge-based architecture that … feasibility of the proposed architecture for MVP deployment. …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - HTML
+AU  - Bakkali, S
+TI  - RuralEdgeHealth: A sustainable offline mobile edge AI reference architecture for intelligent IoT sensor classification in resource-constrained environments
+JF  - Array
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/S2590005626002353
+UR  - https://www.sciencedirect.com/science/article/pii/S2590005626002353
+PY  - 2026///
+AB  - … The RuralEdgeHealth Android application follows the MVVM pattern and Android Architecture Components to ensure clear separation of concerns, robust state management, and …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Neto, OJM
+AU  - Peracini, APP
+AU  - Cunha, BCR da
+AU  - ...
+TI  - An architecture for creating mobile assistive products: a case study on posture monitoring of people with motor disability
+JF  - 2nd IET International …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7801339/
+PY  - 2016///
+AB  - … The client module that represents the mobile application follows the Model-View-Controller (MVC) design pattern, which separates the definition of the data to be stored from the …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 5 cites: https://scholar.google.com/scholar?cites=2919701826660098973&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 5
+ER  - 
+
+TY  - BOOK
+AU  - LA, PA
+AU  - Rojas, H
+TI  - Hybrid Web Architecture with AI and Mobile Notifications to Optimize Incident Management in the Public Sector
+PB  - europepmc.org
+UR  - https://europepmc.org/article/ppr/ppr1134060
+PY  - 2025///
+AB  - … web architecture integrating AI-assisted interaction and mobile notifications can significantly improve efficiency in this context. The system was designed using a Laravel 10 MVC … mobile …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Triboan, D
+AU  - Chen, L
+AU  - Chen, F
+TI  - Towards a mobile assistive system using service-oriented architecture
+JF  - 2016 IEEE Symposium on Service …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7473025/
+PY  - 2016///
+AB  - … This study proposes a new system architecture that brings together the service-oriented … service and MVC for the Android application. Furthermore, the proposed system architecture has …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 12 cites: https://scholar.google.com/scholar?cites=17654373023647064936&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 12
+ER  - 
+
+TY  - PDF
+AU  - Титарев, ДВ
+AU  - Новиков, АА
+TI  - … МОБИЛЬНОГО ПРИЛОЖЕНИЯ НА ПЛАТФОРМЕ IOS ДЛЯ КОНТРОЛЯ СОСТОЯНИЯ ЗДОРОВЬЯ ARCHITECTURE OF A MOBILE APPLICATION ON THE …
+JF  - ВЕКТОР НАУЧНОЙ МЫСЛИ
+PB  - vektornm.ru
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+UR  - https://vektornm.ru/files/1010_Oktyabr_2021.pdf#page=44
+PY  - 2021///
+AB  - … MVC, MVP и VIPER, приведены их описания, достоинства и недостатки. … a mobile application on the iOS platform for health monitoring. As part of the work, the MVC, MVP and VIPER …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Triboan, D
+AU  - Chen, L
+AU  - Chen, F
+AU  - ...
+TI  - Towards a service-oriented architecture for a mobile assistive system with real-time environmental sensing
+JF  - Tsinghua Science and …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7787002/
+UR  - https://ieeexplore.ieee.org/iel7/5971803/7786999/07787002.pdf
+PY  - 2016///
+AB  - … , this generic architecture uses simple design patterns (facade, repository, and domain for the web service and MVC for the Android application). The proposed system architecture also …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 21 cites: https://scholar.google.com/scholar?cites=9738409511033174559&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 21
+ER  - 
+
+TY  - JOUR
+AU  - Simorangkir, RY
+TI  - Pengembangan Aplikasi Mobile dengan Pendekatan Clean Architecture serta Menerapkan Konsep Offline-First untuk Mendukung Pembelajaran Digital [UIR]
+JF  - Pra Proposal
+PB  - citilabs.telkomuniversity.ac.id
+UR  - https://citilabs.telkomuniversity.ac.id/journals/index.php/prapro/article/view/514
+PY  - 2025///
+AB  - … mobile pembelajaran digital berbasis Flutter dengan dua pendekatan utama: Clean Architecture … Sedangkan, clean architecture akan memisahkan tiga lapisan sistem yaitu presentation…
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Rojas, IKV
+AU  - Meireles, S
+AU  - Dias-Neto, AC
+TI  - Cloud-based mobile app testing framework: Architecture, implementation and execution
+JF  - … of the 1st Brazilian Symposium on …
+PB  - dl.acm.org
+DO  - 10.1145/2993288.2993301
+UR  - https://dl.acm.org/doi/abs/10.1145/2993288.2993301
+UR  - https://dl.acm.org/doi/pdf/10.1145/2993288.2993301
+PY  - 2016///
+AB  - … a range of mobile devices and platforms. We also describe the architecture and implementation of … web interfaces based on the MVC (Model View Control), PHP was the language used. …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 21 cites: https://scholar.google.com/scholar?cites=7055595277176531659&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2016): 21
+ER  - 
+
+TY  - JOUR
+AU  - Yıldırım, E
+AU  - Gul, E
+TI  - Generative AI Based Client Server Architecture for Mobile Computing
+JF  - 2025 International Conference on Computer …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11137273/
+PY  - 2025///
+AB  - … The concept of a client-server architecture originated from the use of personal computers (… web or mobile development using client-server architecture, the Model-View-Controller (MVC) …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=10757760508594080175&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2025): 1
+ER  - 
+
+TY  - CITATION
+AU  - Kisić, F
+TI  - Mobile app clean architecture in practice
+PB  - Medium
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=15221200995527347198&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 2
+ER  - 
+
+TY  - JOUR
+AU  - Nacheva, RV
+TI  - Architecture of web-based system for usability evaluation of mobile applications
+JF  - Izvestiya. Journal of Varna University of Economics
+PB  - ceeol.com
+UR  - https://www.ceeol.com/search/article-detail?id=543261
+UR  - http://journal.ue-varna.bg/uploads/20170629055806_1715537924595496ee36e7e.pdf#page=89
+PY  - 2017///
+AB  - … to propose an architecture of a system for usability evaluation of mobile applications, which … Model-ViewController (MVC). The view in the MVC architecture of this type of application …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 6 cites: https://scholar.google.com/scholar?cites=2626141436858139557&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 6
+ER  - 
+
+TY  - JOUR
+AU  - Mulatu, A
+AU  - Anbessa, A
+AU  - Misra, S
+AU  - Adewumi, A
+AU  - ...
+TI  - Hybrid mobile learning architecture for higher education
+JF  - Towards Extensible and …
+PB  - Springer
+DO  - 10.1007/978-981-13-2348-5_28
+UR  - https://link.springer.com/chapter/10.1007/978-981-13-2348-5_28
+UR  - https://www.researchgate.net/profile/Asrat-Beyene/publication/342491855_01_-_Hybrid_Mobile_Learning_-_Book_Chapter_2_-_Me_and_Addisu/links/5ef6e3bda6fdcc4ca433a512/01-Hybrid-Mobile-Learning-Book-Chapter-2-Me-and-Addisu.pdf#page=377
+PY  - 2018///
+AB  - … In this study, hybridized architecture is proposed for higher education exploiting mobile learning scenario. This architecture is used to combine the strength of both the native and Web …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 4 cites: https://scholar.google.com/scholar?cites=162952477421438401&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 4
+ER  - 
+
+TY  - HTML
+AU  - Liu, W
+AU  - Li, J
+AU  - Cho, YB
+TI  - A novel architecture for parallel multi-view HEVC decoder on mobile device
+JF  - EURASIP Journal on Image and Video Processing
+PB  - Springer
+DO  - 10.1186/s13640-017-0174-5
+UR  - https://link.springer.com/article/10.1186/s13640-017-0174-5
+UR  - https://link.springer.com/article/10.1186/s13640-017-0174-5
+PY  - 2017///
+AB  - … mobile platforms. In this paper, we propose a novel architecture for a real-time decoder in mobile … The MVC has two types of inter-view prediction approaches [16, 17]. The first inter-view …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 9 cites: https://scholar.google.com/scholar?cites=13065064659123214593&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 9
+ER  - 
+
+TY  - JOUR
+AU  - Yu, D
+TI  - Design and Implementation of Mobile Intelligent Education System Based on Cloud Architecture
+JF  - International Conference on E-Learning, E-Education …
+PB  - Springer
+DO  - 10.1007/978-3-031-21161-4_14
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-21161-4_14
+PY  - 2022///
+AB  - … Mobile intelligent education refers to an educational model in which learners use mobile devices and mobile … business scalability have appeared, such as MVC, MVP, etc. At the same …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Svensson, T
+TI  - Cloud based platform for real time Gait analysis: System component: Mobile architecture
+PY  - 2017///
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - BOOK
+AU  - Vennaro, E
+TI  - iOS Development at Scale: App Architecture and Design Patterns for Mobile Engineers
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=wzycEQAAQBAJ&oi=fnd&pg=PR5&dq=architecture+mobile+mvc%7Cmvvm%7Cmvp%7Cviper%7C%22clean+architecture%22&ots=6JO2qBdFjU&sig=csMIPgDmiDe8NXpAttkZBITapqA
+PY  - 2023///
+AB  - Scale mobile applications to handle an enormous user base and development team. This book outlines the scaling challenges that mobile engineers face and some standard …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 3 cites: https://scholar.google.com/scholar?cites=10930750649397831523&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 3
+ER  - 
+
+TY  - HTML
+AU  - Chondamrongkul, N
+TI  - Secure mobile cloud architecture for healthcare application
+JF  - International Journal of Future Computer and …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/81278236/493-F062.pdf
+UR  - https://www.academia.edu/download/81278236/493-F062.pdf
+PY  - 2017///
+AB  - … popular hybrid mobile application development frameworks We propose an architecture that … to Spring MVC framework, because the framework has secure their own personal data. The …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 7 cites: https://scholar.google.com/scholar?cites=18091623577156074420&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2017): 7
+ER  - 
+
+TY  - BOOK
+AU  - Meng, Z
+TI  - Investigation of a hierarchical context-aware architecture for rule-based customisation of mobile computing service
+PB  - eprints.hud.ac.uk
+UR  - https://eprints.hud.ac.uk/id/eprint/23419/
+UR  - https://eprints.hud.ac.uk/id/eprint/23419/1/zmengfinalthesis.pdf
+PY  - 2015///
+AB  - … architecture support and appropriate service customisation strategy. This investigation aims to provide general system architecture and … context-aware computing architecture supporting …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=17804123412360247080&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2015): 1
+ER  - 
+
+TY  - JOUR
+AU  - Ma, SP
+AU  - Li, CC
+AU  - Fan, CY
+AU  - Lee, WT
+AU  - ...
+TI  - MASA: A Cross-Platform Component Architecture for Building Mobile Applications with Service Caching
+JF  - 2016 IEEE 13th …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/7809933/
+PY  - 2016///
+AB  - … , we propose a component architecture, called MASA (mobile application slice architecture), … called MAS (mobile application slice), to allow the generation of mobile apps by composing …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Luo, J
+AU  - Peng, M
+TI  - Ideological and political mobile learning system of computer professional courses based on J2EE architecture
+JF  - 2021 4th International Conference on Information …
+PB  - dl.acm.org
+DO  - 10.1145/3482632.3482665
+UR  - https://dl.acm.org/doi/abs/10.1145/3482632.3482665
+UR  - https://dl.acm.org/doi/pdf/10.1145/3482632.3482665
+PY  - 2021///
+AB  - … , a mobile learning system of Ideological and political learning for computer specialty courses based on J2EE architecture is … Thus, J2EE architecture can enhance the stability of mobile …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 2 cites: https://scholar.google.com/scholar?cites=1607221585960848386&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 2
+ER  - 
+
+TY  - JOUR
+AU  - Nepomuceno, AR
+AU  - Domínguez, EL
+AU  - Isidro, SD
+AU  - ...
+TI  - SADAMLS: Software Architecture for the Development of Adaptive Mobile Learning Systems
+JF  - New Challenges in …
+PB  - Springer
+DO  - 10.1007/978-3-031-90310-6_31
+UR  - https://link.springer.com/chapter/10.1007/978-3-031-90310-6_31
+PY  - 2025///
+AB  - … The mobile app is based on the architectural pattern Model View ViewModel (MVVM) and device resources are not used for storage to meet the requirements REQ14, REQ15, REQ16 …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Muhsin, ZJ
+AU  - Al‐Taee, A
+TI  - Mobile workflow management system architecture taking into account relevant security requirements
+JF  - Commun Signal Process: Extended Pap
+PB  - books.google.com
+UR  - https://books.google.com/books?hl=en&lr=&id=6IxuDwAAQBAJ&oi=fnd&pg=PA217&dq=architecture+mobile+mvc%7Cmvvm%7Cmvp%7Cviper%7C%22clean+architecture%22&ots=02WoEd1QXR&sig=1phLuyZnezWFcSePdmleYYOaK3Q
+PY  - 2018///
+AB  - … 3 System architecture Architecture of the proposed MWfMS comprises a physical-objects (… is based on the Model-View-Control (MVC) pattern. This pattern improves system security …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=13937368565812013325&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2018): 1
+ER  - 
+
+TY  - BOOK
+AU  - Musiol, S
+TI  - A Process Engine Independent Architecture Enabling Robust Execution of Mobile Tasks in Business Processes
+PB  - dbis.eprints.uni-ulm.de
+UR  - http://dbis.eprints.uni-ulm.de/id/eprint/1042/
+UR  - http://dbis.eprints.uni-ulm.de/id/eprint/1042/1/thesisMusiol2014k.pdf
+PY  - 2014///
+AB  - … A three layer architecture that introducing an intermediate service layer for the mobile task … Based on the mobile task life cycle, an architecture handling mobile task execution will be …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=14704205036286362283&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2014): 1
+ER  - 
+
+TY  - JOUR
+AU  - Rajarajeswari, P
+AU  - Sreevani, M
+AU  - ...
+TI  - Secure Cloud Risk Architecture analysis for Mobile Banking system and its performance analysis based on Machine learning approaches
+JF  - Journal of Physics …
+PB  - iopscience.iop.org
+DO  - 10.1088/1742-6596/2089/1/012007
+UR  - https://iopscience.iop.org/article/10.1088/1742-6596/2089/1/012007/meta
+UR  - https://iopscience.iop.org/article/10.1088/1742-6596/2089/1/012007/pdf
+PY  - 2021///
+AB  - … , mobile phones can complement the reach. This paper describes how mobile cloud architecture … This paper focuses on cloud-based risk architecture for banking solutions to address …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 10 cites: https://scholar.google.com/scholar?cites=8325321338394568526&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2021): 10
+ER  - 
+
+TY  - BOOK
+AU  - Pathak, M
+TI  - Study of impact and flexibilities provided by sharing code logic in code architecture layers written using KMM for android &iOS mobile applications.
+PB  - theses.cz
+UR  - https://theses.cz/id/tooir1/
+UR  - https://theses.cz/id/tooir1/zaverecna_prace_Archive.pdf
+PY  - 2022///
+AB  - … (KMM) is considered to be most native for developing mobile … of MVVM architecture to be shared across both platforms. … code at possible layers of MVVM architecture for android &iOS …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - PDF
+AU  - Miller, JD
+AU  - Chung, S
+AU  - Escrig, T
+AU  - Bai, Y
+AU  - ...
+TI  - Accuracy, Security, and Architecture Impacts and Challenges of Mobile and Web Technologies: Geolocation Field Data Collection in Washington State Water …
+JF  - International Journal of …
+PB  - academia.edu
+UR  - https://www.academia.edu/download/87374457/pxc3895267.pdf
+UR  - https://www.academia.edu/download/87374457/pxc3895267.pdf
+PY  - 2014///
+AB  - … native mobile app approach. In addition, by documenting the architecture of the mobile web … HTML5 affects the architecture and present best practices for building a mobile web app that …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Carlsson, H
+AU  - Marcus, K
+TI  - Cloud-based Mobile System for Free-Living Gait Analysis: System component: Server architecture
+PY  - 2017///
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Laksono, WP
+AU  - Satria, B
+AU  - Wicaksana, T
+AU  - Wijasena, AY
+AU  - ...
+TI  - Implementasi Clean Architecture Dalam Membangun Aplikasi Mobile Menggunakan Flutter
+JF  - Nusantara Journal of …
+PY  - 2024///
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 8 cites: https://scholar.google.com/scholar?cites=1380561862741634429&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2024): 8
+ER  - 
+
+TY  - HTML
+AU  - Nuñez, I
+AU  - Rovetto, C
+AU  - Cruz, E
+AU  - Concepcion, D
+AU  - ...
+TI  - A Mobile Architecture to Manage Residential Electricity Consumption Using IoT-Based Smart Plugs and Machine Learning Algorithms
+JF  - Computación y …
+PB  - scielo.org.mx
+UR  - https://www.scielo.org.mx/scielo.php?pid=S1405-55462025000200731&script=sci_arttext
+UR  - https://www.scielo.org.mx/scielo.php?pid=S1405-55462025000200731&script=sci_arttext
+PY  - 2025///
+AB  - … The developed application represents a highfidelity prototype designed natively for Android devices, using the Model-View-ViewModel (MVVM) architecture to ensure an organized and …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Puram, S
+TI  - Reliable and Scalable Mobile Technology Architecture: A Formal Model, Synchronization Protocol, and Reference Design
+JF  - The USA Journals TAJET
+PB  - usajournal.net
+UR  - https://usajournal.net/index.php/tujtajet/article/view/1844
+UR  - https://usajournal.net/index.php/tujtajet/article/download/1844/1828
+PY  - 2021///
+AB  - … We model the mobile client as a first-class replica with its own durable state, and we … architecture is built local-first. The contributions are: (1) a formal system and failure model for mobile …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - ZHANG, S
+AU  - YANG, J
+AU  - SUN, Y
+AU  - YIN, N
+AU  - LI, T
+AU  - WU, H
+AU  - ...
+TI  - The key technology and Overall Architecture of Chinese Medicine Tongue Image Diagnostic System for Mobile Terminal
+JF  - … of Traditional Chinese …
+PB  - sciengine.com
+DO  - 10.11842/wst.20230622005
+UR  - https://www.sciengine.com/doi/10.11842/wst.20230622005
+UR  - https://www.sciengine.com/doi/pdf/21EDD896078F40A0A94A4DFA7CE3E1FC
+AB  - … From the mobile terminal tongue as auxiliary diagnostic system of traditional Chinese … key technology is analyzed, and build overall architecture, so as to provide technical reference for …
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 1 cites: https://scholar.google.com/scholar?cites=12902106799504590320&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 0000): 1
+ER  - 
+
+TY  - JOUR
+AU  - Sailema, P
+AU  - Defaz, V
+AU  - Chávez, K
+AU  - ...
+TI  - Hexagonal Architecture and Machine Learning for Cocoa Disease Management in a Mobile App
+JF  - 2025 IEEE Technology …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11238768/
+PY  - 2025///
+AB  - … hybrid mobile application with hexagonal architecture and … architecture with optimized machine learning models significantly improves the accuracy, scalability, and usability of a mobile …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - BOOK
+AU  - Rosa, JPD da
+TI  - Livestock Identification and Traceability System–A Case Study Mobile Implementation Based on A Generic Architecture for Livestock Management
+PB  - search.proquest.com
+UR  - https://search.proquest.com/openview/09a12c6ad966d11c1895fe06d0b2b6a7/1?pq-origsite=gscholar&cbl=2026366&diss=y
+PY  - 2020///
+AB  - … This application follows Model-View-ViewModel (MVVM), a software architecture pattern recommended by Android. One of MVVM’s benefits is the separation of the development of the …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - JOUR
+AU  - Silva, J
+AU  - Campos-Rebelo, R
+AU  - Datia, N
+AU  - ...
+TI  - A Unified Communication Architecture for Smart Locker Networks and Mobile Access
+JF  - … Engineers Forum on …
+PB  - ieeexplore.ieee.org
+UR  - https://ieeexplore.ieee.org/abstract/document/11117521/
+PY  - 2025///
+AB  - … that is robust and can support the different architecture approaches presented in this paper. … , which is the most cost-effective architecture approach. For future work, the implementation …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - CITATION
+AU  - Sinatria, MB
+AU  - Komarudin, O
+AU  - Prihamdani, K
+TI  - Penerapan Clean Architecture Dalam Membangun Aplikasi Berbasis Mobile Dengan Framework Google Flutter. INFOTECH Journal, 9 (1), 132â€“146
+PY  - 2023///
+M1  - Query date: 2026-09-24 01:14:30
+M1  - 3 cites: https://scholar.google.com/scholar?cites=6504182827076753605&as_sdt=2005&sciodt=0,5&hl=en
+N1  - Cited By (since 2023): 3
+ER  - 
+
+TY  - BOOK
+AU  - ASRIFAH, MA
+TI  - … Aplikasi Mobile JKN= Development and Utilization of GAN (Generative Adversarial Network) Architecture in the Analysis of User Satisfaction with the Mobile JKN …
+PB  - repository.unhas.ac.id
+UR  - https://repository.unhas.ac.id/id/eprint/54446/
+UR  - https://repository.unhas.ac.id/id/eprint/54446/2/H071221068-1-2(FILEminimizer).pdf
+PY  - 2026///
+AB  - … MVVM meningkatkan pemeliharan kode menjadi lebih mudah dan lebih tertata sehingga dapat melakukan optimisasi kode secara tidak langsung. Kombinasi SwiftUI dengan MVVM …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
+TY  - PDF
+AU  - Navarro, N
+AU  - Cedeno-Moreno, D
+TI  - … y liderazgo mediante tecnología móvil para personas mayores Architecture of an emotional support and leadership system using mobile technology for the …
+JF  - portal.amelica.org
+UR  - https://portal.amelica.org/ameli/journal/339/3394675004/3394675004.pdf
+UR  - https://portal.amelica.org/ameli/journal/339/3394675004/3394675004.pdf
+AB  - … RE León, MIG Valero, JTM Viteri, JAC Mayorga, and IIC Mayorga, “Patrón MVC, un componente para la implementación de una estrategia informática para mejorar gestión de datos en …
+M1  - Query date: 2026-09-24 01:14:30
+ER  - 
+
