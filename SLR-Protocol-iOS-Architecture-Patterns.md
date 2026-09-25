@@ -330,7 +330,9 @@ GS «обрізає» видачу на 1000. Щоб не втратити за�
 
 - `N_GS` = Σ N_found (G01…G23) = **2646**
 - `N_Scopus` = ΣQ1..Q3 = **363**
-- `N_identified` = `N_Scopus` + `N_GS` = 4009
+- `N_identified` = `N_Scopus` + `N_GS` = 3009
+- `N_before_dedup` = кількість записів у `03_All_Deduplicated` = **3009** (= `N_identified`)
+- `N_after_dedup` = кількість записів у `03_All_Deduplicated` після злиття дублікатів = **2150** (вилучено 859)
 
 ---
 
